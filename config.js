@@ -1,6 +1,6 @@
 const config = {
   gatsby: {
-    pathPrefix: '/shiren-ds1',
+    pathPrefix: '/shiren-6',
     siteUrl: 'https://sharksnack.github.io',
     gaTrackingId: null,
     trailingSlash: false,
@@ -8,8 +8,8 @@ const config = {
   header: {
     logo: '',
     logoLink: '',
-    title: 'Shiren DS1 Wiki',
-    githubUrl: 'https://github.com/SharkSnack/shiren-ds1',
+    title: 'Shiren 6 Wiki',
+    githubUrl: 'https://github.com/SharkSnack/shiren-6',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -50,11 +50,11 @@ const config = {
     ignoreIndex: false
   },
   siteMetadata: {
-    title: 'Shiren DS1 Wiki | SharkSnack',
+    title: 'Shiren 6 Wiki | SharkSnack',
     description: 'Documentation built with mdx.',
     ogImage: null,
-    docsLocation: 'https://github.com/sharksnack/shiren-ds1/tree/main/content',
-    favicon: 'https://raw.githubusercontent.com/SharkSnack/shiren-ds1/main/src/components/images/favicon-32x32.png',
+    docsLocation: 'https://github.com/sharksnack/shiren-6/tree/master/content',
+    favicon: 'https://raw.githubusercontent.com/SharkSnack/shiren-6/master/src/components/images/favicon-32x32.png',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.

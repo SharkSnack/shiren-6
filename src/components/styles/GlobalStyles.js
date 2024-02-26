@@ -258,7 +258,7 @@ export const baseStyles = css`
   }
   .navBarDefault {
     /* background-color: #001934; */
-    background-color: #7791B9;
+    background-color: #e69136;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -452,7 +452,7 @@ export const baseStyles = css`
   }
 
   .hideFrontLine .active > a {
-    background-color: #7791B9;
+    background-color: #f2a22e;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
@@ -587,12 +587,12 @@ export const baseStyles = css`
   }
 
   table tr th {
-    font-weight: bold;
     border: 1px solid #919191;
     text-align: left;
     margin: 0;
     padding: 3px 8px;
-    background-color: #e5f0ff;
+    background-color: #fff6e5;
+    font-weight: normal;
   }
 
   table tr td {
@@ -622,12 +622,21 @@ export const baseStyles = css`
   }
   /* Price Table (Staves, Pots pages)*/
   .priceTable th {
+    font-weight: normal;
     text-align: center;
-    padding: 2px;
+    background-color: #f3deff;
   }
   .priceTable td {
     text-align: center;
-    padding: 3px;
+  }
+  .priceTable td:nth-of-type(1) {
+    text-align: left;
+    background-color: #f7f7f7;
+  }
+  .priceTable img {
+    position: relative !important;
+    height: 20px !important;
+    width: 20px !important;
   }
   /* Price Table Small (Price Chart page)*/
   .priceTableSmall th {
@@ -676,6 +685,11 @@ export const baseStyles = css`
     background-color: #ececec;
   }
   .tableDivider2 {
+    font-weight: normal;
+    background-color: #ececec;
+    padding: 4px;
+  }
+  .tableDivider2 {
     background-color: #bcddff;
     padding-top: 2px !important;
   }
@@ -698,7 +712,6 @@ export const baseStyles = css`
     background-color: #d4e2ff;
   }
   .monsterTable td {
-    text-align: center;
     padding-left: 2.5px;
     padding-right: 2.5px;
     padding-top: 3.5px;
@@ -709,6 +722,7 @@ export const baseStyles = css`
     position: relative !important;
     max-height: 20px;
     max-width: 20px;
+    border-radius: 5px;
   }
   .monsterTableSmall th {
     padding: 2px;
@@ -752,13 +766,130 @@ export const baseStyles = css`
     text-align: center;
     padding: 4px;
   }
-  .monsterPageTable th {
-    font-weight: normal;
-    text-align: center;
-    padding: 2px;
+  .runeTable img {
+    position: relative !important;
+    width: 20px !important;
+    height: 20px !important;
   }
-  .monsterPageTable td {
-    padding: 3px;
+  .runeTable th {
+    color: white;
+    font-weight: bold;
+    background-color: #482b0a;
+  }
+  .runeTable td {
+    text-align: center;
+  }
+  .runeTable tr:nth-of-type(2) th {
+    color: #3b454e;
+    text-align: center;
+    background-color: #ffffed;
+  }
+  .runeTable td:nth-of-type(2) {
+    text-align: left;
+    background-color: #f7f7f7;
+  }
+  .runeTable td:nth-of-type(5) {
+    text-align: left;
+  }
+  .pageLinksTable img {
+    position: relative !important;
+    border-radius: 10px;
+    width: 40px !important;
+    height: 40px !important;
+  }
+  .pageLinksTable th {
+    color: white;
+    font-weight: bold;
+    background-color: #482b0a;
+  }
+  .pageLinksTable tr:nth-of-type(2) th {
+    color: #3b454e;
+    text-align: center;
+    background-color: #ffffed;
+  }
+  .equipmentTable img {
+    position: relative !important;
+    width: 20px !important;
+    height: 20px !important;
+  }
+  .equipmentTable th {
+    color: white;
+    font-weight: bold;
+    background-color: #482b0a;
+  }
+  .equipmentTable tr:nth-of-type(2) th {
+    color: #3b454e;
+    text-align: center;
+    background-color: #ffffed;
+  }
+  .equipmentTable td:nth-of-type(7) {
+    text-align: left !important;
+  }
+  .runeIcon img {
+    border-radius: 0px !important;
+    height: 20px !important;
+    width: 20px !important;
+  }
+  .monsterPageTable {
+    margin: 0 0 15px 0;
+  }
+  .monsterPageTable th {
+    font-weight: bold;
+    color: white;
+    background-color: #482b0a;
+  }
+  .monsterPageFlex img {
+    position: relative !important;
+    border-radius: 10px;
+  }
+  .monsterPageFlex {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 5px;
+  }
+  .monster_stats {
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 2px;
+  }
+  div.monster_table > div:first-of-type {
+    box-sizing: border-box;
+  }
+  div.monster_table > div:nth-of-type(2) {
+    width: 471px;
+  }
+  .monster_stats {
+    padding: 2px 0px 2px 0px;
+    box-sizing: border-box;
+  }
+  div.monster_stats > div:nth-of-type(2n-1) {
+    text-align: center;
+    padding: 4px 6px;
+    background: #f0f0f0;
+    border-radius: 5px;
+  }
+  div.monster_stats > div:nth-of-type(2n) {
+    text-align: center;
+    padding: 2px 4px 2px 4px;
+  }
+  div.monster_text {
+    background: #fff3de;
+    border-radius: 5px;
+    padding: 4px 8px;
+    font-size: 14px;
+    text-align: left;
+  }
+  div.monster_notes {
+    background: #f0f0f0;
+    border-radius: 5px;
+    padding: 4px 8px;
+    font-size: 14px;
+    text-align: left;
+  }
+  .stretch {
+    flex-grow: 1;
+    align-self: stretch;
   }
   .monsterLocationTable th {
     background-color: #f0f0f0;
@@ -1196,6 +1327,18 @@ export const baseStyles = css`
   .low {
     background-color: #fff;
   }
+  .good {
+    background-color: #e4eeff;
+  }
+  .bad {
+    background-color: #ffe8d3;
+  }
+  .neutral {
+    background-color: #fffceb;
+  }
+  .crossMix {
+    background-color: #e1ffe1;
+  }
   .highlightCyan {
     background-color: #f3feff !important;
   }
@@ -1300,7 +1443,7 @@ export const baseStyles = css`
     background-color: #ddc4ec !important;
   }
   .highlightOffense {
-    background-color: #fff09f !important;
+    background-color: #fff7cf !important;
   }
   .highlightDanger {
     background-color: #ffd0f4 !important;
@@ -1325,16 +1468,19 @@ export const baseStyles = css`
     color: #e33f3f;
   }
   .highlightShop {
-    background-color: #edcbff;
+    background-color: #a8ffc6;
   }
   .highlightMH {
+    background-color: #edcbff;
+  }
+  .highlightBehemoth {
     background-color: #ffb8a8;
   }
   .highlightGitan {
     background-color: #a8ffc6;
   }
   .highlightFog {
-    background-color: #dbdbdb;
+    background-color: #eee;
   }
   .highlightDerivative1 {
     background-color: paleturquoise;
@@ -1491,25 +1637,67 @@ export const baseStyles = css`
     color: #a256bd;
   }
   .farming {
-    color: #0076df;
+    background-color: #f4ffed;
   }
   .useful {
-    color: #059300;
+    background-color: #edffff;
   }
-  .item {
-    color: #8b3ed9;
+  .stats {
+    background-color: #faedff;
   }
-  .strong {
-    color: #bf911c;
+  .items {
+    background-color: #fff9e0;
   }
   .danger {
-    color: #f063a9;
+    background-color: #ffeded;
+  }
+  .special {
+    background-color: #ffeed8;
+  }
+  .ninjaTree {
+    background-color: #c5ffc5;
+  }
+  .ninjaFire {
+    background-color: #ffbebe;
+  }
+  .ninjaEarth {
+    background-color: #ffdb99;
+  }
+  .ninjaWater {
+    background-color: #d8e7ff;
+  }
+  .ninjaMetal {
+    background-color: #ffffc9;
+  }
+  .monkOkina {
+    background-color: #f5daff;
+  }
+  .monkOkame {
+    background-color: #d8e7ff;
+  }
+  .monkHannya {
+    background-color: #ffe1c6;
+  }
+  .monkTengu {
+    background-color: #d5d5d5;
+  }
+  .monkKitsune {
+    background-color: #ffbebe;
   }
   .extreme {
     color: #e32a2a;
   }
   .limitBreak {
     color: #ff46a3;
+  }
+  .priceIdentified {
+    background-color: #b0daff !important;
+  }
+  .priceWhich {
+    background-color: #fafad2 !important;
+  }
+  .priceCursed {
+    color: #be94d7;
   }
   .centeredText {
     text-align: center !important;
@@ -1579,9 +1767,16 @@ export const baseStyles = css`
     height: auto !important;
     width: 590px;
   }
+  .dungeonPageImage {
+    width: 240px !important;
+    height: auto;
+  }
+  .dungeonPageImage img {
+    position: relative !important;
+  }
   .dungeonPageImage2 {
     display: flex;
-    width: 180px !important;
+    width: 480px !important;
     height: auto;
   }
   .dungeonPageImage2 img {
@@ -1657,7 +1852,7 @@ export const baseStyles = css`
   }
   .dungeonPageTopImage2 {
     display: flex;
-    max-width: 510px;
+    max-width: 600px;
   }
   .dungeonPageTopImage2 img {
     padding-top: 5px;
@@ -1807,10 +2002,10 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 16px;
-    border-left: 10px solid #7096bf;
-    border-right: 1px solid #7096bf;
-    border-bottom: 2px solid #7096bf;
-    border-top: 1px solid #7096bf;
+    border-left: 10px solid #ffbd76;
+    border-right: 1px solid #ffbd76;
+    border-bottom: 2px solid #ffbd76;
+    border-top: 1px solid #ffbd76;
     padding-left: 10px;
   }
 
@@ -1820,7 +2015,7 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 12px;
-    border-left: 10px solid #7096bf;
+    border-left: 10px solid #ffbd76;
     padding-left: 6px;
   }
 
@@ -1830,7 +2025,7 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 12px;
-    border-left: 5px solid #7096bf;
+    border-left: 5px solid #ffbd76;
     padding-left: 4px;
   }
 

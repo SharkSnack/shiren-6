@@ -1,7 +1,7 @@
 ---
 title: "Dungeons"
-metaTitle: "Dungeons - Shiren DS1 Wiki"
-metaDescription: "Dungeon List for Shiren the Wanderer DS1."
+metaTitle: "Dungeons - Shiren 6 Wiki"
+metaDescription: "Dungeon List for Shiren the Wanderer 6."
 ---
 
 Click on individual sub pages.

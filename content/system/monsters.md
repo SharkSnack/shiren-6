@@ -1,102 +1,112 @@
 ---
 title: "Monsters"
-metaTitle: "Monsters - Shiren DS1 Wiki"
-metaDescription: "Complete list of monsters for Shiren the Wanderer DS1."
+metaTitle: "Monsters - Shiren 6 Wiki"
+metaDescription: "Complete list of monsters for Shiren the Wanderer 6."
 ---
 
 # Monster List
 
-<table id="monsterList" class="monsterPageTable">
+<table id="monsterList" class="pageLinksTable">
   <tr>
-    <th colspan="6">Monster (Family)</th>
+    <th colspan="6">Monster (Family) ~ Notebook Order</th>
   </tr>
   <tr>
-    <th class="highlightNormal">1</th>
-    <th class="highlightNormal">2</th>
-    <th class="highlightNormal">3</th>
-    <th class="highlightNormal">4</th>
-    <th class="highlightNormal">5</th>
-    <th class="highlightNormal">6</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
   </tr>
   <tr>
-    <td class="highlightGrey"><a href="#air-devil">Air Devil</a></td>
-    <td><a href="#dragon">Dragon</a></td>
-    <td class="highlightGrey"><a href="#gather">Gather</a></td>
-    <td><a href="#leech-worm">Leech Worm</a></td>
-    <td class="highlightGrey"><a href="#popster-tank">Popster Tank</a></td>
-    <td><a href="#twisty-hani">Twisty Hani</a></td>
+    <td class="highlightGrey"><a href="#mamel-family">Mamel</a></td>
+    <td><a href="#shagga-family">Shagga</a></td>
+    <td class="highlightGrey"><a href="#nigiri-baby-family">Nigiri Baby</a></td>
+    <td><a href="#hoppin'-batter-family">Hoppin' Batter</a></td>
+    <td class="highlightGrey"><a href="#water-ninja-family">Water Ninja</a></td>
   </tr>
   <tr>
-    <td class="highlightGrey"><a href="#baby-tengu">Baby Tengu</a></td>
-    <td><a href="#dremlas">Dremlas</a></td>
-    <td class="highlightGrey"><a href="#gaze">Gaze</a></td>
-    <td><a href="#mamel">Mamel</a></td>
-    <td class="highlightGrey"><a href="#rice-baby">Rice Baby</a></td>
-    <td><a href="#shop-group">Shop Group</a></td>
+    <td class="highlightGrey"><a href="#chintala-family">Chintala</a></td>
+    <td><a href="#bowboy-family">Bowboy</a></td>
+    <td class="highlightGrey"><a href="#froggo-family">Froggo</a></td>
+    <td><a href="#fierous-family">Fierous</a></td>
+    <td class="highlightGrey"><a href="#wood-ninja-family">Wood Ninja</a></td>
   </tr>
   <tr>
-    <td class="highlightGrey"><a href="#bowboy">Bowboy</a></td>
-    <td><a href="#egg-thing">Egg Thing</a></td>
-    <td class="highlightGrey"><a href="#ghost-radish">Ghost Radish</a></td>
-    <td><a href="#mecharoid">Mecharoid</a></td>
-    <td class="highlightGrey"><a href="#schubell">Schubell</a></td>
-    <td><a href="#boss-group">Boss Group</a></td>
+    <td class="highlightGrey"><a href="#octopling-family">Octopling</a></td>
+    <td><a href="#pop-tank-family">Pop Tank</a></td>
+    <td class="highlightGrey"><a href="#thiefwalrus-family">Thiefwalrus</a></td>
+    <td><a href="#zapdon-family">Zapdon</a></td>
+    <td class="highlightGrey"><a href="#metal-ninja-family">Metal Ninja</a></td>
   </tr>
   <tr>
-    <td class="highlightGrey"><a href="#cell-armor">Cell Armor</a></td>
-    <td><a href="#evil-soldier">Evil Soldier</a></td>
-    <td class="highlightGrey"><a href="#green-slime">Green Slime</a></td>
-    <td><a href="#mini-robber">Mini Robber</a></td>
-    <td class="highlightGrey"><a href="#skull-mage">Skull Mage</a></td>
-    <td></td>
+    <td class="highlightGrey"><a href="#spearfish-family">Spearfish</a></td>
+    <td><a href="#bored-kappa-family">Bored Kappa</a></td>
+    <td class="highlightGrey"><a href="#hat-urchin-family">Hat Urchin</a></td>
+    <td><a href="#schubell-family">Schubell</a></td>
+    <td class="highlightGrey"><a href="#earth-ninja-family">Earth Ninja</a></td>
   </tr>
   <tr>
-    <td class="highlightGrey"><a href="#chintala">Chintala</a></td>
-    <td><a href="#field-bandit">Field Bandit</a></td>
-    <td class="highlightGrey"><a href="#half-warrior">Half Warrior</a></td>
-    <td><a href="#n'duba">N'Duba</a></td>
-    <td class="highlightGrey"><a href="#snaky">Snaky</a></td>
-    <td></td>
+    <td class="highlightGrey"><a href="#death-reaper-family">Death Reaper</a></td>
+    <td><a href="#porky-family">Porky</a></td>
+    <td class="highlightGrey"><a href="#curse-girl-family">Curse Girl</a></td>
+    <td><a href="#n'dubba-family">N'dubba</a></td>
+    <td class="highlightGrey"><a href="#hannya-monk-family">Hannya Monk</a></td>
   </tr>
   <tr>
-    <td class="highlightGrey"><a href="#curse-girl">Curse Girl</a></td>
-    <td><a href="#firepuff">Firepuff</a></td>
-    <td class="highlightGrey"><a href="#hen">Hen</a></td>
-    <td><a href="#pacorepkin">Pacorepkin</a></td>
-    <td class="highlightGrey"><a href="#soldier-ant">Soldier Ant</a></td>
-    <td></td>
+    <td class="highlightGrey"><a href="#pumphantasm-family">Pumphantasm</a></td>
+    <td><a href="#dragon-family">Dragon</a></td>
+    <td class="highlightGrey"><a href="#mudkin-family">Mudkin</a></td>
+    <td><a href="#mixer-family">Mixer</a></td>
+    <td class="highlightGrey"><a href="#kitsune-monk-family">Kitsune Monk</a></td>
   </tr>
   <tr>
-    <td class="highlightGrey"><a href="#dark-eye">Dark Eye</a></td>
-    <td><a href="#floor-dragon">Floor Dragon</a></td>
-    <td class="highlightGrey"><a href="#inferno">Inferno</a></td>
-    <td><a href="#parthenos">Parthenos</a></td>
-    <td class="highlightGrey"><a href="#spike-bomb">Spike Bomb</a></td>
-    <td></td>
+    <td class="highlightGrey"><a href="#firepuff-family">Firepuff</a></td>
+    <td><a href="#ghost-radish-family">Ghost Radish</a></td>
+    <td class="highlightGrey"><a href="#swordsman-family">Swordsman</a></td>
+    <td><a href="#egg-thing-family">Egg Thing</a></td>
+    <td class="highlightGrey"><a href="#okina-monk-family">Okina Monk</a></td>
   </tr>
   <tr>
-    <td class="highlightGrey"><a href="#dark-owl">Dark Owl</a></td>
+    <td class="highlightGrey"><a href="#armordillo-family">Armordillo</a></td>
+    <td><a href="#skull-mage-family">Skull Mage</a></td>
+    <td class="highlightGrey"><a href="#pullfrog-family">Pullfrog</a></td>
+    <td><a href="#golden-egg-thing">Golden Egg Thing</a></td>
+    <td class="highlightGrey"><a href="#okame-monk-family">Okame Monk</a></td>
+  </tr>
+  <tr>
+    <td class="highlightGrey"><a href="#masked-samurai-family">Masked Samurai</a></td>
+    <td><a href="#gazer-family">Gazer</a></td>
+    <td class="highlightGrey"><a href="#floor-dragon-family">Floor Dragon</a></td>
+    <td><a href="#chow">Chow</a></td>
+    <td class="highlightGrey"><a href="#tengu-monk-family">Tengu Monk</a></td>
+  </tr>
+  <tr>
+    <td class="highlightGrey"><a href="#ghost-samurai">Ghost Samurai</a></td>
+    <td><a href="#twisty-hani-family">Twisty Hani</a></td>
+    <td class="highlightGrey"><a href="#tiger-thrower-family">Tiger Thrower</a></td>
+    <td><a href="#dark-owl">Dark Owl</a></td>
+    <td class="highlightGrey"><a href="#boss-group">Boss Group</a></td>
+  </tr>
+  <tr>
+    <td class="highlightGrey"><a href="#taur-family">Taur</a></td>
+    <td><a href="#polygon-spinna-family">Polygon Spinna</a></td>
+    <td class="highlightGrey"><a href="#karakuroid-family">Karakuroid</a></td>
+    <td><a href="#crow-tengu">Crow Tengu</a></td>
+    <td class="highlightGrey"></td>
+  </tr>
+  <tr>
+    <td class="highlightGrey"><a href="#metalhead-family">Metalhead</a></td>
+    <td><a href="#scorpion-family">Scorpion</a></td>
+    <td class="highlightGrey"><a href="#soldier-ant-family">Soldier Ant</a></td>
     <td><a href="#fluffy-bunny">Fluffy Bunny</a></td>
-    <td class="highlightGrey"><a href="#ironhead">Ironhead</a></td>
-    <td><a href="#pickpocket">Pickpocket</a></td>
-    <td class="highlightGrey"><a href="#taur">Taur</a></td>
-    <td></td>
+    <td class="highlightGrey"></td>
   </tr>
   <tr>
-    <td class="highlightGrey"><a href="#dead-soldier">Dead Soldier</a></td>
-    <td><a href="#flying-fowl">Flying Fowl</a></td>
-    <td class="highlightGrey"><a href="#kigny">Kigny</a></td>
-    <td><a href="#piggy">Piggy</a></td>
-    <td class="highlightGrey"><a href="#thiefwalrus">Thiefwalrus</a></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td class="highlightGrey"><a href="#death-reaper">Death Reaper</a></td>
-    <td><a href="#fog-hermit">Fog Hermit</a></td>
-    <td class="highlightGrey"><a href="#knifegator">Knifegator</a></td>
-    <td><a href="#polygon-spin">Polygon Spin</a></td>
-    <td class="highlightGrey"><a href="#tiger-uho">Tiger Uho</a></td>
-    <td></td>
+    <td class="highlightGrey"><a href="#hen-family">Hen</a></td>
+    <td><a href="#field-knave-family">Field Knave</a></td>
+    <td class="highlightGrey"><a href="#explochin-family">Explochin</a></td>
+    <td><a href="#fire-ninja-family">Fire Ninja</a></td>
+    <td class="highlightGrey"></td>
   </tr>
 </table>
 
@@ -104,6708 +114,8759 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS1."
 
 ### Table Explanation
 
-- Lv = Monster level.
+- Lv = Monster's level.
 - HP = Monster's hit points.
 - Atk = Monster's attack power.
 - Def = Monster's defense.
 - Exp = Experience points awarded when the monster is defeated.
-- Elem. = Element or type.
+- Speed = Monster's action speed.
     - Slow = Half speed.
+    - Regular = Regular speed.
     - Swift 1 = Double speed, 1 attack.
     - Swift 2 = Double speed, 2 attacks.
-    - Prism = Special attack can be blocked by a Prism Shield.
-    - Theft = Special attack can be blocked by a Walrus Shield.
-    - Drain = Weak to Drain Buster.
+- Type = Monster type.
+    - Draining = Weak to Drain Slayer.
     - Dragon = Weak to Dragonkiller.
-    - One-Eyed = Weak to Cyclops Killer.
-    - Ghost = Weak to Sickle Slayer, HP restoring items deal damage.
-    - Exploding = Weak to Crescent Arm.
-    - Floating = Weak to Air Slayer, can move across water tiles.
+    - Cyclops = Weak to Cyclops Bane.
+    - Ghost = Weak to Sickle of Salvation, HP restoring items deal damage.
+    - Exploding = Weak to Crescent Blade.
+    - Floating = Weak to Sky Sword, can move across water tiles.
 
-### Air Devil
+## Regular Monsters
 
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/air_devil.png"/>
-</div>
+### Mamel Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Air Devil</td>
-    <td>50</td>
-    <td>13</td>
-    <td>8</td>
-    <td>30</td>
-    <td rowspan="4">Ghost<br/>Floating</td>
-    <td rowspan="4">Invisible, reflects magic bullets.<br/>Unpredictable movement.<br/>Becomes Sealed when hit by Herb of Sight.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Wraith Devil</td>
-    <td>50</td>
-    <td>19</td>
-    <td>10</td>
-    <td>150</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Mirage Devil</td>
-    <td>50</td>
-    <td>25</td>
-    <td>14</td>
-    <td>400</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Astral Devil</td>
-    <td>50</td>
-    <td>31</td>
-    <td>18</td>
-    <td>700</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Mamel</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/1-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>8</div>
+              <div>Atk</div>
+              <div>3</div>
+              <div>Def</div>
+              <div>4</div>
+              <div>Exp</div>
+              <div>2</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">A very weak monster with low Attack Power and HP.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Pit Mamel</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/1-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>11</div>
+              <div>Atk</div>
+              <div>5</div>
+              <div>Def</div>
+              <div>8</div>
+              <div>Exp</div>
+              <div>5</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">A weak monster with low Attack Power and HP<br/>that is only just a little stronger than Mamel.<br/>It's not dangerous if you're careful.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Cave Mamel</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/1-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>5</div>
+              <div>Atk</div>
+              <div>100</div>
+              <div>Def</div>
+              <div>100</div>
+              <div>Exp</div>
+              <div>2000</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Normal attacks do little damage.<br/>Its HP is low, so using things like Rock will defeat it easily.<br/>Defeating it grants lots of Experience Points.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Gitan Mamel</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/1-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>20</div>
+              <div>Atk</div>
+              <div>100</div>
+              <div>Def</div>
+              <div>999</div>
+              <div>Exp</div>
+              <div>3333</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 2</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Normal attacks do little damage.<br/>This strong enemy moves at double speed, but its HP is low,<br/>so using things like Rock will defeat it easily.<br/>Defeating it grants lots of Experience Points and Gitan.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Air Devil</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Wraith Devil</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Mirage Devil</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Astral Devil</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Baby Tengu
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/baby_tengu.png"/>
-</div>
+### Chintala Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Baby Tengu</td>
-    <td>10</td>
-    <td>4</td>
-    <td>3</td>
-    <td>5</td>
-    <td rowspan="4">Normal</td>
-    <td rowspan="4">Disguises itself as a different monster.<br/>(It can't use that monster's special attack)</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Young Tengu</td>
-    <td>25</td>
-    <td>7</td>
-    <td>6</td>
-    <td>20</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Tengu Chief</td>
-    <td>40</td>
-    <td>10</td>
-    <td>9</td>
-    <td>150</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Tengu Elder</td>
-    <td>55</td>
-    <td>14</td>
-    <td>13</td>
-    <td>400</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Chintala</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/2-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>15</div>
+              <div>Atk</div>
+              <div>9</div>
+              <div>Def</div>
+              <div>4</div>
+              <div>Exp</div>
+              <div>12</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">A monster without any particular abilities.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Mid Chintala</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/2-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>45</div>
+              <div>Atk</div>
+              <div>23</div>
+              <div>Def</div>
+              <div>10</div>
+              <div>Exp</div>
+              <div>27</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">A monster without any particular abilities.<br/>Given its medium size, it's stronger than Chintala.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Big Chintala</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/2-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>85</div>
+              <div>Atk</div>
+              <div>40</div>
+              <div>Def</div>
+              <div>33</div>
+              <div>Exp</div>
+              <div>350</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">A monster without any particular abilities.<br/>Given its big size, it's stronger than Mid Chintala.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Huge Chintala</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/2-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>185</div>
+              <div>Atk</div>
+              <div>60</div>
+              <div>Def</div>
+              <div>40</div>
+              <div>Exp</div>
+              <div>1350</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">A monster without any particular abilities.<br/>Given its huge size, it's stronger than Big Chintala.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Baby Tengu</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Young Tengu</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Tengu Chief</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Tengu Elder</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Bowboy
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/bowboy.png"/>
-</div>
+### Octopling Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Bowboy</td>
-    <td>12</td>
-    <td>5</td>
-    <td>2</td>
-    <td>6</td>
-    <td rowspan="2">Normal</td>
-    <td>Shoots Wooden Arrows.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Crossbowboy</td>
-    <td>16</td>
-    <td>8</td>
-    <td>3</td>
-    <td>11</td>
-    <td>Shoots Iron Arrows.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Baby Tank</td>
-    <td>25</td>
-    <td>9</td>
-    <td>4</td>
-    <td>30</td>
-    <td rowspan="2">Normal<br/>Swift 1</td>
-    <td>Shoots Iron Arrows.<br/>Tries to stay 2 tiles away from Shiren.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Mini Tank</td>
-    <td>28</td>
-    <td>14</td>
-    <td>8</td>
-    <td>52</td>
-    <td>Shoots Silver Arrows.<br/>Tries to stay 2 tiles away from Shiren.</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Octopling</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/3-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>14</div>
+              <div>Atk</div>
+              <div>4</div>
+              <div>Def</div>
+              <div>6</div>
+              <div>Exp</div>
+              <div>4</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Seeks out and helps other monsters.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Fresh Octopling</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/3-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>60</div>
+              <div>Atk</div>
+              <div>19</div>
+              <div>Def</div>
+              <div>14</div>
+              <div>Exp</div>
+              <div>55</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Seeks out and helps other monsters.<br/>Its Attack Power increases if an adjacent monster is defeated.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Famed Octopling</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/3-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>99</div>
+              <div>Atk</div>
+              <div>25</div>
+              <div>Def</div>
+              <div>30</div>
+              <div>Exp</div>
+              <div>420</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Seeks out and helps other monsters.<br/>Gives covering fire from a distance, dealing 5 damage.<br/>Its Attack Power increases if an adjacent monster is defeated.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Superb Octopling</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/3-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>199</div>
+              <div>Atk</div>
+              <div>64</div>
+              <div>Def</div>
+              <div>48</div>
+              <div>Exp</div>
+              <div>1260</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Seeks out and helps other monsters.<br/>Gives covering fire from a distance, dealing 5 damage.<br/>Its Action Speed increases by 1 if an adjacent monster is defeated.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Bowboy</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Crossbowboy</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Baby Tank</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Mini Tank</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Cell Armor
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/cell_armor.png"/>
-</div>
+### Spearfish Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Cell Armor</td>
-    <td>35</td>
-    <td>16</td>
-    <td>9</td>
-    <td>70</td>
-    <td rowspan="4">Ghost</td>
-    <td>Knocks away your equipped shield.<br/>The item flies 10 tiles behind you.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Metal Armor</td>
-    <td>65</td>
-    <td>27</td>
-    <td>12</td>
-    <td>600</td>
-    <td>Knocks away your equipped weapon or shield.<br/>The item flies 10 tiles behind you.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Steel Armor</td>
-    <td>80</td>
-    <td>34</td>
-    <td>16</td>
-    <td>2000</td>
-    <td rowspan="2">Knocks away your equipped weapon, shield, or armband.<br/>The item flies 10 tiles behind you.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Alloy Armor</td>
-    <td>100</td>
-    <td>43</td>
-    <td>21</td>
-    <td>3600</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Spearfish</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/4-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>16</div>
+              <div>Atk</div>
+              <div>6</div>
+              <div>Def</div>
+              <div>2</div>
+              <div>Exp</div>
+              <div>7</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Walks on water.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Lt. Spearfish</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/4-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>60</div>
+              <div>Atk</div>
+              <div>24</div>
+              <div>Def</div>
+              <div>17</div>
+              <div>Exp</div>
+              <div>55</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Tries to flee to water when its HP gets low.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Capt. Spearfish</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/4-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>100</div>
+              <div>Atk</div>
+              <div>39</div>
+              <div>Def</div>
+              <div>30</div>
+              <div>Exp</div>
+              <div>410</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Tries to flee to water when its HP gets low.<br/>While on water, it shoots water up to 3 tile(s) away that deals 15<br/>damage and may get items in your inventory wet.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Admiral Spearfish</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/4-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>200</div>
+              <div>Atk</div>
+              <div>59</div>
+              <div>Def</div>
+              <div>50</div>
+              <div>Exp</div>
+              <div>1410</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Tries to flee to water when its HP gets low.<br/>While on water, it shoots water up to 5 tile(s) away that deals 25<br/>damage and may get items in your inventory wet.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-Disarmed equipment will fly outside the map if you have a Pitcher's Armband equipped.
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Cell Armor</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Metal Armor</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Steel Armor</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Alloy Armor</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Chintala
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/chintala.png"/>
-</div>
+### Death Reaper Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Chintala</td>
-    <td>8</td>
-    <td>3</td>
-    <td>1</td>
-    <td>5</td>
-    <td rowspan="4">Normal</td>
-    <td rowspan="4">No abilities.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Mid Chintala</td>
-    <td>17</td>
-    <td>9</td>
-    <td>6</td>
-    <td>16</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Big Chintala</td>
-    <td>40</td>
-    <td>21</td>
-    <td>12</td>
-    <td>180</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Giga Chintala</td>
-    <td>60</td>
-    <td>29</td>
-    <td>17</td>
-    <td>650</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Death Reaper</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/5-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>22</div>
+              <div>Atk</div>
+              <div>6</div>
+              <div>Def</div>
+              <div>5</div>
+              <div>Exp</div>
+              <div>9</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 1</div>
+              <div>Type</div>
+              <div>Ghost, Floating</div>
+            </div>
+            <div class="monster_text">Damaged by items that restore HP, such as Herb.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Hell Reaper</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/5-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>45</div>
+              <div>Atk</div>
+              <div>12</div>
+              <div>Def</div>
+              <div>15</div>
+              <div>Exp</div>
+              <div>30</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 2</div>
+              <div>Type</div>
+              <div>Ghost, Floating</div>
+            </div>
+            <div class="monster_text">Damaged by items that restore HP, such as Herb.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Soul Reaper</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/5-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>75</div>
+              <div>Atk</div>
+              <div>40</div>
+              <div>Def</div>
+              <div>40</div>
+              <div>Exp</div>
+              <div>555</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 2</div>
+              <div>Type</div>
+              <div>Ghost, Floating</div>
+            </div>
+            <div class="monster_text">Moves through walls.<br/>Damaged by items that restore HP, such as Herb.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : King Reaper</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/5-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>225</div>
+              <div>Atk</div>
+              <div>65</div>
+              <div>Def</div>
+              <div>50</div>
+              <div>Exp</div>
+              <div>1555</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 2</div>
+              <div>Type</div>
+              <div>Ghost, Floating</div>
+            </div>
+            <div class="monster_text">Moves through walls.<br/>Damaged by items that restore HP, such as Herb.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Chintala</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Mid Chintala</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Big Chintala</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Giga Chintala</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-  </tr>
-</table>
-
-### Curse Girl
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/curse_girl.png"/>
-</div>
+### Pumphantasm Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Curse Girl</td>
-    <td>25</td>
-    <td>10</td>
-    <td>7</td>
-    <td>40</td>
-    <td rowspan="4">Normal</td>
-    <td rowspan="4">Curses 1 inventory item.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Curse Sis</td>
-    <td>33</td>
-    <td>15</td>
-    <td>11</td>
-    <td>100</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Curse Mom</td>
-    <td>56</td>
-    <td>22</td>
-    <td>13</td>
-    <td>600</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Curse Gran</td>
-    <td>72</td>
-    <td>31</td>
-    <td>14</td>
-    <td>1500</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Pumphantasm</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/6-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>23</div>
+              <div>Atk</div>
+              <div>16</div>
+              <div>Def</div>
+              <div>10</div>
+              <div>Exp</div>
+              <div>25</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Ghost, Floating</div>
+            </div>
+            <div class="monster_text">Moves through walls as it wanders aimlessly.<br/>Damaged by items that restore HP, such as Herb.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Pumpanshee</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/6-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>60</div>
+              <div>Atk</div>
+              <div>35</div>
+              <div>Def</div>
+              <div>22</div>
+              <div>Exp</div>
+              <div>250</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Ghost, Floating</div>
+            </div>
+            <div class="monster_text">Moves through walls as it wanders aimlessly.<br/>Damaged by items that restore HP, such as Herb.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Pumplich</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/6-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>100</div>
+              <div>Atk</div>
+              <div>50</div>
+              <div>Def</div>
+              <div>30</div>
+              <div>Exp</div>
+              <div>800</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Ghost, Floating</div>
+            </div>
+            <div class="monster_text">Moves through walls as it wanders aimlessly.<br/>Damaged by items that restore HP, such as Herb.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Pumplord</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/6-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>185</div>
+              <div>Atk</div>
+              <div>75</div>
+              <div>Def</div>
+              <div>35</div>
+              <div>Exp</div>
+              <div>1850</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Ghost, Floating</div>
+            </div>
+            <div class="monster_text">Moves through walls as it wanders aimlessly.<br/>Damaged by items that restore HP, such as Herb.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Curse Girl</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Curse Sis</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Curse Mom</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Curse Gran</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Dark Eye
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/dark_eye.png"/>
-</div>
+### Firepuff Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Dark Eye</td>
-    <td>6</td>
-    <td>14</td>
-    <td>1</td>
-    <td>7</td>
-    <td rowspan="4">Normal</td>
-    <td rowspan="4">Waits for Shiren to approach from 1 tile away.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Hidden Eye</td>
-    <td>20</td>
-    <td>28</td>
-    <td>1</td>
-    <td>30</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Shadow Eye</td>
-    <td>40</td>
-    <td>71</td>
-    <td>1</td>
-    <td>300</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Fear Eye</td>
-    <td>60</td>
-    <td>100</td>
-    <td>1</td>
-    <td>800</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Firepuff</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/7-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>20</div>
+              <div>Atk</div>
+              <div>7</div>
+              <div>Def</div>
+              <div>7</div>
+              <div>Exp</div>
+              <div>13</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Dragon, Floating</div>
+            </div>
+            <div class="monster_text">Breathes fire at adjacent foes, dealing 10 damage.<br/>This attack may fail.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Flamepuff</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/7-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>50</div>
+              <div>Atk</div>
+              <div>25</div>
+              <div>Def</div>
+              <div>20</div>
+              <div>Exp</div>
+              <div>175</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Dragon, Floating</div>
+            </div>
+            <div class="monster_text">Breathes fire at adjacent foes, dealing 20 damage.<br/>This attack may fail.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Blazepuff</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/7-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>135</div>
+              <div>Atk</div>
+              <div>55</div>
+              <div>Def</div>
+              <div>35</div>
+              <div>Exp</div>
+              <div>1050</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Dragon, Floating</div>
+            </div>
+            <div class="monster_text">Breathes fire at adjacent foes, dealing 30 damage.<br/>This attack may fail.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Pyrepuff</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/7-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>255</div>
+              <div>Atk</div>
+              <div>75</div>
+              <div>Def</div>
+              <div>45</div>
+              <div>Exp</div>
+              <div>1550</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Dragon, Floating</div>
+            </div>
+            <div class="monster_text">Breathes fire at adjacent foes, dealing 40 damage.<br/>This attack may fail.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-#### Locations
+### Armordillo Family
 
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Dark Eye</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Hidden Eye</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Shadow Eye</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Fear Eye</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Armordillo</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/8-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>20</div>
+              <div>Atk</div>
+              <div>11</div>
+              <div>Def</div>
+              <div>15</div>
+              <div>Exp</div>
+              <div>15</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Hurls itself at the target, dealing 5 damage.<br/>Knocks the target back 2 tile(s) and makes them drop items.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Brodillo</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/8-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>70</div>
+              <div>Atk</div>
+              <div>36</div>
+              <div>Def</div>
+              <div>38</div>
+              <div>Exp</div>
+              <div>450</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Hurls itself at the target, dealing 10 damage.<br/>Knocks the target back 3 tile(s) and makes them drop items.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Popdillo</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/8-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>100</div>
+              <div>Atk</div>
+              <div>51</div>
+              <div>Def</div>
+              <div>45</div>
+              <div>Exp</div>
+              <div>1200</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Hurls itself at the target, dealing 15 damage.<br/>Knocks the target back 4 tile(s) and makes them drop items.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Grampadillo</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/8-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>175</div>
+              <div>Atk</div>
+              <div>71</div>
+              <div>Def</div>
+              <div>56</div>
+              <div>Exp</div>
+              <div>1400</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Hurls itself at the target, dealing 20 damage.<br/>Knocks the target back 5 tile(s) and makes them drop items.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Masked Samurai Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Masked Samurai</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/9-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>47</div>
+              <div>Atk</div>
+              <div>18</div>
+              <div>Def</div>
+              <div>18</div>
+              <div>Exp</div>
+              <div>48</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Resurrects as Ghost Samurai when defeated.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Raging Samurai</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/9-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>100</div>
+              <div>Atk</div>
+              <div>45</div>
+              <div>Def</div>
+              <div>37</div>
+              <div>Exp</div>
+              <div>400</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Resurrects as Ghost Samurai when defeated.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Great Samurai</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/9-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>149</div>
+              <div>Atk</div>
+              <div>58</div>
+              <div>Def</div>
+              <div>40</div>
+              <div>Exp</div>
+              <div>840</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Resurrects as Ghost Samurai when defeated.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Lordly Samurai</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/9-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>200</div>
+              <div>Atk</div>
+              <div>63</div>
+              <div>Def</div>
+              <div>50</div>
+              <div>Exp</div>
+              <div>1280</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Resurrects as Ghost Samurai when defeated.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Ghost Samurai
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Ghost Samurai</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/10-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>4</div>
+              <div>Atk</div>
+              <div>13</div>
+              <div>Def</div>
+              <div>15</div>
+              <div>Exp</div>
+              <div>10</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Ghost</div>
+            </div>
+            <div class="monster_text">Possesses any monsters it gets close to, leveling them up.<br/>Normal attacks do little damage, but damage can be inflicted<br/>as usual by Anti-Ghost runes.<br/>Damaged by items that restore HP, such as Herb.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Taur Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Taur</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/11-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>35</div>
+              <div>Atk</div>
+              <div>15</div>
+              <div>Def</div>
+              <div>15</div>
+              <div>Exp</div>
+              <div>33</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Occasionally unleashes Critical Hits.<br/>May drop Axe of the Minotaur when defeated.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Minotaur</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/11-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>70</div>
+              <div>Atk</div>
+              <div>31</div>
+              <div>Def</div>
+              <div>20</div>
+              <div>Exp</div>
+              <div>90</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Occasionally unleashes Critical Hits.<br/>May drop Axe of the Minotaur when defeated.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Megataur</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/11-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>170</div>
+              <div>Atk</div>
+              <div>55</div>
+              <div>Def</div>
+              <div>42</div>
+              <div>Exp</div>
+              <div>790</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Occasionally unleashes Critical Hits.<br/>May drop Axe of the Minotaur when defeated.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Gigataur</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/11-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>235</div>
+              <div>Atk</div>
+              <div>85</div>
+              <div>Def</div>
+              <div>62</div>
+              <div>Exp</div>
+              <div>1790</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Occasionally unleashes Critical Hits.<br/>May drop Axe of the Minotaur when defeated.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Metalhead Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Metalhead</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/12-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>66</div>
+              <div>Atk</div>
+              <div>30</div>
+              <div>Def</div>
+              <div>19</div>
+              <div>Exp</div>
+              <div>61</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Throws its head to attack up to 2 tile(s) away.<br/>This attack will even hit around corners.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Thrashead</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/12-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>122</div>
+              <div>Atk</div>
+              <div>55</div>
+              <div>Def</div>
+              <div>45</div>
+              <div>Exp</div>
+              <div>1100</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Throws its head to attack up to 3 tile(s) away.<br/>This attack will even hit around corners.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Megahead</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/12-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>182</div>
+              <div>Atk</div>
+              <div>65</div>
+              <div>Def</div>
+              <div>48</div>
+              <div>Exp</div>
+              <div>1350</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Throws its head to attack up to 4 tile(s) away.<br/>This attack will even hit around corners.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Deathead</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/12-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>282</div>
+              <div>Atk</div>
+              <div>99</div>
+              <div>Def</div>
+              <div>60</div>
+              <div>Exp</div>
+              <div>2350</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Throws its head to attack up to 5 tile(s) away.<br/>This attack will even hit around corners.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Hen Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Hen</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/13-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>4</div>
+              <div>Atk</div>
+              <div>1</div>
+              <div>Def</div>
+              <div>1</div>
+              <div>Exp</div>
+              <div>200</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 1</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Runs around like it lost its head.<br/>If hit by fire or explosions, it turns into Yakitori.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Master Hen</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/13-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>70</div>
+              <div>Atk</div>
+              <div>33</div>
+              <div>Def</div>
+              <div>21</div>
+              <div>Exp</div>
+              <div>400</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Boasts about its powerful muscles.<br/>But it turns into a Hen when its HP gets low.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Great Hen</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/13-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>120</div>
+              <div>Atk</div>
+              <div>55</div>
+              <div>Def</div>
+              <div>40</div>
+              <div>Exp</div>
+              <div>800</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 1</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Excels at hand-to-hand combat.<br/>But it turns into a Hen when its HP gets low.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Miracle Hen</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/13-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>220</div>
+              <div>Atk</div>
+              <div>82</div>
+              <div>Def</div>
+              <div>60</div>
+              <div>Exp</div>
+              <div>1600</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 2</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Feared for its godlike strength.<br/>But it turns into a Hen when its HP gets low.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Shagga Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Shagga</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/14-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>18</div>
+              <div>Atk</div>
+              <div>6</div>
+              <div>Def</div>
+              <div>4</div>
+              <div>Exp</div>
+              <div>12</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Dragon</div>
+            </div>
+            <div class="monster_text">Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Nashagga</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/14-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>70</div>
+              <div>Atk</div>
+              <div>21</div>
+              <div>Def</div>
+              <div>20</div>
+              <div>Exp</div>
+              <div>60</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Dragon</div>
+            </div>
+            <div class="monster_text">Attacks with 2 consecutive normal attacks.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Lashagga</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/14-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>99</div>
+              <div>Atk</div>
+              <div>43</div>
+              <div>Def</div>
+              <div>34</div>
+              <div>Exp</div>
+              <div>500</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Dragon</div>
+            </div>
+            <div class="monster_text">Attacks with 3 consecutive normal attacks.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Bashagga</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/14-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>154</div>
+              <div>Atk</div>
+              <div>55</div>
+              <div>Def</div>
+              <div>40</div>
+              <div>Exp</div>
+              <div>950</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Dragon</div>
+            </div>
+            <div class="monster_text">Attacks with 4 consecutive normal attacks.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Bowboy Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Bowboy</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/15-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>45</div>
+              <div>Atk</div>
+              <div>17</div>
+              <div>Def</div>
+              <div>18</div>
+              <div>Exp</div>
+              <div>60</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Shoots Wooden Arrow from a distance.<br/>May drop Wooden Arrow when defeated.<br/>Splashing it with water makes it unable to fire arrows.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Crossbowboy</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/15-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>55</div>
+              <div>Atk</div>
+              <div>20</div>
+              <div>Def</div>
+              <div>20</div>
+              <div>Exp</div>
+              <div>80</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Shoots Iron Arrow from a distance.<br/>May drop Iron Arrow when defeated.<br/>Splashing it with water makes it unable to fire arrows.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Baby Tank</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/15-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>85</div>
+              <div>Atk</div>
+              <div>40</div>
+              <div>Def</div>
+              <div>30</div>
+              <div>Exp</div>
+              <div>450</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 1</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Shoots Iron Arrow from a distance.<br/>May drop Iron Arrow when defeated.<br/>Splashing it with water makes it unable to fire arrows.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Mini Tank</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/15-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>100</div>
+              <div>Atk</div>
+              <div>55</div>
+              <div>Def</div>
+              <div>40</div>
+              <div>Exp</div>
+              <div>800</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 1</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Shoots Silver Arrow from a distance.<br/>May drop Silver Arrow when defeated.<br/>Splashing it with water makes it unable to fire arrows.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Pop Tank Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Pop Tank</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/16-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>90</div>
+              <div>Atk</div>
+              <div>20</div>
+              <div>Def</div>
+              <div>24</div>
+              <div>Exp</div>
+              <div>100</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Slow</div>
+              <div>Type</div>
+              <div>Metal, Exploding</div>
+            </div>
+            <div class="monster_text">Shoots a cannon from a distance, dealing 20 damage<br/>to the target and 1 tile(s) around it.<br/>It moves slowly, so you can defeat it easily if you're quick.<br/>Splashing it with water makes it unable to shoot.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Ornery Tank</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/16-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>95</div>
+              <div>Atk</div>
+              <div>40</div>
+              <div>Def</div>
+              <div>44</div>
+              <div>Exp</div>
+              <div>1500</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Metal, Exploding</div>
+            </div>
+            <div class="monster_text">Shoots a cannon from a distance, dealing 30 damage<br/>to the target and 1 tile(s) around it.<br/>Splashing it with water makes it unable to shoot.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Adamant Tank</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/16-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>100</div>
+              <div>Atk</div>
+              <div>60</div>
+              <div>Def</div>
+              <div>54</div>
+              <div>Exp</div>
+              <div>2500</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 1</div>
+              <div>Type</div>
+              <div>Metal, Exploding</div>
+            </div>
+            <div class="monster_text">Shoots a cannon from a distance, dealing 40 damage<br/>to the target and 1 tile(s) around it.<br/>It moves quickly, so escaping it is difficult.<br/>Splashing it with water makes it unable to shoot.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Steadfast Tank</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/16-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>105</div>
+              <div>Atk</div>
+              <div>80</div>
+              <div>Def</div>
+              <div>64</div>
+              <div>Exp</div>
+              <div>3500</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 2</div>
+              <div>Type</div>
+              <div>Metal, Exploding</div>
+            </div>
+            <div class="monster_text">Shoots a cannon from a distance, dealing 50 damage<br/>to the target and 1 tile(s) around it.<br/>It moves quickly and attacks 2 times, making it a tough foe.<br/>Splashing it with water makes it unable to shoot.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Bored Kappa Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Bored Kappa</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/17-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>50</div>
+              <div>Atk</div>
+              <div>18</div>
+              <div>Def</div>
+              <div>11</div>
+              <div>Exp</div>
+              <div>48</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Throws items at anyone within 3 tile(s) of it.<br/>Will throw back items thrown at it but always misses.<br/>It will not throw Weapon, Shield, or Gitan.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Pesky Kappa</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/17-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>75</div>
+              <div>Atk</div>
+              <div>29</div>
+              <div>Def</div>
+              <div>22</div>
+              <div>Exp</div>
+              <div>330</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Throws items at anyone within 5 tile(s) of it.<br/>Will throw back items thrown at it.<br/>It will not throw Weapon or Gitan.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Vexing Kappa</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/17-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>175</div>
+              <div>Atk</div>
+              <div>49</div>
+              <div>Def</div>
+              <div>33</div>
+              <div>Exp</div>
+              <div>960</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Throws items at anyone within 10 tile(s) of it.<br/>Will throw back items thrown at it.<br/>It will not throw Gitan.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Atrocious Kappa</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/17-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>275</div>
+              <div>Atk</div>
+              <div>59</div>
+              <div>Def</div>
+              <div>42</div>
+              <div>Exp</div>
+              <div>1960</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Throws items at anyone anywhere on the floor.<br/>Will throw back items thrown at it.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Porky Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Porky</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/18-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>30</div>
+              <div>Atk</div>
+              <div>17</div>
+              <div>Def</div>
+              <div>12</div>
+              <div>Exp</div>
+              <div>40</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Throws Porky's Rock from 3 tile(s) away.<br/>May drop Porky's Rock when defeated.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Porko</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/18-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>65</div>
+              <div>Atk</div>
+              <div>36</div>
+              <div>Def</div>
+              <div>18</div>
+              <div>Exp</div>
+              <div>840</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Throws Porky's Rock from 5 tile(s) away.<br/>May drop Porky's Rock when defeated.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Porkon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/18-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>150</div>
+              <div>Atk</div>
+              <div>75</div>
+              <div>Def</div>
+              <div>50</div>
+              <div>Exp</div>
+              <div>1800</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Throws Porky's Rock from 8 tile(s) away.<br/>May drop Porky's Rock when defeated.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Porgon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/18-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>200</div>
+              <div>Atk</div>
+              <div>85</div>
+              <div>Def</div>
+              <div>60</div>
+              <div>Exp</div>
+              <div>2000</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Throws Porky's Rock from 10 tile(s) away.<br/>May drop Porky's Rock when defeated.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Dragon Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Dragon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/19-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>120</div>
+              <div>Atk</div>
+              <div>45</div>
+              <div>Def</div>
+              <div>40</div>
+              <div>Exp</div>
+              <div>1000</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Dragon</div>
+            </div>
+            <div class="monster_text">Breathes fire in a straight line, dealing 20 damage.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Sky Dragon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/19-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>140</div>
+              <div>Atk</div>
+              <div>55</div>
+              <div>Def</div>
+              <div>50</div>
+              <div>Exp</div>
+              <div>1600</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Dragon</div>
+            </div>
+            <div class="monster_text">Breathes fire anywhere in the room, dealing 20 damage.<br/>Fire passes through any walls or beings in the way.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Archdragon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/19-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>200</div>
+              <div>Atk</div>
+              <div>65</div>
+              <div>Def</div>
+              <div>60</div>
+              <div>Exp</div>
+              <div>2200</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Dragon</div>
+            </div>
+            <div class="monster_text">Breathes fire anywhere on the floor, dealing 30 damage.<br/>Fire passes through any walls or beings in the way.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Abyss Dragon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/19-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>300</div>
+              <div>Atk</div>
+              <div>90</div>
+              <div>Def</div>
+              <div>65</div>
+              <div>Exp</div>
+              <div>2800</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Dragon</div>
+            </div>
+            <div class="monster_text">Breathes fire anywhere on the floor, dealing 40 damage.<br/>Fire passes through any walls or beings in the way.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Ghost Radish Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Ghost Radish</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/20-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>40</div>
+              <div>Atk</div>
+              <div>18</div>
+              <div>Def</div>
+              <div>15</div>
+              <div>Exp</div>
+              <div>49</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Ghost</div>
+            </div>
+            <div class="monster_text">Throws Poison Grass.<br/>May drop Poison Grass when defeated.<br/>Damaged by thrown Antidote Grass.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Daze Radish</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/20-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>80</div>
+              <div>Atk</div>
+              <div>37</div>
+              <div>Def</div>
+              <div>27</div>
+              <div>Exp</div>
+              <div>400</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Ghost</div>
+            </div>
+            <div class="monster_text">Throws Confusion Grass.<br/>If the target is already inflicted with Confused status,<br/>it throws Poison Grass instead.<br/>May drop Confusion Grass when defeated.<br/>Damaged by thrown Antidote Grass.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Sleep Radish</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/20-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>135</div>
+              <div>Atk</div>
+              <div>47</div>
+              <div>Def</div>
+              <div>38</div>
+              <div>Exp</div>
+              <div>900</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Ghost</div>
+            </div>
+            <div class="monster_text">Throws Sedating Grass.<br/>If the target is already inflicted with Asleep status,<br/>it throws Poison Grass instead.<br/>May drop Sedating Grass when defeated.<br/>Damaged by thrown Antidote Grass.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Frenzy Radish</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/20-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>195</div>
+              <div>Atk</div>
+              <div>57</div>
+              <div>Def</div>
+              <div>55</div>
+              <div>Exp</div>
+              <div>1150</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Ghost</div>
+            </div>
+            <div class="monster_text">Throws Berserk Seed.<br/>If the target is already inflicted with Berserk status,<br/>it throws Poison Grass instead.<br/>May drop Berserk Seed when defeated.<br/>Damaged by thrown Antidote Grass.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Skull Mage Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Skull Mage</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/21-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>77</div>
+              <div>Atk</div>
+              <div>31</div>
+              <div>Def</div>
+              <div>21</div>
+              <div>Exp</div>
+              <div>210</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Ghost</div>
+            </div>
+            <div class="monster_text">Shoots a magic bullet that causes one of the following effects:<br/>Warps target, increases Action Speed by 1, knocks target<br/>back 10 tiles, or switches location with target.</div>
+            <div class="monster_notes">Special attack blocked by Magic Cancel rune.</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Skull Wizard</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/21-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>88</div>
+              <div>Atk</div>
+              <div>35</div>
+              <div>Def</div>
+              <div>24</div>
+              <div>Exp</div>
+              <div>250</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Ghost</div>
+            </div>
+            <div class="monster_text">Shoots a magic bullet that causes one of the following effects:<br/>Confused status, deals 20 damage, warps target to<br/>stairs and inflicts Paralyzed status, or transforms target into<br/>a monster.</div>
+            <div class="monster_notes">Special attack blocked by Magic Cancel rune.</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Skullmancer</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/21-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>111</div>
+              <div>Atk</div>
+              <div>50</div>
+              <div>Def</div>
+              <div>41</div>
+              <div>Exp</div>
+              <div>888</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Ghost</div>
+            </div>
+            <div class="monster_text">Shoots a magic bullet that causes one of the following effects:<br/>Paralyzed status, Sealed status, Onigiri status, Disguised status,<br/>Action Speed decreased by 1, or Level decreased by 1.</div>
+            <div class="monster_notes">Special attack blocked by Magic Cancel rune.</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Skull Lord</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/21-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>188</div>
+              <div>Atk</div>
+              <div>55</div>
+              <div>Def</div>
+              <div>55</div>
+              <div>Exp</div>
+              <div>1250</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Ghost</div>
+            </div>
+            <div class="monster_text">Shoots a magic bullet that causes one of the following effects:<br/>Asleep status, Blind status, Level decreased by 3, or deals 40 damage.</div>
+            <div class="monster_notes">Special attack blocked by Magic Cancel rune.</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Gazer Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Gazer</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/22-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>30</div>
+              <div>Atk</div>
+              <div>18</div>
+              <div>Def</div>
+              <div>14</div>
+              <div>Exp</div>
+              <div>40</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Emits a light that inflicts Hypnotized status on nearby foes,<br/>forcing the target to do whatever it wants.</div>
+            <div class="monster_notes">Special attack blocked by Hypnosisproof rune.</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Super Gazer</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/22-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>66</div>
+              <div>Atk</div>
+              <div>30</div>
+              <div>Def</div>
+              <div>26</div>
+              <div>Exp</div>
+              <div>222</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Emits a light that inflicts Hypnotized status on nearby foes,<br/>forcing the target to do whatever it wants.</div>
+            <div class="monster_notes">Special attack blocked by Hypnosisproof rune.</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Hyper Gazer</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/22-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>126</div>
+              <div>Atk</div>
+              <div>55</div>
+              <div>Def</div>
+              <div>45</div>
+              <div>Exp</div>
+              <div>922</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Emits a light that inflicts Hypnotized status on nearby foes,<br/>forcing the target to do whatever it wants.</div>
+            <div class="monster_notes">Special attack blocked by Hypnosisproof rune.</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Ultra Gazer</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/22-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>196</div>
+              <div>Atk</div>
+              <div>60</div>
+              <div>Def</div>
+              <div>55</div>
+              <div>Exp</div>
+              <div>1322</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Emits a light that inflicts Hypnotized status on foes in the<br/>same room, forcing the target to do whatever it wants.</div>
+            <div class="monster_notes">Special attack blocked by Hypnosisproof rune.<br/>Drops 3000 Gitan when defeated.</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Twisty Hani Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Twisty Hani</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/23-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>35</div>
+              <div>Atk</div>
+              <div>12</div>
+              <div>Def</div>
+              <div>15</div>
+              <div>Exp</div>
+              <div>20</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining</div>
+            </div>
+            <div class="monster_text">Twists and twirls, decreasing the target's Level by 1.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Floppy Hani</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/23-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>85</div>
+              <div>Atk</div>
+              <div>39</div>
+              <div>Def</div>
+              <div>39</div>
+              <div>Exp</div>
+              <div>390</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining</div>
+            </div>
+            <div class="monster_text">Twists and twirls, decreasing the target's Level by 1.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Droopy Hani</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/23-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>120</div>
+              <div>Atk</div>
+              <div>49</div>
+              <div>Def</div>
+              <div>49</div>
+              <div>Exp</div>
+              <div>780</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining</div>
+            </div>
+            <div class="monster_text">Twists and twirls, decreasing the target's Level by 1.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Wrinkly Hani</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/23-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>190</div>
+              <div>Atk</div>
+              <div>60</div>
+              <div>Def</div>
+              <div>59</div>
+              <div>Exp</div>
+              <div>1170</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining</div>
+            </div>
+            <div class="monster_text">Twists and twirls, decreasing the target's Level by 1.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Polygon Spinna Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Polygon Spinna</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/24-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>33</div>
+              <div>Atk</div>
+              <div>16</div>
+              <div>Def</div>
+              <div>17</div>
+              <div>Exp</div>
+              <div>28</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining</div>
+            </div>
+            <div class="monster_text">Warps right in front of a target in the same room.<br/>Does a weird dance, decreasing Fullness by 3.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Polygon Shaka</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/24-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>70</div>
+              <div>Atk</div>
+              <div>34</div>
+              <div>Def</div>
+              <div>33</div>
+              <div>Exp</div>
+              <div>360</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining</div>
+            </div>
+            <div class="monster_text">Warps right in front of a target in the same room.<br/>Does a weird dance, decreasing Fullness by 5.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Polygon Singa</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/24-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>129</div>
+              <div>Atk</div>
+              <div>40</div>
+              <div>Def</div>
+              <div>40</div>
+              <div>Exp</div>
+              <div>445</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining</div>
+            </div>
+            <div class="monster_text">Warps right in front of a target in the same room.<br/>Does a weird dance, decreasing Max Fullness by 7.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Polygon Stunna</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/24-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>229</div>
+              <div>Atk</div>
+              <div>50</div>
+              <div>Def</div>
+              <div>55</div>
+              <div>Exp</div>
+              <div>890</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining</div>
+            </div>
+            <div class="monster_text">Warps right in front of a target in the same room.<br/>Does a weird dance, decreasing Max Fullness by 10.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Scorpion Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Scorpion</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/25-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>37</div>
+              <div>Atk</div>
+              <div>14</div>
+              <div>Def</div>
+              <div>14</div>
+              <div>Exp</div>
+              <div>33</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining</div>
+            </div>
+            <div class="monster_text">Stings the target, decreasing Strength by 1.<br/>Being inflicted with poison increases its Attack Power.<br/>Damaged by thrown Antidote Grass.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Vile Scorpion</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/25-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>108</div>
+              <div>Atk</div>
+              <div>45</div>
+              <div>Def</div>
+              <div>33</div>
+              <div>Exp</div>
+              <div>500</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining</div>
+            </div>
+            <div class="monster_text">Stings the target, decreasing Strength by 2.<br/>Being inflicted with poison increases its Attack Power.<br/>Damaged by thrown Antidote Grass.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Terror Scorpion</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/25-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>185</div>
+              <div>Atk</div>
+              <div>55</div>
+              <div>Def</div>
+              <div>45</div>
+              <div>Exp</div>
+              <div>900</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining</div>
+            </div>
+            <div class="monster_text">Stings the target, decreasing Max Strength by 1.<br/>Being inflicted with poison increases its Attack Power.<br/>Damaged by thrown Antidote Grass.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Demon Scorpion</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/25-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>295</div>
+              <div>Atk</div>
+              <div>73</div>
+              <div>Def</div>
+              <div>55</div>
+              <div>Exp</div>
+              <div>1350</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining</div>
+            </div>
+            <div class="monster_text">Stings the target, decreasing Max Strength by 2.<br/>Being inflicted with poison increases its Attack Power.<br/>Damaged by thrown Antidote Grass.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Field Knave Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Field Knave</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/26-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>50</div>
+              <div>Atk</div>
+              <div>15</div>
+              <div>Def</div>
+              <div>16</div>
+              <div>Exp</div>
+              <div>120</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Throws Weeds.<br/>Turns items on the ground into Weeds.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Pot Knave</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/26-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>65</div>
+              <div>Atk</div>
+              <div>35</div>
+              <div>Def</div>
+              <div>25</div>
+              <div>Exp</div>
+              <div>300</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Throws Weeds, filling up Pots and Incense in the target's<br/>inventory.<br/>Turns items on the ground into Weeds.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Bag Knave</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/26-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>95</div>
+              <div>Atk</div>
+              <div>40</div>
+              <div>Def</div>
+              <div>35</div>
+              <div>Exp</div>
+              <div>600</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Throws Weeds, knocking items out of the target's inventory.<br/>Turns items on the ground into Weeds.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Nimble Knave</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/26-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>145</div>
+              <div>Atk</div>
+              <div>50</div>
+              <div>Def</div>
+              <div>40</div>
+              <div>Exp</div>
+              <div>850</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 1</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Throws Weeds, knocking items out of the target's inventory.<br/>Dashes around and turns items on the ground into Weeds.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Nigiri Baby Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Nigiri Baby</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/27-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>17</div>
+              <div>Atk</div>
+              <div>8</div>
+              <div>Def</div>
+              <div>2</div>
+              <div>Exp</div>
+              <div>11</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Turns 1 item(s) in an adjacent target's inventory into Large Onigiri,<br/>but this attack may fail.<br/>Throwing items like Onigiri will stop it.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Nigiri Morph</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/27-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>88</div>
+              <div>Atk</div>
+              <div>35</div>
+              <div>Def</div>
+              <div>30</div>
+              <div>Exp</div>
+              <div>255</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Turns 1 item(s) in an adjacent target's inventory into Large Onigiri.<br/>Throwing items like Onigiri will stop it.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Nigiri Boss</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/27-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>133</div>
+              <div>Atk</div>
+              <div>45</div>
+              <div>Def</div>
+              <div>42</div>
+              <div>Exp</div>
+              <div>555</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Inflicts Onigiri status on a target.<br/>Throwing items like Onigiri will stop it.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Nigiri Honcho</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/27-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>165</div>
+              <div>Atk</div>
+              <div>61</div>
+              <div>Def</div>
+              <div>54</div>
+              <div>Exp</div>
+              <div>1230</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Inflicts Onigiri status on a target and turns 1 item(s)<br/>in their inventory into Large Onigiri.<br/>It will target Pots in particular.<br/>Throwing items like Onigiri will stop it.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Froggo Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Froggo</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/28-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>23</div>
+              <div>Atk</div>
+              <div>10</div>
+              <div>Def</div>
+              <div>13</div>
+              <div>Exp</div>
+              <div>18</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Approaches any Gitan it finds on the ground.<br/>Steals Gitan from nearby targets and warps away.<br/>Always drops Gitan when defeated.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Froggucchi</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/28-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>60</div>
+              <div>Atk</div>
+              <div>20</div>
+              <div>Def</div>
+              <div>30</div>
+              <div>Exp</div>
+              <div>80</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Approaches any Gitan it finds on the ground.<br/>Steals Gitan from nearby targets and warps away.<br/>Always drops Gitan when defeated.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Froggon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/28-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>100</div>
+              <div>Atk</div>
+              <div>30</div>
+              <div>Def</div>
+              <div>45</div>
+              <div>Exp</div>
+              <div>350</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Approaches any Gitan it finds on the ground.<br/>Steals Gitan from nearby targets and warps away.<br/>Always drops Gitan when defeated.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Frogginator</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/28-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>140</div>
+              <div>Atk</div>
+              <div>40</div>
+              <div>Def</div>
+              <div>60</div>
+              <div>Exp</div>
+              <div>700</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Picks up and throws any Gitan it finds on the ground.<br/>Steals Gitan from nearby targets and warps away.<br/>Always drops Gitan when defeated.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Thiefwalrus Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Thiefwalrus</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/29-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>65</div>
+              <div>Atk</div>
+              <div>25</div>
+              <div>Def</div>
+              <div>23</div>
+              <div>Exp</div>
+              <div>75</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Steals items from the ground or target's inventory, then warps.<br/>When it has an item, it will focus on running away.<br/>Always drops items when defeated.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Greenwalrus</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/29-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>88</div>
+              <div>Atk</div>
+              <div>30</div>
+              <div>Def</div>
+              <div>27</div>
+              <div>Exp</div>
+              <div>240</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Steals items from the ground or target's inventory, then warps.<br/>When it has an item, it will focus on running away.<br/>Always drops items when defeated.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Ironwalrus</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/29-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>138</div>
+              <div>Atk</div>
+              <div>35</div>
+              <div>Def</div>
+              <div>55</div>
+              <div>Exp</div>
+              <div>860</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Steals items from the ground or target's inventory, then warps.<br/>If the inventory is empty, it will steal an equipped item.<br/>When it has an item, it will focus on running away.<br/>Always drops items when defeated.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Magicwalrus</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/29-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>188</div>
+              <div>Atk</div>
+              <div>40</div>
+              <div>Def</div>
+              <div>75</div>
+              <div>Exp</div>
+              <div>1650</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Steals items from the ground or target's inventory, then warps.<br/>If the inventory is empty, it will steal an equipped item.<br/>When it warps, it leaves behind a decoy holding Weeds.<br/>Always drops items when defeated.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Hat Urchin Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Hat Urchin</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/30-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>16</div>
+              <div>Atk</div>
+              <div>5</div>
+              <div>Def</div>
+              <div>3</div>
+              <div>Exp</div>
+              <div>10</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Plays a prank on the target, stealing an item from their inventory<br/>and throwing it away.<br/>It will target Stave.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Hat Prankster</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/30-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>70</div>
+              <div>Atk</div>
+              <div>15</div>
+              <div>Def</div>
+              <div>6</div>
+              <div>Exp</div>
+              <div>50</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Plays a prank on the target, stealing an item from their inventory<br/>and throwing it away.<br/>It will target Stave or Grass.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Hat Brat</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/30-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>125</div>
+              <div>Atk</div>
+              <div>45</div>
+              <div>Def</div>
+              <div>9</div>
+              <div>Exp</div>
+              <div>880</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Plays a prank on the target, stealing an item from their inventory<br/>and throwing it away.<br/>It will target Stave, Grass, or Food.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Hat Rascal</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/30-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>170</div>
+              <div>Atk</div>
+              <div>85</div>
+              <div>Def</div>
+              <div>12</div>
+              <div>Exp</div>
+              <div>1080</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Plays a prank on the target, stealing an item from their inventory<br/>and throwing it away.<br/>It will target Stave, Grass, Food, or Scroll.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Curse Girl Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Curse Girl</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/31-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>65</div>
+              <div>Atk</div>
+              <div>28</div>
+              <div>Def</div>
+              <div>28</div>
+              <div>Exp</div>
+              <div>180</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Curses an equipped Shield.<br/>Damaged by thrown Exorcism Scrolls.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Cursister</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/31-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>115</div>
+              <div>Atk</div>
+              <div>38</div>
+              <div>Def</div>
+              <div>38</div>
+              <div>Exp</div>
+              <div>380</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Curses an equipped Weapon or Shield.<br/>Damaged by thrown Exorcism Scrolls.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Curse Matron</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/31-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>145</div>
+              <div>Atk</div>
+              <div>53</div>
+              <div>Def</div>
+              <div>48</div>
+              <div>Exp</div>
+              <div>1060</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Curses up to 2 of equipped Weapon, Shield, or Bracelets.<br/>Damaged by thrown Exorcism Scrolls.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Cursenior</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/31-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>205</div>
+              <div>Atk</div>
+              <div>65</div>
+              <div>Def</div>
+              <div>58</div>
+              <div>Exp</div>
+              <div>1360</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Curses up to 2 items, prioritizing equipped items.<br/>Damaged by thrown Exorcism Scrolls.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Mudkin Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Mudkin</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/32-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>70</div>
+              <div>Atk</div>
+              <div>5</div>
+              <div>Def</div>
+              <div>9</div>
+              <div>Exp</div>
+              <div>53</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining, Aquatic</div>
+            </div>
+            <div class="monster_text">Decreases an equipped Weapon or Shield's Upgrade Value by 1.<br/>May multiply when it takes damage.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Muddy</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/32-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>75</div>
+              <div>Atk</div>
+              <div>25</div>
+              <div>Def</div>
+              <div>33</div>
+              <div>Exp</div>
+              <div>230</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining, Aquatic</div>
+            </div>
+            <div class="monster_text">Decreases an equipped Weapon or Shield's Upgrade Value by 2.<br/>May multiply when it takes damage.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Mudster</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/32-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>140</div>
+              <div>Atk</div>
+              <div>35</div>
+              <div>Def</div>
+              <div>43</div>
+              <div>Exp</div>
+              <div>460</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining, Aquatic</div>
+            </div>
+            <div class="monster_text">Decreases an equipped Weapon or Shield's Upgrade Value by 1.<br/>May remove Runes from an equipped Weapon or Shield.<br/>May multiply when it takes damage.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Mudder</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/32-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>145</div>
+              <div>Atk</div>
+              <div>45</div>
+              <div>Def</div>
+              <div>53</div>
+              <div>Exp</div>
+              <div>920</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining, Aquatic</div>
+            </div>
+            <div class="monster_text">Decreases an equipped Weapon or Shield's Upgrade Value by 2.<br/>May remove Runes from an equipped Weapon or Shield.<br/>May multiply when it takes damage.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Swordsman Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Swordsman</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/33-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>77</div>
+              <div>Atk</div>
+              <div>30</div>
+              <div>Def</div>
+              <div>25</div>
+              <div>Exp</div>
+              <div>122</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Knocks an equipped Shield to the ground behind the target.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Fencer</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/33-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>140</div>
+              <div>Atk</div>
+              <div>49</div>
+              <div>Def</div>
+              <div>48</div>
+              <div>Exp</div>
+              <div>1000</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Knocks an equipped Weapon or Shield to the ground<br/>behind the target.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Battler</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/33-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>200</div>
+              <div>Atk</div>
+              <div>69</div>
+              <div>Def</div>
+              <div>50</div>
+              <div>Exp</div>
+              <div>1200</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Knocks an equipped Weapon, Shield, or Bracelet to the ground<br/>behind the target.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Swordmaster</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/33-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>250</div>
+              <div>Atk</div>
+              <div>77</div>
+              <div>Def</div>
+              <div>55</div>
+              <div>Exp</div>
+              <div>1400</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Knocks an equipped Weapon, Shield, or Bracelet to the ground<br/>somewhere around the target.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Pullfrog Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Pullfrog</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/34-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>15</div>
+              <div>Atk</div>
+              <div>5</div>
+              <div>Def</div>
+              <div>4</div>
+              <div>Exp</div>
+              <div>8</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Uses its long tongue to pull targets in a straight line within 3 tile(s).<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Dartingfrog</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/34-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>75</div>
+              <div>Atk</div>
+              <div>40</div>
+              <div>Def</div>
+              <div>28</div>
+              <div>Exp</div>
+              <div>300</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Uses its long tongue to pull targets in a straight line<br/>within 5 tile(s) and then attacks them.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Fleefrog</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/34-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>125</div>
+              <div>Atk</div>
+              <div>60</div>
+              <div>Def</div>
+              <div>45</div>
+              <div>Exp</div>
+              <div>900</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Uses its long tongue to pull targets in a straight line<br/>within 10 tile(s) and then attacks them.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Streamingfrog</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/34-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>175</div>
+              <div>Atk</div>
+              <div>80</div>
+              <div>Def</div>
+              <div>60</div>
+              <div>Exp</div>
+              <div>1800</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic</div>
+            </div>
+            <div class="monster_text">Uses its long tongue to pull all beings in a straight line<br/>within 10 tile(s) and then attacks an adjacent target.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Floor Dragon Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Floor Dragon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/35-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>55</div>
+              <div>Atk</div>
+              <div>25</div>
+              <div>Def</div>
+              <div>20</div>
+              <div>Exp</div>
+              <div>80</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Dragon</div>
+            </div>
+            <div class="monster_text">Burrows through the ground to move behind the target,<br/>initiating a pincer attack with another monster.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Dragon Head</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/35-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>88</div>
+              <div>Atk</div>
+              <div>31</div>
+              <div>Def</div>
+              <div>25</div>
+              <div>Exp</div>
+              <div>266</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Dragon</div>
+            </div>
+            <div class="monster_text">Burrows through the ground to move behind the target,<br/>initiating a pincer attack with another monster.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Dragon Pit</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/35-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>130</div>
+              <div>Atk</div>
+              <div>54</div>
+              <div>Def</div>
+              <div>40</div>
+              <div>Exp</div>
+              <div>960</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 1</div>
+              <div>Type</div>
+              <div>Dragon</div>
+            </div>
+            <div class="monster_text">Burrows through the ground to move behind the target,<br/>initiating a pincer attack with another monster.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Hiding Dragon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/35-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>230</div>
+              <div>Atk</div>
+              <div>70</div>
+              <div>Def</div>
+              <div>60</div>
+              <div>Exp</div>
+              <div>1500</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 1</div>
+              <div>Type</div>
+              <div>Dragon</div>
+            </div>
+            <div class="monster_text">Burrows through the ground to move behind the target,<br/>initiating a pincer attack with another monster.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Tiger Tosser Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Tiger Thrower</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/36-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>68</div>
+              <div>Atk</div>
+              <div>26</div>
+              <div>Def</div>
+              <div>22</div>
+              <div>Exp</div>
+              <div>77</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Grabs and throws a nearby being up to 5 tile(s) away,<br/>dealing 5 damage if it hits something.<br/>It may try to throw you at another being, Trap, or Monster House.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Tiger Hurler</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/36-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>135</div>
+              <div>Atk</div>
+              <div>50</div>
+              <div>Def</div>
+              <div>45</div>
+              <div>Exp</div>
+              <div>800</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Grabs and throws a nearby being up to 10 tile(s) away,<br/>dealing 10 damage if it hits something.<br/>It may try to throw you at another being, Trap, or Monster House.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Tiger Chucker</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/36-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>155</div>
+              <div>Atk</div>
+              <div>60</div>
+              <div>Def</div>
+              <div>55</div>
+              <div>Exp</div>
+              <div>1800</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Grabs and throws a nearby being up to 15 tile(s) away,<br/>dealing 15 damage if it hits something.<br/>It may try to throw you at another being, Trap, or Monster House.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Tiger Launcher</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/36-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>255</div>
+              <div>Atk</div>
+              <div>83</div>
+              <div>Def</div>
+              <div>65</div>
+              <div>Exp</div>
+              <div>2800</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Grabs and throws a nearby being up to 20 tile(s) away,<br/>dealing 20 damage if it hits something.<br/>It may try to throw you at another being, Trap, or Monster House.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Karakuroid Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Karakuroid</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/37-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>40</div>
+              <div>Atk</div>
+              <div>20</div>
+              <div>Def</div>
+              <div>13</div>
+              <div>Exp</div>
+              <div>30</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 1</div>
+              <div>Type</div>
+              <div>Metal</div>
+            </div>
+            <div class="monster_text">Sets a Trap on the ground.<br/>After setting a Trap, it becomes unable to move for a while.<br/>May use the last of its strength to set a Trap when defeated.<br/>Splashing it with water makes it unable to set a Trap.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Steamroid</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/37-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>100</div>
+              <div>Atk</div>
+              <div>45</div>
+              <div>Def</div>
+              <div>48</div>
+              <div>Exp</div>
+              <div>333</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 1</div>
+              <div>Type</div>
+              <div>Metal</div>
+            </div>
+            <div class="monster_text">Sets a Trap on the ground.<br/>After setting a Trap, it becomes unable to move for a while.<br/>May use the last of its strength to set a Trap when defeated.<br/>Splashing it with water makes it unable to set a Trap.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Electroid</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/37-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>150</div>
+              <div>Atk</div>
+              <div>56</div>
+              <div>Def</div>
+              <div>53</div>
+              <div>Exp</div>
+              <div>1333</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 1</div>
+              <div>Type</div>
+              <div>Metal</div>
+            </div>
+            <div class="monster_text">Sets a Trap on the ground.<br/>After setting a Trap, it becomes unable to move for a while.<br/>May use the last of its strength to set a Trap when defeated.<br/>Splashing it with water makes it unable to set a Trap.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Cyberoid</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/37-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>175</div>
+              <div>Atk</div>
+              <div>69</div>
+              <div>Def</div>
+              <div>60</div>
+              <div>Exp</div>
+              <div>1666</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 1</div>
+              <div>Type</div>
+              <div>Metal</div>
+            </div>
+            <div class="monster_text">Sets a Trap on the ground.<br/>After setting a Trap, it becomes unable to move for a while.<br/>May use the last of its strength to set a Trap when defeated.<br/>Splashing it with water makes it unable to set a Trap.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Soldier Ant Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Soldier Ant</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/38-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>50</div>
+              <div>Atk</div>
+              <div>25</div>
+              <div>Def</div>
+              <div>16</div>
+              <div>Exp</div>
+              <div>44</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Digs through walls as it wanders around.<br/>Doesn't target anyone who stays away from it, but it will<br/>attack if you get too close.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Corporal Ant</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/38-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>100</div>
+              <div>Atk</div>
+              <div>40</div>
+              <div>Def</div>
+              <div>20</div>
+              <div>Exp</div>
+              <div>220</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Digs through walls as it wanders around.<br/>Doesn't target anyone who stays away from it, but it will<br/>attack if you get too close.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Captain Ant</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/38-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>110</div>
+              <div>Atk</div>
+              <div>55</div>
+              <div>Def</div>
+              <div>39</div>
+              <div>Exp</div>
+              <div>440</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Digs through walls as it wanders around.<br/>Attempts to block the room's exits and passageways with<br/>earthen walls, which can be destroyed with attacks.<br/>Doesn't target anyone who stays away from it, but it will<br/>attack if you get too close.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : General Ant</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/38-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>125</div>
+              <div>Atk</div>
+              <div>76</div>
+              <div>Def</div>
+              <div>49</div>
+              <div>Exp</div>
+              <div>880</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Digs through walls as it wanders around.<br/>Attempts to block the room's exits and passageways with<br/>earthen walls, which can be destroyed with attacks.<br/>Doesn't target anyone who stays away from it, but it will<br/>attack if you get too close.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Explochin Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Explochin</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/39-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>120</div>
+              <div>Atk</div>
+              <div>25</div>
+              <div>Def</div>
+              <div>22</div>
+              <div>Exp</div>
+              <div>55</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Exploding, Cyclops, Aquatic</div>
+            </div>
+            <div class="monster_text">Stops taking actions when its HP reaches 50% or less.<br/>When its HP is critically low, it will self-destruct.<br/>Being hit by an explosion will also cause it to explode.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Concusschin</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/39-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>160</div>
+              <div>Atk</div>
+              <div>35</div>
+              <div>Def</div>
+              <div>27</div>
+              <div>Exp</div>
+              <div>110</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Exploding, Cyclops, Aquatic</div>
+            </div>
+            <div class="monster_text">Stops taking actions when its HP reaches 50% or less.<br/>When its HP is critically low, it will self-destruct.<br/>Being hit by an explosion will also cause it to explode.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Fulminachin</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/39-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>200</div>
+              <div>Atk</div>
+              <div>45</div>
+              <div>Def</div>
+              <div>32</div>
+              <div>Exp</div>
+              <div>440</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Exploding, Cyclops, Aquatic</div>
+            </div>
+            <div class="monster_text">Stops taking actions when its HP reaches 50% or less.<br/>When its HP is critically low, it will self-destruct.<br/>Being hit by an explosion will also cause it to explode.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Detonachin</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/39-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>260</div>
+              <div>Atk</div>
+              <div>55</div>
+              <div>Def</div>
+              <div>37</div>
+              <div>Exp</div>
+              <div>1440</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Exploding, Cyclops, Aquatic</div>
+            </div>
+            <div class="monster_text">Stops taking actions when its HP reaches 50% or less.<br/>When its HP is critically low, it will self-destruct.<br/>Being hit by an explosion will also cause it to explode.<br/>While on water, Attack Power increases and HP recovers each turn.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Hoppin' Batter Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Hoppin' Batter</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/40-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>20</div>
+              <div>Atk</div>
+              <div>7</div>
+              <div>Def</div>
+              <div>3</div>
+              <div>Exp</div>
+              <div>9</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Has a 10% chance of hitting thrown items, Stave magic bullets,<br/>and cannonballs back at the attacker.<br/>If this fails, the projectile lands nearby.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Hoppin' Hitter</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/40-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>32</div>
+              <div>Atk</div>
+              <div>22</div>
+              <div>Def</div>
+              <div>15</div>
+              <div>Exp</div>
+              <div>34</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Has a 30% chance of hitting thrown items, Stave magic bullets,<br/>and cannonballs back at the attacker.<br/>If this fails, the projectile lands nearby.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Hoppin' Slugger</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/40-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>72</div>
+              <div>Atk</div>
+              <div>39</div>
+              <div>Def</div>
+              <div>31</div>
+              <div>Exp</div>
+              <div>400</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Has a 50% chance of hitting thrown items, Stave magic bullets,<br/>and cannonballs back at the attacker.<br/>If this fails, the projectile lands nearby.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Hoppin' Slammer</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/40-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>125</div>
+              <div>Atk</div>
+              <div>49</div>
+              <div>Def</div>
+              <div>49</div>
+              <div>Exp</div>
+              <div>820</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Has a 100% chance of hitting thrown items, Stave magic bullets,<br/>and cannonballs back at the attacker.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Fierous Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Fierous</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/41-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>60</div>
+              <div>Atk</div>
+              <div>25</div>
+              <div>Def</div>
+              <div>22</div>
+              <div>Exp</div>
+              <div>55</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Burns any items thrown at it with its fiery body.<br/>Cannot be damaged by explosions.<br/>Attacking it with fire causes it to level up.<br/>Splashing it with water defeats it.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Blazeous</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/41-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>92</div>
+              <div>Atk</div>
+              <div>36</div>
+              <div>Def</div>
+              <div>24</div>
+              <div>Exp</div>
+              <div>150</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Burns any items thrown at it with its fiery body.<br/>Explosions cause it to multiply itself by 1.<br/>Attacking it with fire causes it to level up.<br/>Splashing it with water defeats it.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Igneous</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/41-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>165</div>
+              <div>Atk</div>
+              <div>56</div>
+              <div>Def</div>
+              <div>45</div>
+              <div>Exp</div>
+              <div>999</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Burns any items thrown at it with its fiery body.<br/>Explosions cause it to multiply itself by 1.<br/>Attacking it with fire causes it to level up.<br/>Splashing it with water defeats it.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Infernous</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/41-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>285</div>
+              <div>Atk</div>
+              <div>69</div>
+              <div>Def</div>
+              <div>55</div>
+              <div>Exp</div>
+              <div>1999</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Burns any items thrown at it with its fiery body.<br/>Explosions cause it to multiply itself by 1.<br/>Attacking it with fire causes it to power up.<br/>Splashing it with water defeats it.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Zapdon Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Zapdon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/42-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>80</div>
+              <div>Atk</div>
+              <div>43</div>
+              <div>Def</div>
+              <div>35</div>
+              <div>Exp</div>
+              <div>105</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Slow</div>
+              <div>Type</div>
+              <div>Metal</div>
+            </div>
+            <div class="monster_text">Eletrifies after taking damage several times, and then<br/>strikes with lightning that deals 25 damage.<br/>Damages anything that attacks it while electrified with lightning.<br/>Splashing it with water makes it unable to become electrified.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Rumbledon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/42-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>125</div>
+              <div>Atk</div>
+              <div>53</div>
+              <div>Def</div>
+              <div>45</div>
+              <div>Exp</div>
+              <div>899</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Slow</div>
+              <div>Type</div>
+              <div>Metal</div>
+            </div>
+            <div class="monster_text">Eletrifies after taking damage several times, and then<br/>strikes with lightning that deals 30 damage.<br/>Damages anything that attacks it while electrified with lightning.<br/>Splashing it with water makes it unable to become electrified.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Clapdon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/42-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>195</div>
+              <div>Atk</div>
+              <div>73</div>
+              <div>Def</div>
+              <div>55</div>
+              <div>Exp</div>
+              <div>1888</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Slow</div>
+              <div>Type</div>
+              <div>Metal</div>
+            </div>
+            <div class="monster_text">Eletrifies after taking damage several times, and then<br/>strikes with lightning that deals 35 damage.<br/>Damages anything that attacks it while electrified with lightning.<br/>Splashing it with water makes it unable to become electrified.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Boomdon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/42-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>285</div>
+              <div>Atk</div>
+              <div>93</div>
+              <div>Def</div>
+              <div>65</div>
+              <div>Exp</div>
+              <div>2999</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Slow</div>
+              <div>Type</div>
+              <div>Metal</div>
+            </div>
+            <div class="monster_text">Eletrifies after taking damage several times, and then<br/>strikes with lightning that deals 40 damage.<br/>Damages anything that attacks it while electrified with lightning.<br/>Splashing it with water makes it unable to become electrified.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Schubell Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Schubell</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/43-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>50</div>
+              <div>Atk</div>
+              <div>20</div>
+              <div>Def</div>
+              <div>20</div>
+              <div>Exp</div>
+              <div>100</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Rings a bell, summoning 1 monster(s).</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Menbell</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/43-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>100</div>
+              <div>Atk</div>
+              <div>30</div>
+              <div>Def</div>
+              <div>30</div>
+              <div>Exp</div>
+              <div>400</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Rings a bell, summoning up to 2 monster(s).</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Bellthoven</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/43-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>150</div>
+              <div>Atk</div>
+              <div>45</div>
+              <div>Def</div>
+              <div>45</div>
+              <div>Exp</div>
+              <div>1111</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Rings a bell, summoning up to 3 monster(s).</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Showpin</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/43-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>250</div>
+              <div>Atk</div>
+              <div>55</div>
+              <div>Def</div>
+              <div>55</div>
+              <div>Exp</div>
+              <div>1555</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Rings a bell, summoning up to 3 monster(s).</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### N'dubba Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : N'dubba</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/44-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>32</div>
+              <div>Atk</div>
+              <div>16</div>
+              <div>Def</div>
+              <div>8</div>
+              <div>Exp</div>
+              <div>16</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Metal</div>
+            </div>
+            <div class="monster_text">Appears on the floor disguised as an item.<br/>Reveals its true form and attacks when picked up.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : N'dulu</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/44-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>70</div>
+              <div>Atk</div>
+              <div>40</div>
+              <div>Def</div>
+              <div>31</div>
+              <div>Exp</div>
+              <div>230</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Metal</div>
+            </div>
+            <div class="monster_text">Appears on the floor disguised as an item.<br/>Reveals its true form and attacks when used or put in a pot.<br/>Progressing through the floor without using it will also<br/>reveal its true form.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : N'dama</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/44-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>135</div>
+              <div>Atk</div>
+              <div>50</div>
+              <div>Def</div>
+              <div>35</div>
+              <div>Exp</div>
+              <div>650</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Metal</div>
+            </div>
+            <div class="monster_text">Appears on the floor disguised as an item.<br/>Reveals its true form and attacks when used.<br/>Progressing through the floor without using it will not<br/>reveal its true form.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : N'daloon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/44-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>205</div>
+              <div>Atk</div>
+              <div>65</div>
+              <div>Def</div>
+              <div>45</div>
+              <div>Exp</div>
+              <div>1250</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Metal</div>
+            </div>
+            <div class="monster_text">Appears on the floor disguised as an item.<br/>It's impossible to know when it will show its true form.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Mixer Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Mixer</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/45-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>78</div>
+              <div>Atk</div>
+              <div>39</div>
+              <div>Def</div>
+              <div>29</div>
+              <div>Exp</div>
+              <div>280</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Swallows up to 2 thrown items and synthesizes them. Each item it<br/>swallows increases its Attack Power and removes status ailments.<br/>Drops any items it swallowed when defeated.<br/>Can perform Cross-Mixing not possible with a Synthesis Pot.<br/>Bellyexpand Seed increases the number of items it can swallow.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Mixermon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/45-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>98</div>
+              <div>Atk</div>
+              <div>50</div>
+              <div>Def</div>
+              <div>35</div>
+              <div>Exp</div>
+              <div>580</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Swallows up to 3 thrown items and synthesizes them. Each item it<br/>swallows increases its Attack Power and removes status ailments.<br/>Drops any items it swallowed when defeated.<br/>Can perform Cross-Mixing not possible with a Synthesis Pot.<br/>Bellyexpand Seed increases the number of items it can swallow.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Mixergon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/45-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>118</div>
+              <div>Atk</div>
+              <div>68</div>
+              <div>Def</div>
+              <div>40</div>
+              <div>Exp</div>
+              <div>880</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Swallows up to 4 thrown items and synthesizes them. Each item it<br/>swallows increases its Attack Power and removes status ailments.<br/>Drops any items it swallowed when defeated.<br/>Can perform Cross-Mixing not possible with a Synthesis Pot.<br/>Bellyexpand Seed increases the number of items it can swallow.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Mixerdon</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/45-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>177</div>
+              <div>Atk</div>
+              <div>78</div>
+              <div>Def</div>
+              <div>45</div>
+              <div>Exp</div>
+              <div>1180</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Swallows up to 5 thrown items and synthesizes them. Each item it<br/>swallows increases its Attack Power and removes status ailments.<br/>Drops any items it swallowed when defeated.<br/>Can perform Cross-Mixing not possible with a Synthesis Pot.<br/>Bellyexpand Seed increases the number of items it can swallow.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Egg Thing Family
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Egg Thing</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/46-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>5</div>
+              <div>Atk</div>
+              <div>2</div>
+              <div>Def</div>
+              <div>14</div>
+              <div>Exp</div>
+              <div>7</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 2</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Lies in Napping status but wakes and runs if you get near.<br/>Always drops Onigiri when defeated.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Running Egg</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/46-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>6</div>
+              <div>Atk</div>
+              <div>3</div>
+              <div>Def</div>
+              <div>15</div>
+              <div>Exp</div>
+              <div>8</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 2</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Lies in Napping status but wakes and runs if you get near.<br/>Warps away when attacked.<br/>Always drops Large Onigiri when defeated.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Flying Egg</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/46-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>7</div>
+              <div>Atk</div>
+              <div>4</div>
+              <div>Def</div>
+              <div>16</div>
+              <div>Exp</div>
+              <div>9</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 2</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Runs if you draw near and warps away when attacked.<br/>Always drops Huge Onigiri when defeated.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Hiding Egg</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/46-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>8</div>
+              <div>Atk</div>
+              <div>5</div>
+              <div>Def</div>
+              <div>17</div>
+              <div>Exp</div>
+              <div>10</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 2</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Runs if you draw near and warps away when attacked.<br/>Always drops Special Onigiri when defeated.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Golden Egg Thing
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Golden Egg Thing</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/47-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>9</div>
+              <div>Atk</div>
+              <div>6</div>
+              <div>Def</div>
+              <div>18</div>
+              <div>Exp</div>
+              <div>11</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 2</div>
+              <div>Type</div>
+              <div>Cyclops</div>
+            </div>
+            <div class="monster_text">Lies in Napping status but wakes and runs if you get near.<br/>Always drops Onigiri when defeated.<br/>Floors with Golden Egg Thing are said to hide something special.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Chow
+
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Chow</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/48-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>20</div>
+              <div>Atk</div>
+              <div>1</div>
+              <div>Def</div>
+              <div>1</div>
+              <div>Exp</div>
+              <div>5</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Swift 1</div>
+              <div>Type</div>
+              <div>Floating</div>
+            </div>
+            <div class="monster_text">Gets targeted and attacked by other monsters.<br/>Monsters that defeat Chow will level up and get stronger.<br/>It runs away from all other beings.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ### Dark Owl
 
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/dark_owl.png"/>
-</div>
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Dark Owl</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/49-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>90</div>
+              <div>Atk</div>
+              <div>16</div>
+              <div>Def</div>
+              <div>25</div>
+              <div>Exp</div>
+              <div>120</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Plunges its room into darkness, narrowing the field of view.<br/>Does not move from its position.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Crow Tengu
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Dark Owl</td>
-    <td>4</td>
-    <td>6</td>
-    <td>20</td>
-    <td>10</td>
-    <td rowspan="4">Normal</td>
-    <td rowspan="4">Turns the room dark.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Ghost Owl</td>
-    <td>7</td>
-    <td>9</td>
-    <td>25</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Dusk Owl</td>
-    <td>10</td>
-    <td>12</td>
-    <td>35</td>
-    <td>200</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Chaos Owl</td>
-    <td>15</td>
-    <td>21</td>
-    <td>40</td>
-    <td>650</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Dark Owl</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Ghost Owl</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Dusk Owl</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Chaos Owl</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Dead Soldier
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/dead_soldier.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Dead Soldier</td>
-    <td>3</td>
-    <td>4</td>
-    <td>1</td>
-    <td>4</td>
-    <td rowspan="4">Ghost</td>
-    <td rowspan="4">Possesses a monster and raises their level by 1.<br/>Only takes 1 damage from direct attacks,<br/>unless you have a Sickle Slayer equipped.<br/>Occasionally warps when attacked.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Dead Veteran</td>
-    <td>5</td>
-    <td>6</td>
-    <td>5</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Dead General</td>
-    <td>7</td>
-    <td>8</td>
-    <td>9</td>
-    <td>25</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Dead Shogun</td>
-    <td>10</td>
-    <td>15</td>
-    <td>11</td>
-    <td>300</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Dead Soldier</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Dead Veteran</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Dead General</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Dead Shogun</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-### Death Reaper
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/death_reaper.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Death Reaper</td>
-    <td>23</td>
-    <td>15</td>
-    <td>5</td>
-    <td>23</td>
-    <td>Ghost<br/>Floating<br/>Swift 1</td>
-    <td>Double speed, 1 attack.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Hell Reaper</td>
-    <td>45</td>
-    <td>16</td>
-    <td>7</td>
-    <td>130</td>
-    <td rowspan="3">Ghost<br/>Floating<br/>Swift 2</td>
-    <td>Double speed, 2 attacks.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Death Angel</td>
-    <td>65</td>
-    <td>28</td>
-    <td>9</td>
-    <td>700</td>
-    <td rowspan="2">Double speed, 2 attacks.<br/>Can pass through walls.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Death Master</td>
-    <td>77</td>
-    <td>54</td>
-    <td>15</td>
-    <td>3000</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Death Reaper</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Hell Reaper</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Death Angel</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Death Master</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Dragon
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/dragon.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Dragon</td>
-    <td>90</td>
-    <td>40</td>
-    <td>18</td>
-    <td>1300</td>
-    <td rowspan="4">Dragon<br/>Floating</td>
-    <td>Breathes 30 damage fire in a straight line.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Sky Dragon</td>
-    <td>100</td>
-    <td>45</td>
-    <td>22</td>
-    <td>2600</td>
-    <td>Breathes 40 damage fire from anywhere in the room.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Ark Dragon</td>
-    <td>120</td>
-    <td>78</td>
-    <td>26</td>
-    <td>4000</td>
-    <td>Breathes 50 damage fire from anywhere on the floor.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Hell Dragon</td>
-    <td>150</td>
-    <td>108</td>
-    <td>75</td>
-    <td>7000</td>
-    <td>Breathes 60 damage fire from anywhere on the floor.</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Dragon</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Sky Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Ark Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Hell Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-### Dremlas
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/dremlas.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Dremlas</td>
-    <td>40</td>
-    <td>18</td>
-    <td>10</td>
-    <td>75</td>
-    <td rowspan="4">Normal</td>
-    <td rowspan="4">Tackle deals 5 damage plus knockback, and also makes<br/>Shiren trip and drop items if he isn't against a wall.<br/>(Balance Staff prevents Shiren from tripping)</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Madremlas</td>
-    <td>60</td>
-    <td>30</td>
-    <td>17</td>
-    <td>800</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Hardremlas</td>
-    <td>130</td>
-    <td>42</td>
-    <td>18</td>
-    <td>1600</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Heavyremlas</td>
-    <td>150</td>
-    <td>55</td>
-    <td>23</td>
-    <td>4200</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Dremlas</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Madremlas</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Hardremlas</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Heavyremlas</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Egg Thing
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/egg_thing.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Egg Thing</td>
-    <td>5</td>
-    <td>3</td>
-    <td>10</td>
-    <td>7</td>
-    <td rowspan="4">One-Eyed<br/>Swift 1</td>
-    <td>Runs away at double speed.<br/>Always drops a Riceball.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Running Egg</td>
-    <td>5</td>
-    <td>4</td>
-    <td>20</td>
-    <td>15</td>
-    <td>Runs away at double speed, warps when attacked.<br/>Always drops a Big Riceball.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Flying Egg</td>
-    <td>8</td>
-    <td>5</td>
-    <td>30</td>
-    <td>50</td>
-    <td rowspan="2">Runs away at double speed, warps when you get within 3 tiles.<br/>Always drops an item.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Hiding Egg</td>
-    <td>10</td>
-    <td>6</td>
-    <td>40</td>
-    <td>300</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Egg Thing</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Running Egg</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Flying Egg</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Hiding Egg</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Evil Soldier
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/evil_soldier.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Evil Soldier</td>
-    <td>18</td>
-    <td>10</td>
-    <td>6</td>
-    <td>15</td>
-    <td rowspan="4">Normal</td>
-    <td>Dead Soldier appears 4 turns after it's defeated.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Evil Veteran</td>
-    <td>20</td>
-    <td>13</td>
-    <td>9</td>
-    <td>35</td>
-    <td>Dead Veteran appears 4 turns after it's defeated.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Evil General</td>
-    <td>30</td>
-    <td>17</td>
-    <td>11</td>
-    <td>60</td>
-    <td>Dead General appears 4 turns after it's defeated.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Evil Shogun</td>
-    <td>50</td>
-    <td>31</td>
-    <td>15</td>
-    <td>400</td>
-    <td>Dead Shogun appears 4 turns after it's defeated.</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Evil Soldier</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Evil Veteran</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Evil General</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Evil Shogun</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Field Bandit
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/field_bandit.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Field Bandit</td>
-    <td>18</td>
-    <td>6</td>
-    <td>3</td>
-    <td>7</td>
-    <td rowspan="4">Normal</td>
-    <td>Walks to items on the ground and turns them into Weeds.<br/>Throws Weeds, dealing 2 damage.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Jar Bandit</td>
-    <td>25</td>
-    <td>10</td>
-    <td>7</td>
-    <td>15</td>
-    <td>Walks to items on the ground and turns them into Weeds.<br/>Throws Weeds into open jars.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Item Bandit</td>
-    <td>35</td>
-    <td>20</td>
-    <td>16</td>
-    <td>250</td>
-    <td>Walks to items on the ground and turns them into Weeds.<br/>Turns inventory items into Weeds when adjacent.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Trove Bandit</td>
-    <td>50</td>
-    <td>38</td>
-    <td>24</td>
-    <td>600</td>
-    <td>Walks to items on the ground and turns them into Weeds.<br/>Turns inventory items into Weeds, including equipped items.</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Field Bandit</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Jar Bandit</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Item Bandit</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Trove Bandit</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-  </tr>
-</table>
-
-### Firepuff
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/firepuff.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Firepuff</td>
-    <td>15</td>
-    <td>4</td>
-    <td>6</td>
-    <td>10</td>
-    <td rowspan="4">Dragon<br/>Floating</td>
-    <td>Breathes 10 damage fire at an adjacent target.<br/>Chance to fail, and fire can go through corners.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Flamepuff</td>
-    <td>28</td>
-    <td>8</td>
-    <td>9</td>
-    <td>45</td>
-    <td>Same as Firepuff, but 20 damage.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Blazepuff</td>
-    <td>40</td>
-    <td>13</td>
-    <td>11</td>
-    <td>220</td>
-    <td>Same as Firepuff, but 30 damage.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Infernopuff</td>
-    <td>80</td>
-    <td>29</td>
-    <td>20</td>
-    <td>900</td>
-    <td>Same as Firepuff, but 40 damage.</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Firepuff</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Flamepuff</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Blazepuff</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Infernopuff</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Floor Dragon
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/floor_dragon.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Floor Dragon</td>
-    <td>20</td>
-    <td>10</td>
-    <td>9</td>
-    <td>18</td>
-    <td rowspan="4">Dragon</td>
-    <td rowspan="4">Tunnels to the other side of Shiren if an enemy is behind it.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Dragon Head</td>
-    <td>70</td>
-    <td>32</td>
-    <td>15</td>
-    <td>650</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Dirt Dragon</td>
-    <td>80</td>
-    <td>47</td>
-    <td>21</td>
-    <td>1200</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Earth Dragon</td>
-    <td>110</td>
-    <td>64</td>
-    <td>27</td>
-    <td>3800</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Floor Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Dragon Head</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Dirt Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Earth Dragon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Crow Tengu</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/50-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>5</div>
+              <div>Atk</div>
+              <div>1</div>
+              <div>Def</div>
+              <div>1</div>
+              <div>Exp</div>
+              <div>1</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Floating</div>
+            </div>
+            <div class="monster_text">Disguises itself as another monster and wanders around.<br/>It can only imitate a monster's appearance, nots its abilities.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ### Fluffy Bunny
 
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/fluffy_bunny.png"/>
-</div>
+<table class="monsterPageTable">
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Fluffy Bunny</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/51-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>10</div>
+              <div>Atk</div>
+              <div>10</div>
+              <div>Def</div>
+              <div>50</div>
+              <div>Exp</div>
+              <div>50</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">Flies to any monsters with low HP and restores their HP by 50.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### Fire Ninja Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Fluffy Bunny</td>
-    <td>5</td>
-    <td>6</td>
-    <td>3</td>
-    <td>8</td>
-    <td>Normal</td>
-    <td>Warps to a hurt monster and restores 50 HP.</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Fire Ninja D</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/52-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>28</div>
+              <div>Atk</div>
+              <div>18</div>
+              <div>Def</div>
+              <div>5</div>
+              <div>Exp</div>
+              <div>30</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Shoots fire at adjacent targets, dealing 5 damage.<br/>Burns any Grass, Food, Stave, or Scroll near the target.<br/>This nuisance goes around burning items on the ground.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Fire Ninja C</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/52-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>75</div>
+              <div>Atk</div>
+              <div>45</div>
+              <div>Def</div>
+              <div>21</div>
+              <div>Exp</div>
+              <div>100</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Shoots fire at adjacent targets, dealing 10 damage.<br/>Burns any Grass, Food, Stave, or Scroll near the target.<br/>This nuisance goes around burning items on the ground.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Fire Ninja B</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/52-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>105</div>
+              <div>Atk</div>
+              <div>56</div>
+              <div>Def</div>
+              <div>39</div>
+              <div>Exp</div>
+              <div>500</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Shoots fire at adjacent targets, dealing 15 damage.<br/>Burns any Grass, Food, Stave, or Scroll near the target.<br/>This nuisance goes around burning items on the ground.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Fire Ninja A</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/52-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>185</div>
+              <div>Atk</div>
+              <div>70</div>
+              <div>Def</div>
+              <div>59</div>
+              <div>Exp</div>
+              <div>1000</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Shoots fire at adjacent targets, dealing 20 damage.<br/>Burns any Grass, Food, Stave, or Scroll near the target.<br/>This nuisance goes around burning items on the ground.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Fluffy Bunny</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Flying Fowl
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/flying_fowl.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Flying Fowl</td>
-    <td>16</td>
-    <td>6</td>
-    <td>4</td>
-    <td>12</td>
-    <td rowspan="4">Floating</td>
-    <td>Electrifies 1 herb in your inventory, making it unusable.<br/>The electrified item can't be discarded until you change floors.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Flutter Fowl</td>
-    <td>30</td>
-    <td>15</td>
-    <td>9</td>
-    <td>60</td>
-    <td>Same as Flying Fowl, but electrifies herbs and scrolls.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Hover Fowl</td>
-    <td>45</td>
-    <td>21</td>
-    <td>12</td>
-    <td>250</td>
-    <td>Same as Flying Fowl, but electrifies herbs, scrolls, and staves.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Jet Fowl</td>
-    <td>80</td>
-    <td>34</td>
-    <td>24</td>
-    <td>1100</td>
-    <td>Same as Flying Fowl, but only electrifies jars.</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Flying Fowl</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Flutter Fowl</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Hover Fowl</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Jet Fowl</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Fog Hermit
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/fog_hermit.png"/>
-</div>
+### Water Ninja Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Fog Hermit</td>
-    <td>25</td>
-    <td>10</td>
-    <td>7</td>
-    <td>60</td>
-    <td rowspan="4">Normal<br/>Prism</td>
-    <td>Casts a spell that stops HP regeneration when adjacent.<br/>If you get hit a second time, you'll begin to lose HP.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Haze Hermit</td>
-    <td>45</td>
-    <td>15</td>
-    <td>11</td>
-    <td>200</td>
-    <td>Same as Fog Hermit, but casts the spell when lined up.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Mist Hermit</td>
-    <td>60</td>
-    <td>26</td>
-    <td>15</td>
-    <td>1000</td>
-    <td>Same as Fog Hermit, but casts the spell in the same room.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Cloud Hermit</td>
-    <td>70</td>
-    <td>45</td>
-    <td>26</td>
-    <td>2200</td>
-    <td>Same as Fog Hermit, but casts the spell anywhere on the floor.</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Water Ninja D</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/53-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>24</div>
+              <div>Atk</div>
+              <div>15</div>
+              <div>Def</div>
+              <div>9</div>
+              <div>Exp</div>
+              <div>31</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Hides underwater until someone gets close, then attacks.<br/>Shoots water up to 3 tile(s) away, dealing 5 damage<br/>and sometimes getting your inventory wet.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Water Ninja C</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/53-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>80</div>
+              <div>Atk</div>
+              <div>37</div>
+              <div>Def</div>
+              <div>26</div>
+              <div>Exp</div>
+              <div>95</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Hides underwater until someone gets close, then attacks.<br/>Shoots water up to 3 tile(s) away, dealing 10 damage<br/>and sometimes getting your inventory wet.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Water Ninja B</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/53-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>120</div>
+              <div>Atk</div>
+              <div>45</div>
+              <div>Def</div>
+              <div>39</div>
+              <div>Exp</div>
+              <div>400</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Hides underwater until someone gets close, then attacks.<br/>Shoots water up to 3 tile(s) away, dealing 15 damage<br/>and sometimes getting your inventory wet.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Water Ninja A</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/53-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>205</div>
+              <div>Atk</div>
+              <div>65</div>
+              <div>Def</div>
+              <div>49</div>
+              <div>Exp</div>
+              <div>1000</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Hides underwater until someone gets close, then attacks.<br/>Shoots water up to 3 tile(s) away, dealing 20 damage<br/>and sometimes getting your inventory wet.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Fog Hermit</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Haze Hermit</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Mist Hermit</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Cloud Hermit</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Gather
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/gather.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Gather</td>
-    <td>36</td>
-    <td>25</td>
-    <td>17</td>
-    <td>110</td>
-    <td rowspan="4">Normal</td>
-    <td rowspan="4">No abilities.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Killer Gather</td>
-    <td>60</td>
-    <td>40</td>
-    <td>21</td>
-    <td>600</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Hell Gather</td>
-    <td>90</td>
-    <td>67</td>
-    <td>23</td>
-    <td>1500</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Fallen Gather</td>
-    <td>130</td>
-    <td>93</td>
-    <td>68</td>
-    <td>4000</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Gather</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Killer Gather</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Hell Gather</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Fallen Gather</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-### Gaze
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/gaze.png"/>
-</div>
+### Tree Ninja Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Gaze</td>
-    <td>18</td>
-    <td>8</td>
-    <td>5</td>
-    <td>25</td>
-    <td rowspan="4">One-Eyed</td>
-    <td rowspan="4">Hypnotizes Shiren, making him perform an action.<br/>Other characters become confused when hypnotized.<br/>(Hypnosis can be blocked by a Gaze Shield)</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Super Gaze</td>
-    <td>51</td>
-    <td>13</td>
-    <td>9</td>
-    <td>150</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Hyper Gaze</td>
-    <td>70</td>
-    <td>19</td>
-    <td>13</td>
-    <td>800</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Ultra Gaze</td>
-    <td>90</td>
-    <td>61</td>
-    <td>46</td>
-    <td>2000</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Tree Ninja D</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/54-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>25</div>
+              <div>Atk</div>
+              <div>14</div>
+              <div>Def</div>
+              <div>10</div>
+              <div>Exp</div>
+              <div>27</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Throws a log at the target but may get caught in its own attack.<br/>The log deals 5 damage and knocks the target back.<br/>When taking damage, it may use a ninja trick to escape.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Tree Ninja C</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/54-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>70</div>
+              <div>Atk</div>
+              <div>37</div>
+              <div>Def</div>
+              <div>24</div>
+              <div>Exp</div>
+              <div>88</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Throws a log at the target but may get caught in its own attack.<br/>The log deals 10 damage and knocks the target back.<br/>When taking damage, it may use a ninja trick to escape.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Tree Ninja B</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/54-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>145</div>
+              <div>Atk</div>
+              <div>47</div>
+              <div>Def</div>
+              <div>43</div>
+              <div>Exp</div>
+              <div>688</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Throws a log at the target but may get caught in its own attack.<br/>The log deals 15 damage and knocks the target back.<br/>When taking damage, it may use a ninja trick to escape.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Tree Ninja A</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/54-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>195</div>
+              <div>Atk</div>
+              <div>72</div>
+              <div>Def</div>
+              <div>57</div>
+              <div>Exp</div>
+              <div>1000</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Throws a log at the target but may get caught in its own attack.<br/>The log deals 20 damage and knocks the target back.<br/>When taking damage, it may use a ninja trick to escape.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Gaze</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Super Gaze</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Hyper Gaze</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Ultra Gaze</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-### Ghost Radish
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/ghost_radish.png"/>
-</div>
+### Metal Ninja Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Ghost Radish</td>
-    <td>12</td>
-    <td>6</td>
-    <td>3</td>
-    <td>7</td>
-    <td rowspan="4">Normal</td>
-    <td>Throws Poison Herb when lined up (2 tile range).</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Daze Radish</td>
-    <td>30</td>
-    <td>12</td>
-    <td>9</td>
-    <td>50</td>
-    <td>Throws Herb of Confusion within a 2 tile radius.<br/>Throws Poison Herb if target has Confused status.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Sleep Radish</td>
-    <td>55</td>
-    <td>22</td>
-    <td>12</td>
-    <td>500</td>
-    <td>Throws Sleeping Herb within a 3 tile radius.<br/>Throws Poison Herb if target has Sleepy status.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Fear Radish</td>
-    <td>70</td>
-    <td>44</td>
-    <td>16</td>
-    <td>1300</td>
-    <td>Throws Kigny Seed within a 3 tile radius.<br/>Throws Poison Herb if target has Berserk status.</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Metal Ninja D</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/55-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>27</div>
+              <div>Atk</div>
+              <div>13</div>
+              <div>Def</div>
+              <div>11</div>
+              <div>Exp</div>
+              <div>35</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Throws Gitan in a straight line to attack.<br/>Always drops Gitan when defeated, but the amount dropped<br/>decreases according to the amount it threw.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Metal Ninja C</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/55-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>85</div>
+              <div>Atk</div>
+              <div>42</div>
+              <div>Def</div>
+              <div>29</div>
+              <div>Exp</div>
+              <div>93</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Throws Gitan in a straight line to attack.<br/>Always drops Gitan when defeated, but the amount dropped<br/>decreases according to the amount it threw.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Metal Ninja B</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/55-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>125</div>
+              <div>Atk</div>
+              <div>50</div>
+              <div>Def</div>
+              <div>40</div>
+              <div>Exp</div>
+              <div>444</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Throws Gitan in a straight line to attack.<br/>Always drops Gitan when defeated, but the amount dropped<br/>decreases according to the amount it threw.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Metal Ninja A</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/55-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>205</div>
+              <div>Atk</div>
+              <div>70</div>
+              <div>Def</div>
+              <div>50</div>
+              <div>Exp</div>
+              <div>1000</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Throws Gitan in a straight line to attack.<br/>Always drops Gitan when defeated, but the amount dropped<br/>decreases according to the amount it threw.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Ghost Radish</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Daze Radish</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Sleep Radish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Fear Radish</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Green Slime
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/green_slime.png"/>
-</div>
+### Earth Ninja Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Green Slime</td>
-    <td>10</td>
-    <td>3</td>
-    <td>1</td>
-    <td>4</td>
-    <td rowspan="4">Normal</td>
-    <td>Lowers weapon or shield upgrade value by 1.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Purple Slime</td>
-    <td>40</td>
-    <td>9</td>
-    <td>7</td>
-    <td>40</td>
-    <td>Lowers weapon or shield upgrade value by 2.<br/>Occasionally multiplies when attacked.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Grey Slime</td>
-    <td>70</td>
-    <td>16</td>
-    <td>12</td>
-    <td>200</td>
-    <td>Removes plating, and erases 1 rune or lowers upgrade value by 1.<br/>Prioritizes removing Plating before other meld abilities.<br/>Occasionally multiplies when attacked.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Red Slime</td>
-    <td>100</td>
-    <td>24</td>
-    <td>16</td>
-    <td>600</td>
-    <td>Removes plating, and erases 1 rune or lowers upgrade value by 3.<br/>Prioritizes removing Plating before other meld abilities.<br/>Occasionally multiplies when attacked.</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Earth Ninja D</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/56-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>38</div>
+              <div>Atk</div>
+              <div>11</div>
+              <div>Def</div>
+              <div>20</div>
+              <div>Exp</div>
+              <div>30</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Hides in earthen walls until someone gets close, then attacks.<br/>Pelts the target with sand, dealing 5 damage and<br/>sometimes inflicting Blind status.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Earth Ninja C</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/56-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>85</div>
+              <div>Atk</div>
+              <div>21</div>
+              <div>Def</div>
+              <div>28</div>
+              <div>Exp</div>
+              <div>90</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Hides in earthen walls until someone gets close, then attacks.<br/>Pelts the target with sand, dealing 10 damage and<br/>sometimes inflicting Blind status.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Earth Ninja B</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/56-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>155</div>
+              <div>Atk</div>
+              <div>52</div>
+              <div>Def</div>
+              <div>38</div>
+              <div>Exp</div>
+              <div>780</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Hides in earthen walls until someone gets close, then attacks.<br/>Pelts the target with sand, dealing 15 damage and<br/>sometimes inflicting Blind status.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Earth Ninja A</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/56-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>215</div>
+              <div>Atk</div>
+              <div>68</div>
+              <div>Def</div>
+              <div>58</div>
+              <div>Exp</div>
+              <div>1000</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Hides in earthen walls until someone gets close, then attacks.<br/>Pelts the target with sand, dealing 20 damage and<br/>sometimes inflicting Blind status.<br/>It may dodge attacks with nimble speed.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Green Slime</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Purple Slime</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Grey Slime</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Red Slime</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-### Half Warrior
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/half_warrior.png"/>
-</div>
+### Hannya Monk Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Half Warrior</td>
-    <td>25</td>
-    <td>22</td>
-    <td>1</td>
-    <td>180</td>
-    <td rowspan="4">Normal</td>
-    <td rowspan="4">Only takes 1 damage when attacked from the front.<br/>Defeated in one hit if attacked from the side or back.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Half Fighter</td>
-    <td>50</td>
-    <td>30</td>
-    <td>1</td>
-    <td>460</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Half Master</td>
-    <td>80</td>
-    <td>47</td>
-    <td>1</td>
-    <td>800</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Half Lord</td>
-    <td>100</td>
-    <td>61</td>
-    <td>1</td>
-    <td>1500</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Hannya Monk D</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/57-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>66</div>
+              <div>Atk</div>
+              <div>37</div>
+              <div>Def</div>
+              <div>25</div>
+              <div>Exp</div>
+              <div>80</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Inflicts Monk's Berserk status on 1 monster(s) on the floor.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Hannya Monk C</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/57-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>106</div>
+              <div>Atk</div>
+              <div>47</div>
+              <div>Def</div>
+              <div>35</div>
+              <div>Exp</div>
+              <div>800</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Inflicts Monk's Berserk status on 1 monster(s) on the floor.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Hannya Monk B</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/57-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>166</div>
+              <div>Atk</div>
+              <div>57</div>
+              <div>Def</div>
+              <div>45</div>
+              <div>Exp</div>
+              <div>1200</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Inflicts Monk's Berserk status on 1 monster(s) on the floor.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Hannya Monk A</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/57-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>266</div>
+              <div>Atk</div>
+              <div>67</div>
+              <div>Def</div>
+              <div>55</div>
+              <div>Exp</div>
+              <div>1400</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Inflicts Monk's Berserk status on 1 monster(s) on the floor.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Half Warrior</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Half Fighter</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Half Master</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Half Lord</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Hen
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/hen.png"/>
-</div>
+### Kitsune Monk Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Hen</td>
-    <td>4</td>
-    <td>1</td>
-    <td>1</td>
-    <td>1</td>
-    <td>Normal<br/>Swift 1</td>
-    <td>Runs away from Shiren at double speed.<br/>Turns into meat if hit by an explosion.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Master Hen</td>
-    <td>50</td>
-    <td>26</td>
-    <td>12</td>
-    <td>400</td>
-    <td>Normal</td>
-    <td>Transforms into Hen when HP &le; 15.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Great Hen</td>
-    <td>60</td>
-    <td>39</td>
-    <td>15</td>
-    <td>1500</td>
-    <td rowspan="2">Normal<br/>Swift 2</td>
-    <td>Double speed, 2 attacks.<br/>Transforms into Hen when HP &le; 15.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Miracle Hen</td>
-    <td>80</td>
-    <td>47</td>
-    <td>18</td>
-    <td>3200</td>
-    <td>Double speed, 2 attacks.<br/>Transforms into Hen when HP &le; 15.</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Kitsune Monk D</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/58-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>75</div>
+              <div>Atk</div>
+              <div>22</div>
+              <div>Def</div>
+              <div>24</div>
+              <div>Exp</div>
+              <div>80</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Morphs 1 monster(s) on the floor into items.<br/>Picking up a morphed monster makes it revert and attack.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Kitsune Monk C</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/58-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>125</div>
+              <div>Atk</div>
+              <div>43</div>
+              <div>Def</div>
+              <div>38</div>
+              <div>Exp</div>
+              <div>680</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Morphs 1 monster(s) on the floor into items.<br/>Picking up a morphed monster makes it revert and attack.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Kitsune Monk B</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/58-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>175</div>
+              <div>Atk</div>
+              <div>53</div>
+              <div>Def</div>
+              <div>48</div>
+              <div>Exp</div>
+              <div>1180</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Morphs 1 monster(s) on the floor into items.<br/>Picking up a morphed monster makes it revert and attack.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Kitsune Monk A</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/58-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>275</div>
+              <div>Atk</div>
+              <div>73</div>
+              <div>Def</div>
+              <div>58</div>
+              <div>Exp</div>
+              <div>1380</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Morphs 1 monster(s) on the floor into items.<br/>Picking up a morphed monster makes it revert and attack.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Hen</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Master Hen</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Great Hen</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Miracle Hen</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Inferno
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/inferno.png"/>
-</div>
+### Okina Monk Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Inferno</td>
-    <td>35</td>
-    <td>17</td>
-    <td>10</td>
-    <td>55</td>
-    <td rowspan="5">Normal</td>
-    <td rowspan="5">Burns projectiles unless they have piercing properties.<br/>Multiplies from explosions.<br/>Levels up from fire damage. (Max: 99)<br/>Rust Trap will instantly defeat it.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Inferno2</td>
-    <td>50</td>
-    <td>25</td>
-    <td>16</td>
-    <td>90</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Inferno3</td>
-    <td>65</td>
-    <td>45</td>
-    <td>20</td>
-    <td>250</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Inferno4</td>
-    <td>80</td>
-    <td>60</td>
-    <td>24</td>
-    <td>550</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>Inferno5</td>
-    <td>95</td>
-    <td>75</td>
-    <td>28</td>
-    <td>950</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Okina Monk D</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/59-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>70</div>
+              <div>Atk</div>
+              <div>25</div>
+              <div>Def</div>
+              <div>25</div>
+              <div>Exp</div>
+              <div>80</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Sends 1 monster(s) on the floor towards you.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Okina Monk C</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/59-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>120</div>
+              <div>Atk</div>
+              <div>46</div>
+              <div>Def</div>
+              <div>40</div>
+              <div>Exp</div>
+              <div>800</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Sends 1 monster(s) on the floor towards you.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Okina Monk B</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/59-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>170</div>
+              <div>Atk</div>
+              <div>56</div>
+              <div>Def</div>
+              <div>50</div>
+              <div>Exp</div>
+              <div>1200</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Sends 1 monster(s) on the floor towards you.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Okina Monk A</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/59-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>270</div>
+              <div>Atk</div>
+              <div>76</div>
+              <div>Def</div>
+              <div>60</div>
+              <div>Exp</div>
+              <div>1400</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Sends 1 monster(s) on the floor towards you.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Inferno</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Inferno2</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Inferno3</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Inferno4</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>Inferno5</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-### Ironhead
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/ironhead.png"/>
-</div>
+### Okame Monk Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Ironhead</td>
-    <td>20</td>
-    <td>17</td>
-    <td>3</td>
-    <td>23</td>
-    <td rowspan="4">One-Eyed</td>
-    <td rowspan="4">Attacks 2 tiles ahead.<br/>Can attack through hallway corners.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Chainhead</td>
-    <td>50</td>
-    <td>31</td>
-    <td>10</td>
-    <td>200</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Gigahead</td>
-    <td>70</td>
-    <td>46</td>
-    <td>13</td>
-    <td>1200</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Deathhead</td>
-    <td>100</td>
-    <td>77</td>
-    <td>17</td>
-    <td>3000</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Okame Monk D</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/60-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>60</div>
+              <div>Atk</div>
+              <div>19</div>
+              <div>Def</div>
+              <div>23</div>
+              <div>Exp</div>
+              <div>75</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Heals 1 monster(s) on the floor of any status ailments.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Okame Monk C</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/60-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>110</div>
+              <div>Atk</div>
+              <div>40</div>
+              <div>Def</div>
+              <div>41</div>
+              <div>Exp</div>
+              <div>800</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Heals 1 monster(s) on the floor of any status ailments.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Okame Monk B</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/60-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>160</div>
+              <div>Atk</div>
+              <div>50</div>
+              <div>Def</div>
+              <div>51</div>
+              <div>Exp</div>
+              <div>1200</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Heals 1 monster(s) on the floor of any status ailments.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Okame Monk A</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/60-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>260</div>
+              <div>Atk</div>
+              <div>70</div>
+              <div>Def</div>
+              <div>61</div>
+              <div>Exp</div>
+              <div>1400</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Heals 1 monster(s) on the floor of any status ailments.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Ironhead</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Chainhead</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Gigahead</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Deathhead</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Kigny
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/kigny.png"/>
-</div>
+### Tengu Monk Family
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Kigny</td>
-    <td>40</td>
-    <td>26</td>
-    <td>3</td>
-    <td>50</td>
-    <td rowspan="5">Normal</td>
-    <td rowspan="5">Attacks any adjacent creature, friend or foe.<br/>Levels up when it defeats a creature. (Max: 99)<br/>Levels up if hit by Kigny Seed.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Kigny2</td>
-    <td>60</td>
-    <td>36</td>
-    <td>5</td>
-    <td>80</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Kigny3</td>
-    <td>75</td>
-    <td>56</td>
-    <td>7</td>
-    <td>200</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Kigny4</td>
-    <td>90</td>
-    <td>71</td>
-    <td>9</td>
-    <td>500</td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>Kigny5</td>
-    <td>110</td>
-    <td>86</td>
-    <td>11</td>
-    <td>900</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Kigny</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Kigny2</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Kigny3</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Kigny4</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>5</td>
-    <td>Kigny5</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-### Knifegator
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/knifegator.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Knifegator</td>
-    <td>14</td>
-    <td>12</td>
-    <td>1</td>
-    <td>9</td>
-    <td rowspan="4">Normal</td>
-    <td>No abilities.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Sabregator</td>
-    <td>35</td>
-    <td>18</td>
-    <td>8</td>
-    <td>75</td>
-    <td>Attacks 2 times in a row.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Bladegator</td>
-    <td>70</td>
-    <td>29</td>
-    <td>11</td>
-    <td>1600</td>
-    <td>Attacks 3 times in a row.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Swordgator</td>
-    <td>100</td>
-    <td>45</td>
-    <td>16</td>
-    <td>2800</td>
-    <td>Attacks 4 times in a row.</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Knifegator</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Sabregator</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Bladegator</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Swordgator</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Leech Worm
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/leech_worm.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Leech Worm</td>
-    <td>23</td>
-    <td>10</td>
-    <td>8</td>
-    <td>15</td>
-    <td rowspan="4">Drain<br/>One-Eyed</td>
-    <td rowspan="4">Lowers max strength by 1 when adjacent.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Leech Bug</td>
-    <td>32</td>
-    <td>16</td>
-    <td>11</td>
-    <td>300</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Leech Fly</td>
-    <td>41</td>
-    <td>22</td>
-    <td>15</td>
-    <td>700</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Leech Queen</td>
-    <td>50</td>
-    <td>35</td>
-    <td>19</td>
-    <td>950</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Leech Worm</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Leech Bug</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Leech Fly</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Leech Queen</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Mamel
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/mamel.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Mamel</td>
-    <td>5</td>
-    <td>2</td>
-    <td>1</td>
-    <td>2</td>
-    <td rowspan="3">Normal</td>
-    <td rowspan="3">No abilities.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Pit Mamel</td>
-    <td>5</td>
-    <td>2</td>
-    <td>2</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Cave Mamel</td>
-    <td>5</td>
-    <td>36</td>
-    <td>80</td>
-    <td>800</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Gitan Mamel</td>
-    <td>6</td>
-    <td>60</td>
-    <td>140</td>
-    <td>2000</td>
-    <td>Normal<br/>Swift 2</td>
-    <td>Double speed, 2 attacks.<br/>Always drops 2000 Gitan when defeated.</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Mamel</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Pit Mamel</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Cave Mamel</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Gitan Mamel</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Mecharoid
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/mecharoid.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Mecharoid</td>
-    <td>60</td>
-    <td>27</td>
-    <td>13</td>
-    <td>250</td>
-    <td rowspan="4">Normal<br/>Swift 1</td>
-    <td rowspan="4">Double speed, 1 attack.<br/>Initially Napping, and wakes up if you enter the room.<br/>Creates visible traps while inside a room.<br/>Stops acting for 2 turns after creating a trap.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Steamroid</td>
-    <td>65</td>
-    <td>33</td>
-    <td>15</td>
-    <td>900</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Electroid</td>
-    <td>70</td>
-    <td>39</td>
-    <td>18</td>
-    <td>1700</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Bioroid</td>
-    <td>80</td>
-    <td>84</td>
-    <td>62</td>
-    <td>2800</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Mecharoid</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Steamroid</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Electroid</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Bioroid</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-### Mini Robber
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/mini_robber.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Mini Robber</td>
-    <td>5</td>
-    <td>3</td>
-    <td>1</td>
-    <td>3</td>
-    <td rowspan="4">Normal</td>
-    <td rowspan="4">No abilities.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Robber</td>
-    <td>12</td>
-    <td>8</td>
-    <td>3</td>
-    <td>15</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Robber Chief</td>
-    <td>40</td>
-    <td>19</td>
-    <td>15</td>
-    <td>180</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Robber Lord</td>
-    <td>60</td>
-    <td>28</td>
-    <td>18</td>
-    <td>650</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Mini Robber</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Robber</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Robber Chief</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Robber Lord</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-### N'Duba
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/nduba.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>N'Duba</td>
-    <td>30</td>
-    <td>6</td>
-    <td>10</td>
-    <td>20</td>
-    <td rowspan="4">Normal</td>
-    <td rowspan="4">Disguises itself as an item.<br/>Reveals itself and attacks if you try to use the item.<br/>Changing floors identifies disguised N'Duba monsters.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>N'Dulu</td>
-    <td>35</td>
-    <td>10</td>
-    <td>15</td>
-    <td>60</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>N'Bama</td>
-    <td>40</td>
-    <td>55</td>
-    <td>20</td>
-    <td>250</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>N'Balun</td>
-    <td>50</td>
-    <td>70</td>
-    <td>25</td>
-    <td>600</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>N'Duba</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>N'Dulu</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>N'Bama</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>N'Balun</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Pacorepkin
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/pacorepkin.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Pacorepkin</td>
-    <td>28</td>
-    <td>15</td>
-    <td>8</td>
-    <td>42</td>
-    <td rowspan="4">Ghost<br/>Floating</td>
-    <td rowspan="4">Can pass through walls.<br/>Unpredictable movement.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Pacorepkina</td>
-    <td>45</td>
-    <td>22</td>
-    <td>12</td>
-    <td>250</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Pacorepking</td>
-    <td>60</td>
-    <td>31</td>
-    <td>15</td>
-    <td>750</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Pacorepgod</td>
-    <td>80</td>
-    <td>38</td>
-    <td>21</td>
-    <td>2300</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Pacorepkin</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Pacorepkina</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Pacorepking</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Pacorepgod</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Parthenos
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/parthenos.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Parthenos</td>
-    <td>30</td>
-    <td>12</td>
-    <td>12</td>
-    <td>48</td>
-    <td rowspan="4">Normal</td>
-    <td rowspan="4">Prevents Shiren from moving when adjacent.<br/>(If you try to move, your turn still ends)</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Mistonos</td>
-    <td>50</td>
-    <td>16</td>
-    <td>15</td>
-    <td>300</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Verginos</td>
-    <td>70</td>
-    <td>26</td>
-    <td>20</td>
-    <td>650</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Goldinos</td>
-    <td>100</td>
-    <td>39</td>
-    <td>25</td>
-    <td>1600</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Parthenos</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Mistonos</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Verginos</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Goldinos</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Pickpocket
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/pickpocket.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Pickpocket</td>
-    <td>10</td>
-    <td>3</td>
-    <td>7</td>
-    <td>3</td>
-    <td rowspan="4">Normal<br/>Theft</td>
-    <td rowspan="4">Always drops Gitan when defeated.<br/>Sits on any Gitan it finds on the ground.<br/>Doesn't attack, but instead observes or steals Gitan and warps.<br/>Runs away at double speed after stealing Gitan.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Thief</td>
-    <td>15</td>
-    <td>4</td>
-    <td>14</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Burglar</td>
-    <td>25</td>
-    <td>5</td>
-    <td>21</td>
-    <td>100</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Kleptomaniac</td>
-    <td>35</td>
-    <td>6</td>
-    <td>28</td>
-    <td>300</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Pickpocket</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Thief</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Burglar</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Kleptomaniac</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Piggy
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/piggy.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Piggy</td>
-    <td>34</td>
-    <td>18</td>
-    <td>6</td>
-    <td>25</td>
-    <td rowspan="4">Normal</td>
-    <td>Throws rocks within a 2 tile radius.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Piggo</td>
-    <td>50</td>
-    <td>35</td>
-    <td>13</td>
-    <td>500</td>
-    <td>Throws rocks within a 5 tile radius.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Piggora</td>
-    <td>70</td>
-    <td>43</td>
-    <td>17</td>
-    <td>2100</td>
-    <td>Throws rocks within a 10 tile radius.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Piggaron</td>
-    <td>90</td>
-    <td>52</td>
-    <td>22</td>
-    <td>3500</td>
-    <td>Throws rocks within a 15 tile radius.</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Piggy</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Piggo</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Piggora</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Piggaron</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Polygon Spin
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/polygon_spin.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Polygon Spin</td>
-    <td>25</td>
-    <td>9</td>
-    <td>5</td>
-    <td>15</td>
-    <td rowspan="4">Drain</td>
-    <td>Warps to Shiren inside rooms.<br/>Lowers fullness by 10 when adjacent.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Polygon Jive</td>
-    <td>60</td>
-    <td>16</td>
-    <td>13</td>
-    <td>300</td>
-    <td>Warps to Shiren inside rooms.<br/>Lowers fullness by 30 when adjacent.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Polygon Song</td>
-    <td>80</td>
-    <td>24</td>
-    <td>19</td>
-    <td>1000</td>
-    <td rowspan="2">Warps to Shiren inside rooms.<br/>Lowers max fullness by 10 when adjacent.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Polygon Jig</td>
-    <td>100</td>
-    <td>43</td>
-    <td>26</td>
-    <td>2700</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Polygon Spin</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Polygon Jive</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Polygon Song</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Polygon Jig</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-  </tr>
-</table>
-
-### Popster Tank
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/popster_tank.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Popster Tank</td>
-    <td>36</td>
-    <td>20</td>
-    <td>11</td>
-    <td>65</td>
-    <td>Exploding<br/>Slow</td>
-    <td>1 action every 2 turns. Fires 20 damage cannonballs.<br/>Cannonball blasts deal damage in a 1 tile radius.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Dadster Tank</td>
-    <td>40</td>
-    <td>25</td>
-    <td>17</td>
-    <td>300</td>
-    <td>Exploding</td>
-    <td>Same as Popster Tank, but regular speed, 30 damage.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Oldster Tank</td>
-    <td>50</td>
-    <td>35</td>
-    <td>23</td>
-    <td>1800</td>
-    <td rowspan="2">Exploding<br/>Swift 2</td>
-    <td>Same as Popster Tank, but double speed (2 attacks), 40 damage.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Cranky Tank</td>
-    <td>80</td>
-    <td>40</td>
-    <td>68</td>
-    <td>3500</td>
-    <td>Same as Popster Tank, but double speed (2 attacks), 50 damage.</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Popster Tank</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Dadster Tank</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Oldster Tank</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Cranky Tank</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-### Rice Baby
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/rice_baby.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Rice Baby</td>
-    <td>7</td>
-    <td>4</td>
-    <td>1</td>
-    <td>4</td>
-    <td rowspan="4">Normal</td>
-    <td>No abilities.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Rice Changer</td>
-    <td>23</td>
-    <td>8</td>
-    <td>3</td>
-    <td>12</td>
-    <td>Turns 1 inventory item into a Big Riceball.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Rice Boss</td>
-    <td>38</td>
-    <td>22</td>
-    <td>15</td>
-    <td>200</td>
-    <td>Turns Shiren into a riceball.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Rice Master</td>
-    <td>70</td>
-    <td>34</td>
-    <td>24</td>
-    <td>1500</td>
-    <td>Turns Shiren into a riceball or 1 inventory item into a Big Riceball.</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Rice Baby</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Rice Changer</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Rice Boss</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Rice Master</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Schubell
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/schubell.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Schubell</td>
-    <td>15</td>
-    <td>11</td>
-    <td>25</td>
-    <td>100</td>
-    <td rowspan="4">Normal</td>
-    <td>Summons 1 level 1 monster when adjacent.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Menbell</td>
-    <td>25</td>
-    <td>14</td>
-    <td>25</td>
-    <td>200</td>
-    <td>Summons 1 level 2 monster when adjacent.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Bellthoven</td>
-    <td>40</td>
-    <td>18</td>
-    <td>30</td>
-    <td>300</td>
-    <td>Summons 1~3 level 3 monsters when adjacent.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Showpin</td>
-    <td>60</td>
-    <td>28</td>
-    <td>35</td>
-    <td>400</td>
-    <td>Summons 1~3 level 4 monsters when adjacent.</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Schubell</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Menbell</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Bellthoven</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Showpin</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Skull Mage
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/skull_mage.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Skull Mage</td>
-    <td>21</td>
-    <td>7</td>
-    <td>7</td>
-    <td>17</td>
-    <td rowspan="4">Ghost<br/>Prism</td>
-    <td>Fires a magic bullet with a random effect in a line.<br/>(Warp, Knockback, Switch positions, Swift)</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Skull Wizard</td>
-    <td>35</td>
-    <td>11</td>
-    <td>11</td>
-    <td>70</td>
-    <td>Fires a magic bullet with a random effect in a line.<br/>(Presto, Confused, Postpone, 25 damage)</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Skull Wraith</td>
-    <td>60</td>
-    <td>16</td>
-    <td>14</td>
-    <td>350</td>
-    <td>Fires a magic bullet with a random effect in a line.<br/>(Bufu, Paralyzed, Slow, Sealed, Doppelganger, Level-1)</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Skull Demon</td>
-    <td>75</td>
-    <td>47</td>
-    <td>19</td>
-    <td>2000</td>
-    <td>Fires a magic bullet with a random effect in a line.<br/>(Bufu, Sleepy, Blinded, 40 damage, Level-3)</td>
-  </tr>
-</table>
-
-Occasionally drops Skull Staff when defeated.
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Skull Mage</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Skull Wizard</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Skull Wraith</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Skull Demon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Snaky
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/snaky.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Snaky</td>
-    <td>17</td>
-    <td>8</td>
-    <td>3</td>
-    <td>8</td>
-    <td rowspan="4">Normal</td>
-    <td rowspan="4">No abilities.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Vipy</td>
-    <td>35</td>
-    <td>24</td>
-    <td>9</td>
-    <td>60</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Pythy</td>
-    <td>70</td>
-    <td>36</td>
-    <td>15</td>
-    <td>580</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Anacondy</td>
-    <td>100</td>
-    <td>68</td>
-    <td>22</td>
-    <td>1600</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Snaky</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Vipy</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Pythy</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Anacondy</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Soldier Ant
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/soldier_ant.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Soldier Ant</td>
-    <td>20</td>
-    <td>8</td>
-    <td>9</td>
-    <td>10</td>
-    <td rowspan="4">Normal</td>
-    <td rowspan="4">Digs out wall tiles.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Corporal Ant</td>
-    <td>35</td>
-    <td>11</td>
-    <td>12</td>
-    <td>40</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Captain Ant</td>
-    <td>50</td>
-    <td>18</td>
-    <td>15</td>
-    <td>200</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>General Ant</td>
-    <td>80</td>
-    <td>30</td>
-    <td>20</td>
-    <td>450</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Soldier Ant</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Corporal Ant</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Captain Ant</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>General Ant</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Spike Bomb
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/spike_bomb.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Spike Bomb</td>
-    <td>50</td>
-    <td>7</td>
-    <td>6</td>
-    <td>20</td>
-    <td rowspan="4">Exploding<br/>One-Eyed</td>
-    <td rowspan="4">Turns red and stops moving when HP falls below 45%.<br/>Explodes when HP falls below 20%. (Sets Shiren's HP to 1)<br/>Doesn't explode if damage dealt exceeds remaining HP.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Spike Blast</td>
-    <td>80</td>
-    <td>13</td>
-    <td>12</td>
-    <td>100</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Spike Fire</td>
-    <td>120</td>
-    <td>19</td>
-    <td>18</td>
-    <td>450</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Spike Erupt</td>
-    <td>200</td>
-    <td>34</td>
-    <td>20</td>
-    <td>1100</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Spike Bomb</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Spike Blast</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Spike Fire</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Spike Erupt</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Taur
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/taur.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Taur</td>
-    <td>28</td>
-    <td>20</td>
-    <td>5</td>
-    <td>35</td>
-    <td rowspan="4">Normal</td>
-    <td rowspan="4">Occasionally deals a critical hit.<br/>Can drop a Minotaur's Axe when defeated.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Minotaur</td>
-    <td>55</td>
-    <td>35</td>
-    <td>9</td>
-    <td>400</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Megataur</td>
-    <td>90</td>
-    <td>56</td>
-    <td>12</td>
-    <td>1750</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Gigataur</td>
-    <td>120</td>
-    <td>71</td>
-    <td>16</td>
-    <td>4200</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Taur</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Minotaur</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Megataur</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Gigataur</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Thiefwalrus
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/thiefwalrus.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Thiefwalrus</td>
-    <td>45</td>
-    <td>3</td>
-    <td>3</td>
-    <td>15</td>
-    <td rowspan="4">Normal<br/>Theft</td>
-    <td>Steals 1 item from Shiren or the ground, then warps and runs away.<br/>Prioritizes items on the ground.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Greenwalrus</td>
-    <td>58</td>
-    <td>9</td>
-    <td>9</td>
-    <td>30</td>
-    <td>Same as Thiefwalrus, but can multiply when attacked.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Ironwalrus</td>
-    <td>70</td>
-    <td>12</td>
-    <td>12</td>
-    <td>150</td>
-    <td>Same as Thiefwalrus, but can multiply when attacked.<br/>Can also steal equipped items, and prioritizes doing so.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Roguewalrus</td>
-    <td>100</td>
-    <td>17</td>
-    <td>17</td>
-    <td>400</td>
-    <td>Same as Ironwalrus, but vanishes from the floor after stealing.</td>
-  </tr>
-</table>
-
-Drops an item from the Jar of Change table if defeated before it steals an item.
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Thiefwalrus</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Greenwalrus</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Ironwalrus</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Roguewalrus</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Tiger Uho
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/tiger_uho.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Tiger Uho</td>
-    <td>33</td>
-    <td>12</td>
-    <td>9</td>
-    <td>35</td>
-    <td rowspan="4">Normal</td>
-    <td>Throws Shiren at another creature or into a Monster House.<br/>Can also throw other monsters or NPCs at Shiren.<br/>Throwing range of 5 tiles, deals 5 damage.</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Tiger Uhoho</td>
-    <td>65</td>
-    <td>26</td>
-    <td>17</td>
-    <td>550</td>
-    <td>Same as Tiger Uho, but throwing range of 10 tiles.</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Tiger Uhon</td>
-    <td>80</td>
-    <td>35</td>
-    <td>22</td>
-    <td>1300</td>
-    <td>Same as Tiger Uho, but throwing range of 15 tiles.</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Tiger Uboho</td>
-    <td>100</td>
-    <td>51</td>
-    <td>29</td>
-    <td>2400</td>
-    <td>Same as Tiger Uho, but throwing range of 20 tiles.</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Tiger Uho</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Tiger Uhoho</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Tiger Uhon</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Tiger Uboho</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-  </tr>
-</table>
-
-### Twisty Hani
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/twisty_hani.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Twisty Hani</td>
-    <td>25</td>
-    <td>8</td>
-    <td>9</td>
-    <td>35</td>
-    <td rowspan="4">Drain</td>
-    <td rowspan="4">Lowers Shiren's level by 1.<br/>(Exp until next level is set to 1)</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Floppy Hani</td>
-    <td>40</td>
-    <td>12</td>
-    <td>11</td>
-    <td>150</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Droopy Hani</td>
-    <td>55</td>
-    <td>25</td>
-    <td>13</td>
-    <td>400</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Wrinkly Hani</td>
-    <td>70</td>
-    <td>32</td>
-    <td>16</td>
-    <td>900</td>
-  </tr>
-</table>
-
-#### Locations
-
-<table class="monsterLocationTable">
-  <tr>
-    <th rowspan="2">Lv</th>
-    <th rowspan="2">Name</th>
-    <th colspan="9">Dungeon</th>
-  </tr>
-  <tr>
-    <th>RH</th>
-    <th>TM</th>
-    <th>F</th>
-    <th>TP</th>
-    <th>CC</th>
-    <th>RD</th>
-    <th>KG</th>
-    <th>SC</th>
-    <th>FP</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Twisty Hani</td>
-    <td></td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td>Floppy Hani</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>Droopy Hani</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td>Wrinkly Hani</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>X</td>
-    <td>X</td>
-    <td>X</td>
-  </tr>
-</table>
-
-## Shop Group
-
-### Shopkeeper
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/shopkeeper.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Shopkeeper</td>
-    <td>250</td>
-    <td>100</td>
-    <td>25</td>
-    <td>0</td>
-    <td>Normal<br/>Swift 2</td>
-    <td>Double speed, 2 attacks.</td>
-  </tr>
-</table>
-
-### Sherriff (Sheriff)
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/sherriff.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Sherriff</td>
-    <td>250</td>
-    <td>125</td>
-    <td>25</td>
-    <td>0</td>
-    <td>Normal</td>
-    <td>No abilities.</td>
-  </tr>
-</table>
-
-### Guard Dog
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/guard_dog.png"/>
-</div>
-
-<table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Guard Dog</td>
-    <td>78</td>
-    <td>70</td>
-    <td>15</td>
-    <td>0</td>
-    <td>Normal<br/>Swift 2</td>
-    <td>Double speed, 2 attacks.</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Tengu Monk D</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/61-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>80</div>
+              <div>Atk</div>
+              <div>24</div>
+              <div>Def</div>
+              <div>20</div>
+              <div>Exp</div>
+              <div>85</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Increases the Action Speed of 1 monster(s) on the floor by 1.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv2 : Tengu Monk C</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/61-2.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>130</div>
+              <div>Atk</div>
+              <div>45</div>
+              <div>Def</div>
+              <div>37</div>
+              <div>Exp</div>
+              <div>800</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Increases the Action Speed of 1 monster(s) on the floor by 1.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv3 : Tengu Monk B</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/61-3.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>180</div>
+              <div>Atk</div>
+              <div>55</div>
+              <div>Def</div>
+              <div>47</div>
+              <div>Exp</div>
+              <div>1200</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Increases the Action Speed of 1 monster(s) on the floor by 1.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv4 : Tengu Monk A</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/61-4.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>280</div>
+              <div>Atk</div>
+              <div>75</div>
+              <div>Def</div>
+              <div>57</div>
+              <div>Exp</div>
+              <div>1400</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">Increases the Action Speed of 1 monster(s) on the floor by 1.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ## Boss Group
 
-### Tainted Insect
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/tainted_insect.png"/>
-</div>
+### Jakaku
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Tainted Insect</td>
-    <td>500</td>
-    <td>48</td>
-    <td>20</td>
-    <td>7777</td>
-    <td>Normal</td>
-    <td>Boss of Table Mountain (30F).<br/>No abilities, immune to Bufu's Staff.</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Jakaku</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/62-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>777</div>
+              <div>Atk</div>
+              <div>50</div>
+              <div>Def</div>
+              <div>20</div>
+              <div>Exp</div>
+              <div>0</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Draining</div>
+            </div>
+            <div class="monster_text">A monster that has felled many wanderers.<br/>Pushes the target back and spits poison that decreases Strength.<br/>May prey upon other monsters to recover HP.<br/>Damaged by thrown Antidote Grass.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-### Tainted Soldier
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/tainted_soldier.png"/>
-</div>
+### Embodiment of Batsu
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Tainted Soldier</td>
-    <td>500</td>
-    <td>80</td>
-    <td>25</td>
-    <td>9999</td>
-    <td>Normal</td>
-    <td>Mid Boss of Tainted Path (Every 10F).<br/>No abilities, immune to Bufu's Staff.<br/>Always drops a Chiropractic Jar.</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Embodiment of Batsu</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/63-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>888</div>
+              <div>Atk</div>
+              <div>52</div>
+              <div>Def</div>
+              <div>30</div>
+              <div>Exp</div>
+              <div>0</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Beast</div>
+            </div>
+            <div class="monster_text">The battle form of the god of sunshine, Kokatsu.<br/>Thrown items will burn up in the flames that wreath its body.<br/>Summons minions and creates earthen walls to block your path.<br/>Stores power to unleash flames that deal 80-100 damage to all beings.<br/>Splashing it with water greatly decreases its Attack Power.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-### Tainted Queen
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/tainted_queen.png"/>
-</div>
+### Embodiment of Suiryu
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>Tainted Queen</td>
-    <td>900</td>
-    <td>130</td>
-    <td>40</td>
-    <td>15555</td>
-    <td>Normal</td>
-    <td>Boss of Tainted Path (99F).<br/>No abilities, immune to Bufu's Staff.<br/>Always drops a Kabra's Blade.</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Embodiment of Suiryu</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/64-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>555</div>
+              <div>Atk</div>
+              <div>40</div>
+              <div>Def</div>
+              <div>22</div>
+              <div>Exp</div>
+              <div>0</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Aquatic, Dragon</div>
+            </div>
+            <div class="monster_text">The battle form of the god of water, Tatsumi.<br/>Spawns raging tornados to send foes flying.<br/>Summons minions and rain to make items wet and change the terrain.<br/>While on water, Attack Power increases and it recovers<br/>from status ailments.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-### King of the Kigny
-
-<div class="relativeImage monsterImage">
-  <img src="../images/monsters/king_of_the_kigny.png"/>
-</div>
+### Madara
 
 <table class="monsterPageTable">
-  <tr>
-    <th>Lv</th>
-    <th>Name</th>
-    <th>HP</th>
-    <th>Atk</th>
-    <th>Def</th>
-    <th>Exp</th>
-    <th>Elem.</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>King of the Kigny</td>
-    <td>350</td>
-    <td>105</td>
-    <td>28</td>
-    <td>5000</td>
-    <td>Normal<br/>Swift 1</td>
-    <td>Boss of Ceremonial Cave (30F).<br/>Double speed, 1 attack.<br/>Immune to Bufu's Staff.</td>
-  </tr>
+  <tbody>
+    <tr>
+      <th>
+        <div class="monsterPageFlex">
+          <div>Lv1 : Madara</div>
+        </div>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <div class="monsterPageFlex monster_table">
+          <div>
+            <img src="../images/monsters/65-1.png"/>
+          </div>
+          <div>
+            <div class="monsterPageFlex monster_stats">
+              <div>HP</div>
+              <div>666</div>
+              <div>Atk</div>
+              <div>37</div>
+              <div>Def</div>
+              <div>34</div>
+              <div>Exp</div>
+              <div>0</div>
+            </div>
+            <div class="monsterPageFlex monster_stats">
+              <div>Speed</div>
+              <div>Normal</div>
+              <div>Type</div>
+              <div>Normal</div>
+            </div>
+            <div class="monster_text">The monstrous form of the Madara-gumo clan's leader.<br/>Jumps away from approaching foes to keep its distance.<br/>Inflicts Damage-down, Reflective, or Evasive status on the target.<br/>Summons minions and creates low HP clones to fight alongside it.</div>
+            <div class="monster_notes">additional_notes</div>
+          </div>
+        </div>
+      </td>
+    </tr>
+  </tbody>
 </table>

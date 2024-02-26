@@ -1,7 +1,7 @@
 ---
 title: "Guides"
-metaTitle: "Guides - Shiren DS1 Wiki"
-metaDescription: "Gameplay Guides for Shiren the Wanderer DS1."
+metaTitle: "Guides - Shiren 6 Wiki"
+metaDescription: "Gameplay Guides for Shiren the Wanderer 6."
 ---
 
 Click on individual sub pages.
