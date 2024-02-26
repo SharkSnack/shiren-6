@@ -109,7 +109,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
-      <td><img src="../images/monsters/2-3.png"/> chintala_3</td>
+      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
       <td><img src="../images/monsters/8-3.png"/> armordillo_3</td>
       <td><img src="../images/monsters/26-3.png"/> field_knave_3</td>
       <td class="highlightGray"></td>
@@ -124,9 +124,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
-      <td><img src="../images/monsters/2-3.png"/> chintala_3</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
       <td><img src="../images/monsters/8-3.png"/> armordillo_3</td>
       <td><img src="../images/monsters/26-3.png"/> field_knave_3</td>
       <td rowspan="2" class=""></td>
@@ -146,9 +146,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
-      <td><img src="../images/monsters/2-3.png"/> chintala_3</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
       <td><img src="../images/monsters/8-3.png"/> armordillo_3</td>
       <td><img src="../images/monsters/26-3.png"/> field_knave_3</td>
       <td rowspan="2" class=""></td>
@@ -168,9 +168,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
-      <td><img src="../images/monsters/2-3.png"/> chintala_3</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
       <td><img src="../images/monsters/8-3.png"/> armordillo_3</td>
       <td><img src="../images/monsters/26-4.png"/> field_knave_4</td>
       <td rowspan="2" class=""></td>
@@ -190,9 +190,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
-      <td><img src="../images/monsters/2-4.png"/> chintala_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
       <td><img src="../images/monsters/26-4.png"/> field_knave_4</td>
       <td><img src="../images/monsters/20-3.png"/> ghost_radish_3</td>
       <td rowspan="3" class=""></td>
@@ -219,9 +219,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class="highlightMH"></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
-      <td><img src="../images/monsters/2-4.png"/> chintala_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
       <td><img src="../images/monsters/26-4.png"/> field_knave_4</td>
       <td><img src="../images/monsters/20-3.png"/> ghost_radish_3</td>
       <td rowspan="3" class=""></td>
@@ -248,9 +248,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
-      <td><img src="../images/monsters/2-4.png"/> chintala_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
       <td><img src="../images/monsters/20-3.png"/> ghost_radish_3</td>
       <td><img src="../images/monsters/20-4.png"/> ghost_radish_4</td>
       <td rowspan="3" class=""></td>
@@ -277,9 +277,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
-      <td><img src="../images/monsters/2-4.png"/> chintala_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
       <td><img src="../images/monsters/20-4.png"/> ghost_radish_4</td>
       <td><img src="../images/monsters/16-3.png"/> pop_tank_3</td>
       <td rowspan="3" class=""></td>
@@ -306,8 +306,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/20-4.png"/> ghost_radish_4</td>
       <td><img src="../images/monsters/18-3.png"/> porky_3</td>
       <td><img src="../images/monsters/17-3.png"/> bored_kappa_3</td>
@@ -328,8 +328,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/18-3.png"/> porky_3</td>
       <td><img src="../images/monsters/17-3.png"/> bored_kappa_3</td>
       <td><img src="../images/monsters/37-4.png"/> karakuroid_4</td>
@@ -350,8 +350,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class="highlightMH"></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/17-4.png"/> bored_kappa_4</td>
       <td><img src="../images/monsters/40-4.png"/> bug_batter_4</td>
       <td><img src="../images/monsters/36-4.png"/> tiger_tosser_4</td>
@@ -359,7 +359,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td><img src="../images/monsters/34-4.png"/> tug_frog_4</td>
-      <td><img src="../images/monsters/4-4.png"/> spearfish_4</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
       <td><img src="../images/monsters/28-4.png"/> froggo_4</td>
       <td><img src="../images/monsters/29-4.png"/> zalokleft_4</td>
       <td><img src="../images/monsters/44-4.png"/> ndubba_4</td>
@@ -379,8 +379,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class="highlightMH"></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/17-4.png"/> bored_kappa_4</td>
       <td><img src="../images/monsters/40-4.png"/> bug_batter_4</td>
       <td><img src="../images/monsters/36-4.png"/> tiger_tosser_4</td>
@@ -388,7 +388,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td><img src="../images/monsters/34-4.png"/> tug_frog_4</td>
-      <td><img src="../images/monsters/4-4.png"/> spearfish_4</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
       <td><img src="../images/monsters/28-4.png"/> froggo_4</td>
       <td><img src="../images/monsters/29-4.png"/> zalokleft_4</td>
       <td><img src="../images/monsters/44-4.png"/> ndubba_4</td>
@@ -408,8 +408,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class="highlightGold"></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/17-4.png"/> bored_kappa_4</td>
       <td><img src="../images/monsters/40-4.png"/> bug_batter_4</td>
       <td><img src="../images/monsters/36-4.png"/> tiger_tosser_4</td>
@@ -417,7 +417,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td><img src="../images/monsters/34-4.png"/> tug_frog_4</td>
-      <td><img src="../images/monsters/4-4.png"/> spearfish_4</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
       <td><img src="../images/monsters/28-4.png"/> froggo_4</td>
       <td><img src="../images/monsters/29-4.png"/> zalokleft_4</td>
       <td><img src="../images/monsters/44-4.png"/> ndubba_4</td>
@@ -437,8 +437,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/17-4.png"/> bored_kappa_4</td>
       <td><img src="../images/monsters/40-4.png"/> bug_batter_4</td>
       <td><img src="../images/monsters/36-4.png"/> tiger_tosser_4</td>
@@ -446,7 +446,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td><img src="../images/monsters/34-4.png"/> tug_frog_4</td>
-      <td><img src="../images/monsters/4-4.png"/> spearfish_4</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
       <td><img src="../images/monsters/28-4.png"/> froggo_4</td>
       <td><img src="../images/monsters/29-4.png"/> zalokleft_4</td>
       <td><img src="../images/monsters/44-4.png"/> ndubba_4</td>
@@ -466,8 +466,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightGold"></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/16-4.png"/> pop_tank_4</td>
       <td><img src="../images/monsters/18-4.png"/> porky_4</td>
       <td><img src="../images/monsters/28-4.png"/> froggo_4</td>
@@ -488,8 +488,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/16-4.png"/> pop_tank_4</td>
       <td><img src="../images/monsters/18-4.png"/> porky_4</td>
       <td><img src="../images/monsters/28-4.png"/> froggo_4</td>
@@ -510,8 +510,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/16-4.png"/> pop_tank_4</td>
       <td><img src="../images/monsters/18-4.png"/> porky_4</td>
       <td><img src="../images/monsters/28-4.png"/> froggo_4</td>
@@ -532,8 +532,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/16-4.png"/> pop_tank_4</td>
       <td><img src="../images/monsters/18-4.png"/> porky_4</td>
       <td><img src="../images/monsters/28-4.png"/> froggo_4</td>
@@ -554,8 +554,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/30-4.png"/> prankster_4</td>
       <td><img src="../images/monsters/31-4.png"/> curse_girl_4</td>
       <td><img src="../images/monsters/32-3.png"/> slime_3</td>
@@ -576,8 +576,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/30-4.png"/> prankster_4</td>
       <td><img src="../images/monsters/31-4.png"/> curse_girl_4</td>
       <td><img src="../images/monsters/32-3.png"/> slime_3</td>
@@ -598,8 +598,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/30-4.png"/> prankster_4</td>
       <td><img src="../images/monsters/31-4.png"/> curse_girl_4</td>
       <td><img src="../images/monsters/32-3.png"/> slime_3</td>
@@ -620,8 +620,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/30-4.png"/> prankster_4</td>
       <td><img src="../images/monsters/31-4.png"/> curse_girl_4</td>
       <td><img src="../images/monsters/32-3.png"/> slime_3</td>
@@ -642,8 +642,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/30-4.png"/> prankster_4</td>
       <td><img src="../images/monsters/31-4.png"/> curse_girl_4</td>
       <td><img src="../images/monsters/32-3.png"/> slime_3</td>
@@ -664,8 +664,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class="highlightGold"></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/30-4.png"/> prankster_4</td>
       <td><img src="../images/monsters/31-4.png"/> curse_girl_4</td>
       <td><img src="../images/monsters/32-3.png"/> slime_3</td>
@@ -686,8 +686,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/30-4.png"/> prankster_4</td>
       <td><img src="../images/monsters/31-4.png"/> curse_girl_4</td>
       <td><img src="../images/monsters/32-3.png"/> slime_3</td>
@@ -708,8 +708,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightGold"></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/30-4.png"/> prankster_4</td>
       <td><img src="../images/monsters/31-4.png"/> curse_girl_4</td>
       <td><img src="../images/monsters/32-3.png"/> slime_3</td>
@@ -730,8 +730,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/30-4.png"/> prankster_4</td>
       <td><img src="../images/monsters/31-4.png"/> curse_girl_4</td>
       <td><img src="../images/monsters/32-3.png"/> slime_3</td>
@@ -752,8 +752,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightGold"></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/25-4.png"/> scorpion_4</td>
       <td><img src="../images/monsters/24-4.png"/> spin_polygon_4</td>
       <td><img src="../images/monsters/22-4.png"/> gazer_4</td>
@@ -774,8 +774,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/25-4.png"/> scorpion_4</td>
       <td><img src="../images/monsters/24-4.png"/> spin_polygon_4</td>
       <td><img src="../images/monsters/22-4.png"/> gazer_4</td>
@@ -796,8 +796,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/25-4.png"/> scorpion_4</td>
       <td><img src="../images/monsters/24-4.png"/> spin_polygon_4</td>
       <td><img src="../images/monsters/22-4.png"/> gazer_4</td>
@@ -818,8 +818,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/25-4.png"/> scorpion_4</td>
       <td><img src="../images/monsters/24-4.png"/> spin_polygon_4</td>
       <td><img src="../images/monsters/22-4.png"/> gazer_4</td>
@@ -840,8 +840,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/25-4.png"/> scorpion_4</td>
       <td><img src="../images/monsters/24-4.png"/> spin_polygon_4</td>
       <td><img src="../images/monsters/22-4.png"/> gazer_4</td>
@@ -862,8 +862,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/25-4.png"/> scorpion_4</td>
       <td><img src="../images/monsters/24-4.png"/> spin_polygon_4</td>
       <td><img src="../images/monsters/22-4.png"/> gazer_4</td>
@@ -884,8 +884,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/25-4.png"/> scorpion_4</td>
       <td><img src="../images/monsters/24-4.png"/> spin_polygon_4</td>
       <td><img src="../images/monsters/22-4.png"/> gazer_4</td>
@@ -906,8 +906,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/25-4.png"/> scorpion_4</td>
       <td><img src="../images/monsters/24-4.png"/> spin_polygon_4</td>
       <td><img src="../images/monsters/22-4.png"/> gazer_4</td>
@@ -928,8 +928,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/25-4.png"/> scorpion_4</td>
       <td><img src="../images/monsters/24-4.png"/> spin_polygon_4</td>
       <td><img src="../images/monsters/22-4.png"/> gazer_4</td>
@@ -950,8 +950,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/25-4.png"/> scorpion_4</td>
       <td><img src="../images/monsters/24-4.png"/> spin_polygon_4</td>
       <td><img src="../images/monsters/22-4.png"/> gazer_4</td>
@@ -972,8 +972,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/25-4.png"/> scorpion_4</td>
       <td><img src="../images/monsters/24-4.png"/> spin_polygon_4</td>
       <td><img src="../images/monsters/22-4.png"/> gazer_4</td>
@@ -994,8 +994,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightGold"></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/25-4.png"/> scorpion_4</td>
       <td><img src="../images/monsters/24-4.png"/> spin_polygon_4</td>
       <td><img src="../images/monsters/22-4.png"/> gazer_4</td>
@@ -1016,8 +1016,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/52-4.png"/> fire_ninja_4</td>
       <td><img src="../images/monsters/53-4.png"/> water_ninja_4</td>
       <td><img src="../images/monsters/54-4.png"/> wood_ninja_4</td>
@@ -1045,8 +1045,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class="highlightMH"></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/52-4.png"/> fire_ninja_4</td>
       <td><img src="../images/monsters/53-4.png"/> water_ninja_4</td>
       <td><img src="../images/monsters/54-4.png"/> wood_ninja_4</td>
@@ -1074,8 +1074,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/52-4.png"/> fire_ninja_4</td>
       <td><img src="../images/monsters/53-4.png"/> water_ninja_4</td>
       <td><img src="../images/monsters/54-4.png"/> wood_ninja_4</td>
@@ -1103,8 +1103,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/52-4.png"/> fire_ninja_4</td>
       <td><img src="../images/monsters/53-4.png"/> water_ninja_4</td>
       <td><img src="../images/monsters/54-4.png"/> wood_ninja_4</td>
@@ -1132,8 +1132,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/52-4.png"/> fire_ninja_4</td>
       <td><img src="../images/monsters/53-4.png"/> water_ninja_4</td>
       <td><img src="../images/monsters/54-4.png"/> wood_ninja_4</td>
@@ -1161,8 +1161,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="4" class="highlightShop"></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/19-4.png"/> dragon_4</td>
       <td><img src="../images/monsters/35-4.png"/> floor_dragon_4</td>
       <td><img src="../images/monsters/13-4.png"/> chicken_4</td>
@@ -1197,8 +1197,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="4" class="highlightShop"></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/19-4.png"/> dragon_4</td>
       <td><img src="../images/monsters/35-4.png"/> floor_dragon_4</td>
       <td><img src="../images/monsters/13-4.png"/> chicken_4</td>
@@ -1233,8 +1233,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/19-4.png"/> dragon_4</td>
       <td><img src="../images/monsters/35-4.png"/> floor_dragon_4</td>
       <td><img src="../images/monsters/13-4.png"/> chicken_4</td>
@@ -1269,8 +1269,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/19-4.png"/> dragon_4</td>
       <td><img src="../images/monsters/35-4.png"/> floor_dragon_4</td>
       <td><img src="../images/monsters/13-4.png"/> chicken_4</td>
@@ -1305,8 +1305,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="4" class="highlightShop"></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/19-4.png"/> dragon_4</td>
       <td><img src="../images/monsters/35-4.png"/> floor_dragon_4</td>
       <td><img src="../images/monsters/13-4.png"/> chicken_4</td>
@@ -1341,8 +1341,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="4" class="highlightShop"></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> mamel_3</td>
-      <td><img src="../images/monsters/1-4.png"/> mamel_4</td>
+      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters/19-4.png"/> dragon_4</td>
       <td><img src="../images/monsters/35-4.png"/> floor_dragon_4</td>
       <td><img src="../images/monsters/13-4.png"/> chicken_4</td>

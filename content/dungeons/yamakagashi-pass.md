@@ -110,8 +110,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class=""></td>
       <td class=""></td>
       <td class="items"><img src="../images/monsters/27-1.png"/> nigiri_novice_1</td>
-      <td><img src="../images/monsters/1-1.png"/> mamel_1</td>
-      <td><img src="../images/monsters/1-2.png"/> mamel_2</td>
+      <td><img src="../images/monsters/1-1.png"/> Mamel</td>
+      <td><img src="../images/monsters/1-2.png"/> Pit Mamel</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class=""></td>
@@ -127,12 +127,12 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="items"><img src="../images/monsters/27-1.png"/> nigiri_novice_1</td>
       <td><img src="../images/monsters/5-1.png"/> death_reaper_1</td>
       <td class="useful"><img src="../images/monsters/30-1.png"/> prankster_1</td>
-      <td><img src="../images/monsters/1-1.png"/> mamel_1</td>
+      <td><img src="../images/monsters/1-1.png"/> Mamel</td>
       <td class="items"><img src="../images/monsters/7-1.png"/> firepuff_1</td>
       <td rowspan="2" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/1-2.png"/> mamel_2</td>
+      <td><img src="../images/monsters/1-2.png"/> Pit Mamel</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -150,7 +150,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters/5-1.png"/> death_reaper_1</td>
       <td class="useful"><img src="../images/monsters/30-1.png"/> prankster_1</td>
       <td class="items"><img src="../images/monsters/7-1.png"/> firepuff_1</td>
-      <td><img src="../images/monsters/1-2.png"/> mamel_2</td>
+      <td><img src="../images/monsters/1-2.png"/> Pit Mamel</td>
       <td class=""></td>
     </tr>
     <tr>

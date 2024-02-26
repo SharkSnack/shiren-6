@@ -109,9 +109,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightShop"></td>
       <td class=""></td>
       <td class=""></td>
-      <td><img src="../images/monsters/1-1.png"/> mamel_1</td>
-      <td><img src="../images/monsters/3-1.png"/> octopus_1</td>
-      <td><img src="../images/monsters/4-1.png"/> spearfish_1</td>
+      <td><img src="../images/monsters/1-1.png"/> Mamel</td>
+      <td><img src="../images/monsters/3-1.png"/> Octopling</td>
+      <td><img src="../images/monsters/4-1.png"/> Spearfish</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class=""></td>
@@ -124,10 +124,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
-      <td><img src="../images/monsters/1-1.png"/> mamel_1</td>
-      <td><img src="../images/monsters/1-2.png"/> mamel_2</td>
-      <td><img src="../images/monsters/3-1.png"/> octopus_1</td>
-      <td><img src="../images/monsters/4-1.png"/> spearfish_1</td>
+      <td><img src="../images/monsters/1-1.png"/> Mamel</td>
+      <td><img src="../images/monsters/1-2.png"/> Pit Mamel</td>
+      <td><img src="../images/monsters/3-1.png"/> Octopling</td>
+      <td><img src="../images/monsters/4-1.png"/> Spearfish</td>
       <td><img src="../images/monsters/14-1.png"/> shagga_1</td>
       <td class=""></td>
     </tr>
@@ -139,11 +139,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-2.png"/> mamel_2</td>
-      <td><img src="../images/monsters/2-1.png"/> chintala_1</td>
+      <td><img src="../images/monsters/1-2.png"/> Pit Mamel</td>
+      <td><img src="../images/monsters/2-1.png"/> Chintala</td>
       <td class="danger"><img src="../images/monsters/6-1.png"/> pumphantasm_1</td>
       <td class="items"><img src="../images/monsters/8-1.png"/> armordillo_1</td>
-      <td class="danger"><img src="../images/monsters/2-2.png"/> chintala_2</td>
+      <td class="danger"><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
       <td rowspan="2" class=""></td>
     </tr>
     <tr>
@@ -161,11 +161,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/2-1.png"/> chintala_1</td>
+      <td><img src="../images/monsters/2-1.png"/> Chintala</td>
       <td class="danger"><img src="../images/monsters/6-1.png"/> pumphantasm_1</td>
       <td class="items"><img src="../images/monsters/8-1.png"/> armordillo_1</td>
       <td class="items"><img src="../images/monsters/22-1.png"/> gazer_1</td>
-      <td class="danger"><img src="../images/monsters/2-2.png"/> chintala_2</td>
+      <td class="danger"><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
       <td rowspan="2" class=""></td>
     </tr>
     <tr>
@@ -187,7 +187,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="stats"><img src="../images/monsters/25-1.png"/> scorpion_1</td>
       <td class="items"><img src="../images/monsters/22-1.png"/> gazer_1</td>
       <td><img src="../images/monsters/40-2.png"/> bug_batter_2</td>
-      <td><img src="../images/monsters/2-2.png"/> chintala_2</td>
+      <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
       <td rowspan="2" class=""></td>
     </tr>
     <tr>
@@ -207,7 +207,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td class="stats"><img src="../images/monsters/25-1.png"/> scorpion_1</td>
       <td><img src="../images/monsters/40-2.png"/> bug_batter_2</td>
-      <td><img src="../images/monsters/2-2.png"/> chintala_2</td>
+      <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
       <td><img src="../images/monsters/9-1.png"/> evil_solider_1</td>
       <td class="stats"><img src="../images/monsters/23-1.png"/> twisty_hani_1</td>
       <td rowspan="2" class=""></td>
@@ -229,13 +229,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td class="stats"><img src="../images/monsters/25-1.png"/> scorpion_1</td>
       <td><img src="../images/monsters/40-2.png"/> bug_batter_2</td>
-      <td><img src="../images/monsters/2-2.png"/> chintala_2</td>
+      <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
       <td class="useful"><img src="../images/monsters/15-1.png"/> bow_boy_1</td>
       <td><img src="../images/monsters/9-1.png"/> evil_solider_1</td>
       <td rowspan="2" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/3-2.png"/> octopus_2</td>
+      <td><img src="../images/monsters/3-2.png"/> Fresh Octopling</td>
       <td class="stats"><img src="../images/monsters/23-1.png"/> twisty_hani_1</td>
       <td class="danger"><img src="../images/monsters/31-1.png"/> curse_girl_1</td>
       <td class="highlightGray"></td>
@@ -250,10 +250,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters/40-2.png"/> bug_batter_2</td>
-      <td><img src="../images/monsters/2-2.png"/> chintala_2</td>
+      <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
       <td class="useful"><img src="../images/monsters/15-1.png"/> bow_boy_1</td>
       <td><img src="../images/monsters/9-1.png"/> evil_solider_1</td>
-      <td><img src="../images/monsters/3-2.png"/> octopus_2</td>
+      <td><img src="../images/monsters/3-2.png"/> Fresh Octopling</td>
       <td rowspan="2" class=""></td>
     </tr>
     <tr>
@@ -272,10 +272,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters/40-2.png"/> bug_batter_2</td>
-      <td><img src="../images/monsters/2-2.png"/> chintala_2</td>
+      <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
       <td class="useful"><img src="../images/monsters/15-1.png"/> bow_boy_1</td>
       <td><img src="../images/monsters/9-1.png"/> evil_solider_1</td>
-      <td><img src="../images/monsters/3-2.png"/> octopus_2</td>
+      <td><img src="../images/monsters/3-2.png"/> Fresh Octopling</td>
       <td rowspan="2" class=""></td>
     </tr>
     <tr>
@@ -293,10 +293,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/2-2.png"/> chintala_2</td>
+      <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
       <td class="useful"><img src="../images/monsters/15-1.png"/> bow_boy_1</td>
       <td><img src="../images/monsters/9-1.png"/> evil_solider_1</td>
-      <td><img src="../images/monsters/3-2.png"/> octopus_2</td>
+      <td><img src="../images/monsters/3-2.png"/> Fresh Octopling</td>
       <td class="stats"><img src="../images/monsters/23-1.png"/> twisty_hani_1</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
@@ -316,7 +316,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightMH"></td>
       <td class=""></td>
       <td><img src="../images/monsters/14-1.png"/> shagga_1</td>
-      <td><img src="../images/monsters/4-2.png"/> spearfish_2</td>
+      <td><img src="../images/monsters/4-2.png"/> Lt. Spearfish</td>
       <td><img src="../images/monsters/35-1.png"/> floor_dragon_1</td>
       <td><img src="../images/monsters/12-1.png"/> ironhead_1</td>
       <td><img src="../images/monsters/36-1.png"/> tiger_tosser_1</td>
@@ -331,7 +331,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class=""></td>
       <td class=""></td>
       <td><img src="../images/monsters/14-1.png"/> shagga_1</td>
-      <td><img src="../images/monsters/4-2.png"/> spearfish_2</td>
+      <td><img src="../images/monsters/4-2.png"/> Lt. Spearfish</td>
       <td><img src="../images/monsters/35-1.png"/> floor_dragon_1</td>
       <td><img src="../images/monsters/12-1.png"/> ironhead_1</td>
       <td><img src="../images/monsters/36-1.png"/> tiger_tosser_1</td>
@@ -361,7 +361,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td><img src="../images/monsters/14-1.png"/> shagga_1</td>
-      <td><img src="../images/monsters/4-2.png"/> spearfish_2</td>
+      <td><img src="../images/monsters/4-2.png"/> Lt. Spearfish</td>
       <td><img src="../images/monsters/35-1.png"/> floor_dragon_1</td>
       <td><img src="../images/monsters/12-1.png"/> ironhead_1</td>
       <td><img src="../images/monsters/36-1.png"/> tiger_tosser_1</td>
