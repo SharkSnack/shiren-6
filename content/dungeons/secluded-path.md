@@ -53,9 +53,9 @@ metaDescription: "Secluded Path dungeon guide for Shiren the Wanderer 6."
     <td></td>
   </tr>
   <tr>
-    <th>Kron Trials</th>
+    <th>Kron's Challenge</th>
     <td>No</td>
-    <th>Festivals</th>
+    <th>Fever Time</th>
     <td>No</td>
   </tr>
   <tr>
@@ -72,15 +72,15 @@ metaDescription: "Secluded Path dungeon guide for Shiren the Wanderer 6."
   </tr>
 </table>
 
-Hidden route that unlocks when you've reached village_3 at least once and visit village_2 twice.<br/>The floor numbers are displayed as 1-6F, but the dungeon corresponds to 5-9F of Serpentcoil Island.<br/>Blue stairs which let you return to regular Serpentcoil Island floors early can be found starting on 3F.<br/>Once unlocked, this dungeon can be entered anytime.
+Hidden route that unlocks when you've reached Small Harbor once and visit Mountain Village twice.<br/>The floor numbers are displayed as 1-6F, but the dungeon corresponds to 5-9F of Serpentcoil Island.<br/>Blue stairs which let you return to regular Serpentcoil Island floors early can be found starting on 3F.<br/>Once unlocked, this dungeon can be entered anytime.
 
 # Strategy
 
 ### General
 
-The monster table of this dungeon differs significantly from Jingara Mountain.<br/>Ninjas don't appear, so you don't need to worry about Fire Ninjas burning items on the ground.<br/>In addition, Froggos appear on all floors, making it a nice spot to visit when you want to earn Gitan.<br/>Shops also have a very high chance of being generated on each floor, so it's easy to stock up on items.<br/>Don't worry if Scorpions lower your strength, since you can rest at the Inn in village_3 afterwards.
+The monster table of this dungeon differs significantly from Mount Jingara.<br/>Ninjas don't appear, so you don't need to worry about Fire Ninjas burning items on the ground.<br/>In addition, Froggos appear on all floors, making it a nice spot to visit when you want to earn Gitan.<br/>Shops also have a high chance of being generated on each floor, so it's easy to stock up on items.<br/>Don't worry if Scorpions lower your strength, since you can rest at the Inn in Small Harbor afterwards.
 
-However, there is one catch - The powerful <span class="redText">Cave Mamel</span> has a low chance to spawn between 2-6F.<br/>This red Mamel only has 5 HP, but a massive 100 attack and 100 defense - You won't win in a fair fight.<br/>But it's possible to one-shot it and gain 2000 experience points by throwing a single Rock or Gitan bag.<br/>It's mainly only a problem between 5-6F where hallways are dark, since there's risk of a surprise attack.<br/>If you're adjacent, it's best to use a Knockback Staff or Electric Staff since staves have 100% accuracy.<br/>So overall, it's a rewarding place that teaches the value of hunting Cave Mamels to newcomers.
+However, there is one catch - The powerful <span class="redText">Cave Mamel</span> has a low chance to spawn between 2-6F.<br/>This red Mamel only has 5 HP, but a massive 100 attack and 100 defense - You won't win in a fair fight.<br/>But it's possible to one-shot it and gain 2000 experience points by throwing a single Rock or Gitan bag.<br/>It's mainly only a problem between 5-6F where hallways are dark, since there's risk of a surprise attack.<br/>If you're adjacent, it's best to use a Knockback Staff or Thunderbolt Staff since staves have 100% accuracy.<br/>So overall, it's a rewarding place that teaches the value of hunting Cave Mamels to newcomers.
 
 # Monsters
 

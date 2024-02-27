@@ -307,7 +307,7 @@ If you plan on throwing Gitan against the boss, be sure to break any Cashing Pot
   <img src="../images/areas/other/jakaku.jpg"/>
 </div>
 
-Jakaku (777 HP, 50 atk, 20 def) is a Draining type monster, so Drain Slayer deals x1.5 damage to it.<br/>Status conditions can be inflicted, but they get cured in roughly 2\~4 turns depending on the status.<br/>Sanctuary Scroll and Knockback Staff <span class="redText">do not</span> work, but Paralysis Staff and Transient Staff <span class="blueText">do</span> work.<br/>Throwing Antidote Grass deals 50 damage, Poison Grass or Poison Arrow raises its attack power.
+Jakaku (777 HP, 50 atk, 20 def) is a Draining type monster, so Drain Slayer deals x1.5 damage.<br/>Status conditions can be inflicted, but they get cured in roughly 2\~4 turns depending on the status.<br/>Sanctuary Scroll and Knockback Staff <span class="redText">do not</span> work, Paralyzing Staff and Narrow-escape Staff <span class="blueText">do</span> work.<br/>Throwing Antidote Grass deals 50 damage, Poison Grass or Poison Arrow raises its attack power.
 
 Special attacks:
 

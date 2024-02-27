@@ -53,9 +53,9 @@ metaDescription: "Golden Highway dungeon guide for Shiren the Wanderer 6."
     <td></td>
   </tr>
   <tr>
-    <th>Kron Trials</th>
+    <th>Kron's Challenge</th>
     <td>No</td>
-    <th>Festivals</th>
+    <th>Fever Time</th>
     <td>No</td>
   </tr>
   <tr>
@@ -72,19 +72,19 @@ metaDescription: "Golden Highway dungeon guide for Shiren the Wanderer 6."
   </tr>
 </table>
 
-Hidden route that unlocks when you finish the Kawasaku? Side Quest.<br/>The floor numbers are displayed as 1-6F, but the dungeon corresponds to 27-28F of Serpentcoil Island.<br/>Blue stairs which let you return to regular Serpentcoil Island floors early can be found starting on ?F.<br/>Once unlocked, this dungeon can be entered anytime.
+Hidden route that unlocks when you finish the Kawasaku Side Quest.<br/>The floor numbers are displayed as 1-6F, but the dungeon corresponds to 27-28F of Serpentcoil Island.<br/>Blue stairs which let you return to regular Serpentcoil Island floors early can be found starting on ?F.<br/>Once unlocked, this dungeon can be entered anytime.
 
 # Strategy
 
 ### General
 
-This dungeon exists as fan service for Shiren 2 players, being a reference to Golden Intervals.<br/>However, since it's just a hidden route available anytime, don't expect to find rare or exclusive items.<br/>You can occasionally find sacred items and slightly uncommon equipment for main story standards,<br/>but it's not really a place worth visiting multiple times for items unless you like the atmosphere.
+This dungeon exists as fan service for Shiren 2 players, being a reference to Golden Intervals.<br/>However, since it's just a hidden route available anytime, don't expect to find rare or exclusive items.<br/>You can occasionally find sacred items and slightly uncommon equipment for main story standards,<br/>but it's not really a place worth visiting multiple times for items.
 
-To make hunting for items even less appealing, this place features many enemies who mess with items.<br/>Kappa Pests throw items found on the ground, Field Knaves turn items on the ground into Weeds,<br/>Greenwalruses steal items, Kengos disarm and knock your equipped shield away, and so on.<br/>If you're intent on hunting items here, it's best to bring an Extinction Scroll for Field Knaves.
+To make hunting for items even less appealing, this place features many enemies who mess with items.<br/>Pesky Kappas throw items found on the ground, Pot Knaves and Bag Knaves turn items into Weeds,<br/>Greenwalruses steal items, Swordsmen disarm and knock away your equipped shield, and so on.<br/>If you're intent on hunting items here, it's best to bring an Eradication Scroll for Field Knave types.
 
 On the other hand, Mixers are somewhat common on all floors, so it can be a nice place to visit<br/>when you want to synthesize items and haven't unlocked any of the better post-game setups yet.<br/>Gimmicks like cannons can also be generated, making it an okay place to hunt certain achievements.
 
-Last but not least, <span class="redText">Gitan Mamels</span> can spawn here, which are basically powered up Cave Mamels.<br/>They have 20 HP, 100 attack, and 999 defense, and only take 1 damage from direct attacks.<br/>In addition, they have Swift 2 action speed, meaning they can attack 2 times per turn.<br/>So yeah, don't forget to bring Porky Rocks and Revival Grass, at the very least.
+Last but not least, <span class="redText">Gitan Mamels</span> can spawn here, which are basically powered up Cave Mamels.<br/>They have 20 HP, 100 attack, and 999 defense, and only take 1 damage from normal attacks.<br/>In addition, they have Swift 2 action speed, meaning they can attack 2 times per turn.<br/>So yeah, don't forget to bring Porky Rocks and Revival Grass, at the very least.
 
 # Monsters
 

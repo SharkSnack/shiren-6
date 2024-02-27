@@ -53,9 +53,9 @@ metaDescription: "Dune of Batsu dungeon guide for Shiren the Wanderer 6."
     <td>Regular, Sudden, Special</td>
   </tr>
   <tr>
-    <th>Kron Trials</th>
+    <th>Kron's Challenge</th>
     <td>Yes</td>
-    <th>Festivals</th>
+    <th>Fever Time</th>
     <td>Yes</td>
   </tr>
   <tr>
@@ -78,33 +78,33 @@ Post-game story dungeon with a boss fight that fully expects the player to bring
 
 ### General
 
-This dungeon is like an extension of the main story - Clearing it without carry-in items isn't very feasible.<br/>A good weapon and shield goes without saying, but you'll also want items to deal with Monster Houses.<br/>Those would be items like Confusion Scroll, Pinning Staff, Swap Staff, Swift Grass, Invincible Grass, etc.<br/>Monster Detector is also needed to avoid surprise attacks by the meaner monsters explained below.<br/>And of course, you'll want some items to help against the boss fight at the end.
+This dungeon is like an extension of the main story - Clearing it without carry-in items isn't very feasible.<br/>A good weapon and shield goes without saying - It's best to have 30 or higher for equipment strength.<br/>You'll also want items to deal with Monster Houses, since Special Monster Houses can be generated.<br/>Items like Confusion Scroll, Vaulting Staff, Switching Staff, Swift Grass, Invincible Grass, etc.<br/>Monster-find Bracelet is also needed to avoid surprise attacks by meaner monsters explained below.<br/>And of course, you'll want some items to help against the boss fight at the end.
 
-#### Nigiri Novice (Lv1: 2-5F, Lv2: 9-13F, Lv3: 24-29F)
+#### Nigiri Baby (Lv1: 2-5F, Lv2: 9-13F, Lv3: 24-29F)
 
-These monsters transform inventory items into Large Onigiri, and can inflict Onigiri status at higher levels.<br/>Losing a Preservation Pot full of important items can be very devastating for the adventure of course,<br/>but even worse is that you'll instantly collapse if you receive fire damage while you have Onigiri status,<br/>and Sky Dragons who spew fire at you from anywhere in the room appear with Nigiri Novice 3 on 24-27F.<br/>The best counter is to synthesize the Anti-Onigiri rune into your shield to nullify their special attack,<br/>but Onigiri Shield can't be found in the main story dungeon so most don't have that rune at this point.
+These monsters transform inventory items into Large Onigiri, and can inflict Onigiri status at higher levels.<br/>Losing a Preservation Pot full of important items can be very devastating for the adventure of course,<br/>but even worse is that you'll instantly collapse if you receive fire damage while you have Onigiri status,<br/>and Sky Dragons who spew fire at you from anywhere in the room appear with Nigiri Boss on 24-27F.<br/>The best counter is to synthesize the Nigiriproof rune into your shield to nullify their special attack,<br/>but Nigiri Stopper can't be found in the main story dungeon so most don't have that rune yet.
 
-#### Kengo (Lv1: 11-20F, Lv2: 26-29F)
+#### Swordsman (Lv1: 11-20F, Lv2: 26-29F)
 
-These monsters disarm and knock away your equipped items, with the item category varying by level.<br/>Kengo can only disarm your equipped shield, but Iai can disarm either your equipped weapon or shield.<br/>The disarmed item is lost if it hits another character or if you had Cannon Arm status via a trap or bracelet,<br/>and the only way to reclaim it is to check the Shady Shop in village_1 after the adventure ends.<br/>There isn't a shield rune to nullify this special attack, but Bind Bracelet keeps you safe.
+These monsters disarm and knock away your equipped items, with the item category varying by level.<br/>Swordsman can only disarm your equipped shield, but Fencer can disarm either your weapon or shield.<br/>The disarmed item is lost if it hits a character or if you had Far-throwing status via a trap or bracelet,<br/>and the only way to reclaim it is to buy it back from the Unsuspicious Shop in Shukuba Beach.<br/>There isn't a shield rune to nullify this special attack, but Affixing Bracelet keeps you safe.
 
 #### Gazer (Lv2: 8-23F)
 
-These monsters also appeared in the main story dungeon, but are dangerous enough to mention again.<br/>One of the possible actions Gazer's hypnosis can force is throwing an item - including equipped items.<br/>The item is lost if you throw your equipped item at another character, similar to Kengo's situation.<br/>In addition, Gazer can make you insert equipped items into pots, including Sale Pot or Presto Pot.<br/>It's best to synthesize the Anti-Hypno shield rune - Gazer Shield can be found in the main story dungeon.
+These monsters also appeared in the main story dungeon, but are dangerous enough to mention again.<br/>One of the possible actions Gazer's hypnosis can force is throwing an item - including equipped items.<br/>The item is lost if you throw your equipped item at a character, similar to Swordsman's situation.<br/>Gazer can also make you insert equipped items into pots, including Cashing Pot or Transmutation Pot.<br/>It's best to synthesize the Hypnosisproof shield rune - Gazer Shield can be found in the main story.
 
 ### Special Monster House
 
-Special Monster Houses often feature enemies outside of the regular monster table.<br/>Confirmed ones for this dungeon include Explosive House, Easy Chara House, and Greed House so far.<br/>What makes them so dangerous is that they've been sighted as early as 3F, yet can have Lv3-4 monsters,<br/>meaning you can end up having to face a Gitan Mamel, Archdragon, Cranky Tank, etc. at a very low level.<br/>Bring plenty of items for Monster Houses in case you run into these during your run.
+Special Monster Houses often feature enemies outside of the regular monster table.<br/>What makes them so dangerous is that they've been sighted as early as 3F, yet can have Lv3-4 monsters,<br/>meaning you can end up having to face a Gitan Mamel, Archdragon, Steadfast Tank, etc. at a low level.<br/>Bring plenty of items for Monster Houses in case you run into these during your run.
 
 # Floor Guide
 
 ### 1-6F
 
-Monsters are weak, so you shouldn't have any issues if you brought some items.<br/>Lv1 Shagga looks strong and may be intimidating if you played Shiren 5, but it's a pushover in this game.<br/>Unlike previous games in the series, <span class="redText">Nigiri Novice can transform items into Large Onigiri (1/6 chance).</span><br/>Feel free to perform Nigiri Morph Factory if you want, but it's not necessary at all in this dungeon.<br/>Bowboy and Crossbowboy appear between 5-7F, but if you want to collect arrows it's best to do it on 6F<br/>to avoid overlapping with either Nigiri Novice or Field Knave.
+Monsters are weak, so you shouldn't have any issues if you brought some items.<br/>Lv1 Shagga looks strong and may be intimidating if you played Shiren 5, but it's a pushover in this game.<br/>Unlike previous games in the series, <span class="redText">Nigiri Baby can transform items into Large Onigiri.</span><br/>Feel free to perform Nigiri Morph Factory if you want, but it's not necessary at all in this dungeon.<br/>Bowboy and Crossbowboy appear between 5-7F, but if you want to collect arrows it's best to do it on 6F<br/>to avoid overlapping with either Nigiri Baby or Field Knave.
 
 ### 7-20F
 
-Super Gazer (8-23F), Nigiri Morph (9-12F), Armordillo Bro (9-16F), and Kengo (11-20F) appear.<br/>It's best to avoid using Handy Dash, since it can put you into a bad situation depending on your settings.<br/>Beware of Armordillo Bro if you don't have a Balance Staff, since pots can break when you trip.<br/>The earlier Strategy section explains why the other 3 are dangerous, but in terms of how to deal with them,<br/>use staves or scrolls to disable them when they're adjacent since those options have 100% accuracy,<br/>and if there's distance between you and the monster, shoot arrows or use Tri-direction around a corner.<br/>Of course, just use direct attacks if you have the bracelet or runes needed to nullify their special attack.
+Super Gazer (8-23F), Nigiri Morph (9-12F), Brodillo (9-16F), and Swordsman (11-20F) appear.<br/>It's best to avoid using Handy Dash, since it can put you into a bad situation depending on your settings.<br/>Beware of Brodillo if you don't have a Balance Staff, since pots can break when you trip.<br/>The earlier Strategy section explains why the other 3 are dangerous, but in terms of how to deal with them,<br/>use staves or scrolls to disable them when they're adjacent since those options have 100% accuracy,<br/>and if there's distance between you and the monster, shoot arrows or use Frontal Attack around a corner.<br/>Of course, just use normal attacks if you have the bracelet or runes needed to nullify their special attack.
 
 Curse Girl (7-10F) can only curse your equipped shield, and there's no need to unequip your shield here,<br/>so you don't need to worry about her special attack at all.
 
@@ -118,7 +118,7 @@ Mixers (21-23F) can spawn only if you've finished the Synthesis unlock side ques
 
 ### 24-29F
 
-The primary danger zone of this dungeon.<br/>Nigiri Boss (24-29F) can inflict Onigiri status instead of transforming items into Large Onigiri.<br/>If you get hit by Sky Dragon (24-27F)'s flame while you have Onigiri status, you'll instantly collapse.<br/>Skull Mage 2 (24-27F) can inflict Confused status from a distance, so remember to Scout inside rooms.<br/>Iai (26-29F) also appears - if your equipment gets disarmed, check for traps as you walk to the item.<br/>Porky 3 (27-30F) can be a menace with its 75 attack power and Porky Rock throwing range of 8 tiles.
+The primary danger zone of this dungeon.<br/>Nigiri Boss (24-29F) can inflict Onigiri status instead of transforming items into Large Onigiri.<br/>If you get hit by Sky Dragon (24-27F)'s flame while you have Onigiri status, you'll instantly collapse.<br/>Skull Wizard (24-27F) can inflict Confused status from a distance, so remember to <span class="blueText">Look Around</span> in rooms.<br/>Fencer (26-29F) also appears - if your equipment gets disarmed, check for traps as you walk to the item.<br/>Porkon (27-30F) is a menace with its 75 attack power and Porky Rock throwing range of 8 tiles.
 
 ### Boss
 
@@ -126,19 +126,19 @@ The primary danger zone of this dungeon.<br/>Nigiri Boss (24-29F) can inflict On
   <img src="../images/areas/other/batsu.jpg"/>
 </div>
 
-Drought God (888 HP, 52 atk, 30 def) is a Beast type monster, so Beast Axe deals x1.5 damage to it.<br/>Status conditions can be inflicted, but they get cured in roughly 2\~4 turns depending on the status.<br/>Sanctuary Scroll and Knockback Staff <span class="redText">do not</span> work, but Paralysis Staff and Transient Staff <span class="blueText">do</span> work.<br/>It's immune to Dragon Grass, and projectiles burn up and get nullified unless they pierce.<br/>Water Gun Pot lowers its attack power to 1 until it uses its Charge Attack.
+Embodiment of Batsu (888 HP, 52 atk, 30 def) is a Beast type monster, so Primal Axe deals x1.5 damage.<br/>Status conditions can be inflicted, but they get cured in roughly 2\~4 turns depending on the status.<br/>Sanctuary Scroll and Knockback Staff <span class="redText">do not</span> work, Paralyzing Staff and Narrow-escape Staff <span class="blueText">do</span> work.<br/>It's immune to Dragon Grass, and projectiles burn up and get nullified unless they pierce.<br/>Water Gun Pot lowers its attack power to 1 until it uses its Charge Attack.
 
 Special attacks:
 
 - Flame Attack (2 tiles ahead)
     - Deals 20\~30 damage when you have a shield with 30 defense.
 - Charge Attack (3 tile radius)
-    - Cures bad status conditions including Attack Down status, then deals 80\~100 damage.
+    - Cures bad status conditions including Weakened status, then deals 80\~100 damage.
         - This seems to be fixed damage, since the damage is the same without a shield.
 - Sandstorm (anywhere)
     - Creates sand pillars on the field.
         - The boss can walk through these pillars while destroying them.
-- Call Monsters (anywhere)
+- Howl (anywhere)
     - Summons 3 monsters from the floor's monster table.
 
 Other notes:
@@ -148,10 +148,10 @@ Other notes:
     - This calculates out to roughly 17\~21 direct attacks to defeat it.
 - Silver Arrows deal \~20 damage when Shiren is Lv30 and has 8 strength.
     - The arrows don't break sand pillars even with piercing properties.
-- Swift Grass, Power Up Grass, and Invincible Grass are fantastic.
-    - Attack Incense can be paired with Invincible Grass to quickly deal massive damage.
+- Swift Grass, Power-up Grass, and Invincible Grass are fantastic.
+    - Aggressive Incense can be paired with Invincible Grass to quickly deal massive damage.
 - The boss is immune to Explosion Trap, and gets cured of bad status conditions instead.
-- Empathy Staff can be used to supplement damage if your damage output is low.
+- Empathetic Staff can be used to supplement damage if your damage output is low.
 - Slumber Scroll doesn't increase the action speed of the boss afterwards.
 
 # Monsters
@@ -856,7 +856,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="danger"><img src="../images/monsters/63-1.png"/> Kokatsu</td>
+      <td class="danger"><img src="../images/monsters/63-1.png"/> Batsu</td>
       <td class="danger"><img src="../images/monsters/18-3.png"/> Porkon</td>
       <td><img src="../images/monsters/37-2.png"/> Steamroid</td>
       <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>

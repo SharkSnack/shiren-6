@@ -17,7 +17,7 @@ metaDescription: "Ghost Ship dungeon guide for Shiren the Wanderer 6."
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">village_3 (From the docks).</td>
+    <td class="highlightYellow">Small Harbor (From the docks).</td>
   </tr>
 </table>
 
@@ -53,9 +53,9 @@ metaDescription: "Ghost Ship dungeon guide for Shiren the Wanderer 6."
     <td>Yes</td>
   </tr>
   <tr>
-    <th>Kron Trials</th>
+    <th>Kron's Challenge</th>
     <td>No</td>
-    <th>Festivals</th>
+    <th>Fever Time</th>
     <td>No</td>
   </tr>
   <tr>
@@ -72,15 +72,15 @@ metaDescription: "Ghost Ship dungeon guide for Shiren the Wanderer 6."
   </tr>
 </table>
 
-Hidden route that maybe unlocks when you've reached the beach at least once and visit village_3 twice?<br/>The floor numbers are displayed as 1-7F, but the dungeon corresponds to 10-15F of Serpentcoil Island.<br/>Blue stairs which let you return to regular Serpentcoil Island floors early can be found starting on 4F.<br/>Once unlocked, this dungeon can be entered anytime.
+Hidden route that unlocks when you've reached Beachside Pier once and visit Small Harbor twice?<br/>The floor numbers are displayed as 1-7F, but the dungeon corresponds to 10-15F of Serpentcoil Island.<br/>Blue stairs which let you return to regular Serpentcoil Island floors early can be found starting on 4F.<br/>Once unlocked, this dungeon can be entered anytime.
 
 # Strategy
 
 ### General
 
-The main characteristic of this dungeon is that Behemoth Monsters can occur on all floors.<br/>In addition, only monsters with swift action speed spawn between 1-4F, so retreating is ineffective.<br/>This means you'll need a shield strong enough to withstand Karakuroid and Death Reaper 2's attacks.<br/>That said, Karakuroid has 20 attack and Death Reaper 2 has 12 attack, so the requirement isn't very high.<br/>Otherwise, the only other monster that spawns is Bowboy between 5-7F, so it's not too bad.
+The main characteristic of this dungeon is that Behemoth Monsters can occur on all floors.<br/>In addition, only monsters with swift action speed spawn between 1-4F, so retreating is ineffective.<br/>This means you'll need a shield strong enough to withstand Karakuroid and Hell Reaper's attacks.<br/>That said, Karakuroid has 20 attack and Hell Reaper has 12 attack, so the requirement isn't very high.<br/>Otherwise, the only other monster that spawns is Bowboy between 5-7F, so it's not too bad.
 
-Overall, this dungeon is mostly pointless, since shops don't spawn and you miss out on a blacksmith.<br/>The only real advantage is that blue sacred items can rarely be found on the ground.
+Overall, this dungeon is mostly pointless, since shops don't spawn and you miss out on a blacksmith.<br/>The only real benefit is that blue sacred items can occasionally be found on the ground.
 
 # Monsters
 

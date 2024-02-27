@@ -53,6 +53,12 @@ metaDescription: "Cavern of Suiryu dungeon guide for Shiren the Wanderer 6."
     <td></td>
   </tr>
   <tr>
+    <th>Kron's Challenge</th>
+    <td></td>
+    <th>Fever Time</th>
+    <td></td>
+  </tr>
+  <tr>
     <th>Initial Enemies</th>
     <td></td>
     <th>Spawn Rate</th>
@@ -66,23 +72,23 @@ metaDescription: "Cavern of Suiryu dungeon guide for Shiren the Wanderer 6."
   </tr>
 </table>
 
-Post-game story dungeon where you play as Shiren fused with the Drought God (1st clear only).<br/>Shiren cannot equip weapons, shields, or bracelets, and also cannot use arrows or rocks in this form.<br/>This form isn't simply a restriction, however, as Shiren can perform special attacks by spending fullness.<br/>Shiren's direct attack also changes to a flame attack which increases in range as you defeat enemies.<br/>Overall, the first clear of this dungeon is a fun diversion from the usual gameplay.
+Post-game story dungeon where you play as Shiren fused with Kokatsu (1st clear only).<br/>Shiren cannot equip weapons, shields, or bracelets, and also cannot use arrows or rocks in this form.<br/>This form isn't simply a restriction, however, as Shiren can perform special attacks by spending fullness.<br/>Shiren's normal attack also changes to a flame attack which increases in range as you defeat enemies.<br/>Overall, the first clear of this dungeon is a fun diversion from the usual gameplay.
 
 # Strategy
 
 ### Fused Form
 
-#### Direct Attack
+#### Normal Attack
 
-Shiren's direct attack initially reaches 1 tile ahead, but gains 1 tile of range per enemy defeated (max: 3 tiles).<br/>However, the boosted direct attack range resets to the initial state whenever Shiren receives damage.<br/>Since Shiren can't equip a shield, it's very important to utilize the extended range to avoid damage.<br/>This direct attack can cut through corners, and can also hit Pumphantasms inside walls.
+Shiren's normal attack initially reaches 1 tile ahead, but gains 1 tile of range per enemy defeated (max: 3 tiles).<br/>However, the boosted normal attack range resets to the initial state whenever Shiren receives damage.<br/>Since Shiren can't equip a shield, it's very important to utilize the extended range to avoid damage.<br/>This normal attack can cut through corners, and can also hit Pumphantasms inside walls.
 
 #### Special Attacks
 
 |Name|Fullness|Effect|
 |-|-|-|
-|Manipulate Sand|10|Creates a pillar of sand in front of you.<br/>If the tile in front is a wall, digs out the wall tile.|
-|Illusion|20|Creates a decoy.|
-|Scorching Flame|60|Deals 40\~50 damage to all monsters in the room.<br/>Also inflicts Blind status at the same time.|
+|Sand-handling|10|Creates a pillar of sand in front of you.<br/>If the tile in front is a wall, digs out the wall tile.|
+|Deception|20|Creates a decoy.|
+|Blazing Heat|60|Deals 40\~50 damage to all monsters in the room.<br/>Also inflicts Blind status at the same time.|
 |Sun's Blessing|10|Transforms the selected item into a random<br/>Grass or Onigiri category item.|
 
 ### First Clear
@@ -91,43 +97,43 @@ Shiren's direct attack initially reaches 1 tile ahead, but gains 1 tile of range
 
 The special attack "Sun's Blessing" is the key to stocking up on most of the following items.<br/>However, it often gives mediocre items as well, so don't expect only useful items when you use it.
 
-##### Revival Grass / Invincible Grass / Swift Grass / Warp Grass / Power Up Grass
+##### Revival Grass / Invincible Grass / Swift Grass / Leaping Grass / Power-up Grass
 
-These are all items that help you get out of tricky situations.<br/>Keep 1 Power Up Grass on hand for the boss if you manage to obtain one.
+These are all items that help you get out of tricky situations.<br/>Keep 1 Power-up Grass on hand for the boss if you manage to obtain one.
 
-##### Life Grass / Heal Grass / Otogiriso / Herb / Strength Grass / Cheery Grass
+##### Life Grass / Healing Grass / Otogirisou / Herb / Strength Grass / Fortune Grass
 
-Without access to shields, increasing max HP is the only way to improve Shiren's survivability.<br/>Likewise, increasing Shiren's level and strength is the only way to deal more damage.
+Without access to shields, increasing max HP is the main way to improve Shiren's survivability.<br/>Likewise, increasing Shiren's level and strength is the only way to deal more damage.
 
 ##### Onigiri
 
-Since fullness is consumed to fuel special attacks, aim to keep 1\~3 onigiri on hand at all times.<br/>Onigiri can be grilled using an Explochin (9-15F) or Explosion Trap if desired, but it can be a bit risky.<br/>Special Onigiri's Identifier status bonus is helpful early on, but the item only replenishes 30 fullness,<br/>so prioritize more filling onigiri items as you descend further into the dungeon.
+Since fullness is consumed to fuel special attacks, aim to keep 1\~3 onigiri on hand at all times.<br/>Onigiri can be grilled using an Explochin (9-15F) or Explosion Trap if desired, but it can be a bit risky.<br/>Special Onigiri's Knowledgeable status bonus is helpful early on, but it only replenishes 30 fullness,<br/>so prioritize more filling onigiri items as you descend further into the dungeon.
 
 ##### Peach Staff
 
-If you're lucky enough to find this staff, you can perform additional farming techniques (see below).<br/>Of course, being able to one-shot any monster besides bug_batter types is handy as well.
+If you're lucky enough to find this staff, you can perform additional farming techniques (see below).<br/>Of course, being able to one-shot any monster besides Hoppin' Batter types is handy as well.
 
-##### Navigation Scroll
+##### Mapping Scroll
 
-Being able to see where enemies are located makes it easier to maintain 3 tile direct attacks.<br/>Most monsters in this dungeon don't have ranged attacks, so it puts you at a big advantage.<br/>It's recommended to linger and hunt monsters whenever you use one of these scrolls.
+Being able to see where enemies are located makes it easier to maintain 3 tile normal attacks.<br/>Most monsters in this dungeon don't have ranged attacks, so it puts you at a big advantage.<br/>It's recommended to linger and hunt monsters whenever you use one of these scrolls.
 
 #### Farming Techniques
 
 ##### Ghost Radish Bun (6-11F) / Daze Radish Bun (16-19F)
 
-If you find a Peach Staff, turn into a Ghost Radish or Daze Radish and throw grass,<br/>then use Sun's Blessing on the Poison Grass or Confusion Grass to obtain better grass and food items.<br/>Snacky, Gazer, Slime, or Explochin can cause issues while you do this, so be sure to seal off the room<br/>using Manipulate Sand beforehand - and check for traps if you want to be extra safe.<br/>Remember that the effect of Sight Grass wears off when you eat a Peach Bun.
+If you find a Peach Staff, turn into a Ghost Radish or Daze Radish and throw grass,<br/>then use Sun's Blessing on the Poison Grass or Confusion Grass to obtain better grass and food items.<br/>Chow, Gazer, Mudkin, or Explochin can cause issues while you do this, so be sure to seal off the room<br/>using Sand-handling beforehand - and check for traps if you want to be extra safe.<br/>Remember that the effect of Seewell Grass wears off when you eat a Peach Bun.
 
-##### Slime Hunting (6-11F)
+##### Mudkin Hunting (6-11F)
 
-Slime's special attack lowers Shiren's attack and defense in fused form.<br/>So the idea is to intentionally get weakened by Slime a few times, then attack to make them multiply.<br/>Once there are lots of Lv1 Slimes, use Scorching Flame once to blind them and create a Lv2 Slime,<br/>then repeat the process until you ultimately have a bunch of Lv3 or Lv4 Slimes in the room.<br/>At that point, wipe out all remaining Slimes using Scorching Flame to obtain a lot of experience points.<br/>Seal off the room using Manipulate Sand beforehand, and stand on the stairs in case it gets out of hand.<br/>Lv3-4 Slimes require 3 uses of Scorching Flame, so you'll need a total of about 300\~350 fullness.
+Mudkin's special attack lowers Shiren's attack and defense in fused form.<br/>So the idea is to intentionally get weakened by Mudkin a few times, then attack to make them multiply.<br/>Once there are lots of Lv1 Mudkin, use Blazing Heat once to blind them and create a Lv2 Mudkin,<br/>then repeat the process until you ultimately have a bunch of Lv3 or Lv4 Mudkin in the room.<br/>At that point, wipe out all remaining Mudkins using Blazing Heat to obtain a lot of experience points.<br/>Seal off the room using Sand-handling beforehand, and stand on the stairs in case it gets out of control.<br/>Lv3-4 Mudkin require 3 uses of Blazing Heat, so you'll need a total of about 300\~350 fullness.
 
 ##### Other Methods
 
-Use Sight Grass and search for an arrow trap, then create a sand pillar next to it and throw items<br/>against the sand pillar to obtain single arrows to be used as fodder for Sun's Blessing.
+Use Seewell Grass and search for an arrow trap, then create a sand pillar next to it and throw items<br/>against the sand pillar to obtain single arrows to be used as fodder for Sun's Blessing.
 
-Blank Scroll → Mon House Scroll can be helpful to stock up on some items during early game.
+Blank Scroll → Monstercall Scroll can be helpful to stock up on some items during early game.
 
-Zalokleft (9-19F), Froggo (6-10F), and Snacky (6-10F) can be hunted for extra items.
+Thiefwalrus (9-19F), Froggo (6-10F), and Chow (6-10F) can be hunted for extra items.
 
 ### Second Clear
 
@@ -139,7 +145,7 @@ This section is written with the first clear in mind.
 
 ### 1-5F
 
-It's fine to use staves and grass items to identify them - at worst, you might eat a bad status grass.<br/>Alternatively, collect unidentified items and then try for Special Onigiri's Identifier status bonus.<br/>Use equipment and Gitan as fodder for Sun's Blessing - dash to step on Gitan without picking it up.<br/>If you find a shop, you can sell Special Onigiri to secure funds for shopping.
+It's fine to use staves and grass items to identify them - at worst, you might eat a bad status grass.<br/>Alternatively, collect unidentified items and then try for Special Onigiri's Knowledgeable status bonus.<br/>Use equipment and Gitan as fodder for Sun's Blessing - dash to step on Gitan without picking it up.<br/>If you find a shop, you can sell Special Onigiri to secure funds for shopping.
 
 Pumphantasm (23 HP, 16 atk) and Gazer (30 HP, 18 atk) both appear from 4F, so aim for Lv7 by 3F.<br/>Hoppin' Hitter (32 HP, 22 atk) appears from 5F, so aim for Lv10 for faster HP regen before 5F.
 
@@ -147,35 +153,35 @@ Pumphantasm (23 HP, 16 atk) and Gazer (30 HP, 18 atk) both appear from 4F, so ai
 
 This is usually the last floor range where you can comfortably keep up with enemies.<br/>If you found a Peach Staff, consider transforming into Ghost Radish to farm Poison Grass.<br/>Otherwise, check rooms for items while being careful about groups of enemies.
 
-Hunt Slimes (6-19F) using the method explained in an earlier section to level up if possible.
+Hunt Mudkins (6-19F) using the method explained in an earlier section to level up if possible.
 
-Snacky (6-8F) can cause a different monster to level up, so watch the message log closely.<br/>Remember that you can use Illusion or Scorching Flame to deal with a leveled up monster if needed.
+Chow (6-8F) can cause a different monster to level up, so watch the message log closely.<br/>Remember that you can use Deception or Blazing Heat to deal with a leveled up monster if needed.
 
 Dangerous monsters who appear between 9-15F:<br/>Nashagga (70 HP, 21 atk) attacks 2 times per turn - don't be deceived by its lower attack stat.<br/>Explochin (120 HP, 25 atk) stops moving when HP &le; 50%, and explodes when HP &le; 24.
 
 ### 12-15F
 
-Snacky exits the monster table in this range, so you don't need to worry about monsters leveling up.<br/>Mixer (78 HP, 39 atk) and Pumphantom (60 HP, 35 atk) appear in addition to Nashagga and Explochin.<br/>Don't just trade hits with them - fight with a range advantage, or use a special attack or item.
+Chow exits the monster table in this range, so you don't need to worry about monsters leveling up.<br/>Mixer (78 HP, 39 atk) and Pumpanshee (60 HP, 35 atk) appear in addition to Nashagga and Explochin.<br/>Don't just trade hits with them - fight with a range advantage, or use a special attack or item.
 
-If you have food and see an opportunity to seal off the stairs room to hunt Slimes, go ahead and do so,<br/>but remember to keep onigiri on hand for the boss fight too.
+If you have food and see an opportunity to seal off the stairs room to hunt Mudkins, go ahead and do so,<br/>but remember to keep onigiri on hand for the boss fight too.
 
 ### 16-19F
 
-Mixer and Pumphantom are still around, and Snacky returns.<br/>Rush to the stairs using any Navigation Scrolls and Sight Grass you saved for this floor range.<br/>If you end up in a bad situation, don't hesitate to use special attacks or items before it becomes dire.
+Mixer and Pumpanshee are still around, and Chow returns.<br/>Rush to the stairs using any Mapping Scrolls and Seewell Grass you saved for this floor range.<br/>If you end up in a bad situation, don't hesitate to use special attacks or items before it becomes dire.
 
-Daze Radish (80 HP, 37 atk) throws Confusion Grass within a 2 tile radius.<br/>Hoppin' Slugger (72 HP, 39 atk) nullifies or reflects staff magic and thrown items.<br/>Super Gazer (60 HP, 30 atk) hypnotizes you and makes you perform a random action.<br/>Spearfish 3 (100 HP, 39 atk) has high survivability thanks to its underwater HP regen.<br/>Tug Frog 2 (75 HP, 40 atk) pulls you closer and attacks, negating any range advantage.
+Daze Radish (80 HP, 37 atk) throws Confusion Grass within a 2 tile radius.<br/>Hoppin' Slugger (72 HP, 39 atk) nullifies or reflects staff magic and thrown items.<br/>Super Gazer (60 HP, 30 atk) hypnotizes you and makes you perform a random action.<br/>Capt. Spearfish (100 HP, 39 atk) has high survivability thanks to its underwater HP regen.<br/>Dartingfrog (75 HP, 40 atk) pulls you closer and attacks, negating any range advantage.
 
 ### Boss
 
-Sea Dragon (555 HP, 40 atk, 22 def) is an Aquatic and Dragon dual-type monster.<br/>Status conditions can be inflicted, but they get cured in roughly 2\~4 turns depending on the status.<br/>Sanctuary Scroll and Knockback Staff <span class="redText">do not</span> work, but Paralysis Staff and Transient Staff <span class="blueText">do</span> work.
+Embodiment of Suiryu (555 HP, 40 atk, 22 def) is an Aquatic and Dragon dual-type monster.<br/>Status conditions can be inflicted, but they get cured in roughly 2\~4 turns depending on the status.<br/>Sanctuary Scroll and Knockback Staff <span class="redText">do not</span> work, but Paralyzing Staff and Narrow-escape Staff <span class="blueText">do</span> work.
 
 Special attacks:
 
-- Text
+- [Content]
 
 Other notes:
 
-- Text
+- [Content]
 
 # Monsters
 
@@ -631,7 +637,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="danger"><img src="../images/monsters/64-1.png"/> Tatsumi</td>
+      <td class="danger"><img src="../images/monsters/64-1.png"/> Suiryu</td>
       <td class="stats"><img src="../images/monsters/20-2.png"/> Daze Radish</td>
       <td><img src="../images/monsters/17-1.png"/> Bored Kappa</td>
       <td class="items"><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>

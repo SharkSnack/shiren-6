@@ -72,7 +72,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[16] = { items:[], label: 'behemoth-rush', title: 'Behemoth', url: '/dungeons/behemoth-rush'};
         items[17] = { items:[], label: 'sacred-ocean-tunnel', title: 'Sacred Ocean', url: '/dungeons/sacred-ocean-tunnel'};
         items[18] = { items:[], label: 'domain-of-staves-and-scrolls', title: 'Staff & Scroll', url: '/dungeons/domain-of-staves-and-scrolls'};
-        items[19] = { items:[], label: 'isle-of-the-mighty', title: 'Mighty Isle', url: '/dungeons/isle-of-the-mighty'};
+        items[19] = { items:[], label: 'isle-of-the-mighty', title: 'Isle of Mighty', url: '/dungeons/isle-of-the-mighty'};
         items[20] = { items:[], label: 'heart-of-serpentcoil-island', title: 'Heart of Serp.', url: '/dungeons/heart-of-serpentcoil-island'};
         items[21] = { items:[]};
         break;
