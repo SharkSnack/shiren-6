@@ -27,8 +27,6 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
   if (hasChildren) {
     switch (items[0].label) {
       case 'blank-scroll-guide': // guides
-        items[0] = { items:[], label: 'blank-scroll-guide', title: 'Blank Scroll', url: '/guides/blank-scroll-guide'};
-        items[1] = { items:[], label: 'rescue-rewards', title: 'Rescue Rewards', url: '/guides/rescue-rewards'};
         break;
       case 'bracelets': // items
         items[0] = { items:[], label: 'price-chart', title: 'Price Chart', url: '/items/price-chart'};
