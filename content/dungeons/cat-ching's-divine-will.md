@@ -1,7 +1,7 @@
 ---
 title: "Cat-Ching's Divine Will"
-metaTitle: "Cat-Ching's Divine Will - Shiren 6 Wiki"
-metaDescription: "Cat-Ching's Divine Will dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Cat-Ching's Divine Will - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Cat-Ching's Divine Will dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

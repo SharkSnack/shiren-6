@@ -1,7 +1,7 @@
 ---
 title: "Cavern of Suiryu"
-metaTitle: "Cavern of Suiryu - Shiren 6 Wiki"
-metaDescription: "Cavern of Suiryu dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Cavern of Suiryu - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Cavern of Suiryu dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
@@ -76,7 +76,7 @@ Post-game story dungeon where you play as Shiren fused with Kokatsu (1st clear o
 
 # Strategy
 
-### Fused Form
+### Kokatsu Shiren (Fused Form)
 
 #### Normal Attack
 

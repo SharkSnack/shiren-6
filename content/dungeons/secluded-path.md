@@ -1,7 +1,7 @@
 ---
 title: "Secluded Path"
-metaTitle: "Secluded Path - Shiren 6 Wiki"
-metaDescription: "Secluded Path dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Secluded Path - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Secluded Path dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

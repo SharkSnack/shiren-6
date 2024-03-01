@@ -1,7 +1,7 @@
 ---
 title: "Peach Dungeon"
-metaTitle: "Peach Dungeon - Shiren 6 Wiki"
-metaDescription: "Peach Dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Peach Dungeon - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Peach Dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

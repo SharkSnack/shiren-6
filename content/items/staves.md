@@ -1,7 +1,7 @@
 ---
 title: "Staves"
-metaTitle: "Staves - Shiren 6 Wiki"
-metaDescription: "Complete staff details for Shiren the Wanderer 6."
+metaTitle: "Staves - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Complete staff details for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 # Overview
@@ -32,7 +32,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>200</td>
     <td>40</td>
-    <td>?~?</td>
+    <td>5~7</td>
     <td class="leftText">No effect.</td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>200</td>
     <td>40</td>
-    <td>?~6</td>
+    <td>4~6</td>
     <td class="leftText">Inflicts the target with Paralyzed status.<br/><span class="crossMix">Cross-Mixing</span>: Paralyzing (Sword)</td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>200</td>
     <td>40</td>
-    <td>?~6</td>
+    <td>4~6</td>
     <td class="leftText">Inflicts the target with Sealed status.<br/><span class="crossMix">Cross-Mixing</span>: Sealing (Sword)</td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>800</td>
     <td>40</td>
-    <td>?~6</td>
+    <td>4~6</td>
     <td class="leftText">Inflicts the target with Disguised status.<br/><span class="redText">Must be unlocked via a Side Quest.</span></td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>400</td>
     <td>40</td>
-    <td>?~7</td>
+    <td>5~7</td>
     <td class="leftText">Inflicts the target with Empathetic status.</td>
   </tr>
   <tr>
@@ -77,7 +77,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>400</td>
     <td>40</td>
-    <td>?~6</td>
+    <td>4~6</td>
     <td class="leftText">Warps the target to the stairs, then paralyzes them.</td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>200</td>
     <td>40</td>
-    <td>?~7</td>
+    <td>5~7</td>
     <td class="leftText">Sends the target flying 10 tiles backward.<br/>Deals 5 damage if the target hits something.</td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>200</td>
     <td>40</td>
-    <td>?~7</td>
+    <td>5~7</td>
     <td class="leftText">Shiren switches positions with the target.<br/>Shiren warps if he lands on a water or air tile.</td>
   </tr>
   <tr>
@@ -104,7 +104,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>200</td>
     <td>40</td>
-    <td>?~7</td>
+    <td>5~7</td>
     <td class="leftText">Shiren leaps toward whatever the magic bullet hit.<br/>Shiren warps if he lands on a water or air tile.</td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>400</td>
     <td>40</td>
-    <td>?~7</td>
+    <td>5~7</td>
     <td class="leftText">Inflicts Asleep, Confused, Slow, or warps the target.</td>
   </tr>
   <tr>
@@ -122,7 +122,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>200</td>
     <td>40</td>
-    <td>?~6</td>
+    <td>4~6</td>
     <td class="leftText">Deals 25 damage to a target.<br/>Creatures adjacent to the target also take damage.</td>
   </tr>
   <tr>
@@ -131,7 +131,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>280</td>
     <td>40</td>
-    <td>?~6</td>
+    <td>4~6</td>
     <td class="leftText">Digs a tunnel 10 tiles deep in a straight line.<br/>This cannot be used to dig in a diagonal direction.<br/>Deals 10 damage if the magic bullet hits a creature.</td>
   </tr>
   <tr>
@@ -140,7 +140,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>280</td>
     <td>40</td>
-    <td>?~6</td>
+    <td>4~6</td>
     <td class="leftText">Changes the tile in front into a breakable wall tile.<br/>Deals 2 damage if there's a creature in front.</td>
   </tr>
   <tr>
@@ -149,7 +149,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>200</td>
     <td>40</td>
-    <td>?~7</td>
+    <td>5~7</td>
     <td class="leftText">Prevents tripping and dropping items.<br/>-1 charge each time it activates, no effect at [0].<br/>No effect inside a pot.</td>
   </tr>
   <tr>
@@ -158,7 +158,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>280</td>
     <td>40</td>
-    <td>?~4</td>
+    <td>2~4</td>
     <td class="leftText">Reveals the location of the stairs on the map.</td>
   </tr>
   <tr>
@@ -167,7 +167,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>280</td>
     <td>40</td>
-    <td>?~?</td>
+    <td>4~6</td>
     <td class="leftText">Increases the speed of the target by 1 stage.</td>
   </tr>
   <tr>
@@ -176,7 +176,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>280</td>
     <td>40</td>
-    <td>?~6</td>
+    <td>4~6</td>
     <td class="leftText">Decreases the speed of the target by 1 stage.</td>
   </tr>
   <tr>
@@ -185,7 +185,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>400</td>
     <td>40</td>
-    <td>?~6</td>
+    <td>4~6</td>
     <td class="leftText">Increases the target's level by 1.<br/>Shiren or companion: Gain 2000 experience points.</td>
   </tr>
   <tr>
@@ -194,7 +194,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>400</td>
     <td>40</td>
-    <td>?~6</td>
+    <td>4~6</td>
     <td class="leftText">Decreases the target's level by 1.<br/>Shiren or companion: Lose 2000 experience points.</td>
   </tr>
   <tr>
@@ -203,7 +203,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
     <td>100</td>
     <td>800</td>
     <td>40</td>
-    <td>?~6</td>
+    <td>4~6</td>
     <td class="leftText">Transforms the target into a Peach Bun.<br/><span class="redText">Must be unlocked via a Side Quest.</span></td>
   </tr>
 </table>
@@ -232,7 +232,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>200</div>
               <div>Charges</div>
-              <div>?~?</div>
+              <div>5~7</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -262,7 +262,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>200</div>
               <div>Charges</div>
-              <div>?~6</div>
+              <div>4~6</div>
               <div>Rune</div>
               <div class="runeIcon"><img src="../images/rune/weapon/22.png"/> Paralyzing (Sword)</div>
             </div>
@@ -292,7 +292,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>200</div>
               <div>Charges</div>
-              <div>?~6</div>
+              <div>4~6</div>
               <div>Rune</div>
               <div class="runeIcon"><img src="../images/rune/weapon/20.png"/> Sealing (Sword)</div>
             </div>
@@ -322,7 +322,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>800</div>
               <div>Charges</div>
-              <div>?~6</div>
+              <div>4~6</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -352,7 +352,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>400</div>
               <div>Charges</div>
-              <div>?~7</div>
+              <div>5~7</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -382,7 +382,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>400</div>
               <div>Charges</div>
-              <div>?~6</div>
+              <div>4~6</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -412,7 +412,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>200</div>
               <div>Charges</div>
-              <div>?~7</div>
+              <div>5~7</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -442,7 +442,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>200</div>
               <div>Charges</div>
-              <div>?~7</div>
+              <div>5~7</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -472,7 +472,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>200</div>
               <div>Charges</div>
-              <div>?~7</div>
+              <div>5~7</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -502,7 +502,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>400</div>
               <div>Charges</div>
-              <div>?~7</div>
+              <div>5~7</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -532,7 +532,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>200</div>
               <div>Charges</div>
-              <div>?~6</div>
+              <div>4~6</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -562,7 +562,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>280</div>
               <div>Charges</div>
-              <div>?~6</div>
+              <div>4~6</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -592,7 +592,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>280</div>
               <div>Charges</div>
-              <div>?~6</div>
+              <div>4~6</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -622,7 +622,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>200</div>
               <div>Charges</div>
-              <div>?~7</div>
+              <div>5~7</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -652,7 +652,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>280</div>
               <div>Charges</div>
-              <div>?~4</div>
+              <div>2~4</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -682,7 +682,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>280</div>
               <div>Charges</div>
-              <div>?~?</div>
+              <div>4~6</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -712,7 +712,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>280</div>
               <div>Charges</div>
-              <div>?~6</div>
+              <div>4~6</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -742,7 +742,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>400</div>
               <div>Charges</div>
-              <div>?~6</div>
+              <div>4~6</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -772,7 +772,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>400</div>
               <div>Charges</div>
-              <div>?~6</div>
+              <div>4~6</div>
               <div>Rune</div>
               <div>-</div>
             </div>
@@ -802,7 +802,7 @@ metaDescription: "Complete staff details for Shiren the Wanderer 6."
               <div>Sell</div>
               <div>800</div>
               <div>Charges</div>
-              <div>?~6</div>
+              <div>4~6</div>
               <div>Rune</div>
               <div>-</div>
             </div>

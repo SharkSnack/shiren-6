@@ -1,7 +1,7 @@
 ---
 title: "Companions"
-metaTitle: "Companions - Shiren 6 Wiki"
-metaDescription: "List of Companions and their characteristics for Shiren the Wanderer 6."
+metaTitle: "Companions - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "List of Companions and their characteristics for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 ## Overview
@@ -42,20 +42,20 @@ Companions are NPC characters who fight monsters alongside Shiren.<br/>There are
 
 #### Hibiki
 
-- Text
+- [Content]
 
 #### Tugai
 
-- Text
+- [Content]
 
 #### Seki
 
-- Text
+- [Content]
 
 #### Porky
 
-- Text
+- [Content]
 
 #### Asuka
 
-- Text
+- [Content]

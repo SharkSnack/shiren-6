@@ -1,7 +1,7 @@
 ---
 title: "Synthesis Runes"
-metaTitle: "Synthesis Runes - Shiren 6 Wiki"
-metaDescription: "Weapon and shield rune details for Shiren the Wanderer 6."
+metaTitle: "Synthesis Runes - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Weapon and shield rune details for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 # Overview

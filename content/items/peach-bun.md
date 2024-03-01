@@ -1,7 +1,7 @@
 ---
 title: "Peach Bun"
-metaTitle: "Peach Bun - Shiren 6 Wiki"
-metaDescription: "Complete Peach Bun details for Shiren the Wanderer 6."
+metaTitle: "Peach Bun - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Complete Peach Bun details for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 # Overview

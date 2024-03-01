@@ -1,7 +1,7 @@
 ---
 title: "Isle of the Mighty"
-metaTitle: "Isle of the Mighty - Shiren 6 Wiki"
-metaDescription: "Isle of the Mighty dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Isle of the Mighty - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Isle of the Mighty dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

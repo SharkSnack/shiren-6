@@ -1,7 +1,7 @@
 ---
 title: "Behemoth Rush"
-metaTitle: "Behemoth Rush - Shiren 6 Wiki"
-metaDescription: "Behemoth Rush dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Behemoth Rush - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Behemoth Rush dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

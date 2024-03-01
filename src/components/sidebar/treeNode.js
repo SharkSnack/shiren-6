@@ -43,14 +43,16 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[11] = { items:[], label: 'food', title: 'Food', url: '/items/food'};
         break;
       case 'companions': // system
-        items[0] = { items:[], label: 'synthesis-runes', title: 'Runes', url: '/system/synthesis-runes'};
-        items[1] = { items:[], label: 'monsters', title: 'Monsters', url: '/system/monsters'};
-        items[2] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};
-        items[3] = { items:[], label: 'companions', title: 'Companions', url: '/system/companions'};
-        items[4] = { items:[], label: 'roamers', title: 'Roamers', url: '/system/roamers'};
-        items[5] = { items:[], label: 'side-quests', title: 'Side Quests', url: '/system/side-quests'};
-        items[6] = { items:[], label: 'villages', title: 'Villages', url: '/system/villages'};
-        items[7] = { items:[], label: 'status-conditions', title: 'Status', url: '/system/status-conditions'};
+        items[0] = { items:[], label: 'gameplay-basics', title: 'Basics', url: '/system/gameplay-basics'};
+        items[1] = { items:[], label: 'equipment-resonance', title: 'Resonance', url: '/system/equipment-resonance'};
+        items[2] = { items:[], label: 'synthesis-runes', title: 'Runes', url: '/system/synthesis-runes'};
+        items[3] = { items:[], label: 'monsters', title: 'Monsters', url: '/system/monsters'};
+        items[4] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};
+        items[5] = { items:[], label: 'companions', title: 'Companions', url: '/system/companions'};
+        items[6] = { items:[], label: 'roamers', title: 'Roamers', url: '/system/roamers'};
+        items[7] = { items:[], label: 'side-quests', title: 'Side Quests', url: '/system/side-quests'};
+        items[8] = { items:[], label: 'villages', title: 'Villages', url: '/system/villages'};
+        items[9] = { items:[], label: 'status-conditions', title: 'Status', url: '/system/status-conditions'};
         break;
       case 'behemoth-rush': // dungeons
         items[0] = { items:[], label: 'serpentcoil-island', title: 'Serpentcoil Isle', url: '/dungeons/serpentcoil-island'};

@@ -825,6 +825,19 @@ export const baseStyles = css`
   .equipmentTable td:nth-of-type(7) {
     text-align: left !important;
   }
+  .statusTable th {
+    color: white;
+    font-weight: bold;
+    background-color: #482b0a;
+  }
+  .statusTable tr:nth-of-type(2) th {
+    color: #3b454e;
+    text-align: center;
+    background-color: #ffffed;
+  }
+  .statusTable td:nth-of-type(2) {
+    text-align: center;
+  }
   .runeIcon img {
     border-radius: 0px !important;
     height: 20px !important;
@@ -890,6 +903,9 @@ export const baseStyles = css`
   .stretch {
     flex-grow: 1;
     align-self: stretch;
+  }
+  .trapDesc {
+    max-width: 350px;
   }
   .monsterLocationTable th {
     background-color: #f0f0f0;
@@ -1126,13 +1142,6 @@ export const baseStyles = css`
   .galleryTable td {
     text-align: center;
     padding: 2px;
-  }
-  .statusTable th {
-    font-weight: normal;
-    padding: 3px;
-  }
-  .statusTable td {
-    padding: 3px;
   }
   .trophyTable th {
     padding: 3px;

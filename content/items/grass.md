@@ -1,7 +1,7 @@
 ---
 title: "Grass"
-metaTitle: "Grass - Shiren 6 Wiki"
-metaDescription: "Complete grass and seed details for Shiren the Wanderer 6."
+metaTitle: "Grass - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Complete grass and seed details for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 # Overview

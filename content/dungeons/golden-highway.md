@@ -1,7 +1,7 @@
 ---
 title: "Golden Highway"
-metaTitle: "Golden Highway - Shiren 6 Wiki"
-metaDescription: "Golden Highway dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Golden Highway - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Golden Highway dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

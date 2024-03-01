@@ -1,7 +1,7 @@
 ---
 title: "Pots"
-metaTitle: "Pots - Shiren 6 Wiki"
-metaDescription: "Complete pot details for Shiren the Wanderer 6."
+metaTitle: "Pots - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Complete pot details for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 # Overview

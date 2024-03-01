@@ -1,7 +1,7 @@
 ---
 title: "Kiki Island"
-metaTitle: "Kiki Island - Shiren 6 Wiki"
-metaDescription: "Kiki Island dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Kiki Island - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Kiki Island dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

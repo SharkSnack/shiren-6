@@ -1,7 +1,7 @@
 ---
 title: "Training Path of Extra Inference"
-metaTitle: "Training Path of Extra Inference - Shiren 6 Wiki"
-metaDescription: "Training Path of Extra Inference dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Training Path of Extra Inference - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Training Path of Extra Inference dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

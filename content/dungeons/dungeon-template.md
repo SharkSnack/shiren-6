@@ -1,7 +1,7 @@
 ---
 title: "Dungeon Template"
-metaTitle: "Dungeon Template - Shiren 6 Wiki"
-metaDescription: "Dungeon Template for Shiren the Wanderer 6."
+metaTitle: "Dungeon Template - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Dungeon Template for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

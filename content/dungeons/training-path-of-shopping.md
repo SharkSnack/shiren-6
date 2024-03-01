@@ -1,7 +1,7 @@
 ---
 title: "Training Path of Shopping"
-metaTitle: "Training Path of Shopping - Shiren 6 Wiki"
-metaDescription: "Training Path of Shopping dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Training Path of Shopping - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Training Path of Shopping dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

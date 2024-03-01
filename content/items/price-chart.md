@@ -1,7 +1,7 @@
 ---
 title: "Price Chart"
-metaTitle: "Price Chart - Shiren 6 Wiki"
-metaDescription: "Item price chart for Shiren the Wanderer 6."
+metaTitle: "Price Chart - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Item price chart for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 # Categories
@@ -393,7 +393,7 @@ metaDescription: "Item price chart for Shiren the Wanderer 6."
   </tr>
   <tr>
     <td>Ordinary Staff</td>
-    <td>?~?</td>
+    <td rowspan="5">5~7</td>
     <td rowspan="8">100<br/>/40</td>
     <td rowspan="8">500<br/>/200<br/><span class="priceCursed">435<br/>/174</span></td>
     <td rowspan="8">600<br/>/240<br/><span class="priceCursed">522<br/>/208</span></td>
@@ -406,35 +406,29 @@ metaDescription: "Item price chart for Shiren the Wanderer 6."
   </tr>
   <tr>
     <td>Knockback Staff</td>
-    <td>?~7</td>
   </tr>
   <tr>
     <td>Switching Staff</td>
-    <td>?~7</td>
   </tr>
   <tr>
     <td>Vaulting Staff</td>
-    <td>?~7</td>
   </tr>
   <tr>
     <td>Balance Staff</td>
-    <td>?~7</td>
   </tr>
   <tr>
     <td>Paralyzing Staff</td>
-    <td>?~6</td>
+    <td rowspan="3">4~6</td>
   </tr>
   <tr>
     <td>Sealing Staff</td>
-    <td>?~6</td>
   </tr>
   <tr>
     <td>Thunderbolt Staff</td>
-    <td>?~6</td>
   </tr>
   <tr>
     <td>Burrowing Staff</td>
-    <td>?~6</td>
+    <td rowspan="4">4~6</td>
     <td rowspan="5">100<br/>/40</td>
     <td rowspan="5">700<br/>/280<br/><span class="priceCursed">609<br/>/243</span></td>
     <td rowspan="5">800<br/>/320<br/><span class="priceCursed">696<br/>/278</span></td>
@@ -447,23 +441,20 @@ metaDescription: "Item price chart for Shiren the Wanderer 6."
   </tr>
   <tr>
     <td>Earthmound Staff</td>
-    <td>?~6</td>
   </tr>
   <tr>
     <td>Sluggish Staff</td>
-    <td>?~6</td>
-  </tr>
-  <tr>
-    <td>Guiding Staff</td>
-    <td>?~4</td>
   </tr>
   <tr>
     <td>Swift Staff</td>
-    <td>?~?</td>
+  </tr>
+  <tr>
+    <td>Guiding Staff</td>
+    <td>2~4</td>
   </tr>
   <tr>
     <td>Empathetic Staff</td>
-    <td>?~7</td>
+    <td rowspan="2">5~7</td>
     <td rowspan="5">100<br/>/40</td>
     <td rowspan="5">1000<br/>/400<br/><span class="priceCursed">870<br/>/348</span></td>
     <td rowspan="5">1100<br/>/440<br/><span class="priceCursed">957<br/>/382</span></td>
@@ -476,23 +467,20 @@ metaDescription: "Item price chart for Shiren the Wanderer 6."
   </tr>
   <tr>
     <td>Skull Mage's Staff</td>
-    <td>?~7</td>
   </tr>
   <tr>
     <td>Narrow-escape Staff</td>
-    <td>?~6</td>
+    <td rowspan="3">4~6</td>
   </tr>
   <tr>
     <td>Fortune Staff</td>
-    <td>?~6</td>
   </tr>
   <tr>
     <td>Unlucky Staff</td>
-    <td>?~6</td>
   </tr>
   <tr>
     <td>Disguising Staff</td>
-    <td>?~6</td>
+    <td rowspan="2">4~6</td>
     <td rowspan="2">100<br/>/40</td>
     <td rowspan="2">2000<br/>/800<br/><span class="priceCursed">1740<br/>/696</span></td>
     <td rowspan="2">2100<br/>/840<br/><span class="priceCursed">1827<br/>/730</span></td>
@@ -505,7 +493,6 @@ metaDescription: "Item price chart for Shiren the Wanderer 6."
   </tr>
   <tr>
     <td>Peach Staff</td>
-    <td>?~6</td>
   </tr>
 </table>
 

@@ -1,7 +1,7 @@
 ---
 title: "Yamakagashi Pass"
-metaTitle: "Yamakagashi Pass - Shiren 6 Wiki"
-metaDescription: "Yamakagashi Pass dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Yamakagashi Pass - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Yamakagashi Pass dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

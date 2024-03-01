@@ -50,7 +50,7 @@ const config = {
     ignoreIndex: false
   },
   siteMetadata: {
-    title: 'Shiren 6 Wiki | SharkSnack',
+    title: 'Shiren 6: Serpentcoil Island Wiki | SharkSnack',
     description: 'Documentation built with mdx.',
     ogImage: null,
     docsLocation: 'https://github.com/sharksnack/shiren-6/tree/master/content',

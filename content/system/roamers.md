@@ -1,10 +1,10 @@
 ---
 title: "Roamers"
-metaTitle: "Roamers - Shiren 6 Wiki"
-metaDescription: "Roaming non-player character details for Shiren the Wanderer 6."
+metaTitle: "Roamers - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Roaming non-player character details for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
-## Overview
+# Overview
 
 Roamers are NPC characters who can be found walking around inside dungeons.<br/>They're represented as a green dot on the map.
 
@@ -16,7 +16,7 @@ Characteristics:
 
 Companion characters can also appear as Roamers, and can be recruited by talking.<br/>Roamers who aren't companion characters will turn hostile when you attack them.
 
-## NPC List
+# Roamer List
 
 <table id="monsterList" class="pageLinksTable">
   <tr>

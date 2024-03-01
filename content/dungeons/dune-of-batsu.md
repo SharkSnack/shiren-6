@@ -1,7 +1,7 @@
 ---
 title: "Dune of Batsu"
-metaTitle: "Dune of Batsu - Shiren 6 Wiki"
-metaDescription: "Dune of Batsu dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Dune of Batsu - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Dune of Batsu dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

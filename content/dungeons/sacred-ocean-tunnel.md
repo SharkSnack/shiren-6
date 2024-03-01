@@ -1,7 +1,7 @@
 ---
 title: "Sacred Ocean Tunnel"
-metaTitle: "Sacred Ocean Tunnel - Shiren 6 Wiki"
-metaDescription: "Sacred Ocean Tunnel dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Sacred Ocean Tunnel - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Sacred Ocean Tunnel dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

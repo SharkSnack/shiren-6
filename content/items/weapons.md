@@ -1,7 +1,7 @@
 ---
 title: "Weapons"
-metaTitle: "Weapons - Shiren 6 Wiki"
-metaDescription: "Complete weapon details for Shiren the Wanderer 6."
+metaTitle: "Weapons - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 # Overview

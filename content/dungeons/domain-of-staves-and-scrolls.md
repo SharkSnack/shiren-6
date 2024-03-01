@@ -1,7 +1,7 @@
 ---
 title: "Domain of Staves and Scrolls"
-metaTitle: "Domain of Staves and Scrolls - Shiren 6 Wiki"
-metaDescription: "Domain of Staves and Scrolls dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Domain of Staves and Scrolls - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Domain of Staves and Scrolls dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

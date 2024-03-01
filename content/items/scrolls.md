@@ -1,7 +1,7 @@
 ---
 title: "Scrolls"
-metaTitle: "Scrolls - Shiren 6 Wiki"
-metaDescription: "Complete scroll details for Shiren the Wanderer 6."
+metaTitle: "Scrolls - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Complete scroll details for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 # Overview

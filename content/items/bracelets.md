@@ -1,7 +1,7 @@
 ---
 title: "Bracelets"
-metaTitle: "Bracelets - Shiren 6 Wiki"
-metaDescription: "Complete bracelet details for Shiren the Wanderer 6."
+metaTitle: "Bracelets - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Complete bracelet details for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 # Overview

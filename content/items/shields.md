@@ -1,7 +1,7 @@
 ---
 title: "Shields"
-metaTitle: "Shields - Shiren 6 Wiki"
-metaDescription: "Complete shield details for Shiren the Wanderer 6."
+metaTitle: "Shields - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Complete shield details for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 # Overview

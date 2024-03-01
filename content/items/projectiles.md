@@ -1,7 +1,7 @@
 ---
 title: "Projectiles"
-metaTitle: "Projectiles - Shiren 6 Wiki"
-metaDescription: "Complete projectile details for Shiren the Wanderer 6."
+metaTitle: "Projectiles - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Complete projectile details for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 # Overview

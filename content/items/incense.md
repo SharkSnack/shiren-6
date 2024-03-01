@@ -1,7 +1,7 @@
 ---
 title: "Incense"
-metaTitle: "Incense - Shiren 6 Wiki"
-metaDescription: "Complete incense details for Shiren the Wanderer 6."
+metaTitle: "Incense - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Complete incense details for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 # Overview

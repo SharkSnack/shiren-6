@@ -1,7 +1,7 @@
 ---
 title: "Monsters"
-metaTitle: "Monsters - Shiren 6 Wiki"
-metaDescription: "Complete list of monsters for Shiren the Wanderer 6."
+metaTitle: "Monsters - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Complete list of monsters for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 # Monster List
@@ -29,7 +29,7 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer 6."
     <td><a href="#bowboy-family">Bowboy</a></td>
     <td class="highlightGrey"><a href="#froggo-family">Froggo</a></td>
     <td><a href="#fierous-family">Fierous</a></td>
-    <td class="highlightGrey"><a href="#wood-ninja-family">Wood Ninja</a></td>
+    <td class="highlightGrey"><a href="#tree-ninja-family">Tree Ninja</a></td>
   </tr>
   <tr>
     <td class="highlightGrey"><a href="#octopling-family">Octopling</a></td>

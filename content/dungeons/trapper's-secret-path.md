@@ -1,7 +1,7 @@
 ---
 title: "Trapper's Secret Path"
-metaTitle: "Trapper's Secret Path - Shiren 6 Wiki"
-metaDescription: "Trapper's Secret Path dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Trapper's Secret Path - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Trapper's Secret Path dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

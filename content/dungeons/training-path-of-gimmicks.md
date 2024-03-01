@@ -1,7 +1,7 @@
 ---
 title: "Training Path of Gimmicks"
-metaTitle: "Training Path of Gimmicks - Shiren 6 Wiki"
-metaDescription: "Training Path of Gimmicks dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Training Path of Gimmicks - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Training Path of Gimmicks dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

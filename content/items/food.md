@@ -1,7 +1,7 @@
 ---
 title: "Food"
-metaTitle: "Food - Shiren 6 Wiki"
-metaDescription: "Complete food details for Shiren the Wanderer 6."
+metaTitle: "Food - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Complete food details for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 # Overview

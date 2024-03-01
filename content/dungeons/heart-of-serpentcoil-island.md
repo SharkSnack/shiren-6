@@ -1,7 +1,7 @@
 ---
 title: "Heart of Serpentcoil Island"
-metaTitle: "Heart of Serpentcoil Island - Shiren 6 Wiki"
-metaDescription: "Heart of Serpentcoil Island dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Heart of Serpentcoil Island - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Heart of Serpentcoil Island dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

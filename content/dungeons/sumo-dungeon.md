@@ -1,7 +1,7 @@
 ---
 title: "Sumo Dungeon"
-metaTitle: "Sumo Dungeon - Shiren 6 Wiki"
-metaDescription: "Sumo Dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Sumo Dungeon - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Sumo Dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

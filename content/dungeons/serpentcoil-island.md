@@ -1,7 +1,7 @@
 ---
 title: "Serpentcoil Island"
-metaTitle: "Serpentcoil Island - Shiren 6 Wiki"
-metaDescription: "Serpentcoil Island (main story) dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Serpentcoil Island - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Serpentcoil Island (main story) dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">

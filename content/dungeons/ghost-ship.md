@@ -1,7 +1,7 @@
 ---
 title: "Ghost Ship"
-metaTitle: "Ghost Ship - Shiren 6 Wiki"
-metaDescription: "Ghost Ship dungeon guide for Shiren the Wanderer 6."
+metaTitle: "Ghost Ship - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Ghost Ship dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
