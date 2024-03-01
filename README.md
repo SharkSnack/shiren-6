@@ -2,4 +2,4 @@ This repository is for a Shiren 6 (Serpentcoil Island) related gameplay resource
 
 It's based on Gatsby Gitbook Starter by Hasura.
 
-The site is not currently online.
+Link: https://sharksnack.github.io/shiren-6/
