@@ -219,6 +219,7 @@ Examples:
 Blessings:
 
 - Bell icon is displayed near the item category.
+- Only Food, Grass, Scrolls, and Peach Buns have the possibility of being blessed.
 - The item can be used 2 times.
     - The Blessing is removed and it returns to being a regular item after the first use.
     - If thrown at a creature, the item falls on the ground underneath the creature after it hits.
@@ -232,6 +233,7 @@ Blessings:
 Curses:
 
 - Skull icon is displayed near the item category.
+- All item categories have the possibility of being cursed.
 - Usage of the item becomes restricted.
     - Equipment: Cannot be unequipped.
         - Removal Trap can remove cursed items that are equipped, but the curse remains.

@@ -1059,7 +1059,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/shield/24.png"/> Costly Block</div>
             </div>
             <div class="monster_text">Spends Gitan to reduce damage taken by normal attacks.<br/>Without enough Gitan, damage taken will be increased.<br/>Resonance Effect (Spender's Club):<br/>Slightly reduces the amount of Gitan consumed by Runes.</div>
-            <div class="monster_notes">Damage reduction is 30%, and spend 100 Gitan per hit.<br/>Shield defense becomes 0 without enough Gitan.<br/>Resonance reduces Gitan cost per hit from 100 → 70.</div>
+            <div class="monster_notes">Damage reduction is 30%, and spend 100 Gitan per hit.<br/>Shield defense becomes 0 without enough Gitan.<br/>Resonance reduces Gitan cost per hit from 100 → 75.</div>
           </div>
         </div>
       </td>

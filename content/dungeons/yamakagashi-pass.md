@@ -13,7 +13,7 @@ metaDescription: "Yamakagashi Pass dungeon guide for Shiren the Wanderer: The My
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Clear Serpentcoil Island → Progress Secret Ninja Village events.<br/>　・Unlocking Synthesis and Peach Staff is also part of the requirement.</td>
   </tr>
   <tr>
     <th>Entrance</th>
@@ -50,6 +50,12 @@ metaDescription: "Yamakagashi Pass dungeon guide for Shiren the Wanderer: The My
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
+    <td>Regular, Sudden, Special</td>
+  </tr>
+  <tr>
+    <th>Kron's Challenge</th>
+    <td></td>
+    <th>Fever Time</th>
     <td></td>
   </tr>
   <tr>
@@ -66,19 +72,217 @@ metaDescription: "Yamakagashi Pass dungeon guide for Shiren the Wanderer: The My
   </tr>
 </table>
 
+Post-game dungeon that's kind of like a bite-sized version of a classic unidentified items dungeon.<br/>All items besides incenses are found unidentified, and all floors except for 13F have dark hallways.<br/>In addition to a pretty relentless monster table, there's also a tougher boss fight waiting at the end.<br/>Overall, this dungeon has gained some notoriety online due to its difficulty for reasons listed below.<br/>If you're struggling to clear the dungeon, rest assured that you're definitely not alone.
+
 # Strategy
 
 ### General
 
-[Content]
+This dungeon is said to be difficult for the following reasons:
+
+- Monsters like Curse Girl (65 HP, 28 atk, 28 def) that almost feel out-of-depth for when they appear.
+    - Tough monsters continuously appearing like this makes it difficult to conserve resources.
+- Mixers are not in the monster table, so you're unlikely to be able to upgrade equipment.
+- Froggo, Thiefwalrus, and Mudkin are also missing, so you can't farm items or exp easily.
+- The boss is generally challenging, so if you lack items, rushing stairs often just ensures a loss.
+    - He can summon clones or ninja underlings and can leap away from the player.
+- Despite the above, monsters constantly destroy items on the ground throughout the dungeon.
+    - Fire Ninja D (5-9F), Field Knave (8-11F), Pot Knave (14-16F), Fire Ninja C (21-24F), etc.
+- When the item destruction finally eases up, monsters can be too tough to check rooms.
+- Monster Houses seem to have a higher chance of being generated than some other dungoens.
+    - Special Monster Houses can also be generated here.
+
+That said, the monster table does allow for some farming techniques on a few floor ranges.
+
+- 1-3F - Nigiri Baby can be used to obtain lots of Large Onigiri.
+- 7-9F - Collect arrows from Bowboy monsters using sand pillars built by Earth Ninja D.
+- 6-12F - Have Karakuroid create Poison Arrow Traps, and collect Poison Arrows.
+
+However, since these floor ranges are all early game, whether you can do them or not depends on luck.<br/>It becomes difficult to perform Nigiri Morph Factory if you don't find a decent shield at the start,<br/>and Karakuroid has 20 attack power so you'll have a hard time collecting Poison Arrows too.<br/>Most other floor ranges either destroy items or have tough enemies, making it pointless to explore.
+
+Other notable things:
+
+- The item table doesn't include many negative effect items, so it's fine to use items to ID them.
+    - At worst, you might become afflicted with a status condition after eating a grass item.
+- Wishing Shrines are on the common side, so you might get lucky with a good wish selection.
+
+So overall, this dungeon emphasizes run-away play more than a standard style of gameplay.<br/>This is in contrast to Kiki Island, which is a more standard 25F unidentified items dungeon.
 
 ### Important Items
 
-[Content]
+##### Wooden Arrows / Iron Arrows
+
+Tougher monsters appear starting from 10F, so shoot arrows in hallway to avoid surprise attacks.<br/>Enemies who nullify projectiles like Fierous or Mixer don't appear, so it's an effective technique here.
+
+##### Poison Arrows
+
+A single Poison Arrow reduces a monster's Attack Power by 50%, making it feasible to trade hits.<br/>It's useful even when a monster is adjacent in a hallway since the damage reduction is so significant,<br/>and it can also be used against Karakuroid to make it easier to create more Poison Arrow Traps.<br/>In addition, Poison Arrows are effective against the boss, so collect as many as possible.
+
+##### Monster-find Bracelet
+
+Reveals the locations of monsters on the map, and lets you see incoming enemies in dark hallways.<br/>You'll be able to spot shops and Monster Houses at a glance while this is equipped.
+
+##### Fixer Scroll
+
+Fully restores HP and also solves one additional problem depending on your situation.<br/>It can be read when you're surrounded by 2 or more enemies to paralyze all adjacent enemies.<br/>Your shield is likely to get cursed by Curse Girl, but don't waste a Fixer Scroll to lift the curse,<br/>since Mixers don't appear and this scroll has far better uses like fully replenishing Fullness.
+
+##### Sanctuary Scroll
+
+The effect is nullified during boss fights, but it can be useful for Monster House.<br/>Monsters with ranged attacks are on the uncommon side, but beware of Fire Ninja and Water Ninja.
+
+##### Blank Scroll
+
+If Eradication Scroll is recorded in your notebook from playing Domain of Staves and Scrolls,<br/>you can write Eradication on a Blank Scroll to banish a monster like Field Knave or Swordsman.<br/>If you also find a Cashing Pot, insert an Eradication Scroll to obtain a Gitan bag worth 4000 Gitan,<br/>which can be thrown at the boss to instantly defeat it.
+
+##### Yamanba's Cleaver & Yamanba's Potlid
+
+High base attack and defense, and Shiren gains strength when the equipment is cursed.<br/>There are plenty of Curse Girl family monsters in this dungeon, so it's easy to activate the rune.<br/>Despite the confusing in-game description, the item is not always cursed when generated.
+
+##### Ferrous Greatsword & Ferrous Kite
+
+Boosts damage dealt by x1.5, and reduces damage received by 30%.<br/>However, the -2 Fullness per hit cost is a bit high for general use, so save it for the boss.
+
+##### Whopping Harisen
+
+This weapon has a 50% chance to deal 1 tile of knockback to the target when an attack connects.<br/>Since most monsters lack a ranged attack, this effect lets you avoid damage pretty often.<br/>Resonates with Zabuton, which grants a 10% chance to inflict Laughing status.
+
+##### Disguising Staff
+
+The effect only lasts 8 turns, but that's a good amount of time when it comes to distracting the boss.<br/>Swing it at one of the regular ninjas, and depending on Seki's positioning, she'll focus on the boss.
+
+##### Peach Staff
+
+Instantly defeats the monster hit by the magic bullet, transforming them into a Peach Bun.<br/>Some of the best targets to use Peach Staff on include:
+
+- Hat Urchin - Steal staves from enemies (ability always succeeds).
+- Bowboy or Crossbowboy - Shoot arrows at a wall to collect lots of arrows.
+- Karakuroid - Create Poison Arrow Traps or other useful traps, Swift status.
+    - Beware of Water Ninja's ability while you have Morphed status.
+- Death Reaper - Permanent Swift status while you have Morphed status.
+    - Beware of Water Ninja's ability while you have Morphed status.
+- Masked Samurai - Revive as Ghost Warrior if you happen to be defeated.
+- Tengu Monk - Press ZL to give yourself Swift status whenever you'd like.
+- N'dulu: Give yourself Hiding status whenever you'd like.
+
+##### Blurry Incense
+
+Can be used to restrict a Field Knave family monster's ability to locate items in rooms.<br/>It can also be helpful during the boss fight since it masks your location from regular ninjas,<br/>but keep in mind that the boss can overwrite the incense effect with its own incense.
+
+##### Cashing Pot
+
+Thrown Gitan deals damage equal to 20% of the bag's value, and this also applies to the boss.<br/>Items like Gazer Shield, Walrus Stopper, and Froggo Stopper can be inserted to create high value bags,<br/>and there isn't a downside since the monsters those shields counter don't appear in this dungeon.<br/>You'll need a total of 3400 Gitan worth of Gitan bags to defeat the boss using this strategy.
+
+### Farming Techniques
+
+Field Knaves appear starting on 8F, and Curse Girls from 10F, so aim to finish farming items on 7F.
+
+#### Nigiri Morph Factory (1-3F)
+
+Nigiri Baby (1-3F) appears, so have it turn unneeded items into Large Onigiri if you find a shield.<br/>If you find rocks or arrows, turn individual rocks or arrows into onigiri instead of the entire stack.<br/>You can do so by stepping on single rocks or arrows and exchanging them with inventory items.<br/>It's worth trying Nigiri Morph Factory even if you don't find a shield - walk around in a large room.<br/>Increasing max fullness to 150+ activates Sumo status, which is a massive help here.
+
+#### Grilled Onigiri (2-9F)
+
+Firepuff (2-4F)'s special attack deals fire damage, so onigiri in your inventory will become grilled.<br/>Grilled Onigiri replenishes 75 fullness and restores 40 HP - Not bad as an early game healing item.<br/>Don't worry too much if you step on a Rotting Trap, since Fire Ninja D (5-9F) can also grill onigiri.
+
+#### Hat Urchin Bun (2-4F)
+
+If you find a Peach Staff, wave it at a Hat Urchin (2-4F) and become a Hat Urchin to steal staves.<br/>Unlike Swordsman Bun or Pot Knave Bun, Hat Urchin Bun's ability has a 100% success rate,<br/>so you'll quickly be able to fill up your inventory with staves.
+
+#### Wooden Arrows / Iron Arrows (7-9F)
+
+Bowboy (7-9F) appears alongside Earth Ninja D (5-9F), so use a sand pillar to collect arrows.<br/>Bowboy always uses its special attack when you're lined up and within range of its arrows.<br/>If desired, have Bowboy defeat an enemy to level up into a Crossbowboy for Iron Arrows instead.
+
+#### Poison Arrows (6-12F)
+
+Karakuroid (6-12F) has the ability to create a random trap, which includes Poison Arrow Trap.<br/>The easiest method is to throw a Rock or Porky's Rock onto the trap to safely activate the trap.<br/>If you don't have rocks, have Karakuroid create traps along the wall, then throw an item at the wall<br/>so that the item lands on the Poison Arrow Trap. Karakuroid Bun lets you create traps, too.<br/>※ Karakuroid has 20 attack, so don't expect to tank hits like you were able to in Shiren 5.
+
+#### Curse Girl / Cursister Hunting (13F)
+
+Curse Girl and Masked Samurai are the only 2 monsters who appear on 13F.<br/>Curse Girl (65 HP, 28 atk) gives 180 exp, and Cursister (115 HP, 38 atk) gives 380 exp.<br/>Masked Samurai (47 HP, 18 atk) gives 48 exp, and Raging Samurai (100 HP, 45 atk) gives 400 exp.<br/>It can be worthwhile to linger and hunt some of these monsters to level up if you have lots of arrows,<br/>but pay close attention to how much damage you're taking, and weigh the risks of missed attacks.<br/>Don't use up all of your Poison Arrows on this floor, though.
 
 # Floor Guide
 
-[Content]
+Generally you'll want to finish performing item farming techniques by the end of 7F.<br/>Players often burn through more resources than they gain if they explore floors from 10F onwards.<br/>Remember that you don't need a full inventory to defeat the boss, you just need a few good items.<br/>If you see a shop, try to visit it if possible even if doing so consumes some resources.
+
+### 1-4F
+
+Monsters aren't too tough aside from Firepuff (2-4F) dealing a fixed 10 damage with its flame.<br/>Take your time and check every room for items, and attempt to identify any unidentified items.<br/>Death Reaper (22 HP, 6 atk) has Swift 1 action speed, so don't try to retreat if your HP is low.
+
+Have Nigiri Baby (17 HP, 8 atk) turn projectiles and unneeded items into Large Onigiri on 1-3F.<br/>Then depending on playstyle, either eat the onigiri to raise max fullness to 150+ for Sumo status,<br/>or grill the onigiri using Firepuff to stock up on Grilled Onigiri which heals 40 HP when eaten.
+
+If you get lucky and find a Peach Staff, wave it at a Hat Urchin to obtain lots of staves.<br/>Disguising Staff is fantastic during the boss fight in particular.
+
+### 5-9F
+
+The monster table swaps to mostly elemental ninjas, and enemy attack power is notably higher.<br/>Karakuroid (40 HP, 20 atk) has Swift 1 speed, and Hell Reaper (45 HP, 12 atk) has Swift 2 speed,<br/>so things can get difficult from 6F if you haven't found a decent shield yet - use items if needed.
+
+Collect Poison Arrows from Poison Arrow Traps using Karakuroid on 6-7F if possible.<br/>Bowboy (45 HP, 17 atk) also appears between 7-9F, making it possible to collect Wooden Arrows.<br/>An easy method to collect arrows is to use a sand pillar created by an Earth Ninja D.
+
+Field Knave (50 HP, 15 atk) appears between 8-11F, making it harder to claim items on the ground.<br/>If you found a Sealing Staff and Blank Scroll, consider throwing an Eradication Scroll at Field Knave.
+
+Fire Ninja D no longer appears after 9F, so grill any Rotten Onigiri before continuing to 10F.
+
+### 10-15F
+
+The elemental ninjas, Hell Reaper, and Bowboy all exit the monster table.<br/>Replacements include Masked Samurai (47 HP, 18 atk, 18 def) and Curse Girl (65 HP, 28 atk, 28 def).<br/>Curse Girl has the stats of a monster closer to Serpentcoil Island 15F, so you'll want to use arrows.<br/>Mixers don't appear in this dungeon, so you don't have much reason to worry about her curse.
+
+Don't let Ghost Samurai roam around, as higher level monsters here are quite strong.<br/>Lv2 stats: Cursister (115 HP, 38 atk), Steamroid (100 HP, 45 atk), Raging Samurai (100 HP, 45 atk).<br/>That said, some players like to hunt Curse Girl (180 exp) or Cursister (380 exp) on 13F using arrows,<br/>since this floor doesn't have dark hallways.
+
+13F is usually the final safe-ish floor, so if you decide to linger, try to reach Lv20 for faster HP regen.<br/>Beyond 13F, enemies like Swordsman, Nigiri Morph, Polygon Shaka, and Pot Knave begin to appear,<br/>so you often risk losing more resources than you gain if you try to check rooms or linger.
+
+### 14-16F
+
+These 3 floors feature Pot Knave (65 HP, 35 atk, 25 def), who throws Weeds into pots in your inventory.<br/>If you're adjacent in a room, shoot an arrow at a wall and step away to have them focus on the item.<br/>Despite having a more troublesome ability, they also have higher attack power than Curse Girl.<br/>Of course, these monsters will also transform items on the ground into Weeds.
+
+### 16-20F
+
+Curse Girl and Masked Samurai exit the monster table, but Pot Knave is still around on 16F.<br/>Polygon Shaka (70 HP, 34 atk), Swordsman (77 HP, 30 atk), and N'dulu (70 HP, 40 atk) appear.<br/>Polygon Shaka (16-21F) decreases Fullness by 5, and warps in front of Shiren when in a room.<br/>Swordsman (15-21F) disarms your equipped shield, sending it flying 10 tiles behind you.
+
+N'dulu (16-19F) disguises itself as an item, and does a surprise attack when you use the item.<br/>Disguised N'dulu in your inventory will automatically be identified when you advance floors.<br/>Avoid relying on items you found on the current floor if you're in danger.
+
+Metalhead (66 HP, 30 atk) also appears starting on 17F, and can attack 2 tiles ahead.<br/>In addition, a Behemoth Gate has a chance of being generated on the floor between 17-19F.<br/>Don't try to make the gate vanish for an item drop unless you have a Monster-find Bracelet.
+
+### 21-24F
+
+The hardest floor range, featuring Lv2 monks and ninjas alongside other monsters.<br/>Exploring is very risky, so it's best to rush to the stairs unless you lack items for the boss.<br/>Lv2 monks have stats in the range of 106\~130 HP, 40\~47 attack, and 35\~41 defense.<br/>Lv2 ninjas have stats in the range of 70\~85 HP, 37\~45 attack (Earth is 21 atk), and 21\~28 defense.
+
+Skull Wizard (88 HP, 35 atk, 24 def) inflicts Confused status from a distance among other effects.<br/>Nigiri Morph (88 HP, 35 atk, 30 def) transforms an inventory item into Large Onigiri, and never fails.<br/>Remember that you can one-shot Nigiri Morph by throwing an onigiri at it, as long as it hits.<br/>You shouldn't need onigiri at this point unless you're making use of Sumo status.
+
+Insert scrolls into Preservation Pots to avoid Water Ninja C turning them into Wet Scrolls.<br/>Water Ninja C appears during the boss fight too, so don't remove scrolls from pots on 24F.
+
+### Boss
+
+<div class="dungeonPageImage">
+  <img src="../images/areas/other/madara.jpg"/>
+</div>
+
+Madara (666 HP, 37 atk, 34 def) is a Normal type monster, so he has no weaknesses.<br/>Status conditions can be inflicted, but they get cured in roughly 2\~4 turns depending on the status.<br/>Sanctuary Scroll and Knockback Staff <span class="redText">do not</span> work, Paralyzing Staff and Narrow-escape Staff <span class="blueText">do</span> work.<br/>The boss has the ability to activate an incense effect in response to various actions the player takes.<br/>Example: Shoot a Poison Arrow at Madara → Madara spreads the effect of Evasive Incense.
+
+Special attacks:
+
+- Breathe Smoke - Activates an incense effect based on the player's actions.
+    - Evasive - Player deals damage to Madara with an arrow.
+    - Defensive - Player uses an Aggressive Incense.
+    - Reflective - Player uses a staff or scroll against Madara.
+- Jump - Madara leaps away from the player.
+    - He seems to use this special more often when his HP gets low.
+- Smoke Bomb - Madara creates a clone (Roughly 60 HP?).
+    - He seems to use this special more often when his HP gets low.
+    - 2\~3 arrows should be enough to defeat the clone.
+- Howl - Summons 3 ninjas from the floor's monster table.
+
+Other notes:
+
+- The fight begins with 6 other Lv2 ninjas on the field.
+    - Disguising Staff lasts 8 turns and is the best option for distracting all enemies on the field.
+    - Narrow-escape Staff, Paralyzing Staff, or Peach Staff can be used to quickly disable underlings.
+        - Other decent options include Fixer Scroll, Confusion Scroll, or Blurry Incense.
+- The player is joined by companion Seki (Lv20), who is an immense help.
+    - Seki has swift speed and focuses on Madara, and deals roughly 40 damage per hit.
+    - She takes 1 step back after a normal attack, making her very reliable in 1 vs 1 situations.
+- Swift Grass, Power-up Grass, and Invincible Grass are fantastic.
+    - Don't bother using Aggressive Incense, since it'll likely just get overwritten.
+- Empathetic Staff can be used to supplement damage if your damage output is low.
 
 # Monsters
 

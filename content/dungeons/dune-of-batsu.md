@@ -78,7 +78,7 @@ Post-game story dungeon with a boss fight that fully expects the player to bring
 
 ### General
 
-This dungeon is like an extension of the main story - Clearing it without carry-in items isn't very feasible.<br/>A good weapon and shield goes without saying - It's best to have 30 or higher for equipment strength.<br/>You'll also want items to deal with Monster Houses, since Special Monster Houses can be generated.<br/>Items like Confusion Scroll, Vaulting Staff, Switching Staff, Swift Grass, Invincible Grass, etc.<br/>Monster-find Bracelet is also needed to avoid surprise attacks by meaner monsters explained below.<br/>And of course, you'll want some items to help against the boss fight at the end.
+This dungeon is like an extension of the main story - Clearing it without carry-in items isn't very feasible.<br/>A good weapon and shield goes without saying - It's best to have 20 or higher for equipment strength.<br/>You'll also want items to deal with Monster Houses, since Special Monster Houses can be generated.<br/>Items like Confusion Scroll, Vaulting Staff, Switching Staff, Swift Grass, Invincible Grass, etc.<br/>Monster-find Bracelet is also needed to avoid surprise attacks by meaner monsters explained below.<br/>And of course, you'll want some items to help against the boss fight at the end.
 
 #### Nigiri Baby (Lv1: 2-5F, Lv2: 9-13F, Lv3: 24-29F)
 

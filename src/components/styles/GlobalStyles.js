@@ -2034,7 +2034,7 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 12px;
-    border-left: 5px solid #ffbd76;
+    border-left: 6px solid #ffbd76;
     padding-left: 4px;
   }
 

@@ -89,7 +89,7 @@ Details are from [feketerigo's note](https://note.com/feketerigo6/n/n6f7f5d8be0f
   <tr>
     <td>Spender's Club</td>
     <td>Spender's Shield</td>
-    <td>Reduces Gitan cost per hit<br/>(100 → 70)</td>
+    <td>Reduces Gitan cost per hit<br/>(100 → 75)</td>
   </tr>
   <tr>
     <td>Ferrous Greatsword</td>

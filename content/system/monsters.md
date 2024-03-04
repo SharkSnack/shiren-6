@@ -6251,7 +6251,7 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer: The Mystery
               <div>Type</div>
               <div>Metal</div>
             </div>
-            <div class="monster_text">Eletrifies after taking damage several times, and then<br/>strikes with lightning that deals 25 damage.<br/>Damages anything that attacks it while electrified with lightning.<br/>Splashing it with water makes it unable to become electrified.</div>
+            <div class="monster_text">Electrifies after taking damage several times, and then<br/>strikes with lightning that deals 25 damage.<br/>Damages anything that attacks it while electrified with lightning.<br/>Splashing it with water makes it unable to become electrified.</div>
             <div class="monster_notes">additional_notes</div>
           </div>
         </div>
@@ -6287,7 +6287,7 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer: The Mystery
               <div>Type</div>
               <div>Metal</div>
             </div>
-            <div class="monster_text">Eletrifies after taking damage several times, and then<br/>strikes with lightning that deals 30 damage.<br/>Damages anything that attacks it while electrified with lightning.<br/>Splashing it with water makes it unable to become electrified.</div>
+            <div class="monster_text">Electrifies after taking damage several times, and then<br/>strikes with lightning that deals 30 damage.<br/>Damages anything that attacks it while electrified with lightning.<br/>Splashing it with water makes it unable to become electrified.</div>
             <div class="monster_notes">additional_notes</div>
           </div>
         </div>
@@ -6323,7 +6323,7 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer: The Mystery
               <div>Type</div>
               <div>Metal</div>
             </div>
-            <div class="monster_text">Eletrifies after taking damage several times, and then<br/>strikes with lightning that deals 35 damage.<br/>Damages anything that attacks it while electrified with lightning.<br/>Splashing it with water makes it unable to become electrified.</div>
+            <div class="monster_text">Electrifies after taking damage several times, and then<br/>strikes with lightning that deals 35 damage.<br/>Damages anything that attacks it while electrified with lightning.<br/>Splashing it with water makes it unable to become electrified.</div>
             <div class="monster_notes">additional_notes</div>
           </div>
         </div>
@@ -6359,7 +6359,7 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer: The Mystery
               <div>Type</div>
               <div>Metal</div>
             </div>
-            <div class="monster_text">Eletrifies after taking damage several times, and then<br/>strikes with lightning that deals 40 damage.<br/>Damages anything that attacks it while electrified with lightning.<br/>Splashing it with water makes it unable to become electrified.</div>
+            <div class="monster_text">Electrifies after taking damage several times, and then<br/>strikes with lightning that deals 40 damage.<br/>Damages anything that attacks it while electrified with lightning.<br/>Splashing it with water makes it unable to become electrified.</div>
             <div class="monster_notes">additional_notes</div>
           </div>
         </div>

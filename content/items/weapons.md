@@ -1167,7 +1167,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/28.png"/> Costly Hit</div>
             </div>
             <div class="monster_text">A costly weapon that spends Gitan to deal extra damage.<br/>Without enough Gitan, it's almost useless.<br/>Resonance Effect (Spender's Shield):<br/>Slightly reduces the amount of Gitan consumed by Runes.</div>
-            <div class="monster_notes">Normal attacks deal x1.5 damage, but spend 100 Gitan per hit.<br/>Weapon attack becomes 0 without enough Gitan.<br/>Resonance reduces Gitan cost per hit from 100 → 70.</div>
+            <div class="monster_notes">Normal attacks deal x1.5 damage, but spend 100 Gitan per hit.<br/>Weapon attack becomes 0 without enough Gitan.<br/>Resonance reduces Gitan cost per hit from 100 → 75.</div>
           </div>
         </div>
       </td>
