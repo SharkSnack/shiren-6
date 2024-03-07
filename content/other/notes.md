@@ -88,3 +88,42 @@ Damage reduction multipliers are multiplicative.
 ||||
 ||||
 ||||
+
+# Behemoth Rush
+
+Wind: 900<br/>Behemoth Gate spawns a monster 5 turns after it changes location?
+
+#### Possible Behemoth Monsters
+
+|F|Monsters|
+|-|-|
+|1|Pumphantasm, Shagga, Firepuff|
+|2|Pumphantasm, Shagga, Taur, Firepuff, Spearfish, Mamel, Armordillo|
+|3|Pumphantasm, Shagga, Taur, Firepuff, Spearfish, Mamel, Chintala, Armordillo|
+|4|Pumphantasm, Shagga, Taur, Firepuff, Spearfish, Mamel, Chintala, Armordillo|
+|5|Pumphantasm, Shagga, Taur, Firepuff, Spearfish, Mamel, Chintala, Armordillo|
+|6|Pumphantasm, Shagga, Taur, Firepuff, Spearfish, Mamel, Chintala, Armordillo|
+|7|Pumphantasm, Shagga, Taur, Firepuff, Spearfish, Mamel, Chintala, Armordillo|
+|8|Pumphantasm, Shagga, Taur, Firepuff, Spearfish, Mamel, Chintala, Armordillo|
+|9|Pumphantasm, Shagga, Taur, Firepuff, Spearfish, Mamel, Chintala, Armordillo|
+|10|Pumphantasm, Shagga, Taur, Firepuff, Spearfish, Mamel, Chintala, Armordillo|
+|11|Gazer, Crossbowboy, Pop Tank, Curse Girl, Field Knave, Swordsman, Schubell,<br/>Skull Mage, Zapdon, Hat Urchin, Explochin, Bored Kappa, Twisty Hani, Scorpion,<br/>Porky, Dragon, Ghost Radish, Hoppin' Batter, Nigiri Baby|
+|12||
+|13||
+|14||
+|15||
+|16||
+|17||
+|18||
+|19||
+|20||
+|21||
+|22||
+|23||
+|24||
+|25||
+|26||
+|27||
+|28||
+|29||
+|30||

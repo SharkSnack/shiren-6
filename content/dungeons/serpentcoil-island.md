@@ -435,7 +435,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td class="centeredText">5</td>
-      <td class=""></td>
+      <td class="highlightShop"></td>
       <td class=""></td>
       <td class=""></td>
       <td><img src="../images/monsters/54-1.png"/> Tree Ninja D</td>
@@ -533,7 +533,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText">10</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
@@ -556,7 +556,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td rowspan="2" class="centeredText">11</td>
       <td rowspan="2" class="highlightShop"></td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters/17-1.png"/> Bored Kappa</td>
       <td class="useful"><img src="../images/monsters/15-1.png"/> Bowboy</td>

@@ -4,6 +4,10 @@ metaTitle: "Synthesis Runes - Shiren the Wanderer: Serpentcoil Island Wiki"
 metaDescription: "Weapon and shield rune details for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
+<div class="pageTopImage">
+  <img src="../images/other/rune.jpg"/>
+</div>
+
 # Overview
 
 Runes are abilities that can be added to weapons or shields using a Synthesis Pot or Mixer monster.<br/>Generally runes make your adventure easier, but some have a negative effect.
@@ -911,7 +915,7 @@ The listed values are rough estimates based on testing inside the Monster Dojo.
 - Manji Kabura / Kajin Fuuma / Kabura Sutegi + Fuuma Shield / Rasen Fuuma
     - The +5 or +10 normal attack damage is fixed damage, so multipliers don't apply to it.
 - Spender's Club + Spender's Shield
-    - Reduces Gitan cost from 100 → 70 per hit.
+    - Reduces Gitan cost from 100 → 75 per hit.
 - Ferrous Greatsword + Ferrous Kite
     - Reduces Fullness cost from 2 → 1 per hit.
 

@@ -183,6 +183,10 @@ Daze Radish (80 HP, 37 atk) throws Confusion Grass within a 2 tile radius.<br/>H
 
 ### Boss
 
+<div class="dungeonPageImage">
+  <img src="../images/areas/other/suiryu_boss.jpg"/>
+</div>
+
 Embodiment of Suiryu (555 HP, 40 atk, 22 def) is an Aquatic and Dragon dual-type monster.<br/>Status conditions can be inflicted, but they get cured in roughly 2\~4 turns depending on the status.<br/>Sanctuary Scroll and Knockback Staff <span class="redText">do not</span> work, but Paralyzing Staff and Narrow-escape Staff <span class="blueText">do</span> work.
 
 Special attacks:

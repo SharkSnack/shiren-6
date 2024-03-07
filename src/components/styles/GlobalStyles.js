@@ -807,6 +807,10 @@ export const baseStyles = css`
     text-align: center;
     background-color: #ffffed;
   }
+  .roamerTable td:nth-of-type(1) {
+    text-align: center;
+    padding: 2px;
+  }
   .equipmentTable img {
     position: relative !important;
     width: 20px !important;
@@ -1849,6 +1853,21 @@ export const baseStyles = css`
   }
   .relativeImage img {
     position: relative !important;
+  }
+  .iconTable td:nth-of-type(1) {
+    text-align: center;
+    padding: 1px;
+  }
+  .rewardTable td:nth-of-type(1) {
+    text-align: center;
+    padding: 1px;
+  }
+  .rewardTable td:nth-of-type(2) {
+    text-align: center;
+  }
+  .rewardImg img {
+    width: 160px !important;
+    height: auto !important;
   }
   .guideImage img {
     max-height: 20px;

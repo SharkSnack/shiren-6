@@ -278,7 +278,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class="centeredText">6</td>
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class="highlightMH"></td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightGold"></td>
       <td class="useful"><img src="../images/monsters/15-1.png"/> Bowboy</td>
       <td class="useful"><img src="../images/monsters/15-2.png"/> Crossbowboy</td>
       <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
@@ -322,7 +322,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class="centeredText">8</td>
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class="highlightMH"></td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightGold"></td>
       <td class="items"><img src="../images/monsters/26-1.png"/> Field Knave</td>
       <td class="stats"><img src="../images/monsters/20-1.png"/> Ghost Radish</td>
       <td class="stats"><img src="../images/monsters/24-2.png"/> Polygon Shaka</td>
@@ -561,7 +561,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText">18</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td class="stats"><img src="../images/monsters/20-2.png"/> Daze Radish</td>
@@ -605,7 +605,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText">20</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td class="stats"><img src="../images/monsters/20-2.png"/> Daze Radish</td>
@@ -809,7 +809,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText">28</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
       <td class="danger"><img src="../images/monsters/18-3.png"/> Porkon</td>

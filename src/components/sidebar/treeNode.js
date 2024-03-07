@@ -42,7 +42,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[10] = { items:[], label: 'peach-bun', title: 'Peach Bun', url: '/items/peach-bun'};
         items[11] = { items:[], label: 'food', title: 'Food', url: '/items/food'};
         break;
-      case 'companions': // system
+      case 'achievements': // system
         items[0] = { items:[], label: 'gameplay-basics', title: 'Basics', url: '/system/gameplay-basics'};
         items[1] = { items:[], label: 'equipment-resonance', title: 'Resonance', url: '/system/equipment-resonance'};
         items[2] = { items:[], label: 'synthesis-runes', title: 'Runes', url: '/system/synthesis-runes'};
@@ -53,6 +53,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[7] = { items:[], label: 'side-quests', title: 'Side Quests', url: '/system/side-quests'};
         items[8] = { items:[], label: 'villages', title: 'Villages', url: '/system/villages'};
         items[9] = { items:[], label: 'status-conditions', title: 'Status', url: '/system/status-conditions'};
+        items[10] = { items:[], label: 'achievements', title: 'Achievements', url: '/system/achievements'};
         break;
       case 'behemoth-rush': // dungeons
         items[0] = { items:[], label: 'serpentcoil-island', title: 'Serpentcoil Isle', url: '/dungeons/serpentcoil-island'};

@@ -13,11 +13,11 @@ metaDescription: "Kiki Island dungeon guide for Shiren the Wanderer: The Mystery
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Attempt Training Path of Inference once → View all pirate related events.</td>
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Small Harbor</td>
+    <td class="highlightYellow">Small Harbor (From the docks).</td>
   </tr>
 </table>
 
@@ -53,6 +53,12 @@ metaDescription: "Kiki Island dungeon guide for Shiren the Wanderer: The Mystery
     <td></td>
   </tr>
   <tr>
+    <th>Kron's Challenge</th>
+    <td></td>
+    <th>Fever Time</th>
+    <td></td>
+  </tr>
+  <tr>
     <th>Initial Enemies</th>
     <td></td>
     <th>Spawn Rate</th>
@@ -62,21 +68,45 @@ metaDescription: "Kiki Island dungeon guide for Shiren the Wanderer: The Mystery
     <th>Wind of Kron</th>
     <td>1700</td>
     <th>Reward</th>
-    <td></td>
+    <td>Can unlock Escape Scroll.<br/>(Event in Small Harbor after clearing)</td>
   </tr>
 </table>
+
+Post-game dungeon that's a bite-sized version of a classical unidentified items dungeon.<br/>That sentence may sound similar to Yamakagashi Pass, but this dungeon is generally far easier.<br/>Unidentified items are auto-narrowed down to 3 options, similar to Training Path of Inference,<br/>but the number of items generated on the ground per floor isn't as plentiful in Kiki Island.<br/>Overall, it's a nice place to visit to get some practice before going to Heart of Serpentcoil Island.
 
 # Strategy
 
 ### General
 
-[Content]
+The rate at which the monster table changes isn't vastly different from Serpentcoil Island,<br/>but there are some rare encounters that aim to cause accidents like Mixer, Chow, and Cave Mamel.<br/>Despite the events that play while progressing through the dungeon, there's no boss at the end,<br/>so rushing to the stairs near the end won't come back to bite you unlike Yamakagashi Pass.
 
-### Important Items
+Companions like Asuka and Seki can also appear as Roamers, greatly lowering the difficulty.<br/>Side note, but this is a decent place to register Monstercall Scroll in your notebook.
 
-[Content]
+### Farming Techniques
+
+#### Mudkin Hunting (8-9F)
+
+Masked Samurai and Mudkin both appear on 8-9F, so it's possible to hunt Lv3-4 Mudkins to level up.<br/>The duo actually appears until 12F, but Bowboy and Crossbowboy can interfere if attempted on 10-12F,<br/>and Mixers can also spawn and cause accidents starting from 10F, so it's best to stick to 8-9F.<br/>Water Ninja D or Metal Ninja D might interfere, but at least they aren't likely to level up.<br/>Stand on the stairs so you can advance at any time when performing the technique.
 
 # Floor Guide
+
+### 1-4F
+
+Monsters aren't anything out of the ordinary for this game's standards, so check every room.<br/>Note that Polygon Spinna (33 HP, 16 atk) is basically an upgraded Pumphantasm (23 HP, 16 atk).<br/>Both of these monsters can be tough to handle without equipment, so be careful with inputs.<br/>If you find a shield, consider having Nigiri Baby (17 HP, 8 atk) create some extra onigiri on 1-3F.<br/>Otherwise, identify items quickly so that you aren't guessing if you end up in a bad situation.
+
+### 5-9F
+
+[Content]
+
+### 10-14F
+
+[Content]
+
+### 15-20F
+
+[Content]
+
+### 21-25F
 
 [Content]
 
