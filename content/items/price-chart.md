@@ -564,6 +564,21 @@ metaDescription: "Item price chart for Shiren the Wanderer: The Mystery Dungeon 
     <td>Bottomless Pot</td>
     <td>2~4</td>
   </tr>
+    <tr>
+    <td>Exorcism Pot</td>
+    <td rowspan="2">2~4</td>
+    <td rowspan="2">100<br/>/40</td>
+    <td rowspan="2">1600<br/>/640<br/><span class="priceCursed">1392<br/>/556</span></td>
+    <td rowspan="2">1700<br/>/680<br/><span class="priceCursed">1479<br/>/591</span></td>
+    <td rowspan="2">1800<br/>/720<br/><span class="priceCursed">1566<br/>/626</span></td>
+    <td rowspan="2">1900<br/>/760<br/><span class="priceCursed">1653<br/>/661</span></td>
+    <td rowspan="2">2000<br/>/800<br/><span class="priceCursed">1740<br/>/696</span></td>
+    <td rowspan="2">2100<br/>/840<br/><span class="priceCursed">1827<br/>/730</span></td>
+    <td rowspan="2">2200<br/>/880<br/><span class="priceCursed">1914<br/>/765</span></td>
+  </tr>
+    <tr>
+    <td>Curse Pot</td>
+  </tr>
   <tr>
     <td>Rejuvenation Pot</td>
     <td rowspan="5">3~5</td>
