@@ -13,7 +13,7 @@ metaDescription: "Kiki Island dungeon guide for Shiren the Wanderer: The Mystery
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow">Attempt Training Path of Inference once → View all pirate related events.</td>
+    <td class="highlightYellow">Attempt Training Path of Inference once → View all pirate related events.<br/>　・Unlocking Synthesis is also part of the requirement.</td>
   </tr>
   <tr>
     <th>Entrance</th>
@@ -44,7 +44,7 @@ metaDescription: "Kiki Island dungeon guide for Shiren the Wanderer: The Mystery
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3"></td>
+    <td colspan="3">Equipment, Grass, Scrolls, Staves, Pots</td>
   </tr>
   <tr>
     <th>Shops</th>
@@ -86,7 +86,7 @@ Companions like Asuka and Seki can also appear as Roamers, greatly lowering the 
 
 #### Mudkin Hunting (8-9F)
 
-Masked Samurai and Mudkin both appear on 8-9F, so it's possible to hunt Lv3-4 Mudkins to level up.<br/>The duo actually appears until 12F, but Bowboy and Crossbowboy can interfere if attempted on 10-12F,<br/>and Mixers can also spawn and cause accidents starting from 10F, so it's best to stick to 8-9F.<br/>Water Ninja D or Metal Ninja D might interfere, but at least they aren't likely to level up.<br/>Stand on the stairs so you can advance at any time when performing the technique.
+Masked Samurai and Mudkin both appear on 8-9F, so it's possible to hunt Lv3-4 Mudkins to level up.<br/>This monster duo actually also appears on 12F, but Crossbowboy can interfere if attempted on 12F,<br/>and Mixers can also spawn and cause accidents starting from 10F, so it's best to stick to 8-9F.<br/>Water Ninja D or Metal Ninja D might interfere, but at least they aren't likely to level up.<br/>Stand on the stairs so you can advance at any time when performing the technique.
 
 # Floor Guide
 
@@ -96,19 +96,37 @@ Monsters aren't anything out of the ordinary for this game's standards, so check
 
 ### 5-9F
 
-[Content]
+Monster attack stats are higher, so there's risk of collapsing if you don't manage resources well.<br/>5F is quite dangerous - The table only has 3 monsters, so you can get swarmed by Karakuroids.<br/>If you haven't found decent equipment yet, it might be worth advancing to 6F quickly.
+
+Karakuroid (40 HP, 20 atk) has Swift 1 action speed, so it moves 2 times per turn and attacks once.<br/>Masked Samurai (47 HP, 18 atk) revives as Ghost Samurai and levels up another enemy when slain.<br/>Ghost Samurai (4 HP, 13 atk) can be instantly defeated by throwing a rock at it.<br/>Hoppin' Hitter (32 HP, 22 atk) either nullifies or reflects projectiles and staff magic.<br/>Scorpion (37 HP, 14 atk) lowers Current Strength by 1 when adjacent.
+
+Ninjas, Mid Chintala (45 HP, 23 atk), and Hell Reaper (45 HP, 12 atk) appear starting on 8F.<br/>Hell Reaper has Swift 2 action speed, meaning it moves and attacks 2 times per turn.<br/>Fire Ninja D only appears on 8F, so you won't be able to grill Rotten Onigiri on 9F.
+
+Otherwise, try to hunt Lv3 Mudsters between 8-9F using Masked Samurai and Mudkin,<br/>and keep in mind that a Cave Mamel (5 HP, 100 atk) can spawn between 6-25F on rare occasions.<br/>If you encounter a Cave Mamel in a hallway, use a staff or scroll since those have 100% accuracy.
 
 ### 10-14F
 
-[Content]
+Bowboy (45 HP, 17 atk) and Crossbowboy (55 HP, 20 atk) appear on 10-12F, so collect arrows.<br/>Bored Kappa (50 HP, 18 atk) also appears, so you can do so even without other items or pillars.<br/>The dungeon is only 25F, so you don't need a ridiculous quantity - 100\~200 arrows is plenty.
+
+Stronger enemies like Metalhead (66 HP, 30 atk) and Master Hen (70 HP, 33 atk) appear from 13F.<br/>It can be rough at first if you haven't leveled up much, but try to conserve items if possible.
+
+That said, Mixer (78 HP, 39 atk, 29 def) can show up as a rare encounter between 10-25F.<br/><span class="redText">It's the equivalent of a strong 25F monster in Serpentcoil Island showing up as early as 10F.</span><br/>If you attempt to synthesize without an item like Sluggish Staff, you're likely going to collapse.<br/>It's probably best to use an item like Paralyzing Staff to disable it and ignore it instead,<br/>and remember that thrown items are ineffective until the Mixer has swallowed 2 items.
 
 ### 15-20F
 
-[Content]
+Enemies are along the lines of Kibanuma Marsh and Firespew Mountain, but without monks.<br/>Thiefwalrus (65 HP, 25 atk) has pretty high HP, so just focus on not getting items stolen.<br/>If your level is low, hunt Master Hen (400 exp) while watching out for Minotaur (70 HP, 31 atk).<br/>Otherwise, try to avoid losing strength due to Ghost Radish (40 HP, 18 atk)'s Poison Grass.<br/>Ghost Radish can throw Poison Grass in a straight line 2 tiles ahead.
+
+Chow (20 HP, 1 atk) appears between 15-25F which can result in monsters leveling up.<br/>It has Swift 1 speed so it can run from enemies to some degree, but can still become cornered.<br/>Chow always drops an item when defeated by the player, so hunt any that you happen to see.
+
+It's quite rare, but if a Chow and Cave Mamel results in a Gitan Mamel, be very careful.<br/>Gitan Mamel (20 HP, 100 atk, 999 def) has Swift 2 action speed, so wait for it inside a room,<br/>then use an item like Dragon Grass, Knockback Staff, or Thunderbolt Staff to deal fixed damage.<br/>If you don't have fixed damage items, just hope you don't see it while rushing to the stairs.
 
 ### 21-25F
 
-[Content]
+It's recommended to rush to the stairs from this point until you clear the dungeon.<br/>Notable threats include Skull Wizard and Super Gazer on 22-25F, Porko and Dartingfrog on 24-25F.
+
+Skull Wizard (88 HP, 35 atk) can inflict Confused status from a distance among other effects.<br/>Super Gazer (66 HP, 30 atk) can make you waste items and lock you in place with its hypnosis.<br/>Dartingfrog (75 HP, 40 atk) doesn't let you run away once you're in range of its special attack.<br/>Porko (65 HP, 36 atk) throws Porky's Rocks (20 damage) within a 5 tile radius.
+
+Other monsters like Capt. Spearfish (100 HP, 39 atk) and Fire Ninja C (75 HP, 45 atk) also hit hard.<br/>Considering you're right before the goal, there's really no reason to linger unless you're aiming<br/>to 100% the Kiki Island dungeon's monster table.
 
 # Monsters
 

@@ -194,7 +194,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
     <td><img src="../images/rune/weapon/13.png"/></td>
     <td>3600</td>
     <td>1440</td>
-    <td>Deals x1.5 damage to Drain types.</td>
+    <td>Deals x1.5 damage to Draining types.</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#cyclops-bane">Cyclops Bane</a></td>

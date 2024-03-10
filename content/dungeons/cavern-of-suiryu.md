@@ -44,7 +44,7 @@ metaDescription: "Cavern of Suiryu dungeon guide for Shiren the Wanderer: The My
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3"></td>
+    <td colspan="3">Equipment, Grass, Scrolls, Staves, Pots</td>
   </tr>
   <tr>
     <th>Shops</th>

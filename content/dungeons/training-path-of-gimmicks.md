@@ -53,6 +53,12 @@ metaDescription: "Training Path of Gimmicks dungeon guide for Shiren the Wandere
     <td></td>
   </tr>
   <tr>
+    <th>Kron's Challenge</th>
+    <td></td>
+    <th>Fever Time</th>
+    <td></td>
+  </tr>
+  <tr>
     <th>Initial Enemies</th>
     <td></td>
     <th>Spawn Rate</th>

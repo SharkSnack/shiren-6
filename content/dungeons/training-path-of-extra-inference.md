@@ -34,7 +34,7 @@ metaDescription: "Training Path of Extra Inference dungeon guide for Shiren the 
   </tr>
   <tr>
     <th>Rescues</th>
-    <td>3</td>
+    <td>0</td>
     <th>Starting Level</th>
     <td>Lv1</td>
   </tr>
@@ -44,12 +44,18 @@ metaDescription: "Training Path of Extra Inference dungeon guide for Shiren the 
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3"></td>
+    <td colspan="3">All categories</td>
   </tr>
   <tr>
     <th>Shops</th>
-    <td></td>
+    <td>Yes</td>
     <th>Monster Houses</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Kron's Challenge</th>
+    <td></td>
+    <th>Fever Time</th>
     <td></td>
   </tr>
   <tr>
@@ -62,7 +68,7 @@ metaDescription: "Training Path of Extra Inference dungeon guide for Shiren the 
     <th>Wind of Kron</th>
     <td></td>
     <th>Reward</th>
-    <td></td>
+    <td>Final item identified.</td>
   </tr>
 </table>
 

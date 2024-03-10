@@ -17,7 +17,7 @@ metaDescription: "Secluded Path dungeon guide for Shiren the Wanderer: The Myste
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Mountain Village</td>
+    <td class="highlightYellow">Mountain Village (aka Secret Ninja Village)</td>
   </tr>
 </table>
 

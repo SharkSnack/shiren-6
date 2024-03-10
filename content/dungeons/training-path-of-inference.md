@@ -44,12 +44,18 @@ metaDescription: "Training Path of Inference dungeon guide for Shiren the Wander
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3"></td>
+    <td colspan="3">Equipment, Grass, Scrolls, Staves, Pots, Incense</td>
   </tr>
   <tr>
     <th>Shops</th>
-    <td></td>
+    <td>No</td>
     <th>Monster Houses</th>
+    <td>Regular</td>
+  </tr>
+  <tr>
+    <th>Kron's Challenge</th>
+    <td></td>
+    <th>Fever Time</th>
     <td></td>
   </tr>
   <tr>
@@ -62,23 +68,71 @@ metaDescription: "Training Path of Inference dungeon guide for Shiren the Wander
     <th>Wind of Kron</th>
     <td></td>
     <th>Reward</th>
-    <td></td>
+    <td>Gutsy Shield</td>
   </tr>
 </table>
 
+Post-game dungeon that utilizes a new inference mechanic introduced in Shiren 6.<br/>This inference mechanic automatically narrows down unidentified items to 3 possibilities.<br/>It's a nice dungeon to practice identification, but the monster table is on the tougher side,<br/>so don't expect to be able to breeze through it without making smart use of items.
+
 # Strategy
+
+### Inference
+
+New gameplay mechanic introduced in Shiren 6 that is enabled only in certain dungeons.<br/>Check an unidentified item's description to view 3 options as to what the item could be,<br/>then choose how to best use the item based on the list of possible options.
+
+Example:
+
+- Herb
+- Sedating Grass
+- Dragon Grass
+
+So in this case, you wouldn't want to risk using it when an enemy is adjacent due to Sedating Grass.<br/>Both Sedating Grass and Dragon Grass are good when thrown, and throwing an Herb is harmless<br/>if the target is already at full HP, so you might want to lean towards throwing this grass item.<br/>Identifier Scrolls are common, so you could also wait until you find one of those too.
+
+If an option has already been fully identified, the option will be greyed-out.<br/>Unfortunately, item names assigned by the player are not reflected in the list of possible options.
 
 ### General
 
-[Content]
+The number of items on the ground is on the high side, sometimes having close to 10 per floor.<br/>However, cursed items are also very common, so a decent amount of items won't actually be usable.<br/>It's best to get into the habit of swinging newly found staves to check for curses.
 
-### Important Items
+It's important to utilize inference and save good items instead of just using all items right away.
 
-[Content]
+Try to envision situations where you might use each item, like:
+
+- If Revival Grass is a possibility, don't use or throw the grass.
+- If a scroll is narrowed down to Confusion or Slumber, save it for a tricky starting room.
+- If a grass is narrowed down to Otogirisou or Dragon Grass, save it for a 1 vs 1 situation.
+
+Nigiri Baby (3-6F) can be used to increase Max Fullness to 150+ for Sumo status if desired.<br/>Sumo status reduces accidents, but keep in mind you can't use Vaulting Staff or Switching Staff,<br/>and some enemies later on are too tough to trade hits with regardless.
 
 # Floor Guide
 
-[Content]
+Powerful monsters begin to appear from 7F onwards, so the key is preparing for those enemies.<br/>Synthesis Pot can be found, but you're unlikely to find good equipment, so combine staves instead.<br/>If you performed Nigiri Morph Factory, consider staying in Sumo status from 15F onwards.
+
+### 1-3F
+
+Chintala (15 HP, 9 atk) and Shagga (18 HP, 6 atk) are tough at Lv1 - retreat to heal as needed.<br/>If you get sandwiched by monsters while retreating, chalk it up to bad luck and restart the dungeon.<br/>Pit Mamel (11 HP, 5 atk) appears on 1-3F, so try to hunt a Cave Mamel to level up if possible.<br/>The easiest method is to use an item like Fortune Staff, Fortune Grass, or Disguising Staff.
+
+Nigiri Baby (17 HP, 8 atk) appears starting on 3F, so create some extra food if desired.<br/>However, don't transform grasses that have a possibility of being Revival Grass.
+
+### 4-6F
+
+4F is likely the last floor where you can keep up with monsters if you didn't hunt a Cave Mamel.<br/>Mid Chintala (45 HP, 23 atk) appears starting on 5F, so linger on 4F to level up as much as possible.<br/>The strong foe slots like Mid Chintala are only going to get worse the deeper you descend here,<br/>so prioritize items that specifically help you survive against them.
+
+### 7-9F
+
+Nashagga (70 HP, 21 atk, 20 def) appears on 7-13F, and attacks 2 times per turn - Use items.<br/>The monster table for 7F only has 4 enemies, so Nashagga is especially common on that floor.<br/>Don't bother trying to hunt Thiefwalrus (65 HP, 25 atk) for item drops on 8-11F, as its HP is too high.<br/>Gazer (30 HP, 18 atk) appears from 8-20F, and makes you waste items and turns with its hypnosis.<br/>Overall, it's usually fine to start rushing to the stairs starting from this floor range.
+
+### 10-14F
+
+Monster attack power increases yet again, and it gets hard to trade hits even with Sumo status.<br/>Brodillo (70 HP, 36 atk, 38 def) has high offensive and defensive stats, so use items against it.<br/>Other monsters besides Brodillo and Nashagga have about 60\~70 HP and 24\~30 attack.<br/>You can still try to explore a bit if Sumo status is active, but otherwise it's best to rush stairs.
+
+### 15-19F
+
+Rush to the stairs regardless of whether or not you have Sumo status.<br/>Polygon Shaka (70 HP, 34 atk) always warps in front of you when you're inside a room.<br/>Nigiri Morph (88 HP, 35 atk) has high attack power and also turns inventory items into Large Onigiri.<br/>Greenwalrus (88 HP, 30 atk) steals items, so drop unneeded items to avoid losing important items.
+
+### 20F
+
+The final floor, but even more powerful monsters get added to the monster table.<br/>Use items against Super Gazer (66 HP, 30 atk), Nigiri Boss (133 HP, 45 atk), and Dragon (120 HP, 45 atk).<br/>Again, just rush to the stairs as fast as possible while utilizing all available items.
 
 # Monsters
 

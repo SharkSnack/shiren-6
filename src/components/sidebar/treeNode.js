@@ -26,7 +26,9 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
   // crappy hardcoded fix to change sidebar item order and titles
   if (hasChildren) {
     switch (items[0].label) {
-      case 'blank-scroll-guide': // guides
+      case 'identification-guide': // guides
+        items[0] = { items:[], label: 'identification-guide', title: 'Identifying', url: '/guides/identification-guide'};
+        items[1] = { items:[], label: 'stealing-guide', title: 'Stealing', url: '/guides/stealing-guide'};
         break;
       case 'bracelets': // items
         items[0] = { items:[], label: 'price-chart', title: 'Price Chart', url: '/items/price-chart'};

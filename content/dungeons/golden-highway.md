@@ -13,11 +13,11 @@ metaDescription: "Golden Highway dungeon guide for Shiren the Wanderer: The Myst
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Guide Kawasaku to Icewall Village.</td>
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Icewall Village (Right wall).</td>
   </tr>
 </table>
 
@@ -48,7 +48,7 @@ metaDescription: "Golden Highway dungeon guide for Shiren the Wanderer: The Myst
   </tr>
   <tr>
     <th>Shops</th>
-    <td>No</td>
+    <td></td>
     <th>Monster Houses</th>
     <td></td>
   </tr>
@@ -71,6 +71,13 @@ metaDescription: "Golden Highway dungeon guide for Shiren the Wanderer: The Myst
     <td>None</td>
   </tr>
 </table>
+
+<br/>
+
+|Floor|Wind|Floor|Wind|Floor|Wind|
+|-|-|-|-|-|-|
+|1F|600|3F||5F|400|
+|2F||4F||6F|300|
 
 Hidden route that unlocks when you finish the Kawasaku Side Quest.<br/>The floor numbers are displayed as 1-6F, but the dungeon corresponds to 27-28F of Serpentcoil Island.<br/>Blue stairs which let you return to regular Serpentcoil Island floors early can be found starting on ?F.<br/>Once unlocked, this dungeon can be entered anytime.
 

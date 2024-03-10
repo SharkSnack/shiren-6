@@ -127,7 +127,7 @@ metaDescription: "Complete pot details for Shiren the Wanderer: The Mystery Dung
     <td>100</td>
     <td>400</td>
     <td>40</td>
-    <td>3~5</td>
+    <td>2~5</td>
     <td class="leftText">Sends inserted items to Shukuba Beach's warehouse.<br/>If the warehouse is full, the inserted item falls underfoot.</td>
   </tr>
   <tr>
@@ -522,7 +522,7 @@ metaDescription: "Complete pot details for Shiren the Wanderer: The Mystery Dung
           <div>
             <div class="monsterPageFlex monster_stats">
               <div>Size</div>
-              <div>3~5</div>
+              <div>2~5</div>
               <div>Buy</div>
               <div>1000</div>
               <div>Sell</div>

@@ -13,7 +13,7 @@ metaDescription: "Ghost Ship dungeon guide for Shiren the Wanderer: The Mystery 
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Reach Beachside Pier → Visit Small Harbor 2 times? (Unconfirmed)</td>
   </tr>
   <tr>
     <th>Entrance</th>
@@ -80,7 +80,7 @@ Hidden route that unlocks when you've reached Beachside Pier once and visit Smal
 
 The main characteristic of this dungeon is that Behemoth Monsters can occur on all floors.<br/>In addition, only monsters with swift action speed spawn between 1-4F, so retreating is ineffective.<br/>This means you'll need a shield strong enough to withstand Karakuroid and Hell Reaper's attacks.<br/>That said, Karakuroid has 20 attack and Hell Reaper has 12 attack, so the requirement isn't very high.<br/>Otherwise, the only other monster that spawns is Bowboy between 5-7F, so it's not too bad.
 
-Overall, this dungeon is mostly pointless, since shops don't spawn and you miss out on a blacksmith.<br/>The only real benefit is that blue sacred items can occasionally be found on the ground.
+Overall, this dungeon is mostly pointless, since shops don't spawn and you miss out on a blacksmith.<br/>The only real benefit is that sacred items can occasionally be found on the ground.
 
 # Monsters
 

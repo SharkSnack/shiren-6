@@ -53,6 +53,12 @@ metaDescription: "Peach Dungeon guide for Shiren the Wanderer: The Mystery Dunge
     <td>Regular, Sudden, Special</td>
   </tr>
   <tr>
+    <th>Kron's Challenge</th>
+    <td></td>
+    <th>Fever Time</th>
+    <td></td>
+  </tr>
+  <tr>
     <th>Initial Enemies</th>
     <td></td>
     <th>Spawn Rate</th>

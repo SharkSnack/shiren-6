@@ -121,16 +121,20 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer: The Mystery
 - Exp = Experience points awarded when the monster is defeated.
 - Speed = Monster's action speed.
     - Slow = Half speed.
-    - Regular = Regular speed.
+    - Normal = Regular speed.
     - Swift 1 = Double speed, 1 attack.
     - Swift 2 = Double speed, 2 attacks.
 - Type = Monster type.
+    - Aquatic = Weak to Watersplitter.
+    - Beast = Weak to Primal Axe.
+    - Cyclops = Weak to Cyclops Bane.
     - Draining = Weak to Drain Slayer.
     - Dragon = Weak to Dragonkiller.
-    - Cyclops = Weak to Cyclops Bane.
-    - Ghost = Weak to Sickle of Salvation, HP restoring items deal damage.
     - Exploding = Weak to Crescent Blade.
     - Floating = Weak to Sky Sword, can move across water tiles.
+    - Ghost = Weak to Sickle of Salvation, HP restoring items deal damage.
+    - Metal = Weak to Steel Severer.
+    - Normal = No type-effective weakness.
 
 ## Regular Monsters
 

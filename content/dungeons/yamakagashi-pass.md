@@ -128,7 +128,7 @@ Fully restores HP and also solves one additional problem depending on your situa
 
 ##### Sanctuary Scroll
 
-The effect is nullified during boss fights, but it can be useful for Monster House.<br/>Monsters with ranged attacks are on the uncommon side, but beware of Fire Ninja and Water Ninja.
+The effect is nullified during boss fights, but it can be useful for a Monster House.<br/>Monsters with ranged attacks are on the uncommon side, but beware of Fire Ninja and Water Ninja.
 
 ##### Blank Scroll
 
@@ -162,7 +162,7 @@ Instantly defeats the monster hit by the magic bullet, transforming them into a 
     - Beware of Water Ninja's ability while you have Morphed status.
 - Masked Samurai - Revive as Ghost Warrior if you happen to be defeated.
 - Tengu Monk - Press ZL to give yourself Swift status whenever you'd like.
-- N'dulu: Give yourself Hiding status whenever you'd like.
+- N'dulu - Press ZL to give yourself Hiding status whenever you'd like.
 
 ##### Blurry Incense
 

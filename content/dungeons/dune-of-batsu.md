@@ -44,7 +44,7 @@ metaDescription: "Dune of Batsu dungeon guide for Shiren the Wanderer: The Myste
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3">Bracelets, Grass, Staves, Scrolls, Pots</td>
+    <td colspan="3">Equipment, Grass, Staves, Scrolls, Pots</td>
   </tr>
   <tr>
     <th>Shops</th>
@@ -66,9 +66,9 @@ metaDescription: "Dune of Batsu dungeon guide for Shiren the Wanderer: The Myste
   </tr>
   <tr>
     <th>Wind of Kron</th>
-    <td></td>
+    <td>900</td>
     <th>Reward</th>
-    <td></td>
+    <td>Unlock Cavern of Suiryu.</td>
   </tr>
 </table>
 
@@ -123,7 +123,7 @@ The primary danger zone of this dungeon.<br/>Nigiri Boss (24-29F) can inflict On
 ### Boss
 
 <div class="dungeonPageImage">
-  <img src="../images/areas/other/batsu.jpg"/>
+  <img src="../images/areas/other/batsu_2.jpg"/>
 </div>
 
 Embodiment of Batsu (888 HP, 52 atk, 30 def) is a Beast type monster, so Primal Axe deals x1.5 damage.<br/>Status conditions can be inflicted, but they get cured in roughly 2\~4 turns depending on the status.<br/>Sanctuary Scroll and Knockback Staff <span class="redText">do not</span> work, Paralyzing Staff and Narrow-escape Staff <span class="blueText">do</span> work.<br/>It's immune to Dragon Grass, and projectiles burn up and get nullified unless they pierce.<br/>Water Gun Pot lowers its attack power to 1 until it uses its Charge Attack.
