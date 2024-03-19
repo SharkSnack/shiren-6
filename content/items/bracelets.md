@@ -258,7 +258,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer: The Mystery
     <td class="priceTableName"><a href="#haggling-bracelet">Haggling Bracelet</a></td>
     <td>3500</td>
     <td>1400</td>
-    <td>?</td>
+    <td>No</td>
     <td class="leftText">Lets you purchase items in a dungeon shop at half price.</td>
   </tr>
   <tr>
@@ -1232,10 +1232,10 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer: The Mystery
               <div>Sell</div>
               <div>1400</div>
               <div>Stack</div>
-              <div>?</div>
+              <div>No</div>
             </div>
             <div class="monster_text">Reduces prices at the dungeon store by 50%.</div>
-            <div class="monster_notes">Stacking the bracelet hasn't been tested yet.</div>
+            <div class="monster_notes">No additional notes.</div>
           </div>
         </div>
       </td>
@@ -1319,7 +1319,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer: The Mystery
               <div>Yes</div>
             </div>
             <div class="monster_text">Increases damage dealt by cannons.<br/>Equipping 2 further increases damage.</div>
-            <div class="monster_notes">Damage increase hasn't been tested yet.</div>
+            <div class="monster_notes">1 bracelet → Doubles cannon damage.<br/>2 bracelets → Triples cannon damage.</div>
           </div>
         </div>
       </td>

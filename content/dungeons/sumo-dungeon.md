@@ -17,7 +17,7 @@ metaDescription: "Sumo Dungeon guide for Shiren the Wanderer: The Mystery Dungeo
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Small Harbor</td>
+    <td class="highlightYellow">Small Harbor (Harbor Inn Yuunagi)</td>
   </tr>
 </table>
 
@@ -40,11 +40,11 @@ metaDescription: "Sumo Dungeon guide for Shiren the Wanderer: The Mystery Dungeo
   </tr>
   <tr>
     <th>Starting Item</th>
-    <td colspan="3"></td>
+    <td colspan="3">Sumo Onigiri</td>
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3"></td>
+    <td colspan="3">Equipment, Grass, Scrolls, Staves, Pots</td>
   </tr>
   <tr>
     <th>Shops</th>
@@ -56,35 +56,69 @@ metaDescription: "Sumo Dungeon guide for Shiren the Wanderer: The Mystery Dungeo
     <th>Kron's Challenge</th>
     <td></td>
     <th>Fever Time</th>
-    <td></td>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
     <td></td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>30</td>
   </tr>
   <tr>
     <th>Wind of Kron</th>
-    <td></td>
+    <td>900</td>
     <th>Reward</th>
-    <td></td>
+    <td>Steak Plate</td>
   </tr>
 </table>
+
+Post-game dungeon featuring Sumo Onigiri as the only food item found on the ground.<br/>The player can bring items, but it can be cleared without bringing any items thanks to Sumo status.<br/>The dungeon has lots of items buried in wall tiles, since Sumo status allows digging through walls.<br/>Overall, it's basically just a place where players can visit to learn how Sumo status works.
 
 # Strategy
 
 ### General
 
-[Content]
+#### Sumo Status
 
-### Important Items
+Occurs when Max Fullness reaches 150, and is canceled when Fullness depletes to 120.<br/>Sumo status boosts Shiren's attack power by 50%, and also increases max HP by 50.<br/>In addition, Shiren can also dig through wall tiles without penalty, and becomes immune to traps.<br/>However, fullness depletion is doubled, and movement effects like Vaulting Staff are nullified,<br/>so Sumo status isn't stricly all positive effects.
 
-[Content]
+#### Sumo Onigiri
+
+Nigiri Baby does not appear, so Sumo Onigiri is likely going to be your only food source.<br/>It's hard to maintain Sumo status if you don't bring items like Peach Club or Shield of Sating,<br/>so aim to only activate Sumo status when you need the additional HP and attack power.
 
 # Floor Guide
 
-[Content]
+This section assumes that the player isn't bringing any items into the dungeon.<br/>Overall, the monster table is similar to Serpentcoil Island, but condensed to 20 floors.
+
+### 1F
+
+Enemies are weak, so linger until the wind blows to farm experience points and item drops.
+
+### 2F
+
+Pumphantasm (23 HP, 16 atk) appears, so consider activating Sumo status if you lack a shield.<br/>That said, if you are able to linger without entering Sumo status, that's generally a better option.<br/>If you decide to activate Sumo status, go ahead and advance to the next floor.
+
+### 3-5F
+
+Enemies are based on Serpentcoil Island 5-9F along with Scorpion (37 HP, 14 atk) on 3-4F.<br/>Hoppin' Hitter (32 HP, 22 atk, 15 def) and Mid Chintala (45 HP, 23 atk, 10 def) both hit hard.<br/>Fire Ninja D (28 HP, 18 atk) and Water Ninja D (24 HP, 15 atk) can either grill or rot Sumo Onigiri,<br/>so don't linger around on these floors.
+
+### 6-9F
+
+Enemies are based on Serpentcoil Island 10-15F (Underwater Passage).<br/>Bowboy (45 HP, 17 atk) and Crossbowboy (55 HP, 20 atk) appear on 6F - collect arrows if possible.<br/>Masked Samurai (47 HP, 18 atk) appears on 6F, and Mudkin (70 HP, 5 atk) on 7F, but they don't overlap,<br/>so you won't be able to hunt Lv3-4 Mudkin monsters to level up in this dungeon.
+
+### 10-13F
+
+Enemies are based on Serpentcoil Island 16-19F (Kibanuma Marsh).<br/>The only dangerous enemy is Pop Tank (90 HP, 20 atk) since it can grill your Sumo Onigiri.<br/>Otherwise, enemies shouldn't really be an issue as long as Sumo status is active.
+
+### 14-18F
+
+Enemies are based on Serpentcoil Island 20-23F (Firespew Mountain), <b>hallways are dark from 15F</b>.<br/>Lv2 Ninjas appear, so don't forget to protect your Sumo Onigiri against Fire and Water ninjas.<br/>Super Gazer (66 HP, 30 atk) also appears, but losing items to hypnosis isn't that big of a deal here,<br/>since you can just rush to the stairs for a few floors until you clear the dungeon at this point.
+
+### 19-20F
+
+Enemies are based on Serpentcoil Island 25-26F (Mount Jatou), and <b>hallways are still dark</b>.<br/>Try to maintain Sumo status until the end on these last 2 floors, and focus on finding the stairs.<br/>Porko (65 HP, 36 atk, 18 def) throws Porky's Rocks that deal 20 damage within a 5 tile radius.<br/>Dartingfrog (75 HP, 40 atk, 28 def) pulls you closer (5 tile range) and attacks on the same turn.<br/>Daze Radish (80 HP, 37 atk, 27 def) throws Confusion Grass within a 2 tile radius. 
+
+Consider hunting a Menbell (100 HP, 30 atk, 30 def) on 19-20F for the monster notebook,<br/>since it's somewhat uncommon to see it spawn naturally in a dungeon.
 
 # Monsters
 
@@ -181,7 +215,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class="centeredText">5</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightGold"></td>
       <td><img src="../images/monsters/56-1.png"/> Earth Ninja D</td>
       <td><img src="../images/monsters/52-1.png"/> Fire Ninja D</td>
       <td><img src="../images/monsters/53-1.png"/> Water Ninja D</td>
@@ -304,7 +338,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="3" class="centeredText">11</td>
-      <td rowspan="3" class=""></td>
+      <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td><img src="../images/monsters/13-2.png"/> Master Hen</td>
@@ -405,7 +439,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">15</td>
+      <td rowspan="2" class="centeredText highlightFog">15</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -427,7 +461,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">16</td>
+      <td rowspan="2" class="centeredText highlightFog">16</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -449,7 +483,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">17</td>
+      <td rowspan="2" class="centeredText highlightFog">17</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -471,7 +505,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">18</td>
+      <td rowspan="3" class="centeredText highlightFog">18</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -500,7 +534,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">19</td>
+      <td rowspan="3" class="centeredText highlightFog">19</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -529,7 +563,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">20</td>
+      <td rowspan="2" class="centeredText highlightFog">20</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -745,7 +779,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -753,7 +787,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Primal Axe</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -819,7 +853,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Drain Slayer</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -844,7 +878,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Steel Severer</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -974,7 +1008,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Pickaxe</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1000,7 +1034,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Wooden Mallet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1125,7 +1159,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Iron Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1307,7 +1341,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Spearscale Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1515,7 +1549,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Break-Off Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1825,7 +1859,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2051,7 +2085,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Wooden Arrow</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2241,10 +2275,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sumo Onigiri</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2340,7 +2374,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Otogirisou</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2353,7 +2387,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Healing Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2366,7 +2400,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Life Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2470,7 +2504,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Strength Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2535,7 +2569,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Blinding Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2600,7 +2634,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Fortune Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2764,7 +2798,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Identifier Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2791,7 +2825,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Earthly Scroll</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3024,7 +3058,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Collection Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3089,8 +3123,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Fixer Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3331,7 +3365,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Burrowing Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3482,7 +3516,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Identifier Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3667,7 +3701,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3803,7 +3837,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Reflective Incense</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>

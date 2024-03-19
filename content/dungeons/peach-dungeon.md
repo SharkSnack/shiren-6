@@ -13,7 +13,7 @@ metaDescription: "Peach Dungeon guide for Shiren the Wanderer: The Mystery Dunge
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Clear Serpentcoil Island → Progress Peach Bun related events.</td>
   </tr>
   <tr>
     <th>Entrance</th>
@@ -40,11 +40,11 @@ metaDescription: "Peach Dungeon guide for Shiren the Wanderer: The Mystery Dunge
   </tr>
   <tr>
     <th>Starting Item</th>
-    <td colspan="3">Large Onigiri</td>
+    <td colspan="3">Peach Club, Large Onigiri</td>
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3"></td>
+    <td colspan="3">Equipment, Grass, Scrolls, Staves, Pots</td>
   </tr>
   <tr>
     <th>Shops</th>
@@ -54,7 +54,7 @@ metaDescription: "Peach Dungeon guide for Shiren the Wanderer: The Mystery Dunge
   </tr>
   <tr>
     <th>Kron's Challenge</th>
-    <td></td>
+    <td>Yes</td>
     <th>Fever Time</th>
     <td></td>
   </tr>
@@ -72,19 +72,116 @@ metaDescription: "Peach Dungeon guide for Shiren the Wanderer: The Mystery Dunge
   </tr>
 </table>
 
+Post-game dungeon where the player begins the dungeon with a Peach Club equipped.<br/>Peach Club is a weapon that has a chance to transform a defeated monster into a Peach Bun.<br/>Eating a Peach Bun morphs Shiren into the corresponding monster, allowing usage of its abilities.<br/>(Example: Eating a Pumphantasm Bun allows Shiren to go inside wall tiles)
+
 # Strategy
 
-### General
+### Morphed Status
 
-[Content]
+- Shiren's stats (HP, attack, and defense) remain the same during Morphed status.
+    - In other words, eating a Mamel Bun won't set your stats to be the same as a Mamel.
+- Equipment runes and bracelet effects are nullified during Morphed status.
+    - Increased attack and defense from equipment remains in effect.
+- Reverting from Morphed status doesn't end the player's turn.
+- All status conditions are cured when Shiren eats a Peach Bun or ends Morphed status.
+    - This includes both positive and negative status conditions.
+
+### General Tips
+
+- Peach Buns are very easy to obtain, so hunger is generally not an issue in this dungeon.
+    - This means you can easily linger until the wind blows to farm experience points or items.
+- Nigiri Baby (2-4F) can be used to increase max fullness and activate Sumo status if desired.
+    - Once Sumo status is active, it can usually be maintained just by eating Peach Buns.
+- Break-Off Blade and Break-Off Shield can be used without degrading during Morphed status.
+    - This is because equipment runes are nullified during Morphed status.
+- Throw a Peach Bun at a monster or NPC to transform them into the corresponding monster.
+    - If you carry weak Peach Buns like Mamel Bun, you can instantly weaken a tough opponent.
+- Buried items are almost always Peach Buns in this dungeon.
+    - The buried Peach Bun doesn't correlate to the current floor's monster table.
+- Collect Peach Buns of swift monsters like Death Reaper to have an easier time near the end.
+    - Swift Peach Buns are also great for escaping from Monster Houses.
 
 ### Important Items
 
-[Content]
+#### Break-Off Blade / Break-Off Shield
+
+Easily the best equipment for this dungeon when you're not aiming for Peach Bun drops.<br/>The Dulling rune is nullified during Morphed status, so it can be used without upgrade value loss.
+
+#### Peach Club
+
+Fighting monsters with this equipped is the primary method of obtaining Peach Buns.<br/>It's not the strongest weapon around, so synthesize status inflicting runes using Mixers if possible.<br/>(<u>Blinding Grass</u> → Blinding / <u>Confusion Grass</u> → Confusing / <u>Sedating Grass</u> → Sedating)
+
+#### Monster-find Bracelet
+
+Powerful bracelet that reveals enemy locations on the map.<br/>However, keep in mind that bracelet effects are nullified during Morphed status.
+
+#### Peach Buns
+
+Eating any Peach Bun replenishes 25 fullness and cures all status conditions.
+
+<p><b><u>Pumphantasm Bun</u></b> (3-4F)<br/>Safely search for the stairs with the ability to walk on air tiles and go inside walls.<br/>Don't forget that Shiren loses HP for every turn spent inside a wall.</p>
+
+<p><b><u>Death Reaper Bun</u></b> (2-4F)<br/>Swift action speed + the ability to walk on air tiles.</p>
+
+<p><b><u>Armordillo Bun</u></b> (3-4F)<br/>Ability deals 2 tiles of knockback and has a chance to make the opponent drop an item.<br/>Can be used to safely defeat monsters that don't have ranged attacks.</p>
+
+<p><b><u>Karakuroid Bun</u></b> (4-6F)<br/>Swift action speed + Sharp-eyed status makes this a great pick for a Monster House.<br/>Can also be used to create Poison Arrow Traps to collect Poison Arrows.</p>
+
+<p><b><u>Bowboy Bun</u></b> (5-6F) / <b><u>Crossbowboy Bun</u></b> (5-7F)<br/>Shoot arrows at a wall to collect lots of Wooden Arrows or Iron Arrows.<br/>Unlike past games, you can pick up arrows even during Morphed status.</p>
+
+<p><b><u>Porky Bun</u></b> (8F)<br/>Morph into a Porky to collect lots of Porky's Rocks.<br/>Porky's Rocks are great for Ghost Samurai (7-12F) and Behemoth (22-24F) floors in particular.</p>
+
+<p><b><u>Masked Samurai Bun</u></b> (7-12F)<br/>The player revives as Ghost Samurai if they're defeated while morphed as Masked Samurai.<br/>However, decreased strength and fullness won't be restored, so it's worse than Revival Grass.<br/>Once you're a Ghost Samurai, possess the monster that defeated you to get rid of them.</p>
+
+<p><b><u>Mixer Bun</u></b> (5-25F)<br/>Use these to safely synthesize items - The item falls underfoot when you revert from Morphed status.<br/>Mixer gains Empowered status when it eats items, so it's not bad as an attacker either.</p>
+
+<p><b><u>Nigiri Baby Bun</u></b> (2-4F)<br/>Can be used to increase max fullness and activate Sumo status.<br/>Equip a Wolfshead or Break-Off Shield, then eat a Nigiri Baby Bun to turn enemies into Onigiri.<br/>Nigiri Baby's ability only has a 1/6 success rate during Morphed status, so it can take a while.<br/>Alternatively, throw a Nigiri Baby Bun at a monster and perform Nigiri Morph Factory normally<br/>after you've collected lots of arrows.</p>
+
+<p><b><u>Thiefwalrus Bun</u></b> (Walrus Pot)<br/>Steal items and hunt enemies while standing on a water tile.<br/>Be warned that Peach Buns and Onigiri items will become rotten when you walk on water.<br/>Thiefwalruses don't spawn naturally, so you'll need a Walrus Pot or lucky find in a wall or shop.</p>
+
+<p><b><u>Bored Kappa Bun</u></b> (10-12F)<br/>Makes you immune to Porky and Porko's rock throwing ability between 24-25F.<br/>In addition, fight enemies while standing on a water tile for faster HP regen and x2.0 damage.</p>
+
+<p><b><u>Rotten Peach Bun</u></b><br/>Can be thrown at a monster to inflict a random negative status condition.<br/>Create these by entering water using something like Spearfish Bun.</p>
 
 # Floor Guide
 
-[Content]
+### 1-2F
+
+Enemies aren't particularly tough, so linger to farm experience points and Peach Buns.<br/>Save Mamel Buns, Pit Mamel Buns, and Death Reaper Buns - other Peach Buns can be eaten.
+
+### 3F
+
+Nigiri Baby (17 HP, 8 atk) appears on 2-4F, so perform Nigiri Morph Factory if you want Sumo status.<br/>Otherwise, use Armordillo Bun to collect extra items from monsters by making them trip.<br/>If your inventory is getting full, it's fine to eat all Onigiri since Peach Buns are so common.<br/>Pumphantasm (23 HP, 16 atk) is a bit tough if you didn't linger to level up on 1-2F.
+
+### 4F
+
+Karakuroid (40 HP, 20 atk) doesn't spawn very often, but can be a menace if it does spawn.<br/>If you don't have staves or such to deal with it, just throw a weaker monster's Peach Bun at it.<br/>Continue collecting items using Armordillo Bun while staying in the stairs room to avoid Karakuroids.<br/>Scorpions can't lower your strength during Morphed status - they inflict Weakened status instead.
+
+### 5-6F
+
+The difficulty of the dungeon quickly ramps up from this floor range.<br/>Collect arrows using Bowboy Bun or Crossbowboy Bun as much as possible.<br/>Expect to see Karakuroid (40 HP, 20 atk) with its Swift 1 speed in any new room you step into.<br/>Use Scorpion Bun or arrows to deal with them, and try to stock up on Karakuroid Buns if possible.
+
+Mixer (78 HP, 39 atk, 29 def) and Fresh Octopling (60 HP, 19 atk, 14 def) are both very tough.<br/>If you found a Break-Off Blade or Break-Off Shield, you can take them on using Morphed status,<br/>but otherwise it can be tricky even if you managed to activate Sumo status.
+
+### 7-12F
+
+Masked Samurai (47 HP, 18 atk) revives as Ghost Samurai when slain - Peach Buns are effective.<br/>If you saved some Pit Mamel Buns, have Ghost Samurais level them up into Cave Mamels for exp.<br/>Always remember that you can throw a Peach Bun at a high level monster to weaken it if needed.<br/>Porky (30 HP, 17 atk) appears on 8F only, so collect Porky's Rocks for later if desired.
+
+### 13-14F
+
+Relatively calmer floor range compared to earlier Masked Samurai and upcoming Chow floors.<br/>Master Hen Buns can be thrown at other monsters to increase the amount of exp you earn.
+
+### 15-18F
+
+Chow (20 HP, 1 atk) appears from this point until the end of the dungeon.<br/>If a monster defeats a Chow, that monster will level up, so carry weaker Peach Buns if possible.<br/>All 5 types of monks appear between 16-18F, so it's best to rush to the stairs on those floors.
+
+### 19-23F
+
+Blazeous (92 HP, 36 atk) is immune to projectiles that don't have piercing properties.<br/>Skull Wizard (88 HP, 35 atk) can cause accidents, especially if it levels up via a Chow.<br/>If you see a message saying a Skull Wizard became a Skullmancer, just hurry to the stairs.<br/>Behemoth Gates can be generated between 22-24F as well, so it's not a good idea to linger.
+
+### 24-25F
+
+Porko (65 HP, 36 atk) is the final threat for this dungeon, especially if it levels up into a Porkon.<br/>Blazeous Bun or Bored Kappa Bun can be eaten to nullify Porky's Rocks aimed at you.<br/>Again, unless you're aiming for 100% monster table completion, there's no reason to linger.
 
 # Monsters
 
@@ -310,7 +407,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2"class="centeredText">11</td>
+      <td rowspan="2"class="centeredText highlightFog">11</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -332,7 +429,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2"class="centeredText">12</td>
+      <td rowspan="2"class="centeredText highlightFog">12</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -376,7 +473,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2"class="centeredText">14</td>
+      <td rowspan="2"class="centeredText highlightFog">14</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -398,7 +495,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2"class="centeredText">15</td>
+      <td rowspan="2"class="centeredText highlightFog">15</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -420,7 +517,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3"class="centeredText">16</td>
+      <td rowspan="3"class="centeredText highlightFog">16</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -449,9 +546,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3"class="centeredText">17</td>
+      <td rowspan="3"class="centeredText highlightFog">17</td>
       <td rowspan="3" class=""></td>
-      <td rowspan="3" class=""></td>
+      <td rowspan="3" class="highlightMH"></td>
       <td rowspan="3" class=""></td>
       <td><img src="../images/monsters/13-2.png"/> Master Hen</td>
       <td><img src="../images/monsters/11-2.png"/> Minotaur</td>
@@ -478,7 +575,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3"class="centeredText">18</td>
+      <td rowspan="3"class="centeredText highlightFog">18</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -507,7 +604,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2"class="centeredText">19</td>
+      <td rowspan="2"class="centeredText highlightFog">19</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -529,7 +626,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2"class="centeredText">20</td>
+      <td rowspan="2"class="centeredText highlightFog">20</td>
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -551,7 +648,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2"class="centeredText">21</td>
+      <td rowspan="2"class="centeredText highlightFog">21</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -573,8 +670,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2"class="centeredText">22</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2"class="centeredText highlightFog">22</td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters/11-2.png"/> Minotaur</td>
@@ -595,7 +692,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2"class="centeredText">23</td>
+      <td rowspan="2"class="centeredText highlightFog">23</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -617,8 +714,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3"class="centeredText">24</td>
-      <td rowspan="3" class=""></td>
+      <td rowspan="3"class="centeredText highlightFog">24</td>
+      <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td><img src="../images/monsters/11-2.png"/> Minotaur</td>
@@ -646,7 +743,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3"class="centeredText">25</td>
+      <td rowspan="3"class="centeredText highlightFog">25</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>

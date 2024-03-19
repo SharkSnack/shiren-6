@@ -197,7 +197,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/9-1.png"/> evil_solider_1</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
       <td><img src="../images/monsters/14-1.png"/> Shagga</td>
       <td class="stats"><img src="../images/monsters/23-1.png"/> Twisty Hani</td>
       <td class="danger"><img src="../images/monsters/31-1.png"/> Curse Girl</td>
@@ -214,7 +214,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="stats"><img src="../images/monsters/25-1.png"/> Scorpion</td>
       <td><img src="../images/monsters/40-2.png"/> Hoppin' Hitter</td>
       <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
-      <td><img src="../images/monsters/9-1.png"/> evil_solider_1</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
       <td class="stats"><img src="../images/monsters/23-1.png"/> Twisty Hani</td>
       <td rowspan="2" class=""></td>
     </tr>
@@ -237,7 +237,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters/40-2.png"/> Hoppin' Hitter</td>
       <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
       <td class="useful"><img src="../images/monsters/15-1.png"/> Bowboy</td>
-      <td><img src="../images/monsters/9-1.png"/> evil_solider_1</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
       <td rowspan="2" class=""></td>
     </tr>
     <tr>
@@ -258,7 +258,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters/40-2.png"/> Hoppin' Hitter</td>
       <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
       <td class="useful"><img src="../images/monsters/15-1.png"/> Bowboy</td>
-      <td><img src="../images/monsters/9-1.png"/> evil_solider_1</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
       <td><img src="../images/monsters/3-2.png"/> Fresh Octopling</td>
       <td rowspan="2" class=""></td>
     </tr>
@@ -280,7 +280,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters/40-2.png"/> Hoppin' Hitter</td>
       <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
       <td class="useful"><img src="../images/monsters/15-1.png"/> Bowboy</td>
-      <td><img src="../images/monsters/9-1.png"/> evil_solider_1</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
       <td><img src="../images/monsters/3-2.png"/> Fresh Octopling</td>
       <td rowspan="2" class=""></td>
     </tr>
@@ -301,7 +301,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
       <td class="useful"><img src="../images/monsters/15-1.png"/> Bowboy</td>
-      <td><img src="../images/monsters/9-1.png"/> evil_solider_1</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
       <td><img src="../images/monsters/3-2.png"/> Fresh Octopling</td>
       <td class="stats"><img src="../images/monsters/23-1.png"/> Twisty Hani</td>
       <td rowspan="2" class="highlightBehemoth"></td>

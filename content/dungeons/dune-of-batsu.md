@@ -44,7 +44,7 @@ metaDescription: "Dune of Batsu dungeon guide for Shiren the Wanderer: The Myste
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3">Equipment, Grass, Staves, Scrolls, Pots</td>
+    <td colspan="3">Equipment, Grass, Scrolls, Staves, Pots</td>
   </tr>
   <tr>
     <th>Shops</th>

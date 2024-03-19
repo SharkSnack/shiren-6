@@ -13,11 +13,11 @@ metaDescription: "Cat-Ching's Divine Will dungeon guide for Shiren the Wanderer:
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Clear Serpentcoil Island → Go to Mount Jatou Entrance.</td>
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Mount Jatou Entrance (Check stone monument)</td>
   </tr>
 </table>
 
@@ -48,9 +48,9 @@ metaDescription: "Cat-Ching's Divine Will dungeon guide for Shiren the Wanderer:
   </tr>
   <tr>
     <th>Shops</th>
-    <td></td>
+    <td>No</td>
     <th>Monster Houses</th>
-    <td></td>
+    <td>Regular, Sudden</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
@@ -66,25 +66,150 @@ metaDescription: "Cat-Ching's Divine Will dungeon guide for Shiren the Wanderer:
   </tr>
   <tr>
     <th>Wind of Kron</th>
-    <td></td>
+    <td>900</td>
     <th>Reward</th>
-    <td></td>
+    <td>Trapseeker</td>
   </tr>
 </table>
+
+Post-game dungeon where both the player and monsters can be ensnared by traps.<br/>Unlike [Trapper's Secret Path](/dungeons/trapper's-secret-path), the player doesn't have a Trapper's Bracelet, so traps can't be relocated.<br/>The player also doesn't earn any experience points when a monster steps on or is defeated by a trap.<br/>Overall, it looks like a trap dungeon at first glance, but it's mostly about throwing Gitan bags.
 
 # Strategy
 
 ### General
 
-[Content]
+#### Main Strategy
 
-### Important Items
+Weapons and shields on the ground are low quality, and staves and scrolls can't be found.<br/>Instead, most items that get generated are Gitan bags ranging in value from 100\~1000+ Gitan,<br/>with earlier floors usually generating higher value Gitan bags compared to deeper floors.<br/>So the idea is to stock up on Gitan bags at the start, then rush stairs until you clear the dungeon,<br/>utilizing traps to conserve the number of Gitan bags you throw when possible.
 
-[Content]
+#### How to add Gitan to your inventory
+
+1. Hold B and move towards the Gitan bag to step on the Gitan bag without picking it up.
+2. Open your inventory, then exchange an item with the Gitan bag underfoot.
+
+#### Firepuff (1-3F)
+
+Firepuff is a Dragon and <b>Floating</b> dual-type monster, so it can't be ensnared by traps.<br/>Its special attack deals a fixed 10 damage, so it can be quite a problem when Shiren is at Lv1.<br/>It's somewhat common to have to restart until you get an opening where there's a Gitan bag nearby,<br/>which can be thrown at Firepuff to instantly defeat it.
+
+### Trap Info
+
+It's important to utilize traps when possible to conserve Gitan bags.
+
+#### Spinning Trap / Sleep Trap / Blinding Trap / Sluggish Trap / Delusion Trap / Onigiri Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/11.png"/> <img src="../images/traps/12.png"/> <img src="../images/traps/14.png"/> <img src="../images/traps/18.png"/> <img src="../images/traps/15.png"/> <img src="../images/traps/16.png"/>
+</div>
+
+These are traps that inflict a negative stauts condition, with Delusion Trap being the most powerful.<br/>Monsters with Deluded status won't attack Shiren, and will instead run away from him forever.<br/>The second best trap is Blinding Trap, since its effect similarly never wears off for monsters.<br/>Sleep and Onigiri have short durations, so only use it against enemies you can defeat quickly.
+
+#### Spring Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/8.png"/>
+</div>
+
+Step on this when you're being chased to warp to a different location on the current floor.<br/>Basically the same as Leaping Grass, except you can't carry the Spring Trap around.
+
+#### Rotting Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/21.png"/>
+</div>
+
+Monsters who step on this trap are instantly defeated and transform into a Rotten Onigiri.<br/>Rotten Onigiri can be thrown at a monster to inflict them with a negative status condition.<br/>Blast Trap or Firepuff can be used to turn Rotten Onigiri into Grilled Onigiri.
+
+#### Blast Trap / Explosion Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/6.png"/> <img src="../images/traps/7.png"/>
+</div>
+
+A monster loses 50% HP when they step on a Blast Trap, and HP is set to 1 for Explosion Trap.<br/>However, any monsters caught in the blast that occurs around the trap will instantly collapse.<br/>So it's possible to step on it when a Floating type monster is adjacent to get rid of the monster.<br/>In this game, Shiren won't collapse even if his current HP is 1 when he steps on this trap.
+
+#### Far-throwing Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/17.png"/>
+</div>
+
+Grants Far-throwing Status, which makes thrown items pierce through walls and creatures.<br/>Basically, stepping on this trap lets you throw Gitan against Hoppin' Hitter and Bored Kappa.<br/>Just be aware that you won't be able to recover thrown Gitan that misses its target.
+
+#### Poison Arrow Trap / Wooden Arrow Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/3.png"/> <img src="../images/traps/2.png"/>
+</div>
+
+A single Poison Arrow reduces enemy attack power by about 50%.<br/>It can help you withstand more hits while running away, but Shiren's attack power is too low<br/>to keep up with stronger enemies later on either way, so don't bother collecting lots of arrows.<br/>Wooden Arrows mostly stop being useful after 4F or so.
+
+#### Floor-exiting Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/29.png"/>
+</div>
+
+Step on this trap to instantly advance to the next floor.<br/>If you see it on the ground, it's best to hurry over to it before a monster steps on it.
+
+#### Trap-setting Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/31.png"/>
+</div>
+
+Step on this to increase the number of traps on the ground.<br/>Shiren can see traps from the start, so there's no real downside to stepping on it.
+
+#### Summoning Trap / Rage Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/24.png"/> <img src="../images/traps/26.png"/>
+</div>
+
+These 2 traps offer zero advantages for the player when activated.<br/>Try to avoid having monsters step on them if possible.
 
 # Floor Guide
 
-[Content]
+Hallways are visible on all floors, so make heavy use of the <span class="blueText">Look Around</span> command in rooms.<br/>Avoid dashing, since you can end up in a bad situation very quickly even with 1 tile gap enabled.<br/>The value of Gitan bags tends to be higher early on, but decreases as you descend deeper.
+
+### 1-2F
+
+Shagga (18 HP, 6 atk, 4 def) looks strong, but can be defeated easily if it's a 1 vs 1 fight.<br/>Firepuff (20 HP, 7 atk, 7 def) is the most dangerous enemy in this floor range, contrary to its cuteness.<br/>It takes \~4 hits for a Lv1 Shiren to defeat Firepuff, while Firepuff can deal 10 damage with its flame,<br/>so you'll need to either throw Gitan at it, or have Shiren step on a Blast Trap to one-shot it.<br/>If you need to run from a Firepuff, avoid entering longer hallways if possible.
+
+Don't pick up Gitan normally - Step on it by holding B, then exchange it with an inventory item.<br/>This lets you carry the Gitan bag as an item, which can be thrown as a projectile.<br/>Staying at 0 Gitan also lets you hunt Froggos (23 HP, 10 atk, 13 def) for more Gitan bags and exp.<br/>When throwing Gitan, save the higher value bags for later floors instead of using them first.
+
+Once you've leveled up a bit, lure Mamels and Shaggas onto a Rotting Trap to make Rotten Onigiri.<br/>Rotten Onigiri turns into HP restoring Grilled Onigiri when Shiren gets hit by Firepuff's flame.<br/>Firepuff always uses its special attack through hallway corners.
+
+Collect some Poison Arrows if possible if you find a Poison Arrow Trap on the ground.<br/>Linger until the wind blows on 1\~2F to level up and stock up on Grilled Onigiri and Gitan bags.
+
+### 3F
+
+Cave Mamel (5 HP, 100 atk, 100 def) appears as a somewhat rare encounter on 3-4F.<br/>Normal attacks only deal 1 damage to Cave Mamel, but it can be instantly slain by throwing Gitan.<br/>Cave Mamel provides 2000 experience points, so it's best to hunt any that you encounter.
+
+Soldier Ant (50 HP, 25 atk, 16 def) digs out wall tiles instead of chasing Shiren, so it's pretty harmless.<br/>However, Soldier Ant will attack if you become adjacent to it - Same goes for Corporal Ant later on.
+
+### 4-5F
+
+Hoppin' Hitter (32 HP, 22 atk, 15 def) appears on 4-5F, and reflects or nullifies projectiles.<br/>The easiest counter is to step on a Far-throwing Trap to gain Far-throwing Status, then throw Gitan,<br/>since Hoppin' Hitter cannot reflect or nullify projectiles with piercing properties.
+
+Zapdon (80 HP, 43 atk, 35 def) appears on 4-10F, and has slow speed but high defensive stats.<br/>It's best to ignore it since hitting it 3 times activates a 25 damage lightning counter attack.
+
+Minotaur (70 HP, 31 atk, 20 def) and Metalhead (66 HP, 30 atk, 19 def) also appear on 5-10F.<br/>They both hit pretty hard, so try to deal with them from a distance before they're adjacent.<br/>Keep in mind that Metalhead can attack up to 2 tiles ahead.
+
+### 6F
+
+This is the only floor with a "Shuffle Dungeon" style map generation in this dungeon.<br/>The map is chosen from a group of predetermined patterns instead of being randomly generated.
+
+New threats include Bored Kappa (50 HP, 18 atk, 11 def) and Master Hen (70 HP, 33 atk, 21 def).<br/>Bored Kappa is immune to projectiles that lack piercing properties, kind of like Hoppin' Hitter.<br/>Master Hen is a brawler style monster like Minotaur, but provides 400 experience points,<br/>so they're a nice target to hunt to level up if you weren't able to hunt a Cave Mamel earlier.<br/>They can be instantly defeated by throwing a Gitan bag with a value of 350 or more Gitan.
+
+Gitan bags found on the ground will decrease in value to 300 or less from around this point.<br/>The final floor with Froggos is 7F, so combined with strong Dragon type monsters appearing soon,<br/>it's recommended to rush stairs to conserve Gitan starting from 7F or 8F.
+
+### 7-10F
+
+Lashagga (99 HP, 43 atk, 34 def) appears on 7-10F, and attacks 3 times per turn.<br/>Getting hit by its attacks nearly guarantees a collapse, so don't let it become adjacent.<br/>You'll need to throw a Gitan bag with a value of at least 500 Gitan to one-shot it.
+
+Dragon (120 HP, 45 atk, 40 def) appears on 8-10F, and spews 20 damage fire in a straight line.<br/>Throwing a Gitan bag with a value of at least 600 Gitan will one-shot it.
+
+8-10F often features water tiles, so flowing water and rafts can be generated on occasion.<br/>Avoid going against the flow of water if possible, and use the <span class="blueText">Look Around</span> command a lot.<br/>The goal is close, so take things one step at a time and do your best!
 
 # Monsters
 

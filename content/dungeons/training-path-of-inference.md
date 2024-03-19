@@ -44,7 +44,7 @@ metaDescription: "Training Path of Inference dungeon guide for Shiren the Wander
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3">Equipment, Grass, Scrolls, Staves, Pots, Incense</td>
+    <td colspan="3">All categories</td>
   </tr>
   <tr>
     <th>Shops</th>

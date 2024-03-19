@@ -1349,14 +1349,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
-      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
-      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
-      <td><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
-      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
       <td rowspan="3" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/59-2.png"/> Okina Monk C</td>
+      <td><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
       <td><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
       <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
       <td><img src="../images/monsters/32-3.png"/> Mudster</td>
@@ -1378,14 +1378,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
-      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
-      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
-      <td><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
-      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
       <td rowspan="3" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/59-2.png"/> Okina Monk C</td>
+      <td><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
       <td><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
       <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
       <td><img src="../images/monsters/32-3.png"/> Mudster</td>
@@ -1407,14 +1407,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
-      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
-      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
-      <td><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
-      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
       <td rowspan="3" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/59-2.png"/> Okina Monk C</td>
+      <td><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
       <td><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
       <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
       <td><img src="../images/monsters/32-3.png"/> Mudster</td>
@@ -1436,14 +1436,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
-      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
-      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
-      <td><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
-      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
       <td rowspan="3" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/59-2.png"/> Okina Monk C</td>
+      <td><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
       <td><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
       <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
       <td><img src="../images/monsters/32-3.png"/> Mudster</td>
@@ -1465,14 +1465,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
       <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
-      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
-      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
-      <td><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
-      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
       <td rowspan="4" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/59-2.png"/> Okina Monk C</td>
+      <td><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
       <td><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
       <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
       <td><img src="../images/monsters/44-3.png"/> N'dama</td>
@@ -1501,14 +1501,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
       <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
-      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
-      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
-      <td><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
-      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
       <td rowspan="4" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/59-2.png"/> Okina Monk C</td>
+      <td><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
       <td><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
       <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
       <td><img src="../images/monsters/44-3.png"/> N'dama</td>
@@ -1537,14 +1537,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
       <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
-      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
-      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
-      <td><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
-      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
       <td rowspan="4" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/59-2.png"/> Okina Monk C</td>
+      <td><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
       <td><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
       <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
       <td><img src="../images/monsters/44-3.png"/> N'dama</td>
@@ -1573,14 +1573,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
       <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
-      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
-      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
-      <td><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
-      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
       <td rowspan="4" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/59-2.png"/> Okina Monk C</td>
+      <td><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
       <td><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
       <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
       <td><img src="../images/monsters/44-3.png"/> N'dama</td>
@@ -1609,14 +1609,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
       <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
-      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
-      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
-      <td><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
-      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
       <td rowspan="4" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/59-2.png"/> Okina Monk C</td>
+      <td><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
       <td><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
       <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
       <td><img src="../images/monsters/44-3.png"/> N'dama</td>

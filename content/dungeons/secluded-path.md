@@ -50,7 +50,7 @@ metaDescription: "Secluded Path dungeon guide for Shiren the Wanderer: The Myste
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
-    <td></td>
+    <td>Sudden</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>

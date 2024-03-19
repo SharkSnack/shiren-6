@@ -81,6 +81,9 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[20] = { items:[], label: 'heart-of-serpentcoil-island', title: 'Heart of Serp.', url: '/dungeons/heart-of-serpentcoil-island'};
         items[21] = { items:[]};
         break;
+      case 'notes': // other
+        items[0] = { items:[], label: 'notes', title: 'Notes', url: '/other/notes'};
+        break;
       default:
         // do nothing
     }
