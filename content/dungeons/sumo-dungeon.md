@@ -13,7 +13,7 @@ metaDescription: "Sumo Dungeon guide for Shiren the Wanderer: The Mystery Dungeo
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow">Clear Serpentcoil Island once.</td>
+    <td class="highlightYellow">Clear Serpentcoil Island → Go to Harbor Inn Yuunagi in Small Harbor.</td>
   </tr>
   <tr>
     <th>Entrance</th>

@@ -13,11 +13,11 @@ metaDescription: "Sacred Ocean Tunnel dungeon guide for Shiren the Wanderer: The
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Clear Serpentcoil Island → Attempt Training Path of Inference once.</td>
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Rocky Viewpoint (Window into the ocean)</td>
   </tr>
 </table>
 

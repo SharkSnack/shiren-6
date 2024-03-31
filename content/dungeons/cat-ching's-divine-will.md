@@ -125,7 +125,7 @@ Monsters who step on this trap are instantly defeated and transform into a Rotte
   <img src="../images/traps/6.png"/> <img src="../images/traps/7.png"/>
 </div>
 
-A monster loses 50% HP when they step on a Blast Trap, and HP is set to 1 for Explosion Trap.<br/>However, any monsters caught in the blast that occurs around the trap will instantly collapse.<br/>So it's possible to step on it when a Floating type monster is adjacent to get rid of the monster.<br/>In this game, Shiren won't collapse even if his current HP is 1 when he steps on this trap.
+Any monsters caught in the blast that occurs will instantly collapse.<br/>So it's possible to step on it when a Floating type monster is adjacent to get rid of the monster.<br/>In this game, Shiren won't collapse even if his current HP is 1 when he steps on this trap.
 
 #### Far-throwing Trap
 

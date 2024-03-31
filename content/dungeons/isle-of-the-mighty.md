@@ -68,7 +68,7 @@ metaDescription: "Isle of the Mighty dungeon guide for Shiren the Wanderer: The 
     <th>Wind of Kron</th>
     <td></td>
     <th>Reward</th>
-    <td>peak_shield (gold)</td>
+    <td>Hunky-dory Shield</td>
   </tr>
 </table>
 

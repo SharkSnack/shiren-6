@@ -17,7 +17,7 @@ metaDescription: "Heart of Serpentcoil Island dungeon guide for Shiren the Wande
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Firespew Mountain Summit</td>
   </tr>
 </table>
 

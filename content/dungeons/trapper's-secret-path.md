@@ -13,11 +13,11 @@ metaDescription: "Trapper's Secret Path dungeon guide for Shiren the Wanderer: T
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow">Clear Serpentcoil Island once.</td>
+    <td class="highlightYellow">Clear Serpentcoil Island → Check Tiger Thrower statue in Icewall Village.</td>
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Icewall Village</td>
+    <td class="highlightYellow">Icewall Village (Hole near the Inn).</td>
   </tr>
 </table>
 
@@ -40,21 +40,21 @@ metaDescription: "Trapper's Secret Path dungeon guide for Shiren the Wanderer: T
   </tr>
   <tr>
     <th>Starting Item</th>
-    <td colspan="3">Large Onigiri, Trapper Bracelet</td>
+    <td colspan="3">Large Onigiri, Trapper's Bracelet</td>
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3"></td>
+    <td colspan="3">Equipment, Grass, Staves, Scrolls, Pots</td>
   </tr>
   <tr>
     <th>Shops</th>
-    <td></td>
+    <td>Yes</td>
     <th>Monster Houses</th>
-    <td></td>
+    <td>Regular</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
-    <td></td>
+    <td>Yes</td>
     <th>Fever Time</th>
     <td></td>
   </tr>
@@ -72,19 +72,212 @@ metaDescription: "Trapper's Secret Path dungeon guide for Shiren the Wanderer: T
   </tr>
 </table>
 
+Post-game dungeon where you start with a Trapper's Bracelet and utilize traps to progress.<br/>Trapper status allows Shiren to pick up traps and set them on the ground to ensnare monsters.<br/>Once set, traps can't be picked up again, and the status is lost while the bracelet is unequipped.<br/>Shiren's attack power remains the same in both modes, so the only time the player would want to<br/>unequip the bracelet would be when the player wants to use a Blast Trap to one-shot enemies.
+
 # Strategy
 
 ### General
 
-[Content]
+#### Trapper Status
+
+Shiren's color palette changes to a purple one while he has Trapper status.<br/>All hidden traps are revealed, and traps can be picked up, thrown, or set on the ground.<br/>Monsters can be ensnared by traps, and traps never activate when Shiren walks on top of them.
+
+Shiren earns 10% of the regular amount of experience points when a monster steps on a trap,<br/>and also earns x2.0 experience points when a monster is defeated by a trap that deals damage.<br/>However, traps like Rotting Trap that instantly defeat a monster do not grant experience points.
+
+#### Warning - Blast Trap / Explosion Trap
+
+Blast Trap and Explosion Trap function differently under Trapper status:
+
+<div class="trapIcon">
+<ul>
+  <li><img src="../images/traps/6.png"/> <u>Blast Trap</u>
+    <ul>
+      <li>Normal - Monsters caught in the blast are instantly defeated.</li>
+      <li>Trapper - Reduces the monster's current HP by 50%.</li>
+    </ul>
+  </li>
+  <li><img src="../images/traps/7.png"/> <u>Explosion Trap</u>
+    <ul>
+      <li>Normal - Monsters caught in the blast are instantly defeated.</li>
+      <li>Trapper - Reduces the monster's current HP to 1.</li>
+    </ul>
+  </li>
+</ul>
+</div>
+
+### Trap Info
+
+#### Rock Trap / Boulder Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/4.png"/> <img src="../images/traps/5.png"/>
+</div>
+
+<div class="trapIcon">
+  <p><img src="../images/traps/4.png"/> <u>Rock Trap</u> deals 16~20 damage, and <img src="../images/traps/5.png"/> <u>Boulder Trap</u> deals 32~38 damage.<br/>These traps can be used to reliably earn experience points if placed in intersections.<br/><img src="../images/traps/9.png"/> <u>Log Trap</u> and <img src="../images/traps/1.png"/> <u>Tripping Trap</u> can also be used, but they're not as powerful.</p>
+</div>
+
+#### Spinning Trap / Sleep Trap / Blinding Trap / Sluggish Trap / Delusion Trap / Onigiri Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/11.png"/> <img src="../images/traps/12.png"/> <img src="../images/traps/14.png"/> <img src="../images/traps/18.png"/> <img src="../images/traps/15.png"/> <img src="../images/traps/16.png"/>
+</div>
+
+<div class="trapIcon">
+  <p>These are traps that inflict a negative stauts condition, with <img src="../images/traps/15.png"/> <u>Delusion Trap</u> being the best.<br/>Monsters with Deluded status won't attack Shiren, and will instead run away from him forever.<br/>The second best trap is <img src="../images/traps/14.png"/> <u>Blinding Trap</u>, since its effect similarly never wears off for monsters.<br/><img src="../images/traps/12.png"/> <u>Sleep Trap</u> and <img src="../images/traps/16.png"/> <u>Onigiri Trap</u> have short durations, so use them on enemies you can quickly defeat.</p>
+</div>
+
+#### Curse Trap / Silver-seal Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/22.png"/> <img src="../images/traps/23.png"/>
+</div>
+
+<div class="trapIcon">
+  <p>Inflicts a monster with Sealed status, making them unable to use abilities.<br/>Useful when hunting Thiefwalruses (5-13F), though you might want to pair it with a <img src="../images/traps/19.png"/> <u>Removal Trap</u><br/>which lowers a monster's Attack Power and Defense Power.<br/>Also great for shutting down Skull Wizards on 19-20F.</p>
+</div>
+
+#### Rust Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/20.png"/>
+</div>
+
+Decreases Defense Power + inflicts a similar effect to getting hit by a Water Gun Pot.<br/>Basically makes Masked Samurai (10-12F), Minotaur (16-20F), and Pop Tank (16-18F) a non-issue.<br/>However, this trap cannot be used to transform enemies with Onigiri status into Rotten Onigiri.<br/>Mudkin (11-14F) and other Aquatic type monsters will have their HP restored by 25% instead.
+
+#### Removal Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/19.png"/>
+</div>
+
+Decreases a monster's Attack Power and Defense Power.<br/>Unlike some of the previous games, this trap doesn't inflict Sealed status on a monster.<br/>Intentionally step on it yourself if you equip a cursed weapon, shield, or bracelet.
+
+#### Blast Trap / Explosion Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/6.png"/> <img src="../images/traps/7.png"/>
+</div>
+
+<div class="trapIcon">
+  <p>Under Trapper status, HP is reduced by 50% for Blast Trap, and HP is set to 1 for Explosion Trap.<br/><span class="redText">Always unequip the Trapper Bracelet before stepping on it when you want to one-shot monsters.</span><br/>Otherwise, you're extremely likely to collapse if you step on it while you're surrounded.<br/>Alternatively, use it after <img src="../images/traps/16.png"/> <u>Onigiri Trap</u> to instantly turn a monster into Grilled Onigiri.</p>
+</div>
+
+#### Rotting Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/21.png"/>
+</div>
+
+<div class="trapIcon">
+  <p>Monsters who step on this trap are instantly defeated and transform into a Rotten Onigiri.<br/>Rotten Onigiri can be thrown at a monster to inflict them with a negative status condition.<br/><img src="../images/traps/6.png"/> <u>Blast Trap</u> can be used to turn Rotten Onigiri into Grilled Onigiri.</p>
+</div>
+
+#### Trap-setting Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/31.png"/>
+</div>
+
+Step on this to increase the number of traps on the ground.<br/>Save it for when the number of traps in your inventory starts to get low.
+
+#### Spring Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/8.png"/>
+</div>
+
+Step on this when you're being chased to warp to a different location on the current floor.<br/>Basically the same as Leaping Grass.
+
+#### Poison Arrow Trap / Wooden Arrow Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/3.png"/> <img src="../images/traps/2.png"/>
+</div>
+
+Use these traps to stock up on arrows instead of setting them for enemies to step on.<br/>Place it down alongside a wall, then throw an item at the wall so that the item lands on the trap.
+
+#### Monsterizing Trap / Summoning Trap / Rage Trap
+
+<div class="relativeImage pageLinksTable">
+  <img src="../images/traps/27.png"/> <img src="../images/traps/24.png"/> <img src="../images/traps/26.png"/>
+</div>
+
+<p><span class="redText">Negative effect traps.</span><br/>These 3 traps offer zero advantages for the player when activated.<br/>Try to avoid having monsters step on them if possible.</p>
 
 ### Important Items
 
-[Content]
+#### Trapper's Bracelet
+
+The player starts with this item, but additional copies can be found inside the dungeon.<br/>Strength Grass is on the uncommon side, so don't plan on being able to equip 2 bracelets.<br/>It's a good idea to keep it equipped to avoid accidentally losing it.
+
+#### Weapon and Shield (High Base Value)
+
+Mixers don't appear, so prioritize high base stats instead of special abilities.<br/>Hell Reaper (7-9F) floors are very tough without a shield in particular.
+
+#### Dragonkiller
+
+Nice to have against Floor Dragon (13-15F) and Flamepuff (18-20F), who can't be ensnared by traps.
+
+#### Wooden Arrow / Poison Arrow
+
+A single Poison Arrow reduces enemy attack power by about 50%.<br/>Collect arrows from any arrow trap you come across, repositioning the trap as needed.<br/>Don't shoot Poison Arrows at Scorpion (4-7F) or Ghost Radish (16-17F).
+
+#### Mapping Scroll / Guiding Staff
+
+<div class="trapIcon">
+  <p><img src="../images/traps/29.png"/> <u>Floor-exiting Trap</u> and <img src="../images/traps/28.png"/> <u>Pitfall Trap</u> are never naturally generated in this dungeon,<br/>so Mapping Scroll and Guiding Staff are the easiest methods to rush to the next floor.</p>
+</div>
+
+#### Narrow-escape Staff / Switching Staff / Blurry Incense
+
+These items are nice to have on hand in case you encounter a single room Monster House.
+
+#### Trap Scroll
+
+<div class="trapIcon">
+  <p>Similar to <img src="../images/traps/31.png"/> <u>Trap-setting Trap</u>, use it when the number of traps in your inventory gets low.</p>
+</div>
+
+#### Bottomless Pot
+
+<div class="trapIcon">
+  <p>Break this pot to generate a number of <img src="../images/traps/28.png"/> <u>Pitfall Traps</u> equal to capacity,<br/>which can be intentionally stepped on to advance to the next floor.</p>
+</div>
 
 # Floor Guide
 
-[Content]
+### 1-3F
+
+<div class="trapIcon">
+  <p>Floating type monsters don't appear yet, so traps are effective against all monsters.<br/>Try to secure additional food by utilizing <img src="../images/traps/21.png"/> <u>Rotting Trap</u> and <img src="../images/traps/6.png"/> <u>Blast Trap</u>.<br/>Set some <img src="../images/traps/14.png"/> <u>Blinding Traps</u> on the ground to level up a Pit Mamel into a Cave Mamel,<br/>then defeat it using a trap that deals damage for 4000 experience points.</p>
+</div>
+
+### 3-4F
+
+Pumphantasm (23 HP, 16 atk, 10 def) appears on 4-5F and can't be trapped, so be careful.<br/>Froggo (23 HP, 10 atk, 13 def) appears on 3-5F, and always drops Gitan when it's defeated.<br/>Shops can be generated in this dungeon, so it'd be good to stock up on Gitan a bit.
+
+### 5-12F
+
+Thiefwalrus (65 HP, 25 atk, 23 def) appears on 5-13F, and always drops an item when it's slain.<br/>It has higher Attack Power, so be careful if you decide to inflict Sealed status on it.
+
+Hell Reaper (45 HP, 12 atk, 15 def) appears on 7-9F and can be a problem if your shield is weak.<br/>A shield strength of 11\~12 makes them a non-issue, but otherwise consider rushing stairs.
+
+Crossbowboy (55 HP, 20 atk, 20 def) overlaps with Bored Kappa (50 HP, 18 atk, 11 def) on 10-12F,<br/>so it's possible to collect Iron Arrows - Don't go overboard with it, since this dungeon is only 20F.
+
+Masked Samurai (47 HP, 18 atk, 18 def) and Mudkin (70 HP, 5 atk, 9 def) overlap on 11-12F,<br/>so it's possible to hunt Lv3 Mudsters (460 exp) or Lv4 Mudders (920 exp) to rapidly level up.<br/>Don't inflict Sealed status on a Mudster (35 atk) or Mudder (45 atk) due to their higher attack stats.
+
+### 13-15F
+
+Floor Dragon (55 HP, 25 atk, 20 def) appears on 13-15F, and can't be ensnared by traps.<br/>Depending on your level and equipment, it might be best to switch to rushing stairs.<br/>However, if you've performed farming techniques, this floor range should be fine to explore.
+
+### 16-20F
+
+<div class="trapIcon">
+  <p>Rumbledon (125 HP, 53 atk, 45 def) and Pop Tank (90 HP, 20 atk, 24 def) both have Slow speed,<br/>and can be further weakened by a <img src="../images/traps/20.png"/> <u>Rust Trap</u>.</p>
+</div>
+
+Flamepuff (50 HP, 25 atk, 20 def) appears on 18-20F, and can't be ensnared by traps.<br/>Skull Wizard (88 HP, 35 atk, 24 def) also appears on 19-20F, so use the <span class="blueText">Look Around</span> command.<br/>N'dubba (32 HP, 16 atk, 8 def) can be disguised as an item on the ground between 19-20F,<br/>so it's best to rely on traps or items already in your inventory for this final stretch.
 
 # Monsters
 
@@ -143,7 +336,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td class="centeredText">3</td>
       <td class=""></td>
-      <td class=""></td>
+      <td class="highlightMH"></td>
       <td class=""></td>
       <td><img src="../images/monsters/1-2.png"/> Pit Mamel</td>
       <td><img src="../images/monsters/2-1.png"/> Chintala</td>
@@ -240,7 +433,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td class="centeredText">9</td>
       <td class=""></td>
-      <td class=""></td>
+      <td class="highlightMH"></td>
       <td class=""></td>
       <td><img src="../images/monsters/5-2.png"/> Hell Reaper</td>
       <td><img src="../images/monsters/40-2.png"/> Hoppin' Hitter</td>
@@ -320,7 +513,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText">13</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters/3-2.png"/> Fresh Octopling</td>
@@ -2052,7 +2245,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Porky's Rock</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2086,7 +2279,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Onigiri</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3064,7 +3257,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Blank Scroll</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>

@@ -13,11 +13,11 @@ metaDescription: "Domain of Staves and Scrolls dungeon guide for Shiren the Wand
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Clear Dune of Batsu → Event in Small Harbor.</td>
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Small Harbor (Lighthouse)</td>
   </tr>
 </table>
 

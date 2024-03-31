@@ -13,11 +13,11 @@ metaDescription: "Training Path of Gimmicks dungeon guide for Shiren the Wandere
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Clear Serpentcoil Island → Check the Jizo Shrine in Underwater Training Ground.</td>
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Underwater Training Ground (Jizo Shrine)</td>
   </tr>
 </table>
 
@@ -30,7 +30,7 @@ metaDescription: "Training Path of Gimmicks dungeon guide for Shiren the Wandere
     <th>Bring Items</th>
     <td>Yes</td>
     <th>Allies</th>
-    <td></td>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Rescues</th>
@@ -40,23 +40,23 @@ metaDescription: "Training Path of Gimmicks dungeon guide for Shiren the Wandere
   </tr>
   <tr>
     <th>Starting Item</th>
-    <td colspan="3"></td>
+    <td colspan="3">Large Onigiri</td>
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3"></td>
+    <td colspan="3">Equipment, Grass, Staves, Scrolls, Pots</td>
   </tr>
   <tr>
     <th>Shops</th>
-    <td></td>
+    <td>Yes</td>
     <th>Monster Houses</th>
-    <td></td>
+    <td>Regular, Sudden</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
-    <td></td>
+    <td>Yes</td>
     <th>Fever Time</th>
-    <td></td>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
@@ -68,23 +68,123 @@ metaDescription: "Training Path of Gimmicks dungeon guide for Shiren the Wandere
     <th>Wind of Kron</th>
     <td></td>
     <th>Reward</th>
-    <td></td>
+    <td>Auspicious Omamori</td>
   </tr>
 </table>
+
+Post-game dungeon where various gimmicks and in-dungeon events have a high chance of occurring.<br/>Cannons, Kron's Challenge, Fever Time, bouncy walls, behemoth gates, water with rafts, it's all here.<br/>Stronger monsters appear as early as 3F, so the player is expected to bring powerful items.<br/>Overall, it's a nice place to visit to duplicate items thanks to the frequency of bouncy wall rooms.
 
 # Strategy
 
 ### General
 
-[Content]
+Cannons lack power against most non-behemoth monsters, and can also destroy items on the ground.<br/>Some enemies prioritize manning a cannon instead of chasing Shiren, making it an effective distraction.
+
+Bouncy Walls are pretty common, and Bouncy Bracelet can be found on the ground in this dungeon,<br/>so if you have that bracelet and a Earthmound Staff, you can duplicate items more easily.<br/>The trick is to make the thrown item bounce off of all 4 sides of the Bouncy Wall Room.
+
+For flowing water and raft tiles, try to go with the flow of water instead of against it if possible.<br/>Otherwise you'll end up having to fight wave after wave of enemies riding the rafts.
+
+Behemoth Gates have a chance of being generated on all floors except for 1F, 10F, and 20F.<br/>It's fine to aim for the item drop at first, but consider skipping it once tougher enemies appear.
+
+Wishing Shrine, Fever Time, and Kron's Challenge can provide great benefits.<br/>Be sure to bring items that let you dig out wall tiles, along with an item like Item-find Bracelet.
+
+Dangerous monsters include Fencer, Terror Scorpion, Mudster, and Curse Matron.<br/>Reach 10 strength and equip Monster-find + Cleansing / Rustproof / Affixing / Cursebreak bracelets,<br/>switching the second bracelet out depending on the opponent (or bring a few Sealing Staves).
 
 ### Important Items
 
-[Content]
+#### Hunky-dory Shield (Full Armor Rune) & Revival Grass
+
+The Full Armor shield rune halves damage received when Shiren's HP is full.<br/>It's mostly for added protection against enemy cannons when Shiren is at level 1.<br/>Runes like HP+20 which increase max HP are also great for this purpose.
+
+#### Strength Grass x 2 / Yamanba's Cleaver + Yamanba's Potlid
+
+Methods to start the dungeon with 10 strength, allowing for 2 bracelets to be equipped.<br/>If you choose to go with Strength Grass, don't forget to bring a Rejuvenation Pot.
+
+#### Monster-find Bracelet
+
+Nice to have on hand to check for incoming Mudsters and Fencers in hallways.<br/>That said, none of the floors in this dungeon have dark hallways, so it's not mandatory.<br/>Can be found in Serpentcoil Island (main story dungeon).
+
+#### Cleansing Bracelet / Rustproof Bracelet / Affixing Bracelet / Cursebreak Bracelet
+
+Bracelets that counter specific monsters if you end up adjacent to them.<br/>Some players prefer to keep a Wallpass Bracelet equipped in the second slot instead.
+
+- Cleansing Bracelet - Vile Scorpion (3-5F), Terror Scorpion (6-9F)
+- Rustproof Bracelet - Mudster (6-11F)
+- Affixing Bracelet - Fencer (6-11F)
+- Cursebreak Bracelet - Curse Matron (14-20F)
+
+#### Eradication Scroll
+
+Throw this at a Vile Scorpion, Mudster, or Fencer if you lack a counter to them.<br/>However, the floor range for each of these threats is narrow, so Sealing Staff might be plenty.
+
+#### Sluggish Staff / Paralyzing Staff / Sealing Staff
+
+Nice to have on hand to disable a single monster and prevent accidents.
+
+#### Peach Staff / Peach Bun Rune
+
+Turn a Soul Reaper (10-20F) into a Peach Bun and eat it to gain wallpass and swift speed.<br/>Eating a Peach Bun also removes Far-throwing Trap's effect, so it can be nice on Fencer floors.<br/>Peach Staff can't be used against Hoppin' Hitter (4-7F) or Hoppin' Slugger (13-17F).
+
+#### Porky's Rock
+
+Easiest counter for behemoth monsters, which can appear between 2-9F and 11-19F.
+
+#### Earthmound Staff
+
+Pair it with a Bouncy Bracelet to make otherwise unsolvable bouncy wall room layouts solvable.
+
+### Farming Techniques
+
+None of these techniques are necessary since it's a dungeon that allows carry-in items.
+
+#### Igneous Hunting (3-5F)
+
+Eat a Flamepuff Bun and blow fire at a Blazeous (Lv2) to level it up once, then defeat it for 999 exp.<br/>Blazeous (Lv3) has 165 HP and 56 attack, so you'll probably want a shield strength of at least 60.<br/>Infernous (Lv4) provides 1999 exp, but might be too tough with 285 HP and 69 attack.
+
+#### Mudster Hunting (6-11F)
+
+Unequip your weapon and shield, then hunt Mudsters or Mudders while making them multiply.<br/>Seal off the room using Paralyzing Staff or Earthmound Staff, and stand on the stairs.
+
+#### Chow Bun (6-20F)
+
+Chow appears on 6-20F, so stock up on Chow Buns for Sacred Item farming in Isle of the Mighty.<br/>See [Isle of the Mighty](/dungeons/isle-of-the-mighty) for details.
 
 # Floor Guide
 
-[Content]
+### 1-2F
+
+Hat Urchin, Death Reaper, Shagga, and Octopling are the only monsters that spawn.<br/>None of them are notable threats, but it'd be good to level up a bit before descending to 3F.
+
+### 3-5F
+
+Some stronger Lv2 monsters appear alongside lesser threats like Mid Chintala:
+
+- Pumpanshee (60 HP, 35 atk, 22 def) - Passes through walls, random movement.
+- Blazeous (92 HP, 36 atk, 24 def) - Immune to projectiles without piercing properties.
+- Cursister (115 HP, 38 atk, 38 def) - Curses your equipped weapon or shield.
+- Vile Scorpion (108 HP, 45 atk, 33 def) - Lowers strength by 2 when adjacent.
+- Tiger Hurler (135 HP, 50 atk, 45 def) - Throws creatures, range of 10 tiles.
+
+### 6-11F
+
+Chow appears between 6-20F, so there's risk of a monster randomly leveling up.<br/>10F is always a Shuffle Dungeon style map similar to Sozoro Bay - Don't use Handy Dash.
+
+The monster table is mostly bumped up to Lv3, and includes some trickier enemies:
+
+- Great Hen (120 HP, 55 atk, 40 def) - Swift 1 action speed (6\~11F).
+- Soul Reaper (75 HP, 40 atk, 40 def) - Swift 2 action speed (10\~20F).
+- Mudster (140 HP, 35 atk, 43 def) - Rusts equipment or erases 1 rune (6\~11F).
+- Fencer (140 HP, 49 atk, 48 def) - Disarms your equipped weapon or shield (6\~11F).
+- Bellthoven (150 HP, 45 atk, 45 def) - Summons up to 3 monsters at a time (6\~20F).
+- Terror Scorpion (185 HP, 55 atk, 45 def) - Lowers max strength by 1 (6\~9F).
+
+### 12-20F
+
+Chow is still around, but this floor range is usually easier than 6-11F if your equipment is strong.
+
+Ornery Tank (95 HP) overlaps with Igneous (165 HP) and Concusschin (160 HP) between 16-20F.<br/>Igneous will multiply when hit by an explosion, and Concusschin will immediately explode.
+
+Curse Matron (145 HP, 53 atk, 48 def) can curse equipped bracelets, but is otherwise harmless.<br/>However, Cursenior can curse any item in your inventory, so beware if she levels up.
 
 # Monsters
 
@@ -143,7 +243,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td rowspan="2" class="centeredText">3</td>
       <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
       <td><img src="../images/monsters/41-2.png"/> Blazeous</td>

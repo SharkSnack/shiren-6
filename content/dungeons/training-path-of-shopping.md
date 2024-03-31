@@ -13,11 +13,11 @@ metaDescription: "Training Path of Shopping dungeon guide for Shiren the Wandere
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow">Clear Serpentcoil Island → Event near the well in village_4.</td>
+    <td class="highlightYellow">Clear Serpentcoil Island → Go to the well in Underwater Training Ground.</td>
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">village_4</td>
+    <td class="highlightYellow">Underwater Training Ground (Well)</td>
   </tr>
 </table>
 
@@ -46,41 +46,138 @@ metaDescription: "Training Path of Shopping dungeon guide for Shiren the Wandere
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
-    <td>Regular, Sudden</td>
+    <td>Regular, Sudden, Special</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
-    <td></td>
+    <td>Yes</td>
     <th>Fever Time</th>
     <td></td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
-    <td></td>
+    <td>5~7</td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>30</td>
   </tr>
   <tr>
     <th>Wind of Kron</th>
-    <td></td>
+    <td>900</td>
     <th>Reward</th>
-    <td>oracle_shield (gold)</td>
+    <td>Shield of Presage (Gold)</td>
   </tr>
 </table>
+
+Post-game dungeon where shops and peddlers are common, and floor items mostly consist of Gitan.<br/>The gimmick is similar to Asuka Kenzan's 自由経済活動 and Shiren 4 Plus's Mystery Shopping Mall,<br/>but unlike those two dungeons, you're allowed to bring items into Training Path of Shopping.<br/>Overall, it's a decent place to find some uncommon bracelets and practice stealing techniques.
 
 # Strategy
 
 ### General
 
-[Content]
+Monsters are stronger than Sumo Dungeon, Dune of Batsu, and Training Path of Gimmicks.<br/>Minotaurs and other enemies from Serpentcoil Island's mid game floors appear from 3F.<br/>Bag Knaves appear starting on 11F, and the monster table is updated every 5\~10 floors.<br/>31-40F features very dangerous monsters like Miracle Hen, Nigiri Honcho, and Nimble Knave.
+
+Flowing water and rafts are somewhat common, and a Porkon or monk on a raft can be tricky.<br/>Monster Houses are uncommon, but Sudden and Special styles can be generated on rare occasions.<br/>Behemoth Gates have a chance of being generated between 2-19F and 21-39F.<br/>So overall, it's said to be the 2nd hardest dungeon among those that allow bringing items.
+
+#### Dangerous Merchandise
+
+It's best to bring the following items in a pot for auto-identification purposes:
+
+- <u>Leaping Grass</u> (100G)
+- <u>Silver-seal Scroll</u> (300G)
+- <u>Onigiri Scroll</u> (400G)
+- <u>Rune-eraser Scroll</u> (400G)
+- <u>Gambler's Scroll</u> (1000G)
+
+### Restricted Play (No Bringing Items)
+
+Despite the trickier monster table, it's possible to clear this dungeon without bringing items.<br/>1-2F has high value Gitan bags on the ground, so with some shop luck, you can get a run going.<br/>This is especially the case if you manage to purchase or steal a Wallpass Bracelet.<br/>That said, expect to restart the dungeon a lot due to Death Reapers appearing on 1F.
+
+### Farming Techniques
+
+#### Mixergon Bun (16-30F)
+
+Mixergon Bun is essentially a Synthesis Pot [4] that can be put in pots / can do Cross-Mixing.<br/>Mixergon (118 HP, 68 atk, 40 def) appears on 16-30F, so the idea is to turn them into Peach Buns<br/>using Peach Staves or a weapon that has the Peach Bun rune (from Peach Club).<br/>※ Mixergon Bun can be eaten inside a village warehouse to safely synthesize items.
 
 ### Important Items
 
-[Content]
+- Gitan
+    - Rare equipment can cost quite a bit, so bring lots of Gitan.
+- Monster-find Bracelet / Clairvoyant Bracelet
+    - Needed to detect incoming dangerous threats like Hyper Gazer and Bag Knave.
+- Trapper's Bracelet
+    - This dungeon has descending stairs, so you can steal using a Pitfall Trap.<br/>Remember that the Pitfall Trap must be placed outside of the shop's carpeted area.
+- Wallpass Bracelet
+    - Lets you pass through walls, but you take damage equal to 4% of your max HP per turn in a wall.
+    - The bracelet's price is 6,500 Gitan, and can be identified by walking next to the shop's wall<br/>unless it's a shop that is surrounded by unbreakable wall tiles.
+- Affixing Bracelet
+    - Protects inventory items against Bag Knave (11-30F) and Nimble Knave (31-40F).
+- Shield of Negation / Gazer Shield / Walrus Stopper / Nigiri Stopper
+    - Shield of Negation - Counters Skull Wizard (5-10F) and Skullmancer (22-30F).
+    - Gazer Shield - Counters Hyper Gazer (20-30F).
+    - Walrus Stopper - Counters Ironwalrus (11-30F) and Magicwalrus (31-40F).
+    - Nigiri Stopper - Counters Nigiri Boss (11-19F) and Nigiri Honcho (31-40F).
+- Peach Staff / Peach Bun (Rune)
+    - Nice to have just in case you have very bad luck finding food in shops.
+    - Remember that equipment runes and bracelet effects are nullified during Morphed status.
+- Eradication Scroll (Blank Scroll)
+    - Throw it at a dangerous monster you lack a counter to such as Skullmancer or Nigiri Boss<br/>when you don't have a Shield of Negation or Nigiri Stopper synthesized.
+- Revival Grass / Invincible Grass
+    - The player cannot request a rescue if they collapse while stealing from a shop.
+    - Invincible Grass is handy if you're attempting a non-guaranteed stealing method.
+- Strength Grass x 2 / Yamanba's Cleaver + Yamanba's Potlid
+    - Methods to start the dungeon with 10 strength, allowing for 2 bracelets to be equipped.
+    - If you go with Strength Grass, don't forget to bring a Rejuvenation Pot.
+- Porky's Rock
+    - Easiest counter for behemoth monsters, which can appear between 2-19F and 21-39F.
+- Sumo Onigiri
+    - The ability to dig through walls from Sumo Status makes it easier to steal.
+    - Easily obtained in Sumo Dungeon.
 
 # Floor Guide
 
-[Content]
+### 1-2F
+
+Hat Urchin, Death Reaper, and Shagga are the only monsters that spawn.<br/>If you're not confident in your equipment, it's best to level up a bit before descending to 3F.
+
+### 3-4F
+
+Minotaur (70 HP, 31 atk), Floor Dragon (55 HP, 25 atk), and Metalhead (66 HP, 30 atk) appear.<br/>Hat Brat (125 HP, 45 atk) spawns instead of Hat Urchin now, and provides 880 exp when defeated.
+
+### 5-10F
+
+Same as 3-4F, but Skull Wizard (88 HP, 35 atk), Dartingfrog (75 HP, 40 atk), and Lv1 monks also spawn.<br/>However, nothing should really be a threat yet if you brought good equipment.
+
+### 11-19F
+
+A handful of monsters with trickier stats or special attacks appear:
+
+- Nigiri Boss (133 HP, 45 atk) - Inflicts Onigiri status on the player (11\~19F).
+- Polygon Singa (129 HP, 40 atk) - Lowers max fullness by 7 (11\~30F).
+- Bag Knave (95 HP, 40 atk) - Knocks away an inventory item by throwing Weeds (11\~30F).
+- Ironwalrus (138 HP, 35 atk) - Steals an item from your inventory, then warps (11\~30F).
+- Mixergon (118 HP, 68 atk) - Higher attack power than other monsters (16\~30F).
+- Curse Matron (145 HP, 53 atk) - Curses 2 of your equipped items at once (17\~30F).
+
+### 20-30F
+
+A few more dangerous monsters are added to the monster table:
+
+- Megataur (170 HP, 55 atk) - Occasionally deals a critical hit (20\~30F).
+- Porkon (150 HP, 75 atk) - Throws Porky's Rocks within a 8 tile radius (20\~30F).
+- Hyper Gazer (126 HP, 55 atk) - Inflicts Hypnotized status on the player (20\~30F).
+- Skullmancer (111 HP, 50 atk) - Inflicts Paralyzed, Onigiri, Sealed, Slow, etc. (22\~30F).
+- Lv3 monks - Okame, Hannya, Kitsune, and Tengu (25\~40F).
+
+### 31-40F
+
+The final stretch, still featuring the same Lv3 monks alongside some new threats:
+
+- Megahead (182 HP, 62 atk) - Attacks up to 4 tiles ahead.
+- Frogginator (140 HP, 40 atk) - Throws Gitan at the player.
+- Miracle Hen (220 HP, 82 atk) - Swift 2 speed, high attack power.
+- Magicwalrus (188 HP, 40 atk) - Steals an item, then creates a decoy and warps.
+- Nimble Knave (145 HP, 50 atk) - Swift 1 speed, knocks away an inventory item by throwing Weeds.
+- Nigiri Honcho (165 HP, 61 atk) - Inflicts Onigiri status, turns an inventory item into Large Onigiri.
 
 # Monsters
 
@@ -107,7 +204,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </thead>
   <tbody>
     <tr>
-      <td class="centeredText">1</td>
+      <td class="centeredText highlightFog">1</td>
       <td class="highlightShop"></td>
       <td class=""></td>
       <td class=""></td>
@@ -122,7 +219,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">2</td>
+      <td class="centeredText highlightFog">2</td>
       <td class="highlightShop"></td>
       <td class=""></td>
       <td class=""></td>
@@ -137,7 +234,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">3</td>
+      <td class="centeredText highlightFog">3</td>
       <td class="highlightShop"></td>
       <td class=""></td>
       <td class=""></td>
@@ -152,7 +249,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">4</td>
+      <td class="centeredText highlightFog">4</td>
       <td class="highlightShop"></td>
       <td class=""></td>
       <td class=""></td>
@@ -167,7 +264,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">5</td>
+      <td rowspan="2" class="centeredText highlightFog">5</td>
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
@@ -189,7 +286,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">6</td>
+      <td rowspan="2" class="centeredText highlightFog">6</td>
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -211,7 +308,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">7</td>
+      <td rowspan="2" class="centeredText highlightFog">7</td>
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -233,7 +330,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">8</td>
+      <td rowspan="2" class="centeredText highlightFog">8</td>
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -255,7 +352,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">9</td>
+      <td rowspan="2" class="centeredText highlightFog">9</td>
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -277,7 +374,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">10</td>
+      <td rowspan="2" class="centeredText highlightFog">10</td>
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -299,7 +396,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">11</td>
+      <td rowspan="2" class="centeredText highlightFog">11</td>
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -321,7 +418,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">12</td>
+      <td rowspan="2" class="centeredText highlightFog">12</td>
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightGold"></td>
@@ -343,7 +440,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">13</td>
+      <td rowspan="2" class="centeredText highlightFog">13</td>
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -365,7 +462,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">14</td>
+      <td rowspan="2" class="centeredText highlightFog">14</td>
       <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -387,7 +484,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">15</td>
+      <td rowspan="3" class="centeredText highlightFog">15</td>
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -416,7 +513,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="4" class="centeredText">16</td>
+      <td rowspan="4" class="centeredText highlightFog">16</td>
       <td rowspan="4" class="highlightShop"></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
@@ -452,43 +549,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="4" class="centeredText">17</td>
-      <td rowspan="4" class="highlightShop"></td>
-      <td rowspan="4" class=""></td>
-      <td rowspan="4" class=""></td>
-      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
-      <td><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
-      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
-      <td><img src="../images/monsters/26-3.png"/> Bag Knave</td>
-      <td><img src="../images/monsters/37-3.png"/> Electroid</td>
-      <td rowspan="4" class="highlightBehemoth"></td>
-    </tr>
-    <tr>
-      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
-      <td><img src="../images/monsters/28-3.png"/> Froggon</td>
-      <td><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
-      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
-      <td><img src="../images/monsters/31-3.png"/> Curse Matron</td>
-    </tr>
-    <tr>
-      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
-      <td><img src="../images/monsters/45-3.png"/> Mixergon</td>
-      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
-      <td><img src="../images/monsters/44-3.png"/> N'dama</td>
-      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
-    </tr>
-    <tr>
-      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
-      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
-      <td><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-    </tr>
-    <tr>
-      <td colspan="10" class="tableDivider"></td>
-    </tr>
-    <tr>
-      <td rowspan="4" class="centeredText">18</td>
+      <td rowspan="4" class="centeredText highlightFog">17</td>
       <td rowspan="4" class="highlightShop"></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
@@ -524,7 +585,43 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="4" class="centeredText">19</td>
+      <td rowspan="4" class="centeredText highlightFog">18</td>
+      <td rowspan="4" class="highlightShop"></td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
+      <td><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters/26-3.png"/> Bag Knave</td>
+      <td><img src="../images/monsters/37-3.png"/> Electroid</td>
+      <td rowspan="4" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td><img src="../images/monsters/28-3.png"/> Froggon</td>
+      <td><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/31-3.png"/> Curse Matron</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
+      <td><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
+      <td><img src="../images/monsters/44-3.png"/> N'dama</td>
+      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
+      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
+      <td><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText highlightFog">19</td>
       <td rowspan="4" class="highlightShop"></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
@@ -589,7 +686,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">21</td>
+      <td rowspan="3" class="centeredText highlightFog">21</td>
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -618,7 +715,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">22</td>
+      <td rowspan="3" class="centeredText highlightFog">22</td>
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -647,7 +744,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">23</td>
+      <td rowspan="3" class="centeredText highlightFog">23</td>
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -676,7 +773,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">24</td>
+      <td rowspan="3" class="centeredText highlightFog">24</td>
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -705,7 +802,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="4" class="centeredText">25</td>
+      <td rowspan="4" class="centeredText highlightFog">25</td>
       <td rowspan="4" class="highlightShop"></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
@@ -741,7 +838,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="4" class="centeredText">26</td>
+      <td rowspan="4" class="centeredText highlightFog">26</td>
       <td rowspan="4" class="highlightShop"></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
@@ -777,7 +874,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="4" class="centeredText">27</td>
+      <td rowspan="4" class="centeredText highlightFog">27</td>
       <td rowspan="4" class="highlightShop"></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
@@ -813,7 +910,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="4" class="centeredText">28</td>
+      <td rowspan="4" class="centeredText highlightFog">28</td>
       <td rowspan="4" class="highlightShop"></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
@@ -849,7 +946,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="4" class="centeredText">29</td>
+      <td rowspan="4" class="centeredText highlightFog">29</td>
       <td rowspan="4" class="highlightShop"></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
@@ -885,7 +982,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="4" class="centeredText">30</td>
+      <td rowspan="4" class="centeredText highlightFog">30</td>
       <td rowspan="4" class="highlightShop"></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
@@ -921,7 +1018,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">31</td>
+      <td rowspan="3" class="centeredText highlightFog">31</td>
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -950,7 +1047,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">32</td>
+      <td rowspan="3" class="centeredText highlightFog">32</td>
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -979,7 +1076,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">33</td>
+      <td rowspan="3" class="centeredText highlightFog">33</td>
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -1008,7 +1105,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">34</td>
+      <td rowspan="3" class="centeredText highlightFog">34</td>
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -1037,7 +1134,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">35</td>
+      <td rowspan="3" class="centeredText highlightFog">35</td>
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -1066,7 +1163,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">36</td>
+      <td rowspan="3" class="centeredText highlightFog">36</td>
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -1095,7 +1192,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">37</td>
+      <td rowspan="3" class="centeredText highlightFog">37</td>
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -1124,7 +1221,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">38</td>
+      <td rowspan="3" class="centeredText highlightFog">38</td>
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -1153,7 +1250,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">39</td>
+      <td rowspan="3" class="centeredText highlightFog">39</td>
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -1182,7 +1279,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">40</td>
+      <td rowspan="3" class="centeredText highlightFog">40</td>
       <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>

@@ -17,7 +17,7 @@ metaDescription: "Yamakagashi Pass dungeon guide for Shiren the Wanderer: The My
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Secret Ninja Village</td>
+    <td class="highlightYellow">Secret Ninja Village (Thatched Residence)</td>
   </tr>
 </table>
 

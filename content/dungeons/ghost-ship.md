@@ -172,7 +172,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="8" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">6</td>
+      <td class="centeredText highlightFog">6</td>
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
@@ -185,9 +185,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="8" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">7</td>
+      <td class="centeredText highlightFog">7</td>
       <td class=""></td>
-      <td class=""></td>
+      <td class="highlightMH"></td>
       <td class=""></td>
       <td><img src="../images/monsters/37-1.png"/> Karakuroid</td>
       <td><img src="../images/monsters/5-2.png"/> Hell Reaper</td>

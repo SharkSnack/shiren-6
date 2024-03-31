@@ -17,7 +17,7 @@ metaDescription: "Peach Dungeon guide for Shiren the Wanderer: The Mystery Dunge
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Shukuba Beach (exit)</td>
+    <td class="highlightYellow">Shukuba Beach (Exit)</td>
   </tr>
 </table>
 

@@ -13,11 +13,11 @@ metaDescription: "Behemoth Rush dungeon guide for Shiren the Wanderer: The Myste
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Clear Serpentcoil Island → Go to Firespew Mountain Summit.</td>
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow"></td>
+    <td class="highlightYellow">Firespew Mountain Summit (Talk to the Dragon)</td>
   </tr>
 </table>
 

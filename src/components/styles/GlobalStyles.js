@@ -847,6 +847,12 @@ export const baseStyles = css`
     height: 20px !important;
     width: 20px !important;
   }
+  .trapIcon img {
+    position: relative !important;
+    border-radius: 5px !important;
+    height: 20px !important;
+    width: 20px !important;
+  }
   .monsterPageTable {
     margin: 0 0 15px 0;
   }

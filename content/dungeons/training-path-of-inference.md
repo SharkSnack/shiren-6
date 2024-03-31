@@ -13,11 +13,11 @@ metaDescription: "Training Path of Inference dungeon guide for Shiren the Wander
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow">Clear Serpentcoil Island once.</td>
+    <td class="highlightYellow">Clear Serpentcoil Island → Talk to the monk in Shukuba Beach → Go to Rocky Viewpoint.</td>
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Rocky Viewpoint</td>
+    <td class="highlightYellow">Rocky Viewpoint (Cave to the right)</td>
   </tr>
 </table>
 

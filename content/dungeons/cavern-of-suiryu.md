@@ -17,7 +17,7 @@ metaDescription: "Cavern of Suiryu dungeon guide for Shiren the Wanderer: The My
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Shukuba Beach (near exit)</td>
+    <td class="highlightYellow">Shukuba Beach (Talk to Kokatsu near the exit)</td>
   </tr>
 </table>
 
@@ -210,7 +210,7 @@ Other notes:
 
 See [Monsters](/system/monsters) for individual monster details.
 
-- F - <span class="highlightFog">Dark hallways</span>
+- F - <span class="highlightFog">Dark hallways</span>, <span class="highlightOrange2">Boss Floor</span>
 - S - <span class="highlightShop">Shop is possible</span>
 - H - <span class="highlightMH">Monster House is possible</span>
 - G - <span class="highlightGold">Golden Egg Thing is possible</span>
