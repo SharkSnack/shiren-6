@@ -8,7 +8,7 @@ metaDescription: "Notes for Shiren the Wanderer: The Mystery Dungeon of Serpentc
 
 Miscellaneous notes from my own testing inside the Monster Dojo.
 
-### Multipliers Testing
+### Multiplier Testing
 
 #### Type-Effective Weapons
 
@@ -25,9 +25,10 @@ Miscellaneous notes from my own testing inside the Monster Dojo.
 
 |Weapon|Level|Target|Damage|Multiplier|
 |-|-|-|-|-|
-|||||
-|||||
-|||||
+|Axe of the Minotaur|Lv99|Lv3 Octopling|51-66|x1.0|
+|Axe of the Minotaur (Critical)|Lv99|Lv3 Octopling|77-98|x1.5|
+||||||
+||||||
 
 #### Shields
 
@@ -54,6 +55,7 @@ Damage reduction multipliers are multiplicative.
 |Weapon|Activations|Hits|Rate|
 |-|-|-|-|
 |Whopping Harisen|250|500|50.0%|
+|Axe of the Minotaur|342|1000|34.2%|
 |||||
 |||||
 |||||

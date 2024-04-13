@@ -108,7 +108,7 @@ Priority is mostly aimed at dungeons that do not allow carry-in items.
     <td>Critical</td>
     <td>Axe of the Minotaur</td>
     <td class="highlightPink">High</td>
-    <td>Roughly 30% chance to land a x1.5 damage critical hit.</td>
+    <td>Roughly 1/3 chance to land a x1.5 damage critical hit.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/weapon/6.png"/></td>
@@ -246,7 +246,7 @@ Priority is mostly aimed at dungeons that do not allow carry-in items.
   <tr>
     <td><img src="../images/rune/weapon/25.png"/></td>
     <td>Knockback</td>
-    <td>Huge Harisen</td>
+    <td>Whopping Harisen</td>
     <td class="highlightRed">Top</td>
     <td>Roughly 53.7% chance to deal 1 tile of knockback.</td>
   </tr>

@@ -842,7 +842,14 @@ export const baseStyles = css`
   .statusTable td:nth-of-type(2) {
     text-align: center;
   }
+  .runeIconTable td:nth-of-type(1) {
+    text-align: center;
+  }
+  .runeIconTable td:nth-of-type(2) {
+    background-color: #f7f7f7;
+  }
   .runeIcon img {
+    position: relative !important;
     border-radius: 0px !important;
     height: 20px !important;
     width: 20px !important;

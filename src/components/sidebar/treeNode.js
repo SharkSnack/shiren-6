@@ -27,8 +27,9 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
   if (hasChildren) {
     switch (items[0].label) {
       case 'identification-guide': // guides
-        items[0] = { items:[], label: 'identification-guide', title: 'Identifying', url: '/guides/identification-guide'};
-        items[1] = { items:[], label: 'stealing-guide', title: 'Stealing', url: '/guides/stealing-guide'};
+        items[0] = { items:[], label: 'postgame-guide', title: 'Postgame', url: '/guides/postgame-guide'};
+        items[1] = { items:[], label: 'identification-guide', title: 'Identifying', url: '/guides/identification-guide'};
+        items[2] = { items:[], label: 'stealing-guide', title: 'Stealing', url: '/guides/stealing-guide'};
         break;
       case 'bracelets': // items
         items[0] = { items:[], label: 'price-chart', title: 'Price Chart', url: '/items/price-chart'};
