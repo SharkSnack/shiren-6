@@ -89,7 +89,7 @@ This dungeon is said to be difficult for the following reasons:
 - Despite the above, monsters constantly destroy items on the ground throughout the dungeon.
     - Fire Ninja D (5-9F), Field Knave (8-11F), Pot Knave (14-16F), Fire Ninja C (21-24F), etc.
 - When the item destruction finally eases up, monsters can be too tough to check rooms.
-- Monster Houses seem to have a higher chance of being generated than some other dungoens.
+- Monster Houses seem to have a higher chance of being generated than some other dungeons.
     - Special Monster Houses can also be generated here.
 
 That said, the monster table does allow for some farming techniques on a few floor ranges.

@@ -527,7 +527,7 @@ metaDescription: "Item price chart for Shiren the Wanderer: The Mystery Dungeon 
     <td rowspan="5">1400<br/>/560<br/><span class="priceCursed">1218<br/>/487</span></td>
   </tr>
   <tr>
-    <td>Identidier Pot</td>
+    <td>Identifier Pot</td>
   </tr>
   <tr>
     <td>Transmutation Pot</td>
