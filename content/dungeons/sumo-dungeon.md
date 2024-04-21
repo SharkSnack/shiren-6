@@ -80,7 +80,7 @@ Post-game dungeon featuring Sumo Onigiri as the only food item found on the grou
 
 #### Sumo Status
 
-Occurs when Max Fullness reaches 150, and is canceled when Fullness depletes to 120.<br/>Sumo status boosts Shiren's attack power by 50%, and also increases max HP by 50.<br/>In addition, Shiren can also dig through wall tiles without penalty, and becomes immune to traps.<br/>However, fullness depletion is doubled, and movement effects like Vaulting Staff are nullified,<br/>so Sumo status isn't stricly all positive effects.
+Occurs when Max Fullness reaches 150, and is canceled when Fullness depletes to 120.<br/>Sumo status boosts Shiren's attack power by 50%, and also increases max HP by 50.<br/>In addition, Shiren can also dig through wall tiles without penalty, and becomes immune to traps.<br/>However, fullness depletion is doubled, and movement effects like Vaulting Staff are nullified,<br/>so Sumo status isn't strictly all positive effects.
 
 #### Sumo Onigiri
 

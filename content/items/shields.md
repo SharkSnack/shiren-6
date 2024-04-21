@@ -482,7 +482,7 @@ metaDescription: "Complete shield details for Shiren the Wanderer: The Mystery D
               <div>Rune</div>
               <div>-</div>
             </div>
-            <div class="monster_text">An extraodrinarily tough shield made of a special metal called Fuuma.<br/>Resonance Effect (Manji Kabura, Kajin Fuuma, Kabura Sutegi):<br/>Increases damage dealt by normal attacks by 5.</div>
+            <div class="monster_text">An extraordinarily tough shield made of a special metal called Fuuma.<br/>Resonance Effect (Manji Kabura, Kajin Fuuma, Kabura Sutegi):<br/>Increases damage dealt by normal attacks by 5.</div>
             <div class="monster_notes">No additional notes.</div>
           </div>
         </div>

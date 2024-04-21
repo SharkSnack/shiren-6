@@ -1010,7 +1010,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer: The Mystery
               <div>Stack</div>
               <div>No</div>
             </div>
-            <div class="monster_text">Allows you to walk on air.<br/>As you'll be floating, Traps will nto ensnare you.</div>
+            <div class="monster_text">Allows you to walk on air.<br/>As you'll be floating, Traps will not ensnare you.</div>
             <div class="monster_notes">Items won't get wet while walking on water tiles?<br/>Traps still activate if manually stepped on or if an item falls on it.</div>
           </div>
         </div>
