@@ -8,12 +8,6 @@ metaDescription: "List of achievements, rewards, and clear icons for Shiren the 
 
 Clear Icons and Achievements are automatically attained as you reach certain milestones.
 
-#### Which to Skip?
-
-The game has a total of 51 achievements, and the final reward is obtained at 50 achievements.<br/>Therefore, if a player is only interested in the final reward, 1 achievement can be skipped.
-
-Most players aiming for 50 achievements will likely end up skipping "Weapon Collector",<br/>since obtaining Accurate Sword requires clearing Heart of Serpentcoil Island 6 times.<br/>※ This game doesn't require a NSO subscription to use online features.
-
 # Clear Icons
 
 <div class="iconTable relativeImage">
@@ -48,6 +42,7 @@ Most players aiming for 50 achievements will likely end up skipping "Weapon Coll
 |![26](../images/icons/26.png)|Completed the "Domain of Staves and Scrolls" story arc.|
 |![27](../images/icons/27.png)|Completed the "Isle of the Mighty" story arc.|
 |![28](../images/icons/28.png)|Completed the "Heart of Serpentcoil Island" story arc.|
+|![29](../images/icons/29.png)|Unlocked "Kokatsu Shiren" to adventure as.|
 
 </div>
 
@@ -91,7 +86,7 @@ Most players aiming for 50 achievements will likely end up skipping "Weapon Coll
 |34|Awwww, How Cute!|Became friendly with a monster pup.|
 |35|Rejoined by Fate|Bought back your weapon or shield at an Unsuspicious Shop.|
 |36|First Successful Rescue|Succeeded in rescuing a Wanderer.|
-|37|Invitation to a Parallel World <span class="redText">*１</span>|Uploaded Parallel Data.|
+|37|Invitation to a Parallel World <span class="redText">*1</span>|Uploaded Parallel Data.|
 |38|Journey to a Parallel World|Went on a Parallel Play adventure.|
 |39|Weapon Collector|Completed the Weapon listing in the Item Notes.|
 |40|Shield Collector|Completed the Shield listing in the Item Notes.|
@@ -106,6 +101,13 @@ Most players aiming for 50 achievements will likely end up skipping "Weapon Coll
 |49|Pottery Aficionado|Completed the Pot listing in the Item Notes.|
 |50|Peach Bun Lover|Completed the Peach Bun listing in the Item Notes.|
 |51|Monster Whiz|Completed the Monster Notes.|
+|52|Dojo Conqueror|Completed all Dojo Challenges at Monster Dojo.|
+|53|Quick-witted|Completed a Sacred Tree dungeon in a Countdown Trial.|
+|54|Most Efficient Moves|Completed a Sacred Tree dungeon in a Turn Trial.|
+|55|Fastest Run|Completed a Sacred Tree dungeon in a Time Trial.|
+|56|Proven Expert|Completed a Sacred Tree dungeon in a Challenge Trial.|
+|57|A Monster's Life|Completed a Sacred Tree dungeon in a Monster Trial.|
+|58|Tale of the Burning Sand|Completed a Sacred Tree dungeon as Kokatsu Shiren.|
 
 <p><span class="redText">*1</span> Requires an internet connection.</p>
 
@@ -136,5 +138,8 @@ Most players aiming for 50 achievements will likely end up skipping "Weapon Coll
 |![17](../images/rewards/17.jpg)|44|Wallpaper "Flame Amidst the Sandstorm"|
 |![18](../images/rewards/18.jpg)|47|Wallpaper "The Dragon God of Water"|
 |![skin_3](../images/rewards/skin_3.jpg)|50|Skin "Gold Shiren"|
+|![19](../images/rewards/19.jpg)|52|Wallpaper "Seki and Madara"|
+|![20](../images/rewards/20.jpg)|55|Wallpaper "Kokatsu Shiren"|
+|![skin_4](../images/rewards/skin_4.jpg)|58|Skin "Rainbow Shiren"|
 
 </div>

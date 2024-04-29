@@ -56,7 +56,9 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[7] = { items:[], label: 'side-quests', title: 'Side Quests', url: '/system/side-quests'};
         items[8] = { items:[], label: 'villages', title: 'Villages', url: '/system/villages'};
         items[9] = { items:[], label: 'status-conditions', title: 'Status', url: '/system/status-conditions'};
-        items[10] = { items:[], label: 'achievements', title: 'Achievements', url: '/system/achievements'};
+        items[10] = { items:[], label: 'sacred-tree', title: 'Sacred Tree', url: '/system/sacred-tree'};
+        items[11] = { items:[], label: 'monster-dojo', title: 'Monster Dojo', url: '/system/monster-dojo'};
+        items[12] = { items:[], label: 'achievements', title: 'Achievements', url: '/system/achievements'};
         break;
       case 'behemoth-rush': // dungeons
         items[0] = { items:[], label: 'serpentcoil-island', title: 'Serpentcoil Isle', url: '/dungeons/serpentcoil-island'};

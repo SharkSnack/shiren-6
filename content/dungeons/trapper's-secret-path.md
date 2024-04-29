@@ -670,14 +670,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
 
 - F = Floor
 - S = Shop
-- T = Trader
+- P = Peddler
 - M = Monster drop
 - B = Buried
-- Z = Zalokleft
+- H = Thiefwalrus
 - I = Island
-- P = Presto Pot
+- T = Transmutation Pot
 - U = Surprise Pot
-- W = Wish Cave
+- W = Tunnel of Wishes
 
 #### Weapon
 
@@ -689,12 +689,12 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>Name</th>
     <th>F</th>
     <th>S</th>
-    <th>T</th>
+    <th>P</th>
     <th>M</th>
     <th>B</th>
-    <th>Z</th>
+    <th>H</th>
     <th>I</th>
-    <th>P</th>
+    <th>T</th>
     <th>U</th>
     <th>W</th>
   </tr>
@@ -1204,12 +1204,12 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>Name</th>
     <th>F</th>
     <th>S</th>
-    <th>T</th>
+    <th>P</th>
     <th>M</th>
     <th>B</th>
-    <th>Z</th>
+    <th>H</th>
     <th>I</th>
-    <th>P</th>
+    <th>T</th>
     <th>U</th>
     <th>W</th>
   </tr>
@@ -1654,12 +1654,12 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>Name</th>
     <th>F</th>
     <th>S</th>
-    <th>T</th>
+    <th>P</th>
     <th>M</th>
     <th>B</th>
-    <th>Z</th>
+    <th>H</th>
     <th>I</th>
-    <th>P</th>
+    <th>T</th>
     <th>U</th>
     <th>W</th>
   </tr>
@@ -2156,12 +2156,12 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>Name</th>
     <th>F</th>
     <th>S</th>
-    <th>T</th>
+    <th>P</th>
     <th>M</th>
     <th>B</th>
-    <th>Z</th>
+    <th>H</th>
     <th>I</th>
-    <th>P</th>
+    <th>T</th>
     <th>U</th>
     <th>W</th>
   </tr>
@@ -2268,12 +2268,12 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>Name</th>
     <th>F</th>
     <th>S</th>
-    <th>T</th>
+    <th>P</th>
     <th>M</th>
     <th>B</th>
-    <th>Z</th>
+    <th>H</th>
     <th>I</th>
-    <th>P</th>
+    <th>T</th>
     <th>U</th>
     <th>W</th>
   </tr>
@@ -2419,12 +2419,12 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>Name</th>
     <th>F</th>
     <th>S</th>
-    <th>T</th>
+    <th>P</th>
     <th>M</th>
     <th>B</th>
-    <th>Z</th>
+    <th>H</th>
     <th>I</th>
-    <th>P</th>
+    <th>T</th>
     <th>U</th>
     <th>W</th>
   </tr>
@@ -2791,12 +2791,12 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>Name</th>
     <th>F</th>
     <th>S</th>
-    <th>T</th>
+    <th>P</th>
     <th>M</th>
     <th>B</th>
-    <th>Z</th>
+    <th>H</th>
     <th>I</th>
-    <th>P</th>
+    <th>T</th>
     <th>U</th>
     <th>W</th>
   </tr>
@@ -3293,12 +3293,12 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>Name</th>
     <th>F</th>
     <th>S</th>
-    <th>T</th>
+    <th>P</th>
     <th>M</th>
     <th>B</th>
-    <th>Z</th>
+    <th>H</th>
     <th>I</th>
-    <th>P</th>
+    <th>T</th>
     <th>U</th>
     <th>W</th>
   </tr>
@@ -3574,12 +3574,12 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>Name</th>
     <th>F</th>
     <th>S</th>
-    <th>T</th>
+    <th>P</th>
     <th>M</th>
     <th>B</th>
-    <th>Z</th>
+    <th>H</th>
     <th>I</th>
-    <th>P</th>
+    <th>T</th>
     <th>U</th>
     <th>W</th>
   </tr>
@@ -3868,12 +3868,12 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>Name</th>
     <th>F</th>
     <th>S</th>
-    <th>T</th>
+    <th>P</th>
     <th>M</th>
     <th>B</th>
-    <th>Z</th>
+    <th>H</th>
     <th>I</th>
-    <th>P</th>
+    <th>T</th>
     <th>U</th>
     <th>W</th>
   </tr>

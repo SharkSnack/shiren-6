@@ -791,6 +791,15 @@ export const baseStyles = css`
   .runeTable td:nth-of-type(5) {
     text-align: left;
   }
+  .dojoTable th {
+    color: #3b454e;
+    background-color: #ffffed;
+  }
+  .dojoTable tr:nth-of-type(1) th {
+    color: white;
+    font-weight: bold;
+    background-color: #482b0a;
+  }
   .pageLinksTable img {
     position: relative !important;
     border-radius: 10px;

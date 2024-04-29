@@ -5315,7 +5315,7 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer: The Mystery
   </tbody>
 </table>
 
-### Tiger Tosser Family
+### Tiger Thrower Family
 
 <table class="monsterPageTable">
   <tbody>
