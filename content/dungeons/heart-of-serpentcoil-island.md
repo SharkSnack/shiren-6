@@ -72,234 +72,2017 @@ metaDescription: "Heart of Serpentcoil Island dungeon guide for Shiren the Wande
   </tr>
 </table>
 
-A series classic even more mysterious dungeon with almost all items unidentified.<br/>As the only 99F dungeon in the game, its difficulty is a big step up compared to other ones,<br/>so beginners are recommended to attempt other dungeons first to gather enough knowledge.<br/>It also significantly helps to unlock mixers and register eradication scroll before attempting this dungeon.
+Shiren 6's version of the series favorite unidentified items postgame dungeon.<br/>Travel companions and Roamer NPCs don't appear, so you're on your own for all 99 floors.<br/>If you're new to the series, you might want to work on other dungeons to gain experience first.<br/>It's best to unlock Mixers and register Eradication Scroll before challenging this dungeon.
 
-In terms of the difficulty curve, early game (1F~10F) can be particularly rough,<br/>usually warranting a good shield, doing level up techniques, or taking some degrees of farming;<br/>mid game (11F~41F) has mixers appearing as rare spawns throughout, providing great opportunities for upgrading gears;<br/>late game (42F~99F) contains long stretches of similar enemy combinations, and possessing upgraded gears helps tremendously.<br/>A general pace would be to find ways to survive the early game, farm and linger in mid game for synthesis, and rush stairs in late game.
+#### Clear reward
 
-Compared to Primordial Chasm in Shiren 5, this dungeon has less enemy variety,<br/>but pressures the player with jarring initial enemy spawns, an abundence of swift power monsters,<br/>and complicated dungeon layouts as the player gets deeper.<br/>Luckily the items come in very good quality, and many powerful ones could spawn on the floor.<br/>These elements incentivise spending time on upgrading the equipment to include many good runes before the late game enemies overwhelm the player.<br/>Incense and location changing staves have lower priority in this game once the player has good gear and enough resource to deal with swarms of monsters.
+Clearing this dungeon grants the next gold sacred item from the following 6-item loop:<br/>Manji Kabura → Fuuma Shield → Golden Pickaxe → Epic Hammer → Bodhi Shield → Accurate Sword.<br/>※ This is currently the only known method to obtain Accurate Sword.
 
-### Clear reward
-
-A regular clear grants the next item from the 6-item loop:<br/>Manji Kabura, Fuuma Shield, Golden Pickaxe, Epic Hammer, Bodhi Shield, Accurate Sword.<br/>This is the only known method to obtain Accurate Sword for the item notebook completion.
-
-The first clear additionally unlocks the 12 Celestial Stone route, accessible from Shukuba Beach.
-
-Clearing the dungeon with 12 Celestial Stones for the first time unlocks a new title screen, but does not grant a regular reward.<br/>Clearing the dungeon with 12 Celestial Stones for the second time forward, or clearing the dungeon with not enough Celestial Stones grants a regular reward.
+The first clear additionally unlocks the <span class="orangeText">12 Celestial Stones</span> route, accessible from Shukuba Beach.<br/>Clearing this route for the first time unlocks a new title screen instead of granting an item.<br/>Clearing this route again (or clearing without all 12 stones) grants the next item from the 6-item loop.
 
 # Strategy
 
 ### General
 
-It's important to learn all of the basics.<br/>Learning how to [identify](/guides/identification-guide) and [steal](/guides/stealing-guide)(preferrably with Wall-less scroll registered) helps.
+Learning how to [identify](/guides/identification-guide) and [steal](/guides/stealing-guide) (preferably with Wall-less Scroll registered) helps.
 
-- Pick up gitan to throw at early game enemies.
-  - Dash towards the gitan and exchange it with an item in the inventory.
-- It's generally not worth holding onto unidentified grass, scroll, incense and staves.
-  - Even if it seems wasteful, use all of them before leaving the floor.<br/>More inventory space is more valuable than an unknown item.<br/>Identifier Pots and Scrolls are better saved for bracelets.<br/>Use price to identify when a shop is found.
-- Protect food and scrolls by putting them in preservation pots.
-- Hold onto good synthesis materials.
-  - It's easy to overlook, but Confusion Grass, Blinding Grass, Sedating Grass,<br/>Paralyzing Staff, Fear Scroll, and Onigiri Scroll all create very high value runes when synthesized with mixers.<br/>Obviously equipments that provide good runes or have good upgrade value (+2 or +3) are valuable as well. Check [runes](/system/synthesis-runes).
-- When a strip trap is found, check through unidentified equipments in case they are cursed.<br/>When a poison arrow trap is found, throw projectiles onto them to farm poison arrows.
-- In early game, fortune staff can be coupled with reflective incense / bouncy walls / Pit Mamel to earn experience points.<br/>Levels don't matter that much after reaching Lv20, so focus on upgrading the gear instead.
-- Warehouse Pot, Wall-less Scroll and Eradication Scroll do not appear normally.<br/>Super Unlucky Grass only can be found in shops, so be careful of grasses sold with a price of 2000G.<br/>All other grass, scrolls, and pots can be found on the floor.<br/>Be careful of items with negative effects.
-- Bouncy walls can be used to duplicate items if the placement is good.<br/>Good candidates are Blank Scroll and Preservation Pot.<br/>It's also worth carrying a Blank Scroll in case there is a bouncy wall room.
-- Burrowing Staff, Sumo status, and Pickaxes help digging to hidden items, hidden shops or hidden wishing well.<br/>Earthmound Staff helps arrow farming, crossing water and retreiving floating island items.
-  - Hidden items are common on floors ending with digit 0, like 10F, 20F, etc, except 50F.<br/>Try to save Collection Scrolls for these floors.
-- In early game, monster houses actually provide good resources (if there are no item destruction enemies).<br/>Create some Monstercall Scrolls with Blank Scroll if extra ones are obtained early on.<br/>The player gets the first turn after using the scroll,<br/>so the risks are pretty minimal especially when done at the entrance to a hallway.
-- If possible, maintaining Sumo Status can be very powerful.
-- On behemoth floors, if the enemies are not too dangerous, explore all the rooms for a reward item.
+- Use Gitan as a projectile against tougher early game enemies.
+  - Dash on top of the Gitan bag and exchange it with an inventory item.
+- Get in the habit of using unidentified grasses, scrolls, incenses, and staves before advancing floors.
+  - It might seem wasteful, but stocking up on unknown items won't really help when you're in danger.
+  - Identifier Pots and Identifier Scrolls should be saved for bracelets if possible.
+  - Use the in-game notebook or a [Price Chart](/items/price-chart) to identify items if you come across a shop.
+- Protect food from rotting and scrolls from getting wet by storing them in Preservation Pots.
+- Save good synthesis ingredients.
+  - Weapons or shields with useful runes or positive upgrade value (especially +2\~+3).
+  - Status Runes (Weapon) - Confusion Grass, Blinding Grass, Sedating Grass, Paralyzing Staff.
+  - Status Runes (Shield) - Jitters Scroll, Onigiri Scroll.
+  - See [Synthesis Runes](/system/synthesis-runes) for details.
+- Make use of traps when possible.
+  - Removal Trap - Equip all unidentified weapons, shields, and bracelets to check for curses.
+  - Arrow Traps - Throw rocks or other items onto the trap to collect arrows.
+      - Poison Arrows are great in particular, since 1 arrow reduces enemy Attack Power by \~50%.
+  - Blast Trap - Step on it to transform Rotten Onigiri or Onigiri into Grilled Onigiri.
+  - Pitfall Trap or Floor-exiting Trap - Step on it to advance to the next floor.
+- Fortune Staff can be coupled with Reflective Incense / Bouncy Walls / Pit Mamel to earn experience points.
+    - Player level doesn't matter as much after Lv20, so focus on upgrading equipment instead.
+- A few notes regarding the item table:
+    - Warehouse Pot, Wall-less Scroll, and Eradication Scroll cannot be found in this dungeon.
+        - Eradication Scroll can easily be registered by playing [Domain of Staves and Scrolls](/dungeons/domain-of-staves-and-scrolls).
+    - Ill-fated Seed is exclusively found in shops - never eat grasses being sold for 2000G.
+    - All other grasses, scrolls, and pots can be found on the ground.
+- Duplicate items in Bouncy Wall Rooms by throwing the item so that it bounces off of all 4 sides.
+    - Blank Scroll, Preservation Pot, and Revival Grass are good duplication candidates.
+- Items are often buried in walls on floor numbers ending in 0 (example: 10F), except for 50F.
+    - If you find a Collection Scroll, save it until you reach one of these floors.
+    - Pickaxe, Burrowing Staff, and Sumo status can be used to dig through wall tiles.
+    - Shops and Wishing Shrines can also be hidden inside walls, regardless of floor number.
+- Earthmound Staff can be used to go across water to an item island, or to help with arrow collection.
+- Early game Monster Houses offer a chance to earn experience points and stock up on items.
+    - If you find an extra Blank Scroll early on, consider writing Monstercall Scroll on it.
+        - Read it while standing on a room's entrance tile, then retreat into the hallway.
+        - Avoid reading it on 5-8F, since Fire Ninja D will burn grasses, scrolls, and staves.
+- Nigiri Baby (2-4F) can be used to increase Max Fullness near the start of the dungeon.
+    - Activating and maintaining Sumo status significantly helps with consistency.
+- Behemoth Gates vanish and leave behind an item once all rooms on the floor have been checked.
+    - If the monsters aren't too dangerous, consider exploring the floor for an extra item.
+
+#### Difficulty Curve
+
+Early game (1-9F) can be particularly rough - You'll ideally want to find a good shield,<br/>or perform techniques to rapidly level up or activate Sumo status to make things more manageable.<br/>Remember that HP regeneration speed increases at Lv10 and Lv20.
+
+Mid game (10-41F) features Mixers (10-29F) as a rare spawn, making it a good time to synthesize.<br/>One notable difficulty spike is 33-39F, where Polygon Singa and Soul Reaper appear.<br/>Polygon Singa lowers Max Fullness by 7, and Soul Reaper is Swift 2 speed and passes through walls.<br/><span class="orangeText">40-41F turns into a bonus zone of mostly Mixermons and Chows if you eradicate the Pop Tank family.</span>
+
+Late game (42-99F) contains long stretches of mean enemies, so equipment with 30\~40+ strength helps.<br/>The ideal strategy is to alternate Eradication Scroll targets to remove the worst threats,<br/>but that isn't always feasible depending on your luck with Blank Scrolls and Bouncy Wall Rooms.
+
+Compared to Primordial Chasm in Shiren 5, this dungeon generally has less enemy variety.<br/>However, Heart pressures the player with high initial enemy counts, lots of swift power types,<br/>and more complicated dungeon layouts as the player dives deeper.
+
+Luckily, the items you find are often high quality, and many powerful items can be found on the ground.<br/>So the player is incentivized to spend time upgrading their equipment to keep up with stronger enemies.<br/>Incense and movement related staves have a lower priority once your equipment is upgraded and<br/>you have the resources to cut down swarms of monsters.
 
 ### Farming Techniques
 
 #### Cave Mamel (1-3F)
 
-Level up Pit Mamel to Cave Mamel (5 HP), kill it with fixed damage attacks for 2000 exp.
+Level up a Pit Mamel into a Cave Mamel (5 HP), then slay it with fixed damage attacks for 2000 exp.
 
 #### Poison Arrow Trap (1-3F)
 
-Throw projectiles onto poison arrow traps to farm poison arrows.
+Throw projectiles onto Poison Arrow Traps to collect Poison Arrows.<br/>A well placed Hoppin' Batter (1-3F) can be used to safely collect arrows if you have a shield.
 
 #### Nigiri Morph Factory (2-4F)
 
-Find a safe spot to put all the other useful items. Be careful of pitfall traps.<br/>Equipped weapon and shield are safe.<br/>Leave only useless items and individual projectiles in the inventory,<br/>then hope for Nigiri Baby special attack.<br/>Getting a high max fullness is important against the polygons and good for activating Sumo Status. 
+Technique to stock up on food and increase Max Fullness - requires a decent shield.<br/>It's tedious, but this can be used to activate Sumo status right away if desired.
 
-#### Bowboy Farming (10-12F, 29-32F)
+1. Check for traps in the room - beware of Pitfall Trap in particular!
+2. Place useful items on the ground, then exchange single arrows or rocks with inventory items.
+3. Once your inventory is full of unneeded items and single arrows or rocks, find a Nigiri Baby.
+4. Intentionally get hit by the Nigiri Baby's special attack to turn items into Large Onigiri.
 
-Easiest method is use Earthmound Staff between the bowboy and Shiren,<br/>then wait for it to shoot enough arrows until it can be picked up from behind the earth wall.<br/>Evasive incense also works but for limited turns.<br/>Collect iron arrows preferrably.<br/>A stack is usually enough because poison arrows have higher value,<br/>but if Rapid-fire Bracelet is found then having 4-5 stacks of them could be very powerful.
+#### Bowboy Family (10-12F, 29-32F)
 
-#### Mixer Farming (10F+)
+Technique to collect lots of Wooden Arrows or Iron Arrows (preferable).
 
-Wait for mixer to spawn and use them to upgrade the gear.<br/>Fortune staves could be used to level them up for more synthesis slots.<br/>They are very dangerous early on even without damage buffs, so use staves and hilarious pots on them.<br/>Paralysis staff is a good candidate, because they can be synthesized after using up the charges.
+Easiest method is to use an Earthmound Staff to create a pillar between Bowboy and Shiren,<br/>then wait for Bowboy to shoot enough arrows until they can be picked up from behind the pillar.<br/>Evasive Incense also works, but remember that it only lasts 150 turns.<br/>2\~3 stacks is usually enough since you ideally want to prioritize Poison Arrows instead,<br/>but if Rapid-fire Bracelet is found then having 4\~5 stacks of Iron Arrows could be very powerful.
 
-#### Yakitori Farming (13-18F)
+#### Mixer Family (10-29F, 40-79F)
 
-Hit a hen with fire or blast damage to turn them into Yakitori.
+Linger until a Mixer family monster spawns, then throw items at it to synthesize equipment.<br/>Fortune staves can be used to level up Mixers and increase the number of items they can eat.<br/>Mixers are very dangerous early on even without damage buffs, so use staves or items like Hilarious Pot.
 
-#### Thiefwalrus Farming (16-19F, 25-29F)
+#### Master Hen Hunting (13-18F)
 
-Linger around the floors where they spawn.<br/>Try to defeat them before they can steal an item.<br/>Having anti-theft helps a lot. Cautious incense only lasts a limited amount of turns so they are not really helpful.<br/>Don't bother with it too much without the anti-theft rune.
+Master Hen provides 400 experience points if defeated prior to reverting to a Lv1 Hen.<br/>You can also collect Yakitori by grilling Hens on 16-18F using a Pop Tank, if desired.
+
+#### Thiefwalrus Hunting (16-19F, 25-29F, 55-59F)
+
+Linger and hunt Thiefwalrus (16-19F), Greenwalrus (25-29F), and Ironwalrus (55-59F) for item drops.<br/>Only practical when you either have a Walrus Stopper or the Walrusproof shield rune.
 
 #### Bonus Zone (40-41F)
 
-Eradicate the tanks, then this zone only spawns Mixergon, Chow, Cave Mamel and Dark Owl.<br/>Chow drops items when defeated by the player,<br/>so along with Mixergon they provide some very decent upgrading opportunities.<br/>Trap checking is advised in case of Far-throwing traps or pitfall traps.<br/>Consider using Monstercall Scroll or Monsterize Trap to generate more enemies.
+Eradicate the Pop Tank family to limit spawns to Mixermons, Chows, Cave Mamels, and Dark Owls.<br/>Chows always drop an item when defeated by the player, and Mixermons can be used to synthesize.<br/>Check for traps, since a Far-throwing Trap or Pitfall Trap could spoil the advantage.<br/>Consider using Monstercall Scroll or Monsterize Trap to generate more monsters.
 
 ### Important Items
 
 #### Blank Scroll
 
-A very versatile item. Write any registered scroll on it.<br/>In early game, Monstercall Scroll grants lots of resource.<br/>On later floors, them into Onigiri/Fear Scrolls for synthesis,<br/>Slot-adding Scroll for upgrade, or Eradication Scroll for eliminating troublesome enemies.<br/>It's also good to keep a few of them around in case of panick situations,<br/>for example turn them into Sanctuary Scroll or Fixer Scroll when surrounded,<br/>or Collection Scroll when at risk of losing Celestial Stones.
+Write the name of any scroll registered in your notebook, then use this as that scroll.<br/>Monstercall Scroll is a nice early game option to obtain additional items.<br/>Onigiri Scroll (Onigiri Payback) and Jitters Scroll (Jitters Payback) are good synthesis options.<br/>Slot-adding Scroll or Silverpurge Scroll can be used to enhance your main weapon or shield.<br/>Eradication Scroll is great for removing specific threats during the current adventure.<br/>Collection Scroll is fantastic when there's risk of losing Celestial Stones.
 
 #### Eradication Scroll
 
-Gets rid of an enemy family which lasts for a long range of floors.<br/>Common targets:
+Throw it at a monster to banish that monster family during the current adventure.<br/>If a second Eradication Scroll is thrown, the first monster family will begin to spawn again.<br/>Beware of disguised Crow Tengu (80-89F) if you plan on throwing one at an Archdragon.
 
-<table class="eradicationConsideration">
+Recommended Targets:
+
+<table>
   <tr>
-    <td class="highlightYellow">Floor</td>
-    <td class="highlightYellow" colspan="3">Target</td>
+    <th class="highlightYellow">Floor</th>
+    <th class="highlightYellow" colspan="3">Target</th>
   </tr>
   <tr>
-    <th>33-39F</th>
-    <th>Polygon Singa</th>
-    <th></th>
-    <th></th>
+    <td class="highlightGray">1-32F</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
   <tr>
-    <th>40-46F</th>
-    <th rowspan="2">Tank Family</th>
-    <th></th>
-    <th></th>
+    <td class="highlightGray">33-39F</td>
+    <td class="highlightPurple">Polygon Singa</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
   <tr>
-    <th>47-49F</th>
-    <th rowspan="2">Mudster / Mudder</th>
-    <th></th>
+    <td class="highlightGray">40-46F</td>
+    <td rowspan="2" class="highlightGreen">Pop Tank Family</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
   <tr>
-    <th>50-54F</th>
-    <th rowspan="2">Terror Scorpion</th>
-    <th></th>
+    <td class="highlightGray">47-49F</td>
+    <td rowspan="2" class="highlightCyan">Mudster / Mudder</td>
+    <td>-</td>
   </tr>
   <tr>
-    <th>55-59F</th>
-    <th></th>
-    <th></th>
+    <td class="highlightGray">50-54F</td>
+    <td rowspan="2" class="highlightPurple">Terror Scorpion</td>
+    <td>-</td>
   </tr>
   <tr>
-    <th>66-79F</th>
-    <th>Miracle Hen</th>
-    <th>Skull Lord</th>
-    <th>Battler</th>
+    <td class="highlightGray">55-59F</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
   <tr>
-    <th>80-99F</th>
-    <th>King Reaper</th>
-    <th>Archdragon</th>
-    <th></th>
+    <td class="highlightGray">60-65F</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">66-79F</td>
+    <td class="highlightGreen">Miracle Hen</td>
+    <td class="highlightPurple">Skull Lord</td>
+    <td class="highlightCyan">Battler</td>
+  </tr>
+  <tr>
+    <td class="highlightGray">80-99F</td>
+    <td class="highlightCyan">King Reaper</td>
+    <td class="highlightGreen">Archdragon</td>
+    <td>-</td>
   </tr>
 </table>
 
+##### Eradication Target Notes
+
+- Polygon Singa (129 HP, 40 atk, 40 def) - 33\~39F
+    - Warps next to Shiren while in a room, and lowers Max Fullness by 7 when adjacent.
+- Adamant Tank (100 HP, 60 atk, 54 def) / Steadfast Tank (105 HP, 80 atk, 64 def) - 40\~49F
+    - Adamant has Swift 1 speed + 40 damage, Steadfast has Swift 2 speed + 50 damage.
+- Mudster (140 HP, 35 atk, 43 def) / Mudder (145 HP, 45 atk, 53 def) - 47\~54F
+    - Lowers upgrade value or erases 1 rune from an equipped weapon or shield.
+    - Counter: <span class="purpleText">Rustproof Bracelet</span>
+- Terror Scorpion (185 HP, 55 atk, 45 def) - 50\~59F
+    - Lowers Max Strength by 1 when adjacent.
+    - Counter: <span class="purpleText">Cleansing Bracelet</span>
+- Battler (200 HP, 69 atk, 50 def) - 66\~79F
+    - Knocks away Shiren's equipped weapon, shield, or bracelet when adjacent.
+    - Counter: <span class="purpleText">Affixing Bracelet</span>
+- Skull Lord (188 HP, 55 atk, 55 def) - 66\~79F
+    - Magic effects include Asleep status, Blind status, Level -3, or 40 damage.
+    - Counter: <span class="purpleText">Shield of Negation</span>
+- Miracle Hen (220 HP, 82 atk, 60 def) - 66\~79F
+    - No special attack, but Swift 2 speed and high attack power.
+- Archdragon (200 HP, 65 atk, 60 def) - 80\~99F
+    - Breathes 30 damage fire from anywhere on the floor.
+- King Reaper (225 HP, 65 atk, 50 def) - 80\~99F
+    - Swift 2 speed and can pass through walls while detecting Shiren from anywhere.
+
 #### Upgrading Pot
 
-Increase the upgrade value of all equipments inside by one when advancing floors.<br/>Has a lot of potential, and on average increases the upgrade value by more than 10 before shattering.<br/>Try not to waste the uses of this pot, so carefully deal with pots with a capacity of 2.<br/>Insert in other equipments until it shatters, then synthesize them on to the main equipments.
+Increases the upgrade value of inserted weapons and shields by +1 when advancing floors.<br/>However, the pot has a chance to shatter on its own each time an inserted item is upgraded.<br/>Potentially extremely powerful, but it can break after a single floor if you're unlucky.<br/>Once identified, insert items until the pot is full, and consider using Pot-upsize Scrolls.<br/>After the pot shatters, synthesize the upgraded weapons and shields into your main equipment.
 
 #### Bracelets
 
-All bracelets except Trapper's Bracelet and Appraiser's Bracelet can be found. Some are very powerful.
+All bracelets except for Trapper's Bracelet and Appraiser's Bracelet can be found.
 
-- Rustproof Bracelet: Counter against Mudkin family (47-54F). Also helps with removing Silver Seals.
-- Cleansing Bracelet: Counter against Terror Scorpion (50-59F).
-- Rousing Bracelet: Counter against Skull Lord (66-79F).
-- Affixing Bracelet: Counter against Battler (66-79F).
-- Rapid-fire Bracelet: Fire two projectiles in one turn, has great potential at high strength.
-- Leaping Bracelet: Great for stairs rushing.
-- Clairvoyant Bracelet / Monster-find Bracelet: Allow the player to expect or avoid combat.
-- Item-find Bracelet: Search the rooms at higher efficiency.
-- Waterwalk Bracelet: Retrieve items on water, also works as a forced warp.
-- Floating Bracelet: A better Waterwalk Bracelet. Prevents traps and allows walking on void.
-- Wallpass Bracelet: Move inside wall at the cost of HP, avoiding most attacks.
-  - However, removing it while in the wall does not force a warp, and the player would keep taking damage.
+- Rustproof Bracelet - Counters Mudkin (12-17F) and Mudster / Mudder (47-54F).
+    - Keep it equipped against a Mudster / Mudder to remove silver from silver-sealed rune slots.
+- Cleansing Bracelet - Mainly used to counter Terror Scorpion (50-59F).
+- Rousing Bracelet - Nice to have against Skull Lord (66-79F) if you lack the Magic Cancel rune.
+- Affixing Bracelet - Counters Battler (66-79F).
+- Rapid-fire Bracelet - Shoot 2 projectiles in a single turn.
+- Leaping Bracelet - Can be helpful when rushing to the stairs.
+- Clairvoyant Bracelet / Monster-find Bracelet - Check for incoming enemies on the map.
+- Item-find Bracelet - Check rooms more efficiently on each floor.
+- Waterwalk Bracelet - Retrieve sumberged items, unequip while on a water tile to warp.
+- Floating Bracelet - Traps don't activate when you walk on them, can walk on water and air tiles.
+- Wallpass Bracelet - Move inside walls, but take damage equal to 4% of Max HP per turn in a wall.
+    - Removing it while in a wall does not force a warp, and the player keeps taking damage.
 
-#### Equipments
+#### Weapon / Shield
 
-Generally in early game use a high base value equipment, but later on equipments with many open rune slots are preferred.<br/>Obviously a good sacred equipment with many rune slots is ideal.<br/>The weapon in particular benefits from more rune slots.<br/>You probably want 7-9 slots, so Golden Sword, Primal Axe, Auspicious Kamade and Sickle of Salvation work very well as a main equipment.<br/>For shields, the main easy-to-obtain runes are fear payback and onigiri payback, so 5-7 slots should suffice.<br/>Some sacred equipment generates with rare runes like the Peach Bun rune, so check if they can be synthesized onto your main weapon.
+Prioritize equipment with high base stats early on, then transition to equipment with more rune slots.<br/>Sacred equipment with a combination of high stats and lots of rune slots is ideal.<br/>Golden Sword, Primal Axe, and Sickle of Salvation are good options (8\~10 slots).<br/>5\~7 slots is fine for shields, but don't skip synthesizing Jitter Payback or Onigiri Payback.<br/>If you find a rare rune like Peach Bun on a sacred weapon, synthesize it into your main weapon.
 
-# 12 Celestial Stones
+# 12 Stones
 
-A hard mode for this dungeon.<br/>12 Celestial Stones can be found (always displayed on the map) at random floors in order.<br/>They cannot be put into pots, so they drastically limit inventory space.<br/>In addition, precautions must be taken to not lose them to Field Knaves, Kappas, Gazers, Armordillos and traps.<br/>Wishing well also never spawns.<br/>It is recommended to take things even slower than a regular clear, try to upgrade equipments and have many Blank Scrolls ready to protect the stones.
+Hard mode for this dungeon, which is unlocked after clearing the dungeon 1 time.<br/>12 Celestial Stones can be found (displayed on the map) on random floors in numerical order.<br/>The stones can't be put into pots, so inventory space becomes increasingly limited as you progress.<br/>Also, precautions must be taken to not lose stones to Field Knaves, Kappas, Gazers, Armordillos, and traps.<br/>In addition, Wishing Shrines are never generated during a 12 Celestial Stones adventure.<br/>It's best to take things slow - upgrade equipment and stock up on Blank Scrolls to protect stones.
 
-Sometimes Celestial Stones can appear as shop items or as monster house items.<br/>Be very careful when landing on a floor with Celestial Stone,<br/>check if there are item destruction enemies, and also check for traps. 
+Celestial Stones can also appear as merchandise in a shop or as an item inside a Monster House.<br/>Always check for traps and item-destroying enemies on floors where a Celestial Stone is present.
+
+#### Celestial Stone Floors (Possibly Incomplete)
+
+<table class="stoneTable">
+  <thead>
+    <tr>
+      <th rowspan="2">F</th>
+      <th colspan="12">Celestial Stone</th>
+      <th rowspan="2">Dangers</th>
+    </tr>
+    <tr>
+      <th>1</th>
+      <th>2</th>
+      <th>3</th>
+      <th>4</th>
+      <th>5</th>
+      <th>6</th>
+      <th>7</th>
+      <th>8</th>
+      <th>9</th>
+      <th>10</th>
+      <th>11</th>
+      <th>12</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td rowspan="3">Nigiri Baby</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td rowspan="4">Pop Tank</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Pesky Kappa</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td rowspan="3">Pesky Kappa / Greenwalrus</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td rowspan="2">Greenwalrus</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td rowspan="5">Pop Tank Family</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td rowspan="5">Steadfast Tank</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>No walls</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td rowspan="5">Vexing Kappa / Ironwalrus</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td rowspan="5">Bag Knave / Hyper Gazer</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+      <td></td>
+      <td rowspan="20">Grampadillo</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>●</td>
+    </tr>
+  </tbody>
+</table>
 
 # Floor Guide
 
-### 1-2F
+### 1F
 
-Many dangers could instantly kill the player: Rock Trap, cannons, enemy swarms.<br/>Finding the first equipments could be a tough tread.
+Things that can make Shiren quickly collapse near the start:
 
-### 3-4F
+- Rock Trap (Deals 16\~20 damage).
+- Cannons manned by monsters.
+- Spearfish (16 HP, 6 atk) or Hoppin' Batter (20 HP, 7 atk).
+- Monster Houses.
 
-Pumphantasm (3-4F), Taur (3-4F) both have very high attack power.<br/>Performing Nigiri Morph Factory on Nigiri Baby (2-4F) is helpful but not necessary.<br/>Leveling up techniques are of great help to survive the next few floors, so try to not miss such opportunities.
+Check all rooms, equip whatever highest base value weapon and shield you find, then descend to 2F.<br/>Blank Scrolls are common, so consider writing Monstercall for more items if you find one on 1-2F.<br/>Save projectiles like rocks and arrows for Nigiri Baby (2-4F) floors to secure additional food.
 
-### 5-9F
+### 2F
 
-Karakuroid (4-6F) could easily two-shot the player while being swift, so they are very dangerous.<br/>Ninjas (5-9F) all have troublesome abilities. Explore the floor before Fire Ninjas burn them.<br/>Masked Samurai (7-12F) is also a significant threat because the player will likely get one-shotted by a leveled up monster.<br/>Save rocks or gitan bags for them.<br/>Porky (6-9F) can be used to farm Porky's Rocks with Evasive Incense, but getting hit by 20 damage this early on is also very tough.<br/>Scorpion (5-7F) almost guarantees the player would lose a few strength, so save strength recovery methods for after 7F.
+<p><span class="highlightYellow"><u>Notable</u></span>: Nigiri Baby (2-4F)</p>
+
+Nigiri Baby (17 HP, 8 atk) appears - It's best to create Large Onigiri on 2F instead of 3\~4F.<br/>Items and shops can be found in walls, so it'd be good to raise Max Fullness high enough to where<br/>you can activate Sumo status whenever you want and freely dig through breakable wall tiles.
+
+If you still haven't found a shield by the end of 2F, linger and level up a bit before descending.<br/>Remember to perform level up techniques if you find items like Disguising Staff or Fortune Staff.
+
+### 3F
+
+<p><span class="highlightYellow"><u>Notable</u></span>: Nigiri Baby (2-4F), Pumphantasm (3-4F), Taur (3-5F)</p>
+
+Pumphantasm (23 HP, 16 atk) and Taur (35 HP, 15 atk) both have high attack power.<br/>It's risky to read a Monstercall Scroll on these floors, since Pumphantasm can pass through walls.
+
+### 4F
+
+<p><span class="highlightYellow"><u>Notable</u></span>: Nigiri Baby (2-4F), Pumphantasm (3-4F), Taur (3-5F), Karakuroid (4-6F)</p>
+
+Karakuroid (40 HP, 20 atk) has Swift 1 speed, so it's difficult to run away from it.<br/>Remember to collect Poison Arrows if a Karakuroid creates a Poison Arrow Trap.
+
+### 5-6F
+
+<p><span class="highlightYellow"><u>Notable</u></span>: Karakuroid (4-6F), Scorpion (5-7F), Fire Ninja D (5-8F), Porky (6-9F), Cave Mamel (6-79F)</p>
+
+This is probably the last floor range for a bit where you can play in a leisurely manner.<br/>Wait until 8F to restore lowered strength via Antidote Grass or Rejuvenation Pot.<br/>Fire Ninja D will burn items, so don't bother reading a Monstercall Scroll between 5\~8F.
+
+Cave Mamel (5 HP, 100 atk, 100 def) is very rare, but can potentially one-shot you in a dark hallway.<br/>It won't be included in the "Notable" list going forward, but it's a constant threat between 6\~79F.
+
+If you find a Peach Staff or a sacred weapon with the Peach Bun rune:
+
+- Karakuroid Bun - Create Poison Arrow Traps and collect lots of Poison Arrows.
+- Porky Bun - Throw Porky's Rocks and collect them, which can be used to one-shot Ghost Samurai.
+    - Evasive Incense can be used instead of a Peach Staff to collect Porky's Rocks.
+
+### 7-9F
+
+<p><span class="highlightYellow"><u>Notable</u></span>: Scorpion (5-7F), Fire Ninja D (5-8F), Porky (6-9F), Water Ninja D (7-9F), Masked Samurai (7-12F)</p>
+
+Masked Samurai (47 HP, 18 atk) revives as Ghost Samurai (4 HP, 13 atk) when defeated.<br/>Ghost Samurai only takes 1 damage from normal attacks without the Anti-Ghost rune, and has the ability<br/>to possess a different monster, causing them to level up (Example: Mid Chintala → Big Chintala).
+
+Twisty Hani (35 HP, 12 atk, 15 def) spawns on 7-10F, and lowers Shiren's level by 1 when adjacent.<br/>Use arrows to defeat it from a distance instead of risking losing experience points.
+
+Water Ninja D (24 HP, 15 atk, 9 def) shoots water from up to 3 tiles away.<br/>Getting splashed by water makes equipped items rust, makes food go bad, or causes scrolls to get wet.<br/>Water Ninjas won't use their ability when adjacent, so use zigzag movement to lure them closer.<br/>Rotten Onigiri can be turned into Grilled Onigiri using Fire Ninja D (5-8F) if needed.
 
 ### 10-12F
 
-Mixer starts showing up. Try to synthesize good materials found in the early game,<br/>and start to stablize the combat with some good runes.<br/>Bowboy family also appears, so there are many opportunities for arrow farming.<br/>Even if no evasive incense or earthmound staff is found, it's sometimes possible to find a natural structure that will block the arrow.<br/>If possible save a Collection Scroll for 10F<br/>If possible, prioritize synthesizing at least one rustproof rune for the upcoming mudkin,<br/>knockback rune for the upcoming combat floors, and high upgrade values.
+<p><span class="highlightYellow"><u>Notable</u></span>: Masked Samurai (7-12F), Crossbowboy (10-12F), Mixer (10-29F), Mudkin (12-17F)</p>
+
+Mixer (78 HP, 39 atk, 29 def) is a rare spawn, and is also extremely powerful after eating items.<br/>Use Narrow-escape or Paralyzing staves to paralyze the Mixer, then level it up using a Ghost Samurai.<br/>If there's a cannon, let Mixer man it and throw items at the Mixer to safely synthesize and slay it.<br/>If you have a Peach Staff, consider stocking up on Mixer Buns for when you find synthesis ingredients.
+
+Crossbowboy (55 HP, 20 atk, 20 def) can be used to collect lots of Iron Arrows.<br/>Easiest methods: Evasive Incense, Earthmound Staff, or positioning Bored Kappa (10-12F) in-between.<br/>
+
+Mudkin (70 HP, 5 atk, 9 def) lowers the upgrade value of your equipped weapon or shield by 1.<br/>If you lack the Rustproof rune, keep 2 spaces open in a Preservation Pot and insert equipment.<br/>12F: Some players unequip items and level up a Mudkin using Ghost Samurais to hunt Lv3 Mudsters for exp.
+
+Lastly, 10F often has lots of items buried in wall tiles, so read a Collection Scroll if possible.
 
 ### 13-15F
 
-Floor Dragon, Metalhead, Master Hen, Tiger Thrower, and Lt.Spearfish are the main threats due to their high attack and defense power.<br/>Mudkin (12-17F) is tanky and hard to avoid, so having at least one rustproof piece is advised.<br/>Behemoth monster (13-15F) could also cause some mayhem,<br/>But exploring the entire floor for the reward and more synthesis opportunity is still worth the trouble.
+<p><span class="highlightYellow"><u>Notable</u></span>: Mixer (10-29F), Mudkin (12-17F), Master Hen (13-18F), Chow (15-99F), <span class="redText">Behemoth</span> (13-15F)</p>
+
+Mudkin is still around - If you have silver-sealed sacred weapons or shields + a Rustproof Bracelet,<br/>you could level up a Mudkin to Mudster and have it remove the silver seals with its special attack.
+
+Master Hen (70 HP, 33 atk, 21 def) provides 400 exp when defeated before reverting to Lv1 Hen.<br/>Depending on how much food you have on hand, it might be a good idea to linger to level up.<br/>That said, Master Hen appears with Thiefwalrus and Minotaur on 16-18F, so it might be better to wait.
+
+Behemoth Monsters can appear on 13-15F - avoid cornering yourself in rooms while the gate is around.<br/>Remember that rocks can be used to one-shot Behemoth Monsters even from the front.
+
+Chow (20 HP, 1 atk, 1 def) is a rare spawn starting from 15F throughout the rest of the dungeon.<br/>Keep an eye on the message log so you don't miss monsters leveling up from defeating Chows.<br/>Chow always drops an item when defeated by the player.
 
 ### 16-19F
 
-Monk family starts to appear, along side with Thiefwalrus (16-19F).<br/>Berserked enemies could kill shopkeepers before you could buy from them.<br/>Morphed thiefwalrus cause them to drop what they steal.<br/>Other morphed enemies get a free hit on the player when they try picking the disguised item up.<br/>Pop Tank (16-18F) can be used to grill food or dig to hidden rooms,<br/>but also be careful to not have them destroy important items.<br/>Minotaur's Axe can be dropped from Minotaur (16-18F), which provides a great rune.<br/>These floors are great farming floors to stock up resources.<br/>If you don't plan on eradicating polygons and don't mind mini tanks leveling up, you can eradicate the tanks now.
+<p><span class="highlightYellow"><u>Notable</u></span>: Mixer (10-29F), Master Hen (13-18F), Minotaur (16-18F), Thiefwalrus (16-19F)</p>
+
+Good floor range for farming items and experience points - Use a Mapping Scroll if you have one.<br/>Master Hen (70 HP, 33 atk, 21 def) provides 400 exp when defeated before reverting to Lv1 Hen.<br/>Minotaur (70 HP, 31 atk, 20 def) occasionally drops an Axe of the Minotaur when defeated.<br/>Thiefwalrus (65 HP, 25 atk, 23 def) always drops an item when defeated.<br/>Egg Thing (5 HP, 2 atk, 14 def) always drops an Onigiri when defeated.
+
+Lv1 monks appear between 16-19F - The 3 most dangerous monks are Hannya, Okina, and Tengu.<br/>Hannya Monk D (66 HP, 37 atk, 25 def) causes other enemies to level up or defeat Shopkeepers.<br/>Okina Monk D (70 HP, 25 atk, 25 def) warps monsters on the floor so that they end up near Shiren.<br/>Tengu Monk D (80 HP, 24 atk, 20 def) increases the action speed of a monster on the floor by 1 stage.
+
+Mudkin (70 HP, 5 atk, 9 def) is also still around until 17F.<br/>Ghost Radish (40 HP, 18 atk, 15 def) appears on 16-17F and throws Poison Grass 2 tiles ahead.<br/>Pop Tank (90 HP, 20 atk, 24 def) can be used to grill onigiri or dig your way into a buried shop.<br/>If you don't plan on eradicating Polygon Singa, eradicate the Pop Tank family here.
 
 ### 20-24F
 
-Second ninja zone, so try explore the floor before Fire Ninja reaches them.<br/>Skull Wizard (19-21F) have 100% special rate when they line up with you at a distance, and could cause the confuse or transient effect.<br/>Explochin (20-22F) explode at a certain HP range, but with an average weapon,<br/>you should be able to just hit them until they stops moving and leave them alone.<br/>Super Gazer (22-24F) could cause item loss, so be careful.<br/>In general, it is fine to leave after exploring the floor,<br/>especially when playing without protection runes like Magic Cancel, Hypnosisproof and Anti-Blast.
+<p><span class="highlightYellow"><u>Notable</u></span>: Mixer (10-29F), Skull Wizard (19-21F), Explochin (20-22F), Fire Ninja C (20-23F), Super Gazer (22-24F)</p>
+
+Fire Ninja C (75 HP, 41 atk, 25 def) burns staves, scrolls, grass, and onigiri on the ground.<br/>Explochin (120 HP, 25 atk, 22 def) explodes when total damage received exceeds 95 damage.<br/>The explosion reduces Shiren's HP to 1, so use rocks to adjust how much damage you deal as needed.<br/>Skull Wizard (88 HP, 35 atk, 24 def) can inflict Confused status, deal 20 damage, turn you into a monster,<br/>or warp you to the stairs and inflict Paralyzed status.
+
+Super Gazer (66 HP, 30 atk, 26 def) often causes item loss with its hypnosis.<br/>N'dulu (70 HP, 41 atk, 30 def) can be disguised as an item between 24-28F.<br/>For Lv2 N'dulus, you can check if a non-pot category item is real by inserting it into a pot.
+
+All said, it's probably best to advance to the next floor instead of trying to linger in this range,<br/>unless you have shield runes like Magic Cancel, Hypnosisproof, and Anti-Blast.
 
 ### 25-29F
 
-Another farming zone with Greenwalrus (25-29F).<br/>Pesky Kappa (24-27F) throws potentially dangerous items (for example Seal Staff) at you,<br/>and Daze Radish (26-29F) may confuse you then throw Poison Grass at you without a Focusing Bracelet.<br/>Later on, Dragon family (29-32F) harasses the player with high defense and wide range attacks.<br/>Defeating them grants a high amount of exp, though.
+<p><span class="highlightYellow"><u>Notable</u></span>: Mixer (10-29F), Porko (24-27F), Pesky Kappa (24-27F), Greenwalrus (25-29F), Daze Radish (26-29F),<br/>Dragon (27-30F), Sky Dragon (28-32F)</p>
+
+Farming zone featuring Greenwalrus (88 HP, 30 atk, 27 def), who always drops an item when defeated.<br/>Pesky Kappa (75 HP, 29 atk, 22 def) throws items (excluding weapons or Gitan) at you within 5 tiles.<br/>Porko (65 HP, 36 atk, 18 def) throws Porky's Rocks which deal 20 damage within a 5 tile radius.<br/>Daze Radish (80 HP, 37 atk, 27 def) throws Confusion Grass within a 2 tile radius, then Poison Grass.<br/>Projectiles and staves can still be used like normal while Shiren has Confused status.
+
+Dragon (120 HP, 45 atk, 40 def) and Sky Dragon (140 HP, 55 atk, 50 def) are dangerous, but grant 1000+ exp.<br/>Dragon breathes fire in a straight line, and Sky Dragon breathes fire from anywhere in the same room.<br/>In either case, Shiren receives 20 damage if he gets hit by the flame.
 
 ### 30-32F
 
-Baby Tank (30-32F) is the last chance of arrow farming, but hopefully your gear is sufficiently upgraded at this point.<br/>Vile Scorpion (30-32F) decreases the player's strength by 2.<br/>After this segment strength will likely only be lowered by Poison arrow traps, so if your strength is low, recover it after 32F.
+<p><span class="highlightYellow"><u>Notable</u></span>: Dragon (27-30F), Sky Dragon (28-32F), Baby Tank (29-32F), Vile Scorpion (30-32F), <span class="redText">Behemoth</span> (31-39F)</p>
+
+Baby Tank (85 HP, 40 atk, 30 def) is generally your last chance to collect arrows.<br/>Vile Scorpion (108 HP, 45 atk, 33 def) lowers the player's current strength by 2 when adjacent.<br/>After this floor range, current strength will likely only be lowered by Poison Arrow Traps,<br/>so it's fine to use a Rejuvenation Pot or Antidote Grass to restore strength once you reach 33F.
 
 ### 33-39F
 
-Here comes a taste of the true challenge of the dungeon: ghost enemies surround the player immediately and drain enemies lower stats.<br/>Soul Reaper and Pumplich always know the player location, so be ready to be attacked immediately.<br/>Polygon Singa lowers max belly and removes Sumo Status, and if not taken care of they can easily reduce max belly down to 1.<br/>Get ready to staff them or eradicate them.<br/>You should immediately get off unless you desperately need items to survive the tanks.
+<p><span class="highlightYellow"><u>Notable</u></span>: Soul Reaper (33-39F), Polygon Singa (33-39F), Pumplich (33-39F), <span class="redText">Behemoth</span> (31-39F)</p>
+
+This floor range is basically the introduction to Heart of Serpentcoil Island's true challenge.<br/>Ghost types pass through walls and rush at the player, and Draining types lower Level and Max Fullness.<br/>If you lack items and stats to deal with these enemies, rush to the stairs instead of trying to explore.<br/>However, this is also your last chance to prepare for the dreaded "Tank Zone" which begins on 40F.
+
+Floppy Hani (85 HP, 39 atk, 39 def) lowers Shiren's level by 1 when adjacent.<br/>Soul Reaper (75 HP, 40 atk, 40 def) and Pumplich (100 HP, 50 atk, 30 def) can track you from anywhere.<br/>Soul Reaper is particularly dangerous if your shield is weak, since it has Swift 2 action speed.
+
+Polygon Singa (129 HP, 40 atk, 40 def) warps to you in rooms, and lowers Max Fullness by 7 when adjacent.<br/>Consider throwing an Eradication Scroll at Polygon Singa if you plan on utilizing Sumo status.<br/>Reflective Incense can protect against Polygon Singa and Floppy Hani special attacks.
 
 ### 40-49F
 
-Tank zone. Eradicating the tanks is highly recommended, which additionally creates a bonus zone on 40-41F,<br/>where the player could synthesize equipments and hunt down chows.<br/>Remember 40F has a high chance of generating buried items, so use a Collection Scroll if a chow drops one.<br/>Just be careful of pitfall traps and far-throwing traps.<br/>Mudster and Mudder (47-54F) removes runes. Rustproof will be targeted first, then other runes.<br/>Rustproof bracelet nullifies the attack, and can additionally make them remove silver seals.<br/>Unequipping equipments to punch them is very ineffective due to their high defense.<br/>Use staves on them before it spirals out of control.<br/>Starting now, the main strategy is to rush to the stairs as fast as possible, so pull out warping bracelets if you have them.
+<p><span class="highlightYellow"><u>Notable</u></span>: Mixermon (40-49F), Adamant Tank (40-44F), Steadfast Tank (42-49F), Igneous (43-49F),<br/>Dragon Pit (44-50F), Mudster (47-54F), Mudder (47-54F), Lashagga (47-54F), N'dama (47-59F)</p>
+
+<p>Tank Zone - <span class="redText">It's often game over if you lack an Eradication Scroll (Blank Scroll) or the Anti-Blast rune.</span><br/>That said, if you do manage to successfully eradicate the Pop Tank family, 40-41F turns into a bonus zone<br/>where only Mixermon (98 HP, 50 atk, 35 def), Chow (20 HP), and Cave Mamel (5 HP, 100 atk/def) spawns.<br/>Check for traps - Pitfall Trap or Far-throwing Trap can ruin this great chance to synthesize and obtain items.<br/>Last but not least, remember to read a Collection Scroll on 40F if you have one on hand.</p>
+
+Ornery Tank (95 HP, 40 atk, 44 def) has Normal action speed and fires 30 damage cannonballs.<br/>Adamant Tank (100 HP, 60 atk, 54 def) has Swift 1 action speed and fires 40 damage cannonballs.<br/>Steadfast Tank (105 HP, 80 atk, 64 def) has Swift 2 action speed and fires 50 damage cannonballs.<br/>Water Gun Pot can be used to inflict Slowed and Sealed statuses against any Pop Tank family monster.
+
+Dragon Pit (130 HP, 54 atk, 40 def) has Swift 1 action speed and aims for pincer attacks.<br/>Blazepuff (135 HP, 55 atk, 35 def) breathes fire (30 damage) when adjacent, but the attack can fail.<br/>They have higher HP and attack power, but they aren't too scary if you have the Anti-Dragon rune.
+
+Mudster (140 HP, 35 atk, 43 def) and Mudder (145 HP, 45 atk, 53 def) can erase 1 rune.<br/>The Rustproof rune will be targeted first if present, but otherwise the rune is selected randomly.<br/>Rustproof Bracelet protects against both the rune erasing and upgrade value lowering special attacks,<br/>and can additionally make the Mudster or Mudder remove silver from silver-sealed rune slots.<br/>They have high HP and defense, so use staves to disable them instead of unequipping your items.
+
+#### N'dama Notes
+
+N'dama (135 HP, 50 atk, 35 def) can be disguised as an item on the ground between 47-59F.<br/>Unlike N'dulu, inserting the item into a pot or advancing floors won't reveal the disguised N'dama.
+
+Sample guidelines for handling items on N'dama floors:
+
+- Staves - Swing the staff 1 time when your surroundings are safe.
+- Grass - Eat or throw the grass at a monster instead of carrying it in your inventory.
+- Pot - It's probably best to ignore pots that aren't Preservation Pots or "Tap" type pots.
+- Blank Scroll - Write Heavenly, Earthly, or Pot-upsize and try using it to upgrade right away.
+- If you want to carry the item, insert it into a dedicated Preservation Pot named "N'dama?".
+
+Also, the following sources are guaranteed to be real items:
+
+- Shop merchandise.
+- Items buried in walls.
+- Items dropped by defeated monsters.
+- Items left behind when a Behemoth Gate vanishes.
 
 ### 50-59F
 
-Terror Scorpion reduces max strength by 1, and they are hard to kill in one hit even with anti-drain rune.<br/>Without Cleansing Bracelet, it would be good to just eradicate them,<br/>which also allows you to hunt Ironwalrus (55-59F) in case you are low on items.<br/>On the 50th floor, firespew shuffle floor layout is used, and only 1000G bags can be found.
+<p><span class="highlightYellow"><u>Notable</u></span>: Mixergon (50-70F), Mudster (47-54F), Mudder (47-54F), N'dama (47-59F), Terror Scorpion (50-59F),<br/>Ironwalrus (55-59F), Vexing Kappa (55-59F), <span class="redText">Behemoth</span> (52-55F)</p>
+
+This floor range is roughly the point in which you want to finalize your main equipment.<br/>50F is always a shuffle dungeon map based on Firespew Mountain, and only bags of 1000 Gitan can be found.<br/>Behemoth monsters have a chance to appear between 52-55F, and there's little reason to linger.
+
+Mudster and Mudder are still around until you descend past 54F.<br/>Terror Scorpion (185 HP, 55 atk, 45 def) lowers Max Strength by 1 when adjacent.<br/>If you don't have a Cleansing Bracelet to counter the poison, throw an Eradication Scroll at one.<br/>If Terror Scorpions are eradicated, you can safely hunt Ironwalrus (138 HP, 35 atk, 55 def) for items.<br/>Vexing Kappa (175 HP, 49 atk, 33 def) throws any item aside from Gitan within a range of 10 tiles.<br/>
+
+Lv3 monks appear between 51-59F, and like before, the dangerous ones are Hannya, Okina, and Tengu.<br/>Hannya Monk B (166 HP, 57 atk, 45 def) causes other enemies to level up or defeat Shopkeepers.<br/>Okina Monk B (170 HP, 56 atk, 50 def) warps monsters on the floor so that they end up near Shiren.<br/>Tengu Monk B (180 HP, 55 atk, 47 def) increases the action speed of a monster on the floor by 1 stage.
 
 ### 60-64F
 
-A harassment area with Curse Matron, Nigiri Boss, Bag Knave and Hyper Gazer.<br/>The initial enemy spawn also increases dramatically starting at this point.<br/>In particular, Bag Knave could parry an item away, shatter it if the target is a pot, then turn them to weeds.<br/>Floor items may be disguised N'daloons (60-69F).<br/>There is no reason to linger unless you have all protection methods: Anti-Curse Bracelet, Nigiriproof, Affixing Bracelet and Hyponosisproof.
+<p><span class="highlightYellow"><u>Notable</u></span>: Mixergon (50-70F), Curse Matron (60-64F), Nigiri Boss (60-64F), Bag Knave (60-64F),<br/>Hyper Gazer (60-64F), Hat Rascal (60-64F), N'daloon (60-69F)</p>
+
+Item destruction zone with lots of annoying monsters.<br/>The initial enemy count also increases dramatically starting from this floor range.<br/>There's no reason to linger unless you have all protection methods, which include:<br/>Cursebreak Bracelet, Affixing Bracelet, Nigiriproof (rune), Hyponosisproof (rune), and Hatproof (rune).
+
+Curse Matron (145 HP, 53 atk, 48 def) curses up to 2 of your equipped weapon, shield, or bracelets.<br/>Hyper Gazer (126 HP, 55 atk, 45 def) hypnotizes Shiren and can force random item usage when adjacent.<br/>Hat Rascal (170 HP, <span class="redText">85 atk</span>, 12 def) steals and tosses away a staff, grass, food, or scroll item.<br/>Bag Knave (95 HP, 40 atk, 35 def) throws Weeds to knock away your items, which also breaks pots.<br/>They also transform items on the ground into Weeds, so it's best to just rush to the stairs.
+
+Non-item destruction threats include Nigiri Boss and N'daloon.<br/>Nigiri Boss (133 HP, 45 atk, 42 def) inflicts Onigiri status, which nullifies equipment while morphed.<br/>N'daloon (205 HP, 65 atk, 45 def) has the ability of N'dubba, N'dulu, or N'dama, selected randomly.
 
 ### 65F
 
-Ninjas appear for one floor. Special monster house is common.<br/>Finish up any final preparations, and rush through the remaining 66-99F.
+<p><span class="highlightYellow"><u>Notable</u></span>: Mixergon (50-70F), N'daloon (60-69F), Fire Ninja B (65F), Water Ninja B (65F)</p>
+
+Level 3 ninjas appear for a single floor.<br/>Special Monster Houses generated on this floor often feature ninjas or monks.<br/>Ninja enemies have a higher item drop rate, and Mixergon appears, so linger if you want.<br/>After you've finished your final preparations, descend and rush through the remaining 66-99F.
 
 ### 66-79F
 
-The real challenge begins. For a very long stretch, Miracle Hen, Battler, and Skull Lord appear together.<br/>Initial monster spawns in crazy numbers while enemy attack power reaches its peak, so try to have some healing items ready.
-- Miracle Hen, with Swift 2, is exceptionally strong as an enemy with the highest attack power.<br/>Without anti-beast, keen and payback runes, you cannot really fight with them.<br/>Use Poison Arrows on every one of them.<br/>However, if you do have upgraded gears that could fight them, you can explore the floor more casually.
-- Battler knocks away equipments behind you.<br/>Ideally have an Affixing Bracelet ready.<br/>Otherwise, be mindful of what is behind you.<br/>Even if you are standing with your back against the wall, Battler has high attack and defense, making them tough to defeat.
-- Skull Lord fires magic bullets inflicting Asleep, Blind, Level decrease by 3, or 40 damage.<br/>It's very easy to get put to sleep then lose many levels immediately, since they have 100% special rate in line of sight.<br/>Magic Cancel protects you, but otherwise Rousing Bracelet works as a subsitute.<br/>Getting other enemies between you and Skull Lord is also effective.<br/>Use up all the remaining Seal Staff charges you have on Battler and Skull Lord.
+<p><span class="highlightYellow"><u>Notable</u></span>: N'daloon (60-69F), Miracle Hen (66-79F), Skull Lord (66-79F), Battler (66-79F), Bellthoven (66-79F)</p>
+
+<p><span class="redText">The start of Heart of Serpentcoil Island's true attempt to filter out unprepared wanderers.</span><br/>Miracle Hen, Battler, and Skull Lord appear together for 14 floors in a row.<br/>Initial monster spawns can rival a Monster House, so it's best to have some healing items ready.</p>
+
+Miracle Hen (220 HP, 82 atk, 60 def) has Swift 2 speed and extremely high attack power.<br/>You'll want to use Poison Arrows or Wallpass Bracelet if you lack Anti-Beast, Keen, and payback runes.
+
+Battler (200 HP, 69 atk, 50 def) knocks away any equipped item, sending it flying behind you.<br/>Equip an Affixing Bracelet if you have one to stay safe.
+
+Skull Lord (188 HP, 55 atk, 55 def) fires magic that inflicts Asleep, Blind, level-3, or 40 damage.<br/>Magic Cancel (rune) keeps you safe, and Rousing Bracelet helps a bit if you don't have that rune.<br/>If you lack defensive options for both Battler and Skull Lord, it's likely best to eradicate Skull Lord.
+
+Bellthoven (150 HP, 45 atk, 45 def) summons up to 3 monsters in one turn, even when not adjacent.<br/>N'daloon (205 HP, 65 atk, 45 def) exits the monster table from 70F, so you can trust items again.<br/>Monks appear between 70-75F, and <span class="redText">Behemoth</span> monsters have a chance to appear between 75-79F.
 
 ### 80-99F
 
-The final stretch, with mainly Archdragon and King Reaper chasing the player down.<br/>On the other hand, no enemies could cause fatal accidents now, so the main theme is combat against tough enemies.<br/>Reflective incense plus Narrow-escape Staff can get you through floors quickly,<br/>and Blurry incense plus Guiding Staff prevents dragons from breathing fire and king reapers from surrounding you.<br/>Which one of these two major threats to eradicate depends on your equipment.
-- Archdragon deals 30 fire damage at the player very regularly.<br/>With Anti-Dragon, Full Armor runes and heat-ban incense, the damage becomes more manageable.<br/>Otherwise, chase them down following the flame before they deal too much damage.
-- King Reaper has swift 2, and could easily surround you at the beginning or when you are going through hallways.<br/>Having anti-ghost, anti-float, keen and payback runes helps against them.
+<p><span class="highlightYellow"><u>Notable</u></span>: Archdragon (80-99F), King Reaper (80-99F), Fulminachin (80-99F), <span class="redText">Behemoth</span> (94-98F)</p>
+
+The final stretch, featuring Archdragons spewing 30 damage fire from anywhere on the floor,<br/>along with swift monsters like King Reaper, Hiding Dragon, and Electroid hunting the player down.<br/>It mostly comes down to brawling with enemies at this point rather than avoiding special attacks.<br/>Reflective Incense + Narrow-escape Staff lets you skip floors, and Blurry Incense + Guiding Staff<br/>lets you avoid Archdragon's fire and becoming surrounded by King Reapers.
+
+Archdragon (200 HP, 65 atk, 60 def) breathes 30 damage fire from anywhere on the current floor.<br/>Anti-Dragon (shield) reduces it to 15 damage, but you'll likely want to eradicate them either way.<br/>However, some players prefer to eradicate King Reaper instead if they have a weaker shield.
+
+King Reaper (225 HP, 65 atk, 50 def) has Swift 2 speed and can pass through walls.<br/>Anti-Ghost, Anti-Floating, Keen, and payback runes are a significant help against them.
+
+If you have a Peach Staff, create Electroid Buns or Dark Owl Buns to help with navigation.<br/>Electroid Bun can be used to make a Pitfall Trap, and Dark Owl Bun grants Mapping Scroll's effect.
 
 # Monsters
 

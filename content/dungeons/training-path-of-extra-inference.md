@@ -29,7 +29,7 @@ metaDescription: "Training Path of Extra Inference dungeon guide for Shiren the 
   <tr>
     <th>Bring Items</th>
     <td>No</td>
-    <th>Allies</th>
+    <th>Companions</th>
     <td>No</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ metaDescription: "Training Path of Extra Inference dungeon guide for Shiren the 
   </tr>
 </table>
 
-Post-game dungeon where the goal is to identify 50 items, and the reward is the last item identified.<br/>This dungeon utilizes an inference mechanic which auto-narrows down unidentified items to 3 options.<br/>The last item identified by the player doesn't have to be inside the inventory to be received as a reward.<br/>Most runs of this dungeon can be cleared around 9\~12F if you identify items as you pick them up.<br/>Overall, it's a great place to visit to fill out some of the rarer item entries in the notebook.
+Postgame dungeon where the goal is to identify 50 items, and the reward is the last item identified.<br/>This dungeon utilizes an inference mechanic which auto-narrows down unidentified items to 3 options.<br/>The last item identified by the player doesn't have to be inside the inventory to be received as a reward.<br/>Most runs of this dungeon can be cleared around 9\~12F if you identify items as you pick them up.<br/>Overall, it's a great place to visit to fill out some of the rarer item entries in the notebook.
 
 # Strategy
 

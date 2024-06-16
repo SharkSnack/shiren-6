@@ -29,7 +29,7 @@ metaDescription: "Dungeon Template for Shiren the Wanderer: The Mystery Dungeon 
   <tr>
     <th>Bring Items</th>
     <td></td>
-    <th>Allies</th>
+    <th>Companions</th>
     <td></td>
   </tr>
   <tr>

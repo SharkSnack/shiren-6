@@ -29,7 +29,7 @@ metaDescription: "Peach Dungeon guide for Shiren the Wanderer: The Mystery Dunge
   <tr>
     <th>Bring Items</th>
     <td>No</td>
-    <th>Allies</th>
+    <th>Companions</th>
     <td>No</td>
   </tr>
   <tr>
@@ -68,11 +68,11 @@ metaDescription: "Peach Dungeon guide for Shiren the Wanderer: The Mystery Dunge
     <th>Wind of Kron</th>
     <td></td>
     <th>Reward</th>
-    <td></td>
+    <td>Peach Bun (Random) or Peach Club (Sacred)</td>
   </tr>
 </table>
 
-Post-game dungeon where the player begins the dungeon with a Peach Club equipped.<br/>Peach Club is a weapon that has a chance to transform a defeated monster into a Peach Bun.<br/>Eating a Peach Bun morphs Shiren into the corresponding monster, allowing usage of its abilities.<br/>(Example: Eating a Pumphantasm Bun allows Shiren to go inside wall tiles)
+Postgame dungeon where the player begins the dungeon with a Peach Club equipped.<br/>Peach Club is a weapon that has a chance to transform a defeated monster into a Peach Bun.<br/>Eating a Peach Bun morphs Shiren into the corresponding monster, allowing usage of its abilities.<br/>(Example: Eating a Pumphantasm Bun allows Shiren to go inside wall tiles)
 
 # Strategy
 

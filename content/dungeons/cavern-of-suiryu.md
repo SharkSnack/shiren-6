@@ -29,7 +29,7 @@ metaDescription: "Cavern of Suiryu dungeon guide for Shiren the Wanderer: The My
   <tr>
     <th>Bring Items</th>
     <td>No</td>
-    <th>Allies</th>
+    <th>Companions</th>
     <td>No</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ metaDescription: "Cavern of Suiryu dungeon guide for Shiren the Wanderer: The My
   </tr>
 </table>
 
-Post-game story dungeon where you play as Shiren fused with Kokatsu (1st clear only).<br/>Shiren cannot equip weapons, shields, or bracelets, and also cannot use arrows or rocks in this form.<br/>This form isn't simply a restriction, however, as Shiren can perform special attacks by spending fullness.<br/>Shiren's normal attack also changes to a flame attack which increases in range as you defeat enemies.<br/>Overall, the first clear of this dungeon is a fun diversion from the usual gameplay.
+Postgame story dungeon where you play as Shiren fused with Kokatsu (1st clear only).<br/>Shiren cannot equip weapons, shields, or bracelets, and also cannot use arrows or rocks in this form.<br/>This form isn't simply a restriction, however, as Shiren can perform special attacks by spending fullness.<br/>Shiren's normal attack also changes to a flame attack which increases in range as you defeat enemies.<br/>Overall, the first clear of this dungeon is a fun diversion from the usual gameplay.
 
 # Strategy
 

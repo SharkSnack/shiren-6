@@ -240,8 +240,8 @@ Priority is mostly aimed at dungeons that do not allow carry-in items.
     <td><img src="../images/rune/weapon/24.png"/></td>
     <td>Thunderbolt</td>
     <td>Sacred Item</td>
-    <td class="highlightPink">High</td>
-    <td>Occasionally deal 20 additional damage to a target.<br/>The damage spreads through adjacent enemies.<br/>Shiren and his companions won't receive damage.</td>
+    <td class="highlightYellow">Mid</td>
+    <td>~24% chance to deal an extra 20 damage to a target.<br/>The damage spreads through adjacent enemies.<br/>Shiren, companions, and NPCs won't receive damage.</td>
   </tr>
   <tr>
     <td><img src="../images/rune/weapon/25.png"/></td>
@@ -415,7 +415,7 @@ Priority is mostly aimed at dungeons that do not allow carry-in items.
     <td><img src="../images/rune/weapon/49.png"/></td>
     <td>Dried Bonito</td>
     <td>Bonito Block</td>
-    <td class="highlightGray">Avoid</td>
+    <td class="highlightPurple2">Varies</td>
     <td>Can nibble on the weapon to replenish 20 fullness.<br/>Nibbling lowers upgrade value by 1.</td>
   </tr>
   <tr>
@@ -481,7 +481,7 @@ Priority is mostly aimed at dungeons that do not allow carry-in items.
     <td><img src="../images/rune/shield/1.png"/></td>
     <td>Rustproof</td>
     <td>Golden Shield<br/>Plating Scroll</td>
-    <td class="highlightYellow">Mid</td>
+    <td class="highlightPink">High</td>
     <td>Prevents upgrade value from decreasing due to rust.</td>
   </tr>
   <tr>

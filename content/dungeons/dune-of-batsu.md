@@ -29,7 +29,7 @@ metaDescription: "Dune of Batsu dungeon guide for Shiren the Wanderer: The Myste
   <tr>
     <th>Bring Items</th>
     <td>Yes</td>
-    <th>Allies</th>
+    <th>Companions</th>
     <td>Yes</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ metaDescription: "Dune of Batsu dungeon guide for Shiren the Wanderer: The Myste
   </tr>
 </table>
 
-Post-game story dungeon with a boss fight that fully expects the player to bring items.<br/>It starts out pretty mild, but quickly introduces monsters capable of ruining inventory items.<br/>In addition, Special Monster Houses can be generated, so runs can end fast if you're underprepared.<br/>All item categories are found unidentified except for incense items.
+Postgame story dungeon with a boss fight that fully expects the player to bring items.<br/>It starts out pretty mild, but quickly introduces monsters capable of ruining inventory items.<br/>In addition, Special Monster Houses can be generated, so runs can end fast if you're underprepared.<br/>All item categories are found unidentified except for incense items.
 
 # Strategy
 

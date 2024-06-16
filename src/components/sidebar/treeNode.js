@@ -30,6 +30,8 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[0] = { items:[], label: 'postgame-guide', title: 'Postgame', url: '/guides/postgame-guide'};
         items[1] = { items:[], label: 'identification-guide', title: 'Identifying', url: '/guides/identification-guide'};
         items[2] = { items:[], label: 'stealing-guide', title: 'Stealing', url: '/guides/stealing-guide'};
+        items[3] = { items:[], label: 'monster-trial-guide', title: 'Monster Trial', url: '/guides/monster-trial-guide'};
+        items[4] = { items:[], label: 'update-history', title: 'Update History', url: '/guides/update-history'};
         break;
       case 'bracelets': // items
         items[0] = { items:[], label: 'price-chart', title: 'Price Chart', url: '/items/price-chart'};
@@ -51,7 +53,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[2] = { items:[], label: 'synthesis-runes', title: 'Runes', url: '/system/synthesis-runes'};
         items[3] = { items:[], label: 'monsters', title: 'Monsters', url: '/system/monsters'};
         items[4] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};
-        items[5] = { items:[], label: 'companions', title: 'Companions', url: '/system/companions'};
+        items[5] = { items:[], label: 'travel-companions', title: 'Companions', url: '/system/travel-companions'};
         items[6] = { items:[], label: 'roamers', title: 'Roamers', url: '/system/roamers'};
         items[7] = { items:[], label: 'side-quests', title: 'Side Quests', url: '/system/side-quests'};
         items[8] = { items:[], label: 'villages', title: 'Villages', url: '/system/villages'};

@@ -29,7 +29,7 @@ metaDescription: "Secluded Path dungeon guide for Shiren the Wanderer: The Myste
   <tr>
     <th>Bring Items</th>
     <td>Yes</td>
-    <th>Allies</th>
+    <th>Companions</th>
     <td>Yes</td>
   </tr>
   <tr>

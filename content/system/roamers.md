@@ -62,6 +62,11 @@ Travel companion characters also appear as Roamers, and can be recruited by talk
     <td class="leftText">Pay 2000 Gitan to add a random rune to a selected weapon or shield.<br/>The rune can be a natural rune normally found on sacred items.</td>
   </tr>
   <tr>
+    <td><img src="../images/npcs/gin.png"/></td>
+    <td class="priceTableName">Gin the Silver Remover</td>
+    <td class="leftText">Pay 500 Gitan to remove silver from a selected rune.</td>
+  </tr>
+  <tr>
     <td><img src="../images/npcs/bokon.png"/></td>
     <td class="priceTableName">Bokon the Pirate</td>
     <td class="leftText">Reads a random scroll that is beneficial to the player.</td>

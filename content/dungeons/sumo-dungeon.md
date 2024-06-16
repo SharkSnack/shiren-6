@@ -29,7 +29,7 @@ metaDescription: "Sumo Dungeon guide for Shiren the Wanderer: The Mystery Dungeo
   <tr>
     <th>Bring Items</th>
     <td>Yes</td>
-    <th>Allies</th>
+    <th>Companions</th>
     <td></td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ metaDescription: "Sumo Dungeon guide for Shiren the Wanderer: The Mystery Dungeo
   </tr>
 </table>
 
-Post-game dungeon featuring Sumo Onigiri as the only food item found on the ground.<br/>The player can bring items, but it can be cleared without bringing any items thanks to Sumo status.<br/>The dungeon has lots of items buried in wall tiles, since Sumo status allows digging through walls.<br/>Overall, it's basically just a place where players can visit to learn how Sumo status works.
+Postgame dungeon featuring Sumo Onigiri as the only food item found on the ground.<br/>The player can bring items, but it can be cleared without bringing any items thanks to Sumo status.<br/>The dungeon has lots of items buried in wall tiles, since Sumo status allows digging through walls.<br/>Overall, it's basically just a place where players can visit to learn how Sumo status works.
 
 # Strategy
 
@@ -146,7 +146,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tbody>
     <tr>
       <td class="centeredText">1</td>
-      <td class=""></td>
+      <td class="highlightShop"></td>
       <td class=""></td>
       <td class=""></td>
       <td><img src="../images/monsters/1-1.png"/> Mamel</td>
@@ -1857,7 +1857,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Monster-find Bracelet</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td>X</td>
     <td></td>

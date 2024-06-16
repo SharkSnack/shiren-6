@@ -29,7 +29,7 @@ metaDescription: "Training Path of Inference dungeon guide for Shiren the Wander
   <tr>
     <th>Bring Items</th>
     <td>No</td>
-    <th>Allies</th>
+    <th>Companions</th>
     <td>No</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ metaDescription: "Training Path of Inference dungeon guide for Shiren the Wander
   </tr>
 </table>
 
-Post-game dungeon that utilizes a new inference mechanic introduced in Shiren 6.<br/>This inference mechanic automatically narrows down unidentified items to 3 possibilities.<br/>It's a nice dungeon to practice identification, but the monster table is on the tougher side,<br/>so don't expect to be able to breeze through it without making smart use of items.
+Postgame dungeon that utilizes a new inference mechanic introduced in Shiren 6.<br/>This inference mechanic automatically narrows down unidentified items to 3 possibilities.<br/>It's a nice dungeon to practice identification, but the monster table is on the tougher side,<br/>so don't expect to be able to breeze through it without making smart use of items.
 
 # Strategy
 

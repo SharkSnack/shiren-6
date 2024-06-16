@@ -29,8 +29,8 @@ metaDescription: "Yamakagashi Pass dungeon guide for Shiren the Wanderer: The My
   <tr>
     <th>Bring Items</th>
     <td>No</td>
-    <th>Allies</th>
-    <td>No</td>
+    <th>Companions</th>
+    <td>Yes (Version 1.1.0)</td>
   </tr>
   <tr>
     <th>Rescues</th>
@@ -72,7 +72,7 @@ metaDescription: "Yamakagashi Pass dungeon guide for Shiren the Wanderer: The My
   </tr>
 </table>
 
-Post-game dungeon that's kind of like a bite-sized version of a classic unidentified items dungeon.<br/>All items besides incenses are found unidentified, and all floors except for 13F have dark hallways.<br/>In addition to a pretty relentless monster table, there's also a tougher boss fight waiting at the end.<br/>Overall, this dungeon has gained some notoriety online due to its difficulty for reasons listed below.<br/>If you're struggling to clear the dungeon, rest assured that you're definitely not alone.
+Postgame dungeon that's kind of like a bite-sized version of a classic unidentified items dungeon.<br/>All items besides incenses are found unidentified, and all floors except for 13F have dark hallways.<br/>In addition to a pretty relentless monster table, there's also a tougher boss fight waiting at the end.<br/>Overall, this dungeon has gained some notoriety online due to its difficulty for reasons listed below.<br/>If you're struggling to clear the dungeon, rest assured that you're definitely not alone.
 
 # Strategy
 
@@ -107,6 +107,10 @@ Other notable things:
 - Wishing Shrines are on the common side, so you might get lucky with a good wish selection.
 
 So overall, this dungeon emphasizes run-away play more than a standard style of gameplay.<br/>This is in contrast to Kiki Island, which is a more standard 25F unidentified items dungeon.
+
+#### Update 1.1.0
+
+This update added more NPCs to the dungeon, including companion characters like Asuka and Hibiki.<br/>Teaming up with these companion characters significantly reduces the difficulty.
 
 ### Important Items
 

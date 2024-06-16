@@ -29,8 +29,8 @@ metaDescription: "Sacred Ocean Tunnel dungeon guide for Shiren the Wanderer: The
   <tr>
     <th>Bring Items</th>
     <td>No</td>
-    <th>Allies</th>
-    <td>No</td>
+    <th>Companions</th>
+    <td>Yes (Version 1.1.0)</td>
   </tr>
   <tr>
     <th>Rescues</th>
@@ -81,6 +81,10 @@ Postgame dungeon where all weapons and shields found on the ground are sacred it
 The main idea is to find high stat sacred items and synthesize them to merge runes.<br/>Silverpurge Scroll and Synthesis Pot are common, so it's fine to insert ingredients into unidentified pots.<br/>On the other hand, crowd-control items that help in Monster Houses or such are extremely rare.<br/>Bracelets and staves don't appear on the ground, so you need higher stats to trade hits with monsters.<br/>Prioritize runes that let you attack in additional directions, along with payback style runes.
 
 Lastly, remember that you <span class="redText">cannot</span> take home any inventory items even if you clear the dungeon.<br/>There's zero reason to save synthesis ingredients or rare equipment in this dungeon.
+
+#### Update 1.1.0
+
+This update added NPCs to the dungeon, including companion characters like Asuka.<br/>Teaming up with these companion characters significantly reduces the difficulty.
 
 ### Important Items
 

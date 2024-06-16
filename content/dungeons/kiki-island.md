@@ -29,7 +29,7 @@ metaDescription: "Kiki Island dungeon guide for Shiren the Wanderer: The Mystery
   <tr>
     <th>Bring Items</th>
     <td>No</td>
-    <th>Allies</th>
+    <th>Companions</th>
     <td>Yes</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ metaDescription: "Kiki Island dungeon guide for Shiren the Wanderer: The Mystery
   </tr>
 </table>
 
-Post-game dungeon that's a bite-sized version of a classical unidentified items dungeon.<br/>That sentence may sound similar to Yamakagashi Pass, but this dungeon is generally far easier.<br/>Unidentified items are auto-narrowed down to 3 options, similar to Training Path of Inference,<br/>but the number of items generated on the ground per floor isn't as plentiful in Kiki Island.<br/>Overall, it's a nice place to visit to get some practice before going to Heart of Serpentcoil Island.
+Postgame dungeon that's a bite-sized version of a classical unidentified items dungeon.<br/>That sentence may sound similar to Yamakagashi Pass, but this dungeon is generally far easier.<br/>Unidentified items are auto-narrowed down to 3 options, similar to Training Path of Inference,<br/>but the number of items generated on the ground per floor isn't as plentiful in Kiki Island.<br/>Overall, it's a nice place to visit to get some practice before going to Heart of Serpentcoil Island.
 
 # Strategy
 

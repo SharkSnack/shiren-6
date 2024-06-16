@@ -29,7 +29,7 @@ metaDescription: "Cat-Ching's Divine Will dungeon guide for Shiren the Wanderer:
   <tr>
     <th>Bring Items</th>
     <td>No</td>
-    <th>Allies</th>
+    <th>Companions</th>
     <td>No</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ metaDescription: "Cat-Ching's Divine Will dungeon guide for Shiren the Wanderer:
   </tr>
 </table>
 
-Post-game dungeon where both the player and monsters can be ensnared by traps.<br/>Unlike [Trapper's Secret Path](/dungeons/trapper's-secret-path), the player doesn't have a Trapper's Bracelet, so traps can't be relocated.<br/>The player also doesn't earn any experience points when a monster steps on or is defeated by a trap.<br/>Overall, it looks like a trap dungeon at first glance, but it's mostly about throwing Gitan bags.
+Postgame dungeon where both the player and monsters can be ensnared by traps.<br/>Unlike [Trapper's Secret Path](/dungeons/trapper's-secret-path), the player doesn't have a Trapper's Bracelet, so traps can't be relocated.<br/>The player also doesn't earn any experience points when a monster steps on or is defeated by a trap.<br/>Overall, it looks like a trap dungeon at first glance, but it's mostly about throwing Gitan bags.
 
 # Strategy
 

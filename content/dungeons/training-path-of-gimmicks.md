@@ -29,7 +29,7 @@ metaDescription: "Training Path of Gimmicks dungeon guide for Shiren the Wandere
   <tr>
     <th>Bring Items</th>
     <td>Yes</td>
-    <th>Allies</th>
+    <th>Companions</th>
     <td>Yes</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ metaDescription: "Training Path of Gimmicks dungeon guide for Shiren the Wandere
   </tr>
 </table>
 
-Post-game dungeon where various gimmicks and in-dungeon events have a high chance of occurring.<br/>Cannons, Kron's Challenge, Fever Time, bouncy walls, behemoth gates, water with rafts, it's all here.<br/>Stronger monsters appear as early as 3F, so the player is expected to bring powerful items.<br/>Overall, it's a nice place to visit to duplicate items thanks to the frequency of bouncy wall rooms.
+Postgame dungeon where various gimmicks and in-dungeon events have a high chance of occurring.<br/>Cannons, Kron's Challenge, Fever Time, bouncy walls, behemoth gates, water with rafts, it's all here.<br/>Stronger monsters appear as early as 3F, so the player is expected to bring powerful items.<br/>Overall, it's a nice place to visit to duplicate items thanks to the frequency of bouncy wall rooms.
 
 # Strategy
 

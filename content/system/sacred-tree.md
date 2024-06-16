@@ -30,7 +30,7 @@ Can be used in all dungeons.
 
 ### Kokatsu Shiren
 
-Unlocked by clearing [Cavern of Suiryu](/dungeons/cavern-of-suiryu)?<br/>Cannot be used in Peach Dungeon or Trapper's Secret Path.
+Unlocked by clearing [Cavern of Suiryu](/dungeons/cavern-of-suiryu).<br/>Cannot be used in Peach Dungeon or Trapper's Secret Path.
 
 #### Normal Attack
 
@@ -125,3 +125,11 @@ Try to clear a dungeon under a specific set of rules.<br/>Select which rules to 
 #### Monster Trial Rules
 
 Select a monster as your playable character and see how far you can go.<br/>HP doesn't naturally regenerate as turns elapse, but Fullness will not deplete.<br/>Level increases as you defeat monsters, fully restoring HP while reducing Fullness by 4.<br/>Items cannot be used, but eating an item replenishes Fullness by 2.<br/>Playable monsters can be unlocked by completing Dojo Challenges in the [Monster Dojo](/system/monster-dojo).
+
+#### Dungeon Selection
+
+The following dungeons <span class="redText">cannot</span> be selected in this mode:
+
+- Training Path of Extra Inference
+- Trapper's Secret Path
+- Peach Dungeon

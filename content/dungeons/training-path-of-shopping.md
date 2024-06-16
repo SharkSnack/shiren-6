@@ -29,7 +29,7 @@ metaDescription: "Training Path of Shopping dungeon guide for Shiren the Wandere
   <tr>
     <th>Bring Items</th>
     <td>Yes</td>
-    <th>Allies</th>
+    <th>Companions</th>
     <td>Yes</td>
   </tr>
   <tr>
@@ -68,7 +68,7 @@ metaDescription: "Training Path of Shopping dungeon guide for Shiren the Wandere
   </tr>
 </table>
 
-Post-game dungeon where shops and peddlers are common, and floor items mostly consist of Gitan.<br/>The gimmick is similar to Asuka Kenzan's 自由経済活動 and Shiren 4 Plus's Mystery Shopping Mall,<br/>but unlike those two dungeons, you're allowed to bring items into Training Path of Shopping.<br/>Overall, it's a decent place to find some uncommon bracelets and practice stealing techniques.
+Postgame dungeon where shops and peddlers are common, and floor items mostly consist of Gitan.<br/>The gimmick is similar to Asuka Kenzan's 自由経済活動 and Shiren 4 Plus's Mystery Shopping Mall,<br/>but unlike those two dungeons, you're allowed to bring items into Training Path of Shopping.<br/>Overall, it's a decent place to find some uncommon bracelets and practice stealing techniques.
 
 # Strategy
 

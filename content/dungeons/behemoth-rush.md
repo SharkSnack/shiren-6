@@ -29,7 +29,7 @@ metaDescription: "Behemoth Rush dungeon guide for Shiren the Wanderer: The Myste
   <tr>
     <th>Bring Items</th>
     <td>No</td>
-    <th>Allies</th>
+    <th>Companions</th>
     <td>No</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ metaDescription: "Behemoth Rush dungeon guide for Shiren the Wanderer: The Myste
   </tr>
 </table>
 
-Post-game dungeon where a Behemoth Gate appears on all floors, and normal monsters don't spawn.<br/>However, Bashagga and Gigataur can appear as penalty monsters under special circumstances.<br/>None of the floors have dark hallways, but expect to collapse if you get hit by a Behemoth Monster.<br/>Overall, it serves as extended training for Behemoth Monster mechanics.
+Postgame dungeon where a Behemoth Gate appears on all floors, and normal monsters don't spawn.<br/>However, Bashagga and Gigataur can appear as penalty monsters under special circumstances.<br/>None of the floors have dark hallways, but expect to collapse if you get hit by a Behemoth Monster.<br/>Overall, it serves as extended training for Behemoth Monster mechanics.
 
 # Strategy
 
@@ -128,7 +128,7 @@ If you find a cannon in a room early on, use it to hunt some Behemoth Monsters t
 
 <p><u>Preservation Pot</u><br/>Nice to have to prevent onigiri from becoming rotten.</p>
 
-<p><u>Sumo Onigiri</u><br/>Counters the Hunger Traps that reduce max fullness by 25 per activation.<br/>Only obtainable by making a Behemoth Gate vanish.</p>
+<p><u>Sumo Onigiri</u><br/>Counters Starvation Traps that reduce max fullness by 25 per activation.<br/>Only obtainable by making a Behemoth Gate vanish.</p>
 
 <p><u>Special Onigiri</u><br/>Eat it at the start of a floor to try for Satiated status, or before descending for Knowledgeable status.</p>
 

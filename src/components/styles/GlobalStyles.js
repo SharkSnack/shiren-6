@@ -791,6 +791,175 @@ export const baseStyles = css`
   .runeTable td:nth-of-type(5) {
     text-align: left;
   }
+  .stoneTable th {
+    background-color: #f7f7f7;
+    text-align: center;
+  }
+  .stoneTable td {
+    text-align: center;
+  }
+  .stoneTable tr:nth-of-type(2) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(3) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(4) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(16) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(17) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(18) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(19) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(24) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(25) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(26) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(27) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(28) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(29) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(40) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(41) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(42) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(43) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(44) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(45) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(46) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(47) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(48) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(49) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(50) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(55) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(56) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(57) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(58) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(59) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(60) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(61) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(62) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(63) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(64) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(80) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(81) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(82) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(83) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(84) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(85) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(86) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(87) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(88) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(89) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(90) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(91) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(92) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(93) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(94) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(95) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(96) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(97) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(98) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(99) td {
+    background-color: #fff9e0;
+  }
   .dojoTable th {
     color: #3b454e;
     background-color: #ffffed;
@@ -1375,7 +1544,7 @@ export const baseStyles = css`
     background-color: #e1ffe1;
   }
   .highlightCyan {
-    background-color: #f3feff !important;
+    background-color: #c3ffeb;
   }
   .highlightCyan2 {
     background-color: #d9e6e8 !important;
@@ -1654,7 +1823,7 @@ export const baseStyles = css`
     color: #0000cd;
   }
   .lightblueText {
-    color: #6495ed;
+    color: #1b9fac;
   }
   .redText {
     color: #f66;

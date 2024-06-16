@@ -29,7 +29,7 @@ metaDescription: "Isle of the Mighty dungeon guide for Shiren the Wanderer: The 
   <tr>
     <th>Bring Items</th>
     <td>Yes</td>
-    <th>Allies</th>
+    <th>Companions</th>
     <td>No</td>
   </tr>
   <tr>
@@ -40,23 +40,23 @@ metaDescription: "Isle of the Mighty dungeon guide for Shiren the Wanderer: The 
   </tr>
   <tr>
     <th>Starting Item</th>
-    <td colspan="3"></td>
+    <td colspan="3">Large Onigiri</td>
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3"></td>
+    <td colspan="3">All categories</td>
   </tr>
   <tr>
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
-    <td></td>
+    <td>Regular, Sudden, Special</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
-    <td></td>
+    <td>Yes</td>
     <th>Fever Time</th>
-    <td></td>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
@@ -68,23 +68,130 @@ metaDescription: "Isle of the Mighty dungeon guide for Shiren the Wanderer: The 
     <th>Wind of Kron</th>
     <td></td>
     <th>Reward</th>
-    <td>Hunky-dory Shield</td>
+    <td>Hunky-dory Shield (Gold)</td>
   </tr>
 </table>
+
+Postgame dungeon that can be unlocked after clearing Cavern of Suiryu.<br/>It's the most challenging dungeon among the ones where the player is allowed to bring items,<br/>and it features a number of powerful Lv3\~4 monsters that don't naturally appear in other dungeons.<br/>Strong equipment is mandatory, and you'll also want runes and bracelets to counter specific enemies.<br/>Items like Golden Pickaxe, Epic Hammer, and Expulsion Scroll can rarely be found in shops on 48-49F.<br/>If you want to complete the notebook, you're likely going to have to play this dungeon multiple times.
 
 # Strategy
 
 ### General
 
-[Content]
+Floor numbers that are a multiple of 10 don't have dark hallways, and often have buried items.<br/>The only items that can be generated on the ground on 25F are Gitan bags worth 1000G each.
 
-### Important Items
+#### Rare Items
 
-[Content]
+Expulsion Scroll, Golden Pickaxe, and Epic Hammer have a chance to appear in shops only on 48-49F.<br/>These 3 items are exceptionally rare, so expect to run the dungeon multiple times before you find them.<br/>Some players have had to complete the dungeon 30+ times before they found even 1 Golden Pickaxe.<br/>※ Accurate Sword <span class="redText">can't</span> be found in this dungeon, but the Accurate rune <span class="blueText">can</span> appear on sacred items here.
+
+Rare items and runes that can appear here:
+
+- Weapons / Shields
+    - Golden Pickaxe (48-49F), Epic Hammer (48-49F), Bodhi Shield.
+- Bracelets / Other
+    - Clairvoyant Bracelet, Sure-aim Bracelet, Expulsion Scroll (48-49F).
+- Runes
+    - Accurate, Max Trap Bust, Max Wall Dig, Anti-Behemoth, Thunderbolt.
+
+### Equipment
+
+Any weapon and shield with +99 upgrade value should be fine, even if it doesn't have high base stats.<br/>The optimal sets are either Kabura Sutegi + Rasen Fuuma, or Yamanba's Cleaver + Yamanba's Potlid.<br/>It's important to be at 10+ strength to be able to equip a 2nd bracelet, so don't forget 2 Strength Grass<br/>if you're not using the Yamanba's Cleaver + Yamanba's Potlid equipment set.
+
+<p><span class="highlightRed">Weapon Runes</span></p>
+
+- Rustproof, HP+15, HP+20
+    - Not exactly essential, but nice to have.
+- Frontal Attack, Side Attack
+    - Runes to boost your attack range.
+- Critical, Swift Strikes, Anti-Aquatic, Anti-Beast, Anti-Dragon, Anti-Draining, Anti-Cyclops
+    - Runes to boost your damage output.
+- Healing
+    - Restore HP equal to 10% of damage dealt.
+- Peach Bun
+    - Makes hunger a non-issue.
+- Accurate, Max Wall Dig
+    - Can be found on sacred items within Isle of the Mighty.
+
+<p><span class="highlightBlue">Shield Runes</span></p>
+
+- Sating, Rustproof, HP+15, HP+20
+    - Not exactly essential, but nice to have.
+- Magic Cancel or Magic Reflect
+    - Skull Lord (28-39F).
+- Anti-Dragon, Anti-Blast
+    - Abyss Dragon (45-50F), Adamant Tank (5-8F), Steadfast Tank (15-18F), etc.
+- Projectileproof, Nigiriproof, Hypnosisproof, Walrusproof, Hatproof
+    - Magicwalrus (11-18F), Frenzy Radish (3-9F), Nigiri Honcho (15-18F), Ultra Gazer (28-39F), etc.
+
+<p><span class="highlightGreen">Bracelets</span></p>
+
+<p><b><u>Monster-find Bracelet</u></b> / <b><u>Clairvoyant Bracelet</u></b><br/>Check for incoming enemies before you're in range of Frenzy Radish, Porkon, Nimble Knave, etc.</p>
+
+<p><b><u>Item-find Bracelet</u></b> / <b><u>Clairvoyant Bracelet</u></b><br/>Locate items buried in wall tiles, which can be collected using a Collection Scroll.</p>
+
+<p><b><u>Wallpass Bracelet</u></b><br/>Safely defeat trickier enemies like Mudder, Swordmaster, and Cursenior from inside a wall.<br/>Also helps with avoiding Behemoths and entering buried shops, but watch your HP.<br/>The easiest place to obtain this bracelet is Training Path of Shopping.</p>
+
+<p><b><u>Affixing Bracelet</u></b><br/>Counters Lv3-4 Field Knaves (1-6F) and Swordmaster (45-50F).</p>
+
+<p><b><u>Rustproof Bracelet</u></b> / <b><u>Cursebreak Bracelet</u></b><br/>Counters Mudster (19-27F), Mudder (19-27F), and Cursenior (19-27F).</p>
+
+<p><b><u>Cleansing Bracelet</u></b><br/>Counters Demon Scorpion (28-39F), which can lower your Max Strength by 2.</p>
+
+<p><b><u>Trapper's Bracelet</u></b><br/>Floor-exiting Traps are somewhat common, so this lets you descend through the dungeon faster.</p>
+
+### Other Items
+
+<p><b><u>Eradication Scroll</u></b><br/>Mainly thrown at monster families that can't be countered using shield runes or bracelets.<br/>Frenzy Radish (3-9F), Polygon Stunna (28-39F), and Abyss Dragon (45-50F) are the popular targets.</p>
+
+<p><b><u>Blank Scroll</u></b><br/>Use it as an Eradication Scroll, Wall-less Scroll, Collection Scroll, etc.<br/>The easiest place to obtain these scrolls is Domain of Staves and Scrolls.</p>
+
+<p><b><u>Sumo Onigiri</u></b><br/>Mainly used alongside the Peach Bun weapon rune to maintain Sumo status and avoid traps.<br/>Equip 2 Bellyshrink Bracelets before eating it to raise Max Fullness to 200 if desired.</p>
+
+<p><b><u>Strength Grass</u></b> / <b><u>Special Onigiri</u></b> / <b><u>Rejuvenation Pot</u></b><br/>Items needed to raise Max Strength to 10 and maintain the ability to equip 2 bracelets.</p>
+
+<p><b><u>Revival Grass</u></b><br/>Bring multiple of these grasses in case something goes wrong.</p>
+
+<p><b><u>Porky's Rock</u></b> / <b><u>Evasive Incense</u></b><br/>Used to counter Behemoth Monsters, which can include Sleep Radish and Frenzy Radish.</p>
 
 # Floor Guide
 
-[Content]
+### 1F
+
+Lv3 monsters appear right away, so don't forget to equip your weapon and shield before entering.<br/>Popdillo (1-4F) deals 15 damage with its ability, so it can one-shot you at Lv1 if you don't have HP+X runes.<br/>To avoid item loss, either throw an Eradication Scroll at Bag Knave or keep an Affixing Bracelet equipped.<br/>It's best to reach Lv20 before descending to 2F so that you regenerate 3 HP per turn.
+
+### 2-10F
+
+Recommended to throw an Eradication Scroll at either a Ghost Radish or Field Knave family monster,<br/>with the preference going towards Field Knave if you don't have an Affixing Bracelet.
+
+2-7F - Sleep Radish (135 HP, 47 atk) throws Sedating Grass (or Poison Grass) within a 3 tile radius.<br/>3-9F - Frenzy Radish (195 HP, 57 atk) throws Berserk Seed (or Poison Grass) within a 5 tile radius.<br/>4-6F - Nimble Knave (145 HP, 50 atk) has Swift 1 action speed and knocks away inventory items.<br/>5-8F - Adamant Tank (100 HP, 60 atk) has Swift 1 action speed and fires 40 damage cannonballs.<br/>5-10F - Porkon (150 HP, 75 atk) throws Porky's Rocks which deal 20 damage within a 8 tile radius.<br/>5-10F - Vexing Kappa (175 HP, 49 atk) throws items it finds on the ground within a 10 tile radius.
+
+### 11-18F
+
+Beware of Magicwalrus (11-18F) and Nigiri Honcho (15-18F) if you have Morphed status,<br/>since equipment abilities and runes are nullified during a monster transformation.
+
+11-14F - Atrocious Kappa (275 HP, 59 atk) throws items it finds on the ground from anywhere on the floor.<br/>15-18F - Steadfast Tank (105 HP, 80 atk) has Swift 2 action speed and fires 50 damage cannonballs.<br/>15-18F - Porgon (200 HP, 85 atk) throws Porky's Rocks which deal 20 damage within a 10 tile radius.
+
+### 19-27F
+
+Either keep a Wallpass Bracelet equipped, or alternate Cursebreak and Rustproof bracelets.
+
+19-27F - Cursenior (205 HP, 65 atk) curses 2 items, but prioritizes equipped items first.<br/>19-27F - Mudster (140 HP, 35 atk) lowers upgrade value by 1, or erases 1 rune.<br/>19-27F - Mudder (145 HP, 45 atk) lowers upgrade value by 2, or erases 1 rune.
+
+### 28-39F
+
+Ultra Gazer (28-39F) and Skull Lord (28-39F) are a non-issue if you have shield runes to counter them.<br/>Keep a Cleansing Bracelet equipped and throw an Eradication Scroll at Polygon Stunna if you're worried.
+
+28-39F - Demon Scorpion (295 HP, 73 atk) lowers Max Strength by 2 when adjacent.<br/>28-39F - Polygon Stunna (229 HP, 50 atk) lowers Max Fullness by 10 when adjacent.<br/>28-39F - Showpin (250 HP, 55 atk) summons up to 3 new monsters at once.
+
+### 40-44F
+
+Lv3-4 Mamels, Lv4 ninjas, and Lv4 monks are the only monsters that appear here.<br/>You shouldn't have any difficulties with strong equipment.
+
+### 45-50F
+
+The safest strategy is to equip an Affixing Bracelet and throw an Eradication Scroll at Abyss Dragon.<br/>Shops on 48-49F have a chance of having extremely rare items like Expulsion Scroll (3000G) for sale,<br/>and 49F in particular often generates a dungeon shop, so don't rush past these floors.
+
+45-50F - Abyss Dragon (300 HP, 90 atk) breathes a 40 damage flame from anywhere on the floor.<br/>45-50F - Swordmaster (250 HP, 77 atk) disarms your equipped weapon, shield, or bracelet.
 
 # Monsters
 

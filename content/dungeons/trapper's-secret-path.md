@@ -29,7 +29,7 @@ metaDescription: "Trapper's Secret Path dungeon guide for Shiren the Wanderer: T
   <tr>
     <th>Bring Items</th>
     <td>No</td>
-    <th>Allies</th>
+    <th>Companions</th>
     <td>No</td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ metaDescription: "Trapper's Secret Path dungeon guide for Shiren the Wanderer: T
   </tr>
 </table>
 
-Post-game dungeon where you start with a Trapper's Bracelet and utilize traps to progress.<br/>Trapper status allows Shiren to pick up traps and set them on the ground to ensnare monsters.<br/>Once set, traps can't be picked up again, and the status is lost while the bracelet is unequipped.<br/>Shiren's attack power remains the same in both modes, so the only time the player would want to<br/>unequip the bracelet would be when the player wants to use a Blast Trap to one-shot enemies.
+Postgame dungeon where you start with a Trapper's Bracelet and utilize traps to progress.<br/>Trapper status allows Shiren to pick up traps and set them on the ground to ensnare monsters.<br/>Once set, traps can't be picked up again, and the status is lost while the bracelet is unequipped.<br/>Shiren's attack power remains the same in both modes, so the only time the player would want to<br/>unequip the bracelet would be when the player wants to use a Blast Trap to one-shot enemies.
 
 # Strategy
 

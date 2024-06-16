@@ -139,7 +139,7 @@ metaDescription: "Trap details for Shiren the Wanderer: The Mystery Dungeon of S
   </tr>
   <tr>
     <td rowspan="2"><img src="../images/traps/10.png"/></td>
-    <td rowspan="2" class="priceTableName">Hunger Trap<br/><span class="redText">※ Duplicate name</span></td>
+    <td rowspan="2" class="priceTableName">Hunger Trap</td>
     <td>Player</td>
     <td class="leftText trapDesc">Decreases Fullness by 10.</td>
   </tr>
@@ -433,7 +433,7 @@ metaDescription: "Trap details for Shiren the Wanderer: The Mystery Dungeon of S
   </tr>
   <tr>
     <td rowspan="2"><img src="../images/traps/33.png"/></td>
-    <td rowspan="2" class="priceTableName">Hunger Trap<br/><span class="redText">※ Duplicate name</span></td>
+    <td rowspan="2" class="priceTableName">Starvation Trap</td>
     <td>Player</td>
     <td class="leftText trapDesc">Decreases your Fullness and Max Fullness by 25. Breaks after triggering.</td>
   </tr>
