@@ -386,7 +386,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Mystery D
               <div>-</div>
             </div>
             <div class="monster_text">Reading this banishes every monster in the room.<br/>When used in passageways, surrounding monsters 1 tile(s)<br/>away will be affected.</div>
-            <div class="monster_notes">Confirmed location: Isle of the Mighty - Shop 49F</div>
+            <div class="monster_notes">Confirmed location: Isle of the Mighty - Shop 48~49F</div>
           </div>
         </div>
       </td>
@@ -1142,7 +1142,7 @@ metaDescription: "Complete scroll details for Shiren the Wanderer: The Mystery D
               <div>-</div>
             </div>
             <div class="monster_text">Reading this fully restores HP.<br/>Also removes one negative effect, like being surrounded by<br/>monsters, being hungry, having Cursed equipment, or being<br/>inflicted with a status ailment.</div>
-            <div class="monster_notes">Possible secondary effects:<br/>1. Surrounded by 2 or more enemies → Paralyzes adjacent enemies.<br/>2. Fullness is currently &le; 20 → Restores Fullness to max.<br/>3. Equipped weapon/shield/bracelet is cursed → Curse is removed.<br/>4. Shiren has a bad status condition → Cures the bad status.<br/>5. Currently have 0 Gitan → Gain 3000~4999 Gitan.<br/>6. Strength is currently &le; 4 → Restores strength to max.</div>
+            <div class="monster_notes">Possible secondary effects:<br/>1. Surrounded by 2 or more enemies → Paralyzes adjacent enemies.<br/>2. Fullness is currently &le; 20 → Restores Fullness to max.<br/>3. Equipped weapon/shield/bracelet is cursed → Curse is removed.<br/>4. Shiren has a bad status condition → Cures the bad status.<br/>5. Strength is currently &le; 4 → Restores strength to max.<br/>6. Currently have 0 Gitan → Gain 3000~4999 Gitan.</div>
           </div>
         </div>
       </td>

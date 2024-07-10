@@ -5,7 +5,7 @@ metaDescription: "Monster Trial guide for Shiren the Wanderer: The Mystery Dunge
 ---
 
 <div class="pageTopImage">
-  <img src="../images/other/dojo_challenge.jpg"/>
+  <img src="../images/other/monster_trial.jpg"/>
 </div>
 
 # Overview

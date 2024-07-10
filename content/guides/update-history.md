@@ -10,7 +10,20 @@ metaDescription: "Update History for Shiren the Wanderer: The Mystery Dungeon of
 
 # Overview
 
-This page provides a summary of patch notes for game updates released by Spike Chunsoft.<br/>Spike Chunsoft has announced that a second large content update is currently planned for Summer 2024.<br/>※ This page was last edited on May 13th, 2024.
+This page provides a summary of patch notes for game updates released by Spike Chunsoft.<br/>Spike Chunsoft has announced that a second large content update is currently planned for Summer 2024.<br/>※ This page was last edited on June 17th, 2024.
+
+# 1.1.2
+
+[Official Patch Notes](https://www.spike-chunsoft.com/patch-notes/patch-1-1-1-for-shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-for-nintendo-switch-2/)
+
+|Version|Release Date|
+|-|-|
+|1.1.2|May 27th, 2024|
+
+Changes:
+
+- Fixed an issue where a Sacred Tree Turn Trial completion with 0 turns was not credited.
+- Fixed an issue that changed the cursor position when the player did a certain input in a shop menu.
 
 # 1.1.1
 

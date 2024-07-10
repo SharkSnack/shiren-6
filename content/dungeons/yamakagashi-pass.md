@@ -164,7 +164,7 @@ Instantly defeats the monster hit by the magic bullet, transforming them into a 
     - Beware of Water Ninja's ability while you have Morphed status.
 - Death Reaper - Permanent Swift status while you have Morphed status.
     - Beware of Water Ninja's ability while you have Morphed status.
-- Masked Samurai - Revive as Ghost Warrior if you happen to be defeated.
+- Masked Samurai - Revive as Ghost Samurai if you happen to be defeated.
 - Tengu Monk - Press ZL to give yourself Swift status whenever you'd like.
 - N'dulu - Press ZL to give yourself Hiding status whenever you'd like.
 

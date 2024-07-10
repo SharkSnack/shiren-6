@@ -24,7 +24,7 @@ metaDescription: "Training Path of Extra Inference dungeon guide for Shiren the 
 <table class="dungeonTable">
   <tr>
     <th>Floors</th>
-    <td colspan="3">20F</td>
+    <td colspan="3">20F / 50F (Sacred Tree)</td>
   </tr>
   <tr>
     <th>Bring Items</th>
@@ -665,6 +665,542 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters/17-1.png"/> Bored Kappa</td>
       <td><img src="../images/monsters/19-1.png"/> Dragon</td>
       <td><img src="../images/monsters/31-1.png"/> Curse Girl</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="monsterTableExtension"></td>
+      <td colspan="3" class="monsterTableExtension"></td>
+      <td colspan="5" class="monsterTableExtension centeredText">Sacred Tree Mode</td>
+      <td class="monsterTableExtension"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">21</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">22</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">23</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">24</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">25</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">26</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">27</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">28</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">29</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">30</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">31</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">32</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">33</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">34</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">35</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">36</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">37</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">38</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">39</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">40</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">41</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">42</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">43</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">44</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">45</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">46</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">47</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">48</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">49</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">50</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
   </tbody>
 </table>

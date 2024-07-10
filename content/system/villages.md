@@ -39,9 +39,9 @@ There are many overworld areas in the game, and each village has its own NPCs an
         <td>Underwater<br/>Passage</td>
       </tr>
       <tr>
-        <td>1~2F</td>
-        <td>3~4F</td>
-        <td>5~9F</td>
+        <td>1-2F</td>
+        <td>3-4F</td>
+        <td>5-9F</td>
         <td>10-12F</td>
         <td>13-15F</td>
       </tr>
@@ -76,7 +76,7 @@ There are many overworld areas in the game, and each village has its own NPCs an
 
 #### Item Holder (Storehouse / Bank)
 
-- Store a maximum of 180 items, and Gitan can also be stored.
+- Store a maximum of 180 items (960 after update 1.1.0), and Gitan can also be stored.
     - Unlocked after the first clear of Serpentcoil Island.
 
 #### Traveling Blacksmith
@@ -151,9 +151,9 @@ There are many overworld areas in the game, and each village has its own NPCs an
         <td>Underwater<br/>Passage</td>
       </tr>
       <tr>
-        <td>1~2F</td>
-        <td>3~4F</td>
-        <td>5~9F</td>
+        <td>1-2F</td>
+        <td>3-4F</td>
+        <td>5-9F</td>
         <td>10-12F</td>
         <td>13-15F</td>
       </tr>
@@ -200,9 +200,9 @@ There are many overworld areas in the game, and each village has its own NPCs an
         <td>Underwater<br/>Passage</td>
       </tr>
       <tr>
-        <td>1~2F</td>
-        <td>3~4F</td>
-        <td>5~9F</td>
+        <td>1-2F</td>
+        <td>3-4F</td>
+        <td>5-9F</td>
         <td>10-12F</td>
         <td>13-15F</td>
       </tr>
@@ -238,27 +238,29 @@ There are many overworld areas in the game, and each village has its own NPCs an
   <table class="locationTable">
     <thead>
       <tr>
-        <th colspan="9" class="highlightGray">Location</th>
+        <th colspan="10" class="highlightGray">Location</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td rowspan="2" class="currentLocation">Underwater<br/>Training<br/>Ground</td>
+        <td>Underwater<br/>Passage</td>
         <td>Kibanuma<br/>Marsh</td>
         <td>Firespew<br/>Mountain</td>
-        <td rowspan="2">Hot Spring<br/>Cabin</td>
+        <td rowspan="2">Hot<br/>Spring<br/>Cabin</td>
         <td>Firespew<br/>Mountain</td>
         <td>Mount<br/>Jatou</td>
         <td rowspan="2">Icewall<br/>Village</td>
         <td>Mount<br/>Jatou</td>
-        <td rowspan="2">Mount Jatou<br/>Summit</td>
+        <td rowspan="2">Mount<br/>Jatou<br/>Summit</td>
       </tr>
       <tr>
-        <td>16~17F</td>
+        <td>13-15F</td>
+        <td>16-17F</td>
         <td>18F</td>
-        <td>19~23F</td>
-        <td>24~26F</td>
-        <td>27~30F</td>
+        <td>19-23F</td>
+        <td>24-26F</td>
+        <td>27-30F</td>
       </tr>
     </tbody>
   </table>
@@ -282,27 +284,29 @@ There are many overworld areas in the game, and each village has its own NPCs an
   <table class="locationTable">
     <thead>
       <tr>
-        <th colspan="9" class="highlightGray">Location</th>
+        <th colspan="10" class="highlightGray">Location</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td rowspan="2">Underwater<br/>Training<br/>Ground</td>
+        <td>Underwater<br/>Passage</td>
         <td>Kibanuma<br/>Marsh</td>
         <td>Firespew<br/>Mountain</td>
-        <td rowspan="2" class="currentLocation">Hot Spring<br/>Cabin</td>
+        <td rowspan="2" class="currentLocation">Hot<br/>Spring<br/>Cabin</td>
         <td>Firespew<br/>Mountain</td>
         <td>Mount<br/>Jatou</td>
         <td rowspan="2">Icewall<br/>Village</td>
         <td>Mount<br/>Jatou</td>
-        <td rowspan="2">Mount Jatou<br/>Summit</td>
+        <td rowspan="2">Mount<br/>Jatou<br/>Summit</td>
       </tr>
       <tr>
-        <td>16~17F</td>
+        <td>13-15F</td>
+        <td>16-17F</td>
         <td>18F</td>
-        <td>19~23F</td>
-        <td>24~26F</td>
-        <td>27~30F</td>
+        <td>19-23F</td>
+        <td>24-26F</td>
+        <td>27-30F</td>
       </tr>
     </tbody>
   </table>
@@ -329,27 +333,29 @@ There are many overworld areas in the game, and each village has its own NPCs an
   <table class="locationTable">
     <thead>
       <tr>
-        <th colspan="9" class="highlightGray">Location</th>
+        <th colspan="10" class="highlightGray">Location</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td rowspan="2">Underwater<br/>Training<br/>Ground</td>
+        <td>Underwater<br/>Passage</td>
         <td>Kibanuma<br/>Marsh</td>
         <td>Firespew<br/>Mountain</td>
-        <td rowspan="2">Hot Spring<br/>Cabin</td>
+        <td rowspan="2">Hot<br/>Spring<br/>Cabin</td>
         <td>Firespew<br/>Mountain</td>
         <td>Mount<br/>Jatou</td>
         <td rowspan="2" class="currentLocation">Icewall<br/>Village</td>
         <td>Mount<br/>Jatou</td>
-        <td rowspan="2">Mount Jatou<br/>Summit</td>
+        <td rowspan="2">Mount<br/>Jatou<br/>Summit</td>
       </tr>
       <tr>
-        <td>16~17F</td>
+        <td>13-15F</td>
+        <td>16-17F</td>
         <td>18F</td>
-        <td>19~23F</td>
-        <td>24~26F</td>
-        <td>27~30F</td>
+        <td>19-23F</td>
+        <td>24-26F</td>
+        <td>27-30F</td>
       </tr>
     </tbody>
   </table>

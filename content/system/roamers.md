@@ -10,12 +10,12 @@ Roamers are NPC characters who can be found walking around inside certain dungeo
 
 Characteristics:
 
-- 100 HP and slow movement.
+- 100 HP and slow movement for most characters.
 - Can swap places with Shiren and companion characters.
 - Monsters won't intentionally target them with attacks.
 - 100% chance to evade flying weapons or shields.
 
-Travel companion characters also appear as Roamers, and can be recruited by talking.<br/>Monster Pups can only appear as Roamers when their affection is currently at the max value.<br/>Roamers who aren't companions or monster pups will turn hostile if you attack them.
+Travel companions also appear as Roamers, and can be recruited by talking.<br/>Monster Pups can appear as Roamers after the player befriends them.<br/>Roamers who aren't companions or monster pups will turn hostile if you attack them.
 
 # Roamer List
 

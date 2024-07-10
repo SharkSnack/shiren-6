@@ -1291,7 +1291,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer: The Mystery
               <div>No</div>
             </div>
             <div class="monster_text">Allows you to identify items just by picking them up.</div>
-            <div class="monster_notes">Items you insert into a pot are also auto-identified.<br/>Confirmed Location: Training Path of Extra Inference</div>
+            <div class="monster_notes">Items you insert into a pot are also auto-identified.<br/>Confirmed Location: Training Path of Extra Inference - 13F+</div>
           </div>
         </div>
       </td>

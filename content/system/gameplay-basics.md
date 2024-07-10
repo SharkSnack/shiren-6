@@ -8,7 +8,7 @@ metaDescription: "Game mechanic details for Shiren the Wanderer: The Mystery Dun
 
 #### HP
 
-Shiren collapses and the adventure ends in failure if HP falls to 0.<br/>HP decreases from things like monster attacks, certain traps and items, and starvation.<br/>HP can be restored by using items like Otogirisou, Healing Grass, Fixer Scroll, or Rejuvenation Pot.<br/>HP also naturally regenerates as turns elapse outside of battle or item usage.
+Shiren collapses and the adventure ends in failure if HP falls to 0.<br/>HP decreases from things like monster attacks, certain traps and items, and starvation.<br/>HP can be restored by using items like Otogirisou, Healing Grass, Fixer Scroll, or Rejuvenation Pot.<br/>HP also naturally regenerates as turns elapse outside of battle or through item usage.
 
 #### HP Regeneration Rate
 
@@ -287,6 +287,10 @@ Reduction Multiplier Example:
 
 #### Synthesis
 
+<div class="smallScreenshot">
+  <img src="../images/other/mixer.jpg"/>
+</div>
+
 Synthesis is a mechanic that lets you merge weapon and shield runes and upgrade value,<br/>and combine same name staves to add their remaining charges together.
 
 ※ Synthesis Pots and Mixers must be unlocked through a Side Quest before they appear in dungeons.
@@ -368,13 +372,65 @@ Certain weapons and shields activate special effects when equipped at the same t
 
 #### Sacred Items
 
+Sacred items are rare weapons or shields that carry random enhanced abilities.<br/>These items generally have a higher Base Value and more Rune Slots than regular equipment.<br/>In addition, sacred items can sometimes have exclusive runes called Natural Runes.<br/>Rune Slots on sacred items can occasionally be filled with silver seals.<br/><span class="orangeText">※ The maximum Base Value modifier is +10, but this value is extremely rare.</span>
+
+##### Sacred Item Type
+
+- <span class="highlightLightblue">Blue</span> - Often has a higher Base Value modifier.
+- <span class="highlightYellow">Golden</span> - Often has more Runes and Rune Slots.
+
+##### Natural Runes
+
+|Icon|Rune|Effect|
+|-|-|-|
+|<span class="runeIcon"><img src="../images/rune/weapon/3.png"/></span>|Back Attack|Attack in front and behind you at the same time.|
+|<span class="runeIcon"><img src="../images/rune/weapon/4.png"/></span>|Side Attack|Attack in front and to your left and right at the same time.|
+|<span class="runeIcon"><img src="../images/rune/weapon/17.png"/></span>|Anti-Behemoth|Lets you attack through a Behemoth monster's barrier.|
+|<span class="runeIcon"><img src="../images/rune/weapon/24.png"/></span>|Thunderbolt|Chance to deal an extra 20 damage to a target.|
+|<span class="runeIcon"><img src="../images/rune/weapon/31.png"/></span>|Danger Power|Deal more damage when your HP is low.|
+|<span class="runeIcon"><img src="../images/rune/weapon/34.png"/></span>|Critical At 0|Critical hit when last digit of your HP is 0.|
+|<span class="runeIcon"><img src="../images/rune/weapon/35.png"/></span>|Critical At 1|Critical hit when last digit of your HP is 1.|
+|<span class="runeIcon"><img src="../images/rune/weapon/36.png"/></span>|Critical At 2|Critical hit when last digit of your HP is 2.|
+|<span class="runeIcon"><img src="../images/rune/weapon/37.png"/></span>|Critical At 3|Critical hit when last digit of your HP is 3.|
+|<span class="runeIcon"><img src="../images/rune/weapon/38.png"/></span>|Critical At 4|Critical hit when last digit of your HP is 4.|
+|<span class="runeIcon"><img src="../images/rune/weapon/39.png"/></span>|Critical At 5|Critical hit when last digit of your HP is 5.|
+|<span class="runeIcon"><img src="../images/rune/weapon/40.png"/></span>|Critical At 6|Critical hit when last digit of your HP is 6.|
+|<span class="runeIcon"><img src="../images/rune/weapon/42.png"/></span>|Critical At 8|Critical hit when last digit of your HP is 8.|
+|<span class="runeIcon"><img src="../images/rune/weapon/43.png"/></span>|Critical At 9|Critical hit when last digit of your HP is 9.|
+
 # Dungeon
 
 #### Wind
 
+If you linger on a dungeon floor for too long, wind will begin to blow.<br/>The first three gusts are warnings, and the fourth gust forces you back to Shukuba Beach.<br/>Revival Grass doesn't take effect when that happens, and you lose all items and Gitan.<br/>※ The player can check the current turn count by viewing the Message Log.
+
+##### Wind Turns
+
+|Dungeon|1st|2nd|3rd|4th|
+|-|-|-|-|-|
+|Serpentcoil Island (1~14F)|1200|1300|1400|1500|
+|Serpentcoil Island (15~30F)|1700|1800|1900|2000|
+|Kiki Island|1700|1800|1900|2000|
+|Yamakagashi Pass|900|1000|1100|1200|
+|Training Path of Inference|900|1000|1100|1200|
+|Training Path of Extra Inference|900|1000|1100|1200|
+|Peach Dungeon|900|1000|1100|1200|
+|Sumo Dungeon|900|1000|1100|1200|
+|Cat-Ching's Divine Will|900|1000|1100|1200|
+|Trapper's Secret Path|900|1000|1100|1200|
+|Training Path of Shopping|900|1000|1100|1200|
+|Behemoth Rush|900|1000|1100|1200|
+|Sacred Ocean Tunnel|900|1000|1100|1200|
+|Domain of Staves and Scrolls|900|1000|1100|1200|
+|Isle of the Mighty|1200|1300|1400|1500|
+|Heart of Serpentcoil Island|1700|1800|1900|2000|
+|Tunnel of Wishes|600|700|800|900|
+
 #### Kron's Challenge
 
 #### Fever Time
+
+#### Bouncy Wall Rooms
 
 # Monsters
 

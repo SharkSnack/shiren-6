@@ -819,6 +819,12 @@ export const baseStyles = css`
   .stoneTable tr:nth-of-type(19) td {
     background-color: #fff9e0;
   }
+  .stoneTable tr:nth-of-type(22) td {
+    background-color: #fff9e0;
+  }
+  .stoneTable tr:nth-of-type(23) td {
+    background-color: #fff9e0;
+  }
   .stoneTable tr:nth-of-type(24) td {
     background-color: #fff9e0;
   }
@@ -1031,6 +1037,7 @@ export const baseStyles = css`
     border-radius: 0px !important;
     height: 20px !important;
     width: 20px !important;
+    vertical-align: text-bottom !important;
   }
   .trapIcon img {
     position: relative !important;
@@ -1740,6 +1747,9 @@ export const baseStyles = css`
   .monsterTableVillage {
     background-color: #e5f7ff;
   }
+  .monsterTableExtension {
+    background-color: #ffd5fa;
+  }
   .monsterTableNdubba {
     color: white;
     background-color: #bb976a;
@@ -2049,6 +2059,10 @@ export const baseStyles = css`
     text-align: center;
     padding: 1px;
   }
+  .iconTable img {
+    width: 40px !important;
+    height: 40px !important;
+  }
   .rewardTable td:nth-of-type(1) {
     text-align: center;
     padding: 1px;
@@ -2107,8 +2121,9 @@ export const baseStyles = css`
     width: 340px;
     height: auto;
   }
-  .smallScreenshot {
-    width: 240px;
+  .smallScreenshot img {
+    position: relative !important;
+    width: 240px !important;
     height: auto;
   }
   .overworldMap {

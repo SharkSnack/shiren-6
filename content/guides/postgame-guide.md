@@ -680,20 +680,22 @@ Some of the rarer entries needed for notebook completion are noted below:
 - Kabura Sutegi
     - Upgrade a Manji Kabura+99 at the Traveling Blacksmith in Shukuba Beach.
 - Golden Pickaxe
-    - Isle of the Mighty (shop, 48\~49F).
+    - Isle of the Mighty (shop, 48\~49F and 98\~99F).
     - Clear Heart of Serpentcoil Island 3 times.
 - Epic Hammer
-    - Isle of the Mighty (shop, 48\~49F).
+    - Isle of the Mighty (shop, 48\~49F and 98\~99F).
     - Clear Heart of Serpentcoil Island 4 times.
 - Accurate Sword
     - Clear Heart of Serpentcoil Island 6 times.
+    - Isle of the Mighty (shop, 98\~99F)
 - Rasen Fuuma
     - Upgrade a Fuuma Shield+99 at the Traveling Blacksmith in Shukuba Beach.
 - Bodhi Shield
     - Heart of Serpentcoil Island (floor).
     - Clear Heart of Serpentcoil Island 5 times.
+    - Isle of the Mighty.
 - Appraiser's Bracelet
-    - Training Path of Extra Inference (13\~20F).
+    - Training Path of Extra Inference (13F+, guaranteed on 50F).
 - Expulsion Scroll
     - Isle of the Mighty (shop, 48\~49F, 3000G).
 - Eradication Scroll
@@ -775,6 +777,7 @@ Fluffy Bunny (80-89F) in Heart of Serpentcoil Island is currently thought to be 
 |![27](../images/icons/27.png)|Completed the "Isle of the Mighty" story arc.|
 |![28](../images/icons/28.png)|Completed the "Heart of Serpentcoil Island" story arc.|
 |![29](../images/icons/29.png)|Unlocked "Kokatsu Shiren" to adventure as.|
+|![30](../images/icons/30.png)|Unlocked "Tatsumi Shiren" to adventure as.|
 
 </div>
 
@@ -840,6 +843,7 @@ Fluffy Bunny (80-89F) in Heart of Serpentcoil Island is currently thought to be 
 |56|Proven Expert|Completed a Sacred Tree dungeon in a Challenge Trial.|
 |57|A Monster's Life|Completed a Sacred Tree dungeon in a Monster Trial.|
 |58|Tale of the Burning Sand|Completed a Sacred Tree dungeon as Kokatsu Shiren.|
+|59|Dragon God's Frolic|Completed a Sacred Tree dungeon as Tatsumi Shiren.|
 
 <p><span class="redText">*1</span> Requires an internet connection.</p>
 

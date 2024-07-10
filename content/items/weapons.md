@@ -122,7 +122,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
     <td><img src="../images/rune/weapon/6.png"/></td>
     <td>20000</td>
     <td>8000</td>
-    <td>Your normal attacks will always hit.<br/><span class="purpleText">How to obtain</span>:<br/>Clear Heart of Serpentcoil Island 6 times.</td>
+    <td>Your normal attacks will always hit.<br/><span class="purpleText">How to obtain</span>:<br/>Clear Heart of Serpentcoil Island 6 times,<br/>or Isle of the Mighty (Shop, 98~99F).</td>
   </tr>
   <tr>
     <td class="priceTableName"><a href="#swift-sword">Swift Sword</a></td>
@@ -400,7 +400,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div>-</div>
             </div>
             <div class="monster_text">A weapon carved from old wood into the shape of a katana.<br/>It's lightweight and easy to handle.<br/>Resonance Effect (Wooden Shield):<br/>Increases Weapon and Shield strength by 3.</div>
-            <div class="monster_notes">No additional notes.</div>
+            <div class="monster_notes">For basic weapons, weapon strength and rune slots are generally<br/>inversely proportional to each other except for Kabura Sutegi.<br/>Stronger than a Katana with resonance, but still too weak to continue<br/>using it mid~late game.</div>
           </div>
         </div>
       </td>
@@ -432,7 +432,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div>-</div>
             </div>
             <div class="monster_text">A bronze sword that is widely available and easy to obtain.<br/>Resonance Effect (Bronze Shield):<br/>Increases Weapon and Shield strength by 3.</div>
-            <div class="monster_notes">No additional notes.</div>
+            <div class="monster_notes">Pretty weak, but easy to find both weapon and shield for resonance.<br/>Often found on 1-5F alongside Wooden Shield in dungeons that don't<br/>expect the player to rely on equipment.</div>
           </div>
         </div>
       </td>
@@ -464,7 +464,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div>-</div>
             </div>
             <div class="monster_text">A sturdy, reliable weapon cherished by wanderers everywhere.<br/>Resonance Effect (Iron Shield):<br/>Increases Weapon and Shield strength by 3.</div>
-            <div class="monster_notes">No additional notes.</div>
+            <div class="monster_notes">Common, and same strength as Doutanuki with resonance.<br/>That said, there are still plenty of stronger weapons out there.</div>
           </div>
         </div>
       </td>
@@ -496,7 +496,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div>-</div>
             </div>
             <div class="monster_text">A revered sword forged by the swordsmith Dotanuki Genma.<br/>Resonance Effect (Wolfshead):<br/>Increases Weapon and Shield strength by 3.</div>
-            <div class="monster_notes">No additional notes.</div>
+            <div class="monster_notes">Decent base strength, but few rune slots.<br/>Still a decent bit weaker than a Manji Kabura even with resonance.<br/>Mostly used as an interim weapon while waiting for a sacred weapon.<br/>However, it shines in dungeons where Mixers don't appear.</div>
           </div>
         </div>
       </td>
@@ -528,6 +528,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div>-</div>
             </div>
             <div class="monster_text">A rare, mighty sword forged by the ancient swordsmith Kabura.<br/>Resonance Effect:<br/>Fuuma Shield - Increases damage dealt by normal attacks by 5.<br/>Rasen Fuuma - Increases damage dealt by normal attacks by 10.</div>
+            <div class="monster_notes">Stronger than any of the lower tier basic weapons, but few rune slots.<br/>Viable if you find a sacred version and/or use Slot-adding Scrolls.<br/>Resonance adds fixed damage to normal attacks, making it easier<br/>to fight monsters like Ghost Samurai and Cave Mamel.</div>
           </div>
         </div>
       </td>
@@ -559,7 +560,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/23.png"/> Flame Shot</div>
             </div>
             <div class="monster_text">A legendary katana sought by all wanderers.<br/>When HP is full, shoots flames that deal 10 damage to the target.<br/>Resonance Effect:<br/>Fuuma Shield - Increases damage dealt by normal attacks by 5.<br/>Rasen Fuuma - Increases damage dealt by normal attacks by 10.</div>
-            <div class="monster_notes"><span class="purpleText">How to obtain</span>: Upgrade a Katana+99 in Shukuba Beach.</div>
+            <div class="monster_notes">Flame Shot cannot be erased by a Blacksmith on Kajin Fuuma.<br/>Monsters have higher HP in this game, so 10 damage is a bit mediocre.<br/>Can be combined with Onigiri Payback to obtain Grilled Onigiri,<br/>and effective against Ghost Samurai, Cave Mamel, and Gitan Mamel.<br/><span class="purpleText">How to obtain</span>: Upgrade a Katana+99 in Shukuba Beach.</div>
           </div>
         </div>
       </td>
@@ -591,7 +592,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div>-</div>
             </div>
             <div class="monster_text">The final form of the mighty sword, Manji Kabura.<br/>A mythical blade rarely crafted even by the ancient swordsmith Kabura.<br/>Resonance Effect:<br/>Fuuma Shield - Increases damage dealt by normal attacks by 5.<br/>Rasen Fuuma - Increases damage dealt by normal attacks by 10.</div>
-            <div class="monster_notes"><span class="purpleText">How to obtain</span>: Upgrade a Manji Kabura+99 in Shukuba Beach.</div>
+            <div class="monster_notes">Strongest sword in the game in terms of base strength and rune slots.<br/>Resonance with Rasen Fuuma lets you slay Gitan Mamel in 2 hits.<br/>This set's rival for carry-in dungeons is the Yamanba's set or Steak set.<br/><span class="purpleText">How to obtain</span>: Upgrade a Manji Kabura+99 in Shukuba Beach.</div>
           </div>
         </div>
       </td>
@@ -623,7 +624,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/1.png"/> Rustproof</div>
             </div>
             <div class="monster_text">A gold sword that does not rust.<br/>Things like Rust Trap will not decrease Upgrade Value.<br/>Slightly increases the accuracy of normal attacks.<br/>Resonance Effect (Golden Shield):<br/>Monsters defeated with normal attacks are likely to drop Gitan.</div>
-            <div class="monster_notes">Increases accuracy of normal attacks by 2.0% (92% → 94%).<br/>Resonance effect's chance seems to be roughly 24%.</div>
+            <div class="monster_notes">Low base strength, but fantastic in terms of rune slots.<br/>Increases accuracy of normal attacks by 2.0% (92% → 94%).<br/>Resonance effect's chance seems to be roughly 24%.<br/>Gitan dropped due to resonance does not overwrite other item drops.</div>
           </div>
         </div>
       </td>
@@ -655,7 +656,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/2.png"/> Frontal Attack</div>
             </div>
             <div class="monster_text">A magical sword that generates shockwaves when swung.<br/>Attacks to the front in 3 directions simultaneously.</div>
-            <div class="monster_notes">No additional notes.</div>
+            <div class="monster_notes">Essential as a rune, but too weak to use as a main weapon.<br/>However, a sacred version with a high modifier can be viable.</div>
           </div>
         </div>
       </td>
@@ -687,7 +688,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/5.png"/> Critical</div>
             </div>
             <div class="monster_text">An axe beloved by Minotaur.<br/>May unleash Critical Hits.<br/>Resonance Effect (Targe of the Minotaur):<br/>Makes Critical Hits occur more often.</div>
-            <div class="monster_notes">Roughly 30% chance to land a x1.5 damage critical hit.<br/>Resonance boosts critical hit rates:<br/>&nbsp;&nbsp;&nbsp;Player: 30% → 40% chance, Monster: 33% chance.</div>
+            <div class="monster_notes">Roughly 30% chance to land a x1.5 damage critical hit.<br/>Resonance boosts critical hit rates:<br/>&nbsp;&nbsp;&nbsp;Player: 30% → 40% chance, Monster: 33% chance.<br/>Pairs nicely with Targe of the Minotaur + Daredevil Bracelet x 2.<br/><span class="purpleText">How to obtain</span>: Occasionally dropped by Taur family monsters.</div>
           </div>
         </div>
       </td>
@@ -719,7 +720,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/6.png"/> Accurate</div>
             </div>
             <div class="monster_text">A beautiful, double-edged sword.<br/>Attacks will always hit.</div>
-            <div class="monster_notes"><span class="purpleText">How to obtain</span>: Clear Heart of Serpentcoil Island 6 times.</div>
+            <div class="monster_notes">Duplicate it using a Bouncy Wall Room before synthesizing it.<br/>Blue sacred version is only possible to obtain in Isle of the Mighty.<br/><span class="purpleText">How to obtain</span>: Clear Heart of Serpentcoil Island 6 times,<br/>or Isle of the Mighty (Shop, 98~99F).</div>
           </div>
         </div>
       </td>
@@ -751,7 +752,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/7.png"/> Swift Strikes</div>
             </div>
             <div class="monster_text">A katana that's as light as a feather.<br/>Normal attacks may hit 2 times.</div>
-            <div class="monster_notes">25% chance, second hit has 50% attack power.</div>
+            <div class="monster_notes">25% chance to activate, second hit has 50% attack power.<br/>Plays well with chance based runes (Critical, Sedating, etc.)</div>
           </div>
         </div>
       </td>
@@ -783,7 +784,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/8.png"/> Anti-Aquatic</div>
             </div>
             <div class="monster_text">Legend has it that this weapon can carve a path through the sea.<br/>Deals extra damage to Aquatic monsters.<br/>Resonance Effect (Spearscale Shield):<br/>Increases Anti-Aquatic Rune effects.</div>
-            <div class="monster_notes">Deals x1.5 damage to Aquatic type monsters.<br/>Resonance boosts Anti-Aquatic's damage multiplier (x1.5 → x2.5).</div>
+            <div class="monster_notes">Deals x1.5 damage to Aquatic type monsters.<br/>Resonance boosts Anti-Aquatic's damage multiplier (x1.5 → x2.5).<br/>Passable rune slot count, nice for hunting Thiefwalrus monsters.</div>
           </div>
         </div>
       </td>
@@ -815,7 +816,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/9.png"/> Anti-Beast</div>
             </div>
             <div class="monster_text">Used since ancient times, this weapon bears a primal savagery.<br/>Deals extra damage to Beast monsters.</div>
-            <div class="monster_notes">Deals x1.5 damage to Beast type monsters.</div>
+            <div class="monster_notes">Deals x1.5 damage to Beast type monsters.<br/>High rune slot count, good main weapon even as non-sacred.</div>
           </div>
         </div>
       </td>
@@ -847,7 +848,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/10.png"/> Anti-Dragon</div>
             </div>
             <div class="monster_text">A weapon that can slice through the tough scales of dragons.<br/>Deals extra damage to Dragon monsters.<br/>Resonance Effect (Dragon Shield):<br/>Increases Anti-Dragon Rune effects.</div>
-            <div class="monster_notes">Deals x1.5 damage to Dragon type monsters.<br/>Resonance boosts Anti-Dragon's damage multiplier (x1.5 → x2.5).</div>
+            <div class="monster_notes">Deals x1.5 damage to Dragon type monsters.<br/>Resonance boosts Anti-Dragon's damage multiplier (x1.5 → x2.5).<br/>Highest base strength among type-effective weapons.</div>
           </div>
         </div>
       </td>
@@ -879,7 +880,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/11.png"/> Anti-Exploding</div>
             </div>
             <div class="monster_text">A weapon with a blade resembling a crescent moon.<br/>Deals extra damage to Exploding monsters.<br/>Resonance Effect (Blast Shield):<br/>Increases Anti-Exploding Rune effects.</div>
-            <div class="monster_notes">Deals x1.5 damage to Exploding type monsters.<br/>Resonance boosts Anti-Exploding's damage multiplier (x1.5 → x2.5).</div>
+            <div class="monster_notes">Deals x1.5 damage to Exploding type monsters.<br/>Resonance boosts Anti-Exploding's damage multiplier (x1.5 → x2.5).<br/>Anti-Exploding is lackluster, so it's not a good main weapon option.</div>
           </div>
         </div>
       </td>
@@ -911,7 +912,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/16.png"/> Anti-Floating</div>
             </div>
             <div class="monster_text">Rends the target with a razor-sharp blade of air.<br/>Deals extra damage to Floating monsters.</div>
-            <div class="monster_notes">Deals x1.5 damage to Floating type monsters.</div>
+            <div class="monster_notes">Deals x1.5 damage to Floating type monsters.<br/>Mainly useful against Pumphantasm and Death Reaper monsters.<br/>However, base strength and rune slot count are both kind of bad.</div>
           </div>
         </div>
       </td>
@@ -943,7 +944,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/12.png"/> Anti-Ghost</div>
             </div>
             <div class="monster_text">A scythe said to reap the souls of the wandering dead.<br/>Deals extra damage to Ghost monsters.</div>
-            <div class="monster_notes">Deals x1.5 damage to Ghost type monsters.</div>
+            <div class="monster_notes">Deals x1.5 damage to Ghost type monsters.<br/>Use it to one-shot Ghost Samurai with a normal attack.<br/>Great main weapon - Base strength is a bit low, but lots of rune slots.</div>
           </div>
         </div>
       </td>
@@ -975,7 +976,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/13.png"/> Anti-Draining</div>
             </div>
             <div class="monster_text">A katana with a distinctive shape.<br/>Deals extra damage to Draining monsters.</div>
-            <div class="monster_notes">Deals x1.5 damage to Draining type monsters.</div>
+            <div class="monster_notes">Deals x1.5 damage to Draining type monsters.<br/>Great as a rune, but too few rune slots to be used as a main weapon.</div>
           </div>
         </div>
       </td>
@@ -1007,7 +1008,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/14.png"/> Anti-Cyclops</div>
             </div>
             <div class="monster_text">Decorated all over with eye patterns.<br/>Deals extra damage to Cyclops monsters.<br/>Resonance Effect (Watchful Shield):<br/>Increases Anti-Cyclops Rune effects.</div>
-            <div class="monster_notes">Deals x1.5 damage to Cyclops type monsters.<br/>Resonance boosts Anti-Cyclops's damage multiplier (x1.5 → x2.5).</div>
+            <div class="monster_notes">Deals x1.5 damage to Cyclops type monsters.<br/>Resonance boosts Anti-Cyclops's damage multiplier (x1.5 → x2.5).<br/>Solid rune, decent base strength, but low rune slot count.<br/>Watchful Shield only has 1 defense, so its resonance isn't very practical.</div>
           </div>
         </div>
       </td>
@@ -1039,7 +1040,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
               <div class="runeIcon"><img src="../images/rune/weapon/15.png"/> Anti-Metal</div>
             </div>
             <div class="monster_text">A hulking long sword that can even cleave through steel.<br/>Deals extra damage to Metal monsters.</div>
-            <div class="monster_notes">Deals x1.5 damage to Metal type monsters.</div>
+            <div class="monster_notes">Deals x1.5 damage to Metal type monsters.<br/>Nice for Karakuroid monsters even if you eradicate Pop Tanks.<br/>Pretty average as a main weapon for both base strength and rune slots.</div>
           </div>
         </div>
       </td>

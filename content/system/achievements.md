@@ -43,6 +43,7 @@ Clear Icons and Achievements are automatically attained as you reach certain mil
 |![27](../images/icons/27.png)|Completed the "Isle of the Mighty" story arc.|
 |![28](../images/icons/28.png)|Completed the "Heart of Serpentcoil Island" story arc.|
 |![29](../images/icons/29.png)|Unlocked "Kokatsu Shiren" to adventure as.|
+|![30](../images/icons/30.png)|Unlocked "Tatsumi Shiren" to adventure as.|
 
 </div>
 
@@ -108,6 +109,7 @@ Clear Icons and Achievements are automatically attained as you reach certain mil
 |56|Proven Expert|Completed a Sacred Tree dungeon in a Challenge Trial.|
 |57|A Monster's Life|Completed a Sacred Tree dungeon in a Monster Trial.|
 |58|Tale of the Burning Sand|Completed a Sacred Tree dungeon as Kokatsu Shiren.|
+|59|Dragon God's Frolic|Completed a Sacred Tree dungeon as Tatsumi Shiren.|
 
 <p><span class="redText">*1</span> Requires an internet connection.</p>
 
@@ -141,5 +143,6 @@ Clear Icons and Achievements are automatically attained as you reach certain mil
 |![19](../images/rewards/19.jpg)|52|Wallpaper "Seki and Madara"|
 |![20](../images/rewards/20.jpg)|55|Wallpaper "Kokatsu Shiren"|
 |![skin_4](../images/rewards/skin_4.jpg)|58|Skin "Rainbow Shiren"|
+|![21](../images/rewards/21.jpg)|59|Wallpaper "Tatsumi Shiren"|
 
 </div>
