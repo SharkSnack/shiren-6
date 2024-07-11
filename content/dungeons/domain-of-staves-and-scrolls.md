@@ -24,7 +24,7 @@ metaDescription: "Domain of Staves and Scrolls dungeon guide for Shiren the Wand
 <table class="dungeonTable">
   <tr>
     <th>Floors</th>
-    <td colspan="3">20F</td>
+    <td colspan="3">20F / 50F (Sacred Tree)</td>
   </tr>
   <tr>
     <th>Bring Items</th>
@@ -637,6 +637,556 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters/39-1.png"/> Explochin</td>
       <td class="stats"><img src="../images/monsters/24-2.png"/> Polygon Shaka</td>
       <td class=""></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="monsterTableExtension"></td>
+      <td colspan="3" class="monsterTableExtension"></td>
+      <td colspan="5" class="monsterTableExtension centeredText">Sacred Tree Mode</td>
+      <td class="monsterTableExtension"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">21</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/41-2.png"/> Blazeous</td>
+      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
+      <td><img src="../images/monsters/38-2.png"/> Corporal Ant</td>
+      <td><img src="../images/monsters/18-2.png"/> Porko</td>
+      <td class="highlightGray"></td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">22</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/41-2.png"/> Blazeous</td>
+      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
+      <td><img src="../images/monsters/38-2.png"/> Corporal Ant</td>
+      <td><img src="../images/monsters/18-2.png"/> Porko</td>
+      <td class="highlightGray"></td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">23</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/41-2.png"/> Blazeous</td>
+      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
+      <td><img src="../images/monsters/38-2.png"/> Corporal Ant</td>
+      <td><img src="../images/monsters/18-2.png"/> Porko</td>
+      <td class="highlightGray"></td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">24</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/41-2.png"/> Blazeous</td>
+      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
+      <td><img src="../images/monsters/38-2.png"/> Corporal Ant</td>
+      <td><img src="../images/monsters/18-2.png"/> Porko</td>
+      <td><img src="../images/monsters/4-3.png"/> Capt. Spearfish</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">25</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/41-2.png"/> Blazeous</td>
+      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
+      <td><img src="../images/monsters/38-2.png"/> Corporal Ant</td>
+      <td><img src="../images/monsters/18-2.png"/> Porko</td>
+      <td><img src="../images/monsters/4-3.png"/> Capt. Spearfish</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
+      <td><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">26</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/41-2.png"/> Blazeous</td>
+      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
+      <td><img src="../images/monsters/38-2.png"/> Corporal Ant</td>
+      <td><img src="../images/monsters/18-2.png"/> Porko</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
+      <td><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">27</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/41-2.png"/> Blazeous</td>
+      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
+      <td><img src="../images/monsters/38-2.png"/> Corporal Ant</td>
+      <td><img src="../images/monsters/18-2.png"/> Porko</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
+      <td><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">28</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/41-2.png"/> Blazeous</td>
+      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
+      <td><img src="../images/monsters/38-2.png"/> Corporal Ant</td>
+      <td><img src="../images/monsters/18-2.png"/> Porko</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
+      <td><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">29</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">30</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">31</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">32</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">33</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">34</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">35</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">36</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">37</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">38</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">39</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">40</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">41</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">42</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">43</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">44</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">45</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">46</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">47</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">48</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">49</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">50</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
   </tbody>
 </table>
