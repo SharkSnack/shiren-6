@@ -24,7 +24,7 @@ metaDescription: "Behemoth Rush dungeon guide for Shiren the Wanderer: The Myste
 <table class="dungeonTable">
   <tr>
     <th>Floors</th>
-    <td colspan="3">30F</td>
+    <td colspan="3">30F / 99F (Sacred Tree)</td>
   </tr>
   <tr>
     <th>Bring Items</th>
@@ -207,6 +207,24 @@ Monster Colors = <span class="special">Breakable Walls, Monster Pot, Monster Scr
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="monsterTableExtension"></td>
+      <td colspan="3" class="monsterTableExtension"></td>
+      <td colspan="5" class="monsterTableExtension centeredText">Sacred Tree Mode</td>
+      <td class="monsterTableExtension"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">31-99</td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class=""></td>
+      <td class="special">???</td>
+      <td class="special">???</td>
+      <td class="highlightBehemoth"></td>
     </tr>
   </tbody>
 </table>
