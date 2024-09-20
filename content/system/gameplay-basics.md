@@ -76,9 +76,9 @@ Related Items:
         - Only practical if you perform Nigiri Morph Factory to raise Max Fullness to the limit.
 - Peach Bun
     - Eating a Peach Bun outside of Sumo Status:
-        - If Fullness goes above 150 from eating the Peach Bun, you can wait until Fullness &lt; 150<br/>before reverting from Morph Status to avoid activating Sumo Status.
+        - If Fullness goes above 150 from eating the Peach Bun, you can wait until Fullness &lt; 150<br/>before reverting from Morphed Status to avoid activating Sumo Status.
     - Eating a Peach Bun during Sumo Status:
-        - The Max HP +50 effect from Sumo Status doesn't apply during Morph status.
+        - The Max HP +50 effect from Sumo Status doesn't apply during Morphed status.
         - Reverting after Fullness goes below 120 skips the -5 Max Fullness penalty.
 
 #### Attack Accuracy
@@ -372,12 +372,20 @@ Certain weapons and shields activate special effects when equipped at the same t
 
 #### Sacred Items
 
-Sacred items are rare weapons or shields that carry random enhanced abilities.<br/>These items generally have a higher Base Value and more Rune Slots than regular equipment.<br/>In addition, sacred items can sometimes have exclusive runes called Natural Runes.<br/>Rune Slots on sacred items can occasionally be filled with silver seals.<br/><span class="orangeText">※ The maximum Base Value modifier is +10, but this value is extremely rare.</span>
+<div class="smallScreenshot">
+  <img src="../images/areas/other/sacred_sea_2.jpg"/>
+</div>
+
+Sacred items are rare weapons or shields that carry random enhanced abilities.<br/>These items generally have a higher Base Value and more Rune Slots than regular equipment.<br/>In addition, sacred items can sometimes have exclusive runes called Natural Runes.<br/>Rune Slots on sacred items can occasionally be filled with silver seals (roughly 40% chance per slot).<br/><span class="orangeText">※ The max Base Value modifier is +10 for Blue and +8 for Golden, but these values are extremely rare.</span>
 
 ##### Sacred Item Type
 
-- <span class="highlightLightblue">Blue</span> - Often has a higher Base Value modifier.
-- <span class="highlightYellow">Golden</span> - Often has more Runes and Rune Slots.
+- Blue - Often has a higher Base Value modifier.
+    - Base Value ranges from +5 ~ +10, extra rune slots ranges from 2 ~ 5.
+    - Roughly 5% chance for additional runes being present.
+- Golden - Often has more Runes and Rune Slots.
+    - Base Value ranges from +3 ~ +8, extra rune slots ranges from 4 ~ 7.
+    - Roughly 30% chance for additional runes being present.
 
 ##### Natural Runes
 
@@ -428,9 +436,144 @@ If you linger on a dungeon floor for too long, wind will begin to blow.<br/>The 
 
 #### Kron's Challenge
 
+Challenges that can occur at random in select postgame dungeons.<br/>It begins at the start of a floor, and the player is rewarded if they complete the challenge.<br/>The player is still rewarded based on their progress if they advance floors before the challenge ends,<br/>but the player won't receive any rewards if they advance using a Pitfall Trap or Floor-exiting Trap.
+
+##### Possible Kron's Challenges
+
+Note: The in-game text for each challenge might differ from the text in this table.
+
+|Challenge|Gold|Silver|Bronze|Notes|
+|-|-|-|-|-|
+|Don't eat anything.|0 Times|1~2 Times|3~5 Times|Biting a Bonito Block is fine.<br/>Peach Buns count.|
+|Don't throw or shoot anything.|0 Times|1~2 Times|3~5 Times|-|
+|Don't swing staves.|0 Times|1~2 Times|3~5 Times|Cursed staves count.|
+|Don't read scrolls.|0 Times|1~2 Times|3~5 Times|-|
+|Read scrolls.|5 Times|2~4 Times|1 Time|Wet Scroll doesn't count.|
+|Eat grass.|5 Times|2~4 Times|1 Time|Revival Grass activating doesn't count.|
+|Light incense.|3 Times|2 Times|1 Time|-|
+|Swing staves.|12 Times|4~11 Times|1~3 Times|Cursed staves count.|
+|Hit monsters with arrows.|12 Times|4~11 Times|1~3 Times|Hitting a Shopkeeper counts.|
+|Hit monsters with rocks.|12 Times|4~11 Times|1~3 Times|-|
+|Take damage as few times as possible.|0 Times|1~5 Times|6~10 Times|-|
+|Advance floors quickly.|100 Turns|101~500 Turns|501~1000 Turns|Gate of Wishes counts.|
+|Slay monsters without taking damage.|10 Times|7~9 Times|3~6 Times|Monsters slain by companions count.<sup><span class="redText">*1</span></sup>|
+|Slay lots of monsters.|20 Times|10~19 Times|5~9 Times||
+|Teleport.|3 Times|2 Times|1 Time|Any type of warping counts.|
+|Eat onigiri.|5 Times|2~4 Times|1 Time|Yakitori and Sweet Potato count.|
+|Spend money at a shop.|5000G|3000~4999G|1000~2999G|-|
+
+<p><span class="redText">*1</span> - As of game version 1.1.0 and later.</p>
+
+##### Possible Kron's Challenge Rewards
+
+|Reward|Gold|Silver|Bronze|Notes|
+|-|-|-|-|-|
+|Increase Max HP.|+30|+10|+3|-|
+|Increase Max Strength.|+5|+3|+1|Also fully restores lost strength.|
+|Increase Max Fullness.|+30|+10|+5|Also fully replenishes current fullness.<br/>No increase if Bodhi Shield is equipped.|
+|Raise Upgrade Value of equipped items.|+5|+3|+1|-|
+|Increase 1 staff's charges.|+20|+3|+1|Staves in pots are excluded.|
+|Increase pot capacity by 1.|20 Pots|3 Pots|1 Pot|No increase if max capacity pot is selected.|
+|Identify items not in pots.|20 Items|10 Items|1 Item|-|
+|Bless items not in pots.|5 Items|3 Items|1 Item|-|
+|Obtain Gitan.|7000G|3500G|1400G|-|
+|Obtain Gitan.|5000G|2500G|1000G|-|
+|Obtain Gitan.|4000G|2000G|800G|-|
+
 #### Fever Time
 
+Limited time events that can occur at random in select postgame dungeons.<br/>When it does occur, it usually occurs when the player is inside a room instead of a hallway.<br/>There's no penalty for ignoring the event similar to Kron's Challenge, so don't feel pressured to act quickly.<br/>You can easily end up getting hit by a nasty special attack or stepping on a trap when in a hurry.
+
+##### Fever Time Details
+
+- The event progresses in real time instead of being based on turns.
+    - The countdown doesn't begin until the player presses A after the notification appears.
+    - Once the countdown reaches 0, the Fever Time ends on the next turn.
+    - If an adventure is suspended during a Fever Time, the countdown is set to 0 upon resuming.
+- Some have reported finding weapons and shields that normally don't appear in the dungeon's item table.
+- Type 1 - Item related (30 seconds)
+    - Lots of items of the category corresponding to the Fever Time are generated on the ground.
+    - Item-find Bracelet's effect is granted to the player during the Fever Time.
+        - Fever Time items blink on the map, so they're easy to tell apart from regular items.
+    - Fever Time items that haven't been picked up will vanish once the Fever Time ends.
+        - This includes Fever Time items that you picked up and set back down.
+    - Collection Scroll can be used to quickly gather all Fever Time items.
+        - It's recommended to use the <span class="blueText">Exchange</span> command if you're already at 24/24 items.
+- Type 2 - Monster related (60 seconds)
+    - Monster-find Bracelet's effect is granted to the player during the Fever Time.
+    - Gathering Scroll can be used to quickly attract all monsters on the floor, but be careful.
+    - Stepping in place sometimes leads to more monsters defeated than running around.
+
+##### Possible Fever Times
+
+|Fever Time|Duration|Notes|
+|-|-|-|
+|Item|30 Seconds|Floor table items.|
+|Weapon|30 Seconds|Weapons, Heavenly Scroll.|
+|Shield|30 Seconds|Shields, Earthly Scroll.|
+|Level Up|30 Seconds|Fortune Grass, Angel Seed, Fortune Staff.|
+|Onigiri|30 Seconds|Onigiri type items.|
+|Gitan|30 Seconds|Gitan.|
+|Experience Points|60 Seconds|Double experience points.|
+|Item Drop|60 Seconds|Slain monsters always drop an item.<br/>(Monsters like Chow drop 2 items).|
+
+#### Wishing Shrine
+
+<div class="smallScreenshot">
+  <img src="../images/other/wishing_shrine.jpg"/>
+</div>
+
+Object that offers 3 random wishes, and a portal to Tunnel of Wishes opens after making a selection.<br/>Tunnel of Wishes acts as a bonus zone where the item(s) you wished for can be found on the ground.<br/>Wishing Shrines are usually hidden inside a buried room, wall tile, or Gitan vault.
+
+A chime will sound when you have a Shield of Presage equipped if a Wishing Shrine is present on the floor.<br/>In addition, 1 Golden Egg Thing is always generated when a Wishing Shrine is present on the floor.<br/>It's similar to Golden Intervals in Shiren 2, but Wishing Shrines are generally much easier to find.
+
+Shopkeepers won't go towards a Gate of Wishes, so a Wall-less Scroll can be used to steal easily.<br/>If the player steps on a Monsterizing Trap, the Wishing Shrine transforms into a monster.
+
+##### Possible Wishes
+
+- Item Category
+    - Weapons, Shields, Bracelets, Arrows / Rocks, Food, Scrolls, Staves, Incense, Pots, or Gitan.
+- Specific Item
+    - Preservation Pot
+    - Revival Grass
+    - Blank Scroll
+    - Fixer Scroll
+    - Wallpass Bracelet
+    - Waterwalk Bracelet
+    - Clairvoyant Bracelet
+    - Monster-find Bracelet
+    - Item-find Bracelet
+- Other Wishes
+    - Identify Items - Identifier Scroll, Identifier Pot, etc.
+    - Dig Through Walls - Pickaxe, Burrowing Staff, etc.
+    - Increase Strength - Strength Grass, Strength Bracelet, etc.
+    - Level Up - Fortune Grass, Angel Seed, etc.
+    - Destroy Traps - Pickaxe, Wooden Mallet, Burrowing Staff, Trapseeker, Seewell Grass, etc.
+    - Upgrade - Heavenly Scroll, Earthly Scroll, Plating Scroll, Slot-adding Scroll, Rune-eraser Scroll,<br/>Silverpurge Scroll, Upgrading Pot, etc.
+
+#### Tunnel of Wishes
+
+1 floor bonus zone accessed by making a wish at a Wishing Shrine and going through a Gate of Wishes.<br/>A random quantity of the item(s) you wished for can be found on the ground in this area.<br/>Items dropped by defeated monsters are also generally weighted towards what you wished for.<br/>Unrelated items can also be generated either on the ground or inside the floor's walls.
+
+The monster table is the same as the floor the Wishing Shrine was found on.<br/>Use a Collection Scroll or such if there were Fire Ninjas, Bored Kappas, or Field Knaves on the prior floor.<br/>Wind blows far earlier than regular floors inside a Tunnel of Wishes, and hallways are never dark.<br/>The adventure log cannot be checked inside a Tunnel of Wishes, and Parallel Data cannot be created.
+
+#### Flowing Water and Rafts
+
+A long single tile wide waterway where rafts move downstream like a conveyor belt, 1 tile per turn.<br/>The player can ride a raft for a while or simply walk across it as a means to get to the other side.<br/>Items and monsters can also be on rafts, and monsters won't step off unless Shiren is within view.<br/>Aquatic types can walk inside the waterway, but they get pushed 1 tile in the direction of the flow.<br/>The waterway's end point is a whirlpool which warps entities back to the start of the waterway,<br/>and there are no negative effects for Shiren if he enters the whirlpool to warp.
+
+Earthmound Staff can be used, but the pillar and ground tile get destroyed after 10 turns each.<br/>Rafts that collide with a ground tile vanish, but new rafts are generated so you won't get stuck.<br/>Water-drain Scroll or Wall-less Scroll can be used to remove the waterway and rafts on the floor.<br/>The [Monster Dojo](/system/monster-dojo) has a room with flowing water and rafts, for those who want to test things out.
+
 #### Bouncy Wall Rooms
+
+#### Item Islands
+
+#### Gitan Vaults
+
+#### Pillar Rooms
+
+#### Hidden Hallways
+
+#### Shiny Walls
 
 # Monsters
 

@@ -12,13 +12,13 @@ metaDescription: "Postgame guide for Shiren the Wanderer: The Mystery Dungeon of
 
 Congratulations on clearing the main story! You're now finished with the tutorial.<br/>That's right - The main story was just the introduction to Shiren 6, and there's lots more to do!
 
-There are 17 other dungeons besides Serpentcoil Island (not counting hidden routes) with various rules.<br/>In addition, there's a notebook to complete, 58 achievements to aim for, and a secret title screen to unlock.
+There are 17 other dungeons besides Serpentcoil Island (not counting hidden routes) with various rules.<br/>In addition, there's a notebook to complete, 59 achievements to aim for, and a secret title screen to unlock.
 
 # Dungeons
 
 ### Dungeon List
 
-Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a random blue sacred item.
+Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a random blue sacred item.<br/>If a dungeon lists two different depths, the second depth is accessible through Sacred Tree Mode.
 
 <table>
   <thead>
@@ -90,7 +90,7 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
     </tr>
     <tr>
       <td class="centeredText highlightYellow"><a href="../dungeons/kiki-island">Kiki Island</a></td>
-      <td class="centeredText">25F</td>
+      <td class="centeredText">25F / 99F</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">No</td>
       <td class="centeredText">3</td>
@@ -98,7 +98,7 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
     </tr>
     <tr>
       <td class="centeredText highlightYellow"><a href="../dungeons/training-path-of-inference">Training Path of Inference</a></td>
-      <td class="centeredText">20F</td>
+      <td class="centeredText">20F / 50F</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">No</td>
       <td class="centeredText">3</td>
@@ -106,7 +106,7 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
     </tr>
     <tr>
       <td class="centeredText highlightYellow"><a href="../dungeons/training-path-of-extra-inference">Training Path of Extra Inference</a></td>
-      <td class="centeredText">20F</td>
+      <td class="centeredText">20F / 50F</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">No</td>
       <td class="centeredText">0</td>
@@ -114,7 +114,7 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
     </tr>
     <tr>
       <td class="centeredText highlightYellow"><a href="../dungeons/peach-dungeon">Peach Dungeon</a></td>
-      <td class="centeredText">25F</td>
+      <td class="centeredText">25F / 99F</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">No</td>
       <td class="centeredText">3</td>
@@ -122,7 +122,7 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
     </tr>
     <tr>
       <td class="centeredText highlightYellow"><a href="../dungeons/sumo-dungeon">Sumo Dungeon</a></td>
-      <td class="centeredText">20F</td>
+      <td class="centeredText">20F / 99F</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">3</td>
@@ -130,7 +130,7 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
     </tr>
     <tr>
       <td class="centeredText highlightYellow"><a href="../dungeons/cat-ching's-divine-will">Cat-Ching's Divine Will</a></td>
-      <td class="centeredText">10F</td>
+      <td class="centeredText">10F / 99F</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">No</td>
       <td class="centeredText">3</td>
@@ -138,7 +138,7 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
     </tr>
     <tr>
       <td class="centeredText highlightYellow"><a href="../dungeons/trapper's-secret-path">Trapper's Secret Path</a></td>
-      <td class="centeredText">20F</td>
+      <td class="centeredText">20F / 99F</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">No</td>
       <td class="centeredText">3</td>
@@ -146,7 +146,7 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
     </tr>
     <tr>
       <td class="centeredText highlightYellow"><a href="../dungeons/training-path-of-gimmicks">Training Path of Gimmicks</a></td>
-      <td class="centeredText">20F</td>
+      <td class="centeredText">20F / 50F</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">No</td>
       <td class="centeredText">3</td>
@@ -154,7 +154,7 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
     </tr>
     <tr>
       <td class="centeredText highlightYellow"><a href="../dungeons/training-path-of-shopping">Training Path of Shopping</a></td>
-      <td class="centeredText">40F</td>
+      <td class="centeredText">40F / 99F</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">3</td>
@@ -162,7 +162,7 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
     </tr>
     <tr>
       <td class="centeredText highlightYellow"><a href="../dungeons/behemoth-rush">Behemoth Rush</a></td>
-      <td class="centeredText">30F</td>
+      <td class="centeredText">30F / 99F</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">No</td>
       <td class="centeredText">0</td>
@@ -170,7 +170,7 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
     </tr>
     <tr>
       <td class="centeredText highlightYellow"><a href="../dungeons/sacred-ocean-tunnel">Sacred Ocean Tunnel</a></td>
-      <td class="centeredText">15F</td>
+      <td class="centeredText">15F / 99F</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">No</td>
       <td class="centeredText">3</td>
@@ -178,7 +178,7 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
     </tr>
     <tr>
       <td class="centeredText highlightYellow"><a href="../dungeons/domain-of-staves-and-scrolls">Domain of Staves and Scrolls</a></td>
-      <td class="centeredText">20F</td>
+      <td class="centeredText">20F / 50F</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">No</td>
       <td class="centeredText">3</td>
@@ -186,7 +186,7 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
     </tr>
     <tr>
       <td class="centeredText highlightYellow"><a href="../dungeons/isle-of-the-mighty">Isle of the Mighty</a></td>
-      <td class="centeredText">50F</td>
+      <td class="centeredText">50F / 99F</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">Yes</td>
       <td class="centeredText">3</td>

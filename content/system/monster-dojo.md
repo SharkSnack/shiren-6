@@ -22,6 +22,10 @@ Dojo Challenge is a feature that was added in the version 1.1.0 update.<br/>It's
 
 Clearing a dojo unlocks the corresponding monster family for play in [Sacred Tree](/system/sacred-tree) dungeons.<br/>An [achievement](/system/achievements) and a new Monster Dojo menu background is also unlocked upon clearing all 51 dojos.
 
+#### Solutions
+
+[Dojo Challenge Solutions Video (Japanese)](https://www.youtube.com/watch?v=0Fj_1DI3V00)
+
 ### Mamel Dojo
 
 <table class="dojoTable">

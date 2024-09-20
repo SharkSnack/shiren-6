@@ -11,7 +11,7 @@ There are many overworld areas in the game, and each village has its own NPCs an
 # Village List
 
 - <a href="#shukuba-beach">Shukuba Beach</a>
-- <a href="#mountain-village">Mountain Village</a>
+- <a href="#mountain-village-(secret-ninja-village)">Mountain Village (Secret Ninja Village)</a>
 - <a href="#small-harbor">Small Harbor</a>
 - <a href="#underwater-training-ground">Underwater Training Ground</a>
 - <a href="#hot-spring-cabin">Hot Spring Cabin</a>
@@ -219,7 +219,7 @@ There are many overworld areas in the game, and each village has its own NPCs an
 #### Harbor Inn Yuunagi
 
 - Pay 500 Gitan to fully restore HP, Fullness, and Strength.
-    - Occasionally increases a Max HP, Max Fullness, or Max Strength as a bonus.
+    - Occasionally increases Max HP, Max Fullness, or Max Strength as a bonus.
 
 #### Daily Mart (Item Shop)
 
@@ -370,7 +370,7 @@ There are many overworld areas in the game, and each village has its own NPCs an
 #### Popke Inn
 
 - Pay 1000 Gitan to fully restore HP, Fullness, and Strength.
-    - Occasionally increases a Max HP, Max Fullness, or Max Strength as a bonus.
+    - Occasionally increases Max HP, Max Fullness, or Max Strength as a bonus.
 
 #### Mysterious Peddler (Item Shop)
 

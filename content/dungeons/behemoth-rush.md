@@ -206,16 +206,16 @@ Monster Colors = <span class="special">Breakable Walls, Monster Pot, Monster Scr
       <td class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="7" class="tableDivider"></td>
     </tr>
     <tr>
       <td class="monsterTableExtension"></td>
       <td colspan="3" class="monsterTableExtension"></td>
-      <td colspan="5" class="monsterTableExtension centeredText">Sacred Tree Mode</td>
+      <td colspan="2" class="monsterTableExtension centeredText">Sacred Tree Mode</td>
       <td class="monsterTableExtension"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="7" class="tableDivider"></td>
     </tr>
     <tr>
       <td class="centeredText">31-99</td>

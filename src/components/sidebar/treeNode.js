@@ -63,6 +63,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[11] = { items:[], label: 'monster-dojo', title: 'Monster Dojo', url: '/system/monster-dojo'};
         items[12] = { items:[], label: 'achievements', title: 'Achievements', url: '/system/achievements'};
         items[13] = { items:[], label: 'parallel-play', title: 'Parallel Play', url: '/system/parallel-play'};
+        items[14] = { items:[], label: 'wanderer-rescue', title: 'Rescue', url: '/system/wanderer-rescue'};
         break;
       case 'behemoth-rush': // dungeons
         items[0] = { items:[], label: 'serpentcoil-island', title: 'Serpentcoil Isle', url: '/dungeons/serpentcoil-island'};
@@ -86,7 +87,15 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[18] = { items:[], label: 'domain-of-staves-and-scrolls', title: 'Staff & Scroll', url: '/dungeons/domain-of-staves-and-scrolls'};
         items[19] = { items:[], label: 'isle-of-the-mighty', title: 'Isle of Mighty', url: '/dungeons/isle-of-the-mighty'};
         items[20] = { items:[], label: 'heart-of-serpentcoil-island', title: 'Heart of Serp.', url: '/dungeons/heart-of-serpentcoil-island'};
-        items[21] = { items:[]};
+        items[21] = { items:[], label: 'go-go-dungeon', title: 'Go Go Dungeon', url: '/dungeons/go-go-dungeon'};
+        items[22] = { items:[], label: 'wanderers-highway', title: 'Wand. Highway', url: '/dungeons/wanderers-highway'};
+        items[23] = { items:[], label: 'quietude-of-serpentcoil-island', title: 'Quietude', url: '/dungeons/quietude-of-serpentcoil-island'};
+        items[24] = { items:[], label: 'forest-of-frugality', title: 'Frugality', url: '/dungeons/forest-of-frugality'};
+        items[25] = { items:[], label: 'researchers-experimental-site', title: "Researcher's", url: '/dungeons/researchers-experimental-site'};
+        items[26] = { items:[], label: 'winding-valley', title: 'Winding Valley', url: '/dungeons/winding-valley'};
+        items[27] = { items:[], label: 'clash-of-weapons-and-shields', title: 'Clash of W & S', url: '/dungeons/clash-of-weapons-and-shields'};
+        items[28] = { items:[], label: 'peachy-trap-domain', title: 'Peachy Trap', url: '/dungeons/peachy-trap-domain'};
+        items[29] = { items:[]};
         break;
       case 'notes': // other
         items[0] = { items:[], label: 'notes', title: 'Notes', url: '/other/notes'};

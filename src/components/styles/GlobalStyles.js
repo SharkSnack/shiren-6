@@ -1147,6 +1147,40 @@ export const baseStyles = css`
   .rewardTable th {
     font-weight: normal;
   }
+  .rewardTable tr:nth-of-type(28),
+  .rewardTable tr:nth-of-type(29) {
+    background-color: #ffffe4;
+  }
+  .rewardTable tr:nth-of-type(22),
+  .rewardTable tr:nth-of-type(23),
+  .rewardTable tr:nth-of-type(24),
+  .rewardTable tr:nth-of-type(25),
+  .rewardTable tr:nth-of-type(26),
+  .rewardTable tr:nth-of-type(27) {
+    background-color: #EAFFEA;
+  }
+  .achievementTable tr:nth-of-type(22),
+  .achievementTable tr:nth-of-type(23),
+  .achievementTable tr:nth-of-type(24),
+  .achievementTable tr:nth-of-type(25),
+  .achievementTable tr:nth-of-type(26),
+  .achievementTable tr:nth-of-type(69) {
+    background-color: #ffffe4;
+  }
+  .achievementTable tr:nth-of-type(19),
+  .achievementTable tr:nth-of-type(20),
+  .achievementTable tr:nth-of-type(21),
+  .achievementTable tr:nth-of-type(47),
+  .achievementTable tr:nth-of-type(61),
+  .achievementTable tr:nth-of-type(62),
+  .achievementTable tr:nth-of-type(63),
+  .achievementTable tr:nth-of-type(64),
+  .achievementTable tr:nth-of-type(65),
+  .achievementTable tr:nth-of-type(66),
+  .achievementTable tr:nth-of-type(67),
+  .achievementTable tr:nth-of-type(68) {
+    background-color: #EAFFEA;
+  }
   .dungeonItemTable th {
     font-weight: normal;
     background-color: #ececec;
@@ -1557,7 +1591,7 @@ export const baseStyles = css`
     background-color: #d9e6e8 !important;
   }
   .highlightGreen {
-    background-color: #CCFFCC !important;
+    background-color: #EAFFEA !important;
   }
   .highlightGreen2 {
     background-color: #F3FFF3;
@@ -1691,7 +1725,7 @@ export const baseStyles = css`
     background-color: #a8ffc6;
   }
   .highlightFog {
-    background-color: #eee;
+    background-color: #ddd;
   }
   .highlightDerivative1 {
     background-color: paleturquoise;
@@ -2058,6 +2092,13 @@ export const baseStyles = css`
   .iconTable td:nth-of-type(1) {
     text-align: center;
     padding: 1px;
+  }
+  .iconTable tr:nth-of-type(31) {
+    background-color: #ffffe4;
+  }
+  .iconTable tr:nth-of-type(29),
+  .iconTable tr:nth-of-type(30) {
+    background-color: #EAFFEA;
   }
   .iconTable img {
     width: 40px !important;
