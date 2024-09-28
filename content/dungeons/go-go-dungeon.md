@@ -5,7 +5,7 @@ metaDescription: "Go Go Dungeon guide for Shiren the Wanderer: The Mystery Dunge
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-  <img src="../images/areas/other/no_image.jpg"/><img src="../images/areas/other/no_image.jpg"/>
+  <img src="../images/areas/other/drokotay.jpg"/><img src="../images/areas/other/go_go_dungeon.jpg"/>
 </div>
 
 # Overview

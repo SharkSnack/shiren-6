@@ -5,7 +5,7 @@ metaDescription: "Clash of Weapons and Shields dungeon guide for Shiren the Wand
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-  <img src="../images/areas/other/no_image.jpg"/><img src="../images/areas/other/no_image.jpg"/>
+  <img src="../images/areas/other/drokotay.jpg"/><img src="../images/areas/other/clash.jpg"/>
 </div>
 
 # Overview
@@ -109,19 +109,2279 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </thead>
   <tbody>
     <tr>
-      <td class="centeredText">1</td>
-      <td class=""></td>
-      <td class=""></td>
-      <td class=""></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td class=""></td>
+      <td rowspan="2" class="centeredText">1</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters/6-1.png"/> Pumphantasm</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">2</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters/6-1.png"/> Pumphantasm</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">3</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters/5-2.png"/> Hell Reaper</td>
+      <td><img src="../images/monsters/6-1.png"/> Pumphantasm</td>
+      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
+      <td rowspan="3" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-2.png"/> Raging Samurai</td>
+      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
+      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/32-3.png"/> Mudster</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">4</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters/5-2.png"/> Hell Reaper</td>
+      <td><img src="../images/monsters/6-1.png"/> Pumphantasm</td>
+      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
+      <td rowspan="3" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-2.png"/> Raging Samurai</td>
+      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
+      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/32-3.png"/> Mudster</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">5</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters/5-2.png"/> Hell Reaper</td>
+      <td><img src="../images/monsters/6-1.png"/> Pumphantasm</td>
+      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
+      <td rowspan="3" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-2.png"/> Raging Samurai</td>
+      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
+      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/32-3.png"/> Mudster</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">6</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters/9-2.png"/> Raging Samurai</td>
+      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
+      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class="items"><img src="../images/monsters/32-3.png"/> Mudster</td>
+      <td><img src="../images/monsters/12-2.png"/> Thrashead</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">7</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters/9-2.png"/> Raging Samurai</td>
+      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
+      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class="items"><img src="../images/monsters/32-3.png"/> Mudster</td>
+      <td><img src="../images/monsters/12-2.png"/> Thrashead</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">8</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters/9-2.png"/> Raging Samurai</td>
+      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
+      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td class="items"><img src="../images/monsters/32-3.png"/> Mudster</td>
+      <td><img src="../images/monsters/12-2.png"/> Thrashead</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">9</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
+      <td><img src="../images/monsters/12-2.png"/> Thrashead</td>
+      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters/42-2.png"/> Rumbledon</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>
+      <td><img src="../images/monsters/39-3.png"/> Fulminachin</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">10</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
+      <td><img src="../images/monsters/12-2.png"/> Thrashead</td>
+      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters/42-2.png"/> Rumbledon</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>
+      <td><img src="../images/monsters/39-3.png"/> Fulminachin</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">11</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
+      <td><img src="../images/monsters/12-2.png"/> Thrashead</td>
+      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters/42-2.png"/> Rumbledon</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>
+      <td><img src="../images/monsters/39-3.png"/> Fulminachin</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">12</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
+      <td><img src="../images/monsters/12-2.png"/> Thrashead</td>
+      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters/42-2.png"/> Rumbledon</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>
+      <td><img src="../images/monsters/39-3.png"/> Fulminachin</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">13</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters/42-2.png"/> Rumbledon</td>
+      <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>
+      <td><img src="../images/monsters/39-3.png"/> Fulminachin</td>
+      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">14</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters/42-2.png"/> Rumbledon</td>
+      <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>
+      <td><img src="../images/monsters/39-3.png"/> Fulminachin</td>
+      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">15</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters/42-2.png"/> Rumbledon</td>
+      <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>
+      <td><img src="../images/monsters/39-3.png"/> Fulminachin</td>
+      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">16</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">17</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">18</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">19</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">20</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">21</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td rowspan="3" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">22</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td rowspan="3" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">23</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td rowspan="3" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">24</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td rowspan="3" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">25</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td rowspan="3" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">26</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters/37-3.png"/> Electroid</td>
+      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/3-4.png"/> Superb Octopling</td>
+      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">27</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters/37-3.png"/> Electroid</td>
+      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/3-4.png"/> Superb Octopling</td>
+      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">28</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters/37-3.png"/> Electroid</td>
+      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/3-4.png"/> Superb Octopling</td>
+      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">29</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters/37-3.png"/> Electroid</td>
+      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/3-4.png"/> Superb Octopling</td>
+      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">30</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters/37-3.png"/> Electroid</td>
+      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/3-4.png"/> Superb Octopling</td>
+      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">31</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">32</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">33</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">34</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">35</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">36</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
+      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td class="items"><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">37</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
+      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td class="items"><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">38</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
+      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td class="items"><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">39</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
+      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td class="items"><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">40</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
+      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
+      <td class="items"><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">41</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
+      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
+      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td rowspan="3" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
+      <td class="items"><img src="../images/monsters/52-3.png"/> Fire Ninja B</td>
+      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
+      <td class="items"><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/54-3.png"/> Tree Ninja B</td>
+      <td><img src="../images/monsters/56-3.png"/> Earth Ninja B</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">42</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
+      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
+      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td rowspan="3" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
+      <td class="items"><img src="../images/monsters/52-3.png"/> Fire Ninja B</td>
+      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
+      <td class="items"><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/54-3.png"/> Tree Ninja B</td>
+      <td><img src="../images/monsters/56-3.png"/> Earth Ninja B</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">43</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
+      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
+      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td rowspan="3" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
+      <td class="items"><img src="../images/monsters/52-3.png"/> Fire Ninja B</td>
+      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
+      <td class="items"><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/54-3.png"/> Tree Ninja B</td>
+      <td><img src="../images/monsters/56-3.png"/> Earth Ninja B</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">44</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
+      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
+      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td rowspan="3" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
+      <td class="items"><img src="../images/monsters/52-3.png"/> Fire Ninja B</td>
+      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
+      <td class="items"><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/54-3.png"/> Tree Ninja B</td>
+      <td><img src="../images/monsters/56-3.png"/> Earth Ninja B</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">45</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
+      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
+      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td rowspan="3" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
+      <td class="items"><img src="../images/monsters/52-3.png"/> Fire Ninja B</td>
+      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
+      <td class="items"><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/54-3.png"/> Tree Ninja B</td>
+      <td><img src="../images/monsters/56-3.png"/> Earth Ninja B</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">46</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">47</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">48</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">49</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">50</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="monsterTableExtension"></td>
+      <td colspan="3" class="monsterTableExtension"></td>
+      <td colspan="5" class="monsterTableExtension centeredText">Sacred Tree Mode</td>
+      <td class="monsterTableExtension"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">51</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/32-4.png"/> Mudder</td>
+      <td class="danger"><img src="../images/monsters/20-4.png"/> Frenzy Radish</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">52</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/32-4.png"/> Mudder</td>
+      <td class="danger"><img src="../images/monsters/20-4.png"/> Frenzy Radish</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">53</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/32-4.png"/> Mudder</td>
+      <td class="danger"><img src="../images/monsters/20-4.png"/> Frenzy Radish</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">54</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/32-4.png"/> Mudder</td>
+      <td class="danger"><img src="../images/monsters/20-4.png"/> Frenzy Radish</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">55</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/32-4.png"/> Mudder</td>
+      <td class="danger"><img src="../images/monsters/20-4.png"/> Frenzy Radish</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">56</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">57</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">58</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">59</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">60</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">61</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">62</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">63</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">64</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">65</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">66</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">67</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">68</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">69</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">70</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">71</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+      <td><img src="../images/monsters/55-4.png"/> Metal Ninja A</td>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">72</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+      <td><img src="../images/monsters/55-4.png"/> Metal Ninja A</td>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">73</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+      <td><img src="../images/monsters/55-4.png"/> Metal Ninja A</td>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">74</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">75</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">76</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters/38-4.png"/> General Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">77</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/38-4.png"/> General Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">78</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/38-4.png"/> General Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">79</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters/38-4.png"/> General Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">80</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters/38-4.png"/> General Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">81</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters/38-4.png"/> General Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">82</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters/38-4.png"/> General Ant</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">83</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-4.png"/> Mixerdon</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">84</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-4.png"/> Mixerdon</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">85</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-4.png"/> Mixerdon</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">86</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-4.png"/> Mixerdon</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">87</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-4.png"/> Mixerdon</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">88</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td><img src="../images/monsters/42-4.png"/> Boomdon</td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">89</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td><img src="../images/monsters/42-4.png"/> Boomdon</td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">90</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td><img src="../images/monsters/42-4.png"/> Boomdon</td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">91</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td><img src="../images/monsters/42-4.png"/> Boomdon</td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">92</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td><img src="../images/monsters/42-4.png"/> Boomdon</td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">93</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">94</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">95</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">96</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">97</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">98</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td rowspan="2" class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">99</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
   </tbody>
 </table>

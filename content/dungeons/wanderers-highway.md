@@ -5,7 +5,7 @@ metaDescription: "Wanderers' Highway dungeon guide for Shiren the Wanderer: The 
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-  <img src="../images/areas/other/no_image.jpg"/><img src="../images/areas/other/no_image.jpg"/>
+  <img src="../images/areas/other/drokotay.jpg"/><img src="../images/areas/other/wanderers_highway.jpg"/>
 </div>
 
 # Overview

@@ -5,7 +5,7 @@ metaDescription: "Quietude of Serpentcoil Island dungeon guide for Shiren the Wa
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-  <img src="../images/areas/other/no_image.jpg"/><img src="../images/areas/other/no_image.jpg"/>
+  <img src="../images/areas/other/drokotay.jpg"/><img src="../images/areas/other/quietude.jpg"/>
 </div>
 
 # Overview

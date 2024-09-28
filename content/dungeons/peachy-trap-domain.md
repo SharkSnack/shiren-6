@@ -5,7 +5,7 @@ metaDescription: "Peachy Trap Domain dungeon guide for Shiren the Wanderer: The 
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-  <img src="../images/areas/other/no_image.jpg"/><img src="../images/areas/other/no_image.jpg"/>
+  <img src="../images/areas/other/drokotay.jpg"/><img src="../images/areas/other/peachy_trap.jpg"/>
 </div>
 
 # Overview
@@ -44,7 +44,7 @@ metaDescription: "Peachy Trap Domain dungeon guide for Shiren the Wanderer: The 
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3">Grass, Scrolls, Staves, Pots</td>
+    <td colspan="3">Grass, Scrolls, Staves, Pots, Incense</td>
   </tr>
   <tr>
     <th>Shops</th>
@@ -92,7 +92,6 @@ See [Monsters](/system/monsters) for individual monster details.
 - S - <span class="highlightShop">Shop is possible</span>
 - H - <span class="highlightMH">Monster House is possible</span>
 - G - <span class="highlightGold">Golden Egg Thing is possible</span>
-- B - <span class="highlightBehemoth">Behemoth Monsters are possible</span>
 
 Monster Colors = <span class="farming">Farming</span>, <span class="useful">Useful</span>, <span class="stats">Lowers Stats</span>, <span class="items">Targets Items</span>, <span class="danger">Dangerous</span>
 
@@ -104,24 +103,2407 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <th>H</th>
       <th>G</th>
       <th colspan="5">Monsters</th>
-      <th>B</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="centeredText">1</td>
-      <td class=""></td>
-      <td class=""></td>
-      <td class=""></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td class=""></td>
+      <td rowspan="2" class="centeredText">1</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/1-1.png"/> Mamel</td>
+      <td><img src="../images/monsters/3-1.png"/> Octopling</td>
+      <td><img src="../images/monsters/4-1.png"/> Spearfish</td>
+      <td class="useful"><img src="../images/monsters/30-1.png"/> Hat Urchin</td>
+      <td><img src="../images/monsters/5-1.png"/> Death Reaper</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/14-1.png"/> Shagga</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">2</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/1-1.png"/> Mamel</td>
+      <td class="useful"><img src="../images/monsters/1-2.png"/> Pit Mamel</td>
+      <td><img src="../images/monsters/3-1.png"/> Octopling</td>
+      <td><img src="../images/monsters/4-1.png"/> Spearfish</td>
+      <td class="useful"><img src="../images/monsters/30-1.png"/> Hat Urchin</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters/14-1.png"/> Shagga</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">3</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td class="useful"><img src="../images/monsters/1-2.png"/> Pit Mamel</td>
+      <td><img src="../images/monsters/2-1.png"/> Chintala</td>
+      <td class="useful"><img src="../images/monsters/6-1.png"/> Pumphantasm</td>
+      <td class="useful"><img src="../images/monsters/8-1.png"/> Armordillo</td>
+      <td class="useful"><img src="../images/monsters/30-3.png"/> Hat Brat</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">4</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td><img src="../images/monsters/2-1.png"/> Chintala</td>
+      <td class="farming"><img src="../images/monsters/28-1.png"/> Froggo</td>
+      <td class="useful"><img src="../images/monsters/6-1.png"/> Pumphantasm</td>
+      <td class="useful"><img src="../images/monsters/8-1.png"/> Armordillo</td>
+      <td class="useful"><img src="../images/monsters/30-3.png"/> Hat Brat</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">5</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td><img src="../images/monsters/54-1.png"/> Tree Ninja D</td>
+      <td><img src="../images/monsters/56-1.png"/> Earth Ninja D</td>
+      <td class="items"><img src="../images/monsters/52-1.png"/> Fire Ninja D</td>
+      <td class="useful"><img src="../images/monsters/30-3.png"/> Hat Brat</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">6</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td><img src="../images/monsters/54-1.png"/> Tree Ninja D</td>
+      <td><img src="../images/monsters/56-1.png"/> Earth Ninja D</td>
+      <td class="items"><img src="../images/monsters/52-1.png"/> Fire Ninja D</td>
+      <td><img src="../images/monsters/40-2.png"/> Hoppin' Hitter</td>
+      <td class="useful"><img src="../images/monsters/30-3.png"/> Hat Brat</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">7</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/54-1.png"/> Tree Ninja D</td>
+      <td><img src="../images/monsters/56-1.png"/> Earth Ninja D</td>
+      <td class="items"><img src="../images/monsters/52-1.png"/> Fire Ninja D</td>
+      <td class="items"><img src="../images/monsters/53-1.png"/> Water Ninja D</td>
+      <td><img src="../images/monsters/55-1.png"/> Metal Ninja D</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/40-2.png"/> Hoppin' Hitter</td>
+      <td class="useful"><img src="../images/monsters/30-3.png"/> Hat Brat</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">8</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/56-1.png"/> Earth Ninja D</td>
+      <td class="items"><img src="../images/monsters/52-1.png"/> Fire Ninja D</td>
+      <td class="items"><img src="../images/monsters/53-1.png"/> Water Ninja D</td>
+      <td><img src="../images/monsters/55-1.png"/> Metal Ninja D</td>
+      <td><img src="../images/monsters/40-2.png"/> Hoppin' Hitter</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
+      <td class="useful"><img src="../images/monsters/30-3.png"/> Hat Brat</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">9</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/56-1.png"/> Earth Ninja D</td>
+      <td class="items"><img src="../images/monsters/53-1.png"/> Water Ninja D</td>
+      <td><img src="../images/monsters/55-1.png"/> Metal Ninja D</td>
+      <td><img src="../images/monsters/40-2.png"/> Hoppin' Hitter</td>
+      <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
+    </tr>
+    <tr>
+      <td class="useful"><img src="../images/monsters/30-3.png"/> Hat Brat</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">10</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
+      <td><img src="../images/monsters/17-1.png"/> Bored Kappa</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters/3-2.png"/> Fresh Octopling</td>
+      <td><img src="../images/monsters/26-2.png"/> Pot Knave</td>
+    </tr>
+    <tr>
+      <td class="useful"><img src="../images/monsters/30-3.png"/> Hat Brat</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">11</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td><img src="../images/monsters/17-1.png"/> Bored Kappa</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters/3-2.png"/> Fresh Octopling</td>
+      <td class="items"><img src="../images/monsters/32-1.png"/> Mudkin</td>
+      <td><img src="../images/monsters/26-2.png"/> Pot Knave</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">12</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td><img src="../images/monsters/17-1.png"/> Bored Kappa</td>
+      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters/3-2.png"/> Fresh Octopling</td>
+      <td class="items"><img src="../images/monsters/32-1.png"/> Mudkin</td>
+      <td><img src="../images/monsters/26-2.png"/> Pot Knave</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">13</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/3-2.png"/> Fresh Octopling</td>
+      <td class="items"><img src="../images/monsters/32-1.png"/> Mudkin</td>
+      <td><img src="../images/monsters/4-2.png"/> Lt. Spearfish</td>
+      <td><img src="../images/monsters/35-1.png"/> Floor Dragon</td>
+      <td><img src="../images/monsters/12-1.png"/> Metalhead</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/36-1.png"/> Tiger Thrower</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">14</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td class="items"><img src="../images/monsters/32-1.png"/> Mudkin</td>
+      <td><img src="../images/monsters/4-2.png"/> Lt. Spearfish</td>
+      <td><img src="../images/monsters/35-1.png"/> Floor Dragon</td>
+      <td><img src="../images/monsters/12-1.png"/> Metalhead</td>
+      <td><img src="../images/monsters/36-1.png"/> Tiger Thrower</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">15</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/35-1.png"/> Floor Dragon</td>
+      <td><img src="../images/monsters/12-1.png"/> Metalhead</td>
+      <td><img src="../images/monsters/36-1.png"/> Tiger Thrower</td>
+      <td class="danger"><img src="../images/monsters/44-3.png"/> N'dama</td>
+      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
+      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
+      <td class="danger"><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText">16</td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td><img src="../images/monsters/13-2.png"/> Master Hen</td>
+      <td><img src="../images/monsters/11-2.png"/> Minotaur</td>
+      <td class="danger"><img src="../images/monsters/59-1.png"/> Okina Monk D</td>
+      <td><img src="../images/monsters/60-1.png"/> Okame Monk D</td>
+      <td class="farming"><img src="../images/monsters/29-1.png"/> Thiefwalrus</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/16-1.png"/> Pop Tank</td>
+      <td class="farming"><img src="../images/monsters/46-1.png"/> Egg Thing</td>
+      <td class="useful"><img src="../images/monsters/30-2.png"/> Hat Prankster</td>
+      <td class="stats"><img src="../images/monsters/20-1.png"/> Ghost Radish</td>
+      <td class="useful"><img src="../images/monsters/45-1.png"/> Mixer</td>
+    </tr>
+    <tr>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters/44-3.png"/> N'dama</td>
+      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
+      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
+      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText">17</td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td><img src="../images/monsters/13-2.png"/> Master Hen</td>
+      <td><img src="../images/monsters/11-2.png"/> Minotaur</td>
+      <td class="danger"><img src="../images/monsters/59-1.png"/> Okina Monk D</td>
+      <td><img src="../images/monsters/60-1.png"/> Okame Monk D</td>
+      <td class="farming"><img src="../images/monsters/29-1.png"/> Thiefwalrus</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/42-1.png"/> Zapdon</td>
+      <td><img src="../images/monsters/16-1.png"/> Pop Tank</td>
+      <td class="farming"><img src="../images/monsters/46-1.png"/> Egg Thing</td>
+      <td class="useful"><img src="../images/monsters/30-2.png"/> Hat Prankster</td>
+      <td class="stats"><img src="../images/monsters/20-1.png"/> Ghost Radish</td>
+    </tr>
+    <tr>
+      <td class="useful"><img src="../images/monsters/45-1.png"/> Mixer</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters/44-3.png"/> N'dama</td>
+      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
+      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
+      <td class="danger"><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText">18</td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td><img src="../images/monsters/13-2.png"/> Master Hen</td>
+      <td><img src="../images/monsters/11-2.png"/> Minotaur</td>
+      <td class="danger"><img src="../images/monsters/59-1.png"/> Okina Monk D</td>
+      <td><img src="../images/monsters/60-1.png"/> Okame Monk D</td>
+      <td class="danger"><img src="../images/monsters/61-1.png"/> Tengu Monk D</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/57-1.png"/> Hannya Monk D</td>
+      <td class="farming"><img src="../images/monsters/29-1.png"/> Thiefwalrus</td>
+      <td><img src="../images/monsters/42-1.png"/> Zapdon</td>
+      <td><img src="../images/monsters/16-1.png"/> Pop Tank</td>
+      <td><img src="../images/monsters/7-2.png"/> Flamepuff</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/44-1.png"/> N'dubba</td>
+      <td class="useful"><img src="../images/monsters/45-1.png"/> Mixer</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters/44-3.png"/> N'dama</td>
+      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
+      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
+      <td class="danger"><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">19</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/60-1.png"/> Okame Monk D</td>
+      <td class="danger"><img src="../images/monsters/61-1.png"/> Tengu Monk D</td>
+      <td><img src="../images/monsters/57-1.png"/> Hannya Monk D</td>
+      <td class="farming"><img src="../images/monsters/29-1.png"/> Thiefwalrus</td>
+      <td><img src="../images/monsters/42-1.png"/> Zapdon</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/7-2.png"/> Flamepuff</td>
+      <td><img src="../images/monsters/44-1.png"/> N'dubba</td>
+      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
+      <td class="useful"><img src="../images/monsters/45-1.png"/> Mixer</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/44-3.png"/> N'dama</td>
+      <td><img src="../images/monsters/60-2.png"/> Okame Monk C</td>
+      <td><img src="../images/monsters/57-2.png"/> Hannya Monk C</td>
+      <td><img src="../images/monsters/58-2.png"/> Kitsune Monk C</td>
+      <td class="danger"><img src="../images/monsters/61-2.png"/> Tengu Monk C</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">20</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/42-1.png"/> Zapdon</td>
+      <td><img src="../images/monsters/7-2.png"/> Flamepuff</td>
+      <td><img src="../images/monsters/44-1.png"/> N'dubba</td>
+      <td><img src="../images/monsters/54-2.png"/> Tree Ninja C</td>
+      <td><img src="../images/monsters/56-2.png"/> Earth Ninja C</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/52-2.png"/> Fire Ninja C</td>
+      <td><img src="../images/monsters/39-1.png"/> Explochin</td>
+      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
+      <td class="useful"><img src="../images/monsters/45-1.png"/> Mixer</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">21</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/44-1.png"/> N'dubba</td>
+      <td><img src="../images/monsters/54-2.png"/> Tree Ninja C</td>
+      <td><img src="../images/monsters/56-2.png"/> Earth Ninja C</td>
+      <td class="items"><img src="../images/monsters/52-2.png"/> Fire Ninja C</td>
+      <td><img src="../images/monsters/39-1.png"/> Explochin</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/41-2.png"/> Blazeous</td>
+      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
+      <td class="useful"><img src="../images/monsters/45-1.png"/> Mixer</td>
+      <td class="items"><img src="../images/monsters/31-3.png"/> Curse Matron</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">22</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="items"><img src="../images/monsters/52-2.png"/> Fire Ninja C</td>
+      <td><img src="../images/monsters/55-2.png"/> Metal Ninja C</td>
+      <td class="items"><img src="../images/monsters/53-2.png"/> Water Ninja C</td>
+      <td><img src="../images/monsters/39-1.png"/> Explochin</td>
+      <td><img src="../images/monsters/41-2.png"/> Blazeous</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
+      <td class="items"><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td class="useful"><img src="../images/monsters/45-1.png"/> Mixer</td>
+      <td class="items"><img src="../images/monsters/31-3.png"/> Curse Matron</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">23</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="items"><img src="../images/monsters/26-3.png"/> Bag Knave</td>
+      <td class="items"><img src="../images/monsters/52-2.png"/> Fire Ninja C</td>
+      <td><img src="../images/monsters/55-2.png"/> Metal Ninja C</td>
+      <td class="items"><img src="../images/monsters/53-2.png"/> Water Ninja C</td>
+      <td><img src="../images/monsters/41-2.png"/> Blazeous</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
+      <td class="items"><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td class="useful"><img src="../images/monsters/45-1.png"/> Mixer</td>
+      <td class="items"><img src="../images/monsters/31-3.png"/> Curse Matron</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">24</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="items"><img src="../images/monsters/26-3.png"/> Bag Knave</td>
+      <td class="items"><img src="../images/monsters/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
+      <td class="items"><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td class="useful"><img src="../images/monsters/49-1.png"/> Dark Owl</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/4-3.png"/> Capt. Spearfish</td>
+      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
+      <td class="useful"><img src="../images/monsters/45-1.png"/> Mixer</td>
+      <td class="items"><img src="../images/monsters/31-3.png"/> Curse Matron</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">25</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="items"><img src="../images/monsters/26-3.png"/> Bag Knave</td>
+      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
+      <td class="items"><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td class="useful"><img src="../images/monsters/49-1.png"/> Dark Owl</td>
+      <td><img src="../images/monsters/4-3.png"/> Capt. Spearfish</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
+      <td class="farming"><img src="../images/monsters/29-2.png"/> Greenwalrus</td>
+      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
+      <td class="useful"><img src="../images/monsters/45-1.png"/> Mixer</td>
+      <td class="items"><img src="../images/monsters/31-3.png"/> Curse Matron</td>
+    </tr>
+    <tr>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">26</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/26-3.png"/> Bag Knave</td>
+      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
+      <td class="items"><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td class="stats"><img src="../images/monsters/20-2.png"/> Daze Radish</td>
+      <td class="farming"><img src="../images/monsters/29-2.png"/> Greenwalrus</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
+      <td class="useful"><img src="../images/monsters/45-1.png"/> Mixer</td>
+      <td class="items"><img src="../images/monsters/31-3.png"/> Curse Matron</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">27</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="items"><img src="../images/monsters/26-3.png"/> Bag Knave</td>
+      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
+      <td class="items"><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
+      <td class="stats"><img src="../images/monsters/20-2.png"/> Daze Radish</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+    </tr>
+    <tr>
+      <td class="farming"><img src="../images/monsters/29-2.png"/> Greenwalrus</td>
+      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
+      <td class="useful"><img src="../images/monsters/45-1.png"/> Mixer</td>
+      <td class="items"><img src="../images/monsters/31-3.png"/> Curse Matron</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">28</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="items"><img src="../images/monsters/26-3.png"/> Bag Knave</td>
+      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
+      <td class="stats"><img src="../images/monsters/20-2.png"/> Daze Radish</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+    </tr>
+    <tr>
+      <td class="farming"><img src="../images/monsters/29-2.png"/> Greenwalrus</td>
+      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
+      <td class="useful"><img src="../images/monsters/45-1.png"/> Mixer</td>
+      <td class="items"><img src="../images/monsters/31-3.png"/> Curse Matron</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">29</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="items"><img src="../images/monsters/26-3.png"/> Bag Knave</td>
+      <td class="stats"><img src="../images/monsters/20-2.png"/> Daze Radish</td>
+      <td class="stats"><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+    </tr>
+    <tr>
+      <td class="farming"><img src="../images/monsters/29-2.png"/> Greenwalrus</td>
+      <td class="useful"><img src="../images/monsters/45-1.png"/> Mixer</td>
+      <td class="items"><img src="../images/monsters/31-3.png"/> Curse Matron</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">30</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="items"><img src="../images/monsters/26-3.png"/> Bag Knave</td>
+      <td class="stats"><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/24-2.png"/> Polygon Shaka</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td class="useful"><img src="../images/monsters/45-1.png"/> Mixer</td>
+      <td class="useful"><img src="../images/monsters/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters/31-3.png"/> Curse Matron</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
+      <td class="danger"><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">31</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="stats"><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/24-2.png"/> Polygon Shaka</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+    </tr>
+    <tr>
+      <td class="useful"><img src="../images/monsters/6-3.png"/> Pumplich</td>
+      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="danger"><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">32</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="stats"><img src="../images/monsters/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters/24-2.png"/> Polygon Shaka</td>
+      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+    </tr>
+    <tr>
+      <td class="useful"><img src="../images/monsters/6-3.png"/> Pumplich</td>
+      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">33</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td><img src="../images/monsters/24-2.png"/> Polygon Shaka</td>
+      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">34</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td><img src="../images/monsters/24-2.png"/> Polygon Shaka</td>
+      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">35</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td><img src="../images/monsters/24-2.png"/> Polygon Shaka</td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">36</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">37</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">38</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">39</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">40</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="danger"><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">41</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/12-3.png"/> Megahead</td>
+      <td class="danger"><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+    </tr>
+    <tr>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">42</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/12-3.png"/> Megahead</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">43</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/12-3.png"/> Megahead</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">44</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/12-3.png"/> Megahead</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText">45</td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+    </tr>
+    <tr>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td class="useful"><img src="../images/monsters/37-3.png"/> Electroid</td>
+      <td><img src="../images/monsters/12-3.png"/> Megahead</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText">46</td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+    </tr>
+    <tr>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td class="useful"><img src="../images/monsters/37-3.png"/> Electroid</td>
+      <td><img src="../images/monsters/12-3.png"/> Megahead</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText">47</td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td class="useful"><img src="../images/monsters/37-3.png"/> Electroid</td>
+      <td><img src="../images/monsters/12-3.png"/> Megahead</td>
+    </tr>
+    <tr>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText">48</td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td class="useful"><img src="../images/monsters/37-3.png"/> Electroid</td>
+      <td><img src="../images/monsters/12-3.png"/> Megahead</td>
+    </tr>
+    <tr>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText">49</td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td class="useful"><img src="../images/monsters/37-3.png"/> Electroid</td>
+      <td><img src="../images/monsters/12-3.png"/> Megahead</td>
+    </tr>
+    <tr>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="5" class="centeredText">50</td>
+      <td rowspan="5" class=""></td>
+      <td rowspan="5" class=""></td>
+      <td rowspan="5" class=""></td>
+      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+    </tr>
+    <tr>
+      <td class="stats"><img src="../images/monsters/24-3.png"/> Polygon Singa</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td class="useful"><img src="../images/monsters/37-3.png"/> Electroid</td>
+      <td><img src="../images/monsters/12-3.png"/> Megahead</td>
+      <td class="danger"><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+    </tr>
+    <tr>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/22-4.png"/> Ultra Gazer</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="monsterTableExtension"></td>
+      <td colspan="3" class="monsterTableExtension"></td>
+      <td colspan="5" class="monsterTableExtension centeredText">Sacred Tree Mode</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText highlightFog">51</td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td class="useful"><img src="../images/monsters/37-3.png"/> Electroid</td>
+      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText highlightFog">52</td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/34-3.png"/> Fleefrog</td>
+      <td class="useful"><img src="../images/monsters/37-3.png"/> Electroid</td>
+      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
+    </tr>
+    <tr>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">53</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">54</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText highlightFog">55</td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">56</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">57</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">58</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">59</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText highlightFog">60</td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td rowspan="4" class=""></td>
+      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+    </tr>
+    <tr>
+      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
+      <td><img src="../images/monsters/57-4.png"/> Hannya Monk A</td>
+      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/22-4.png"/> Ultra Gazer</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">61</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">62</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">63</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">64</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">65</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">66</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">67</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">68</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+    </tr>
+    <tr>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">69</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">70</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/22-4.png"/> Ultra Gazer</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">71</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">72</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">73</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">74</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">75</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">76</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">77</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">78</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">79</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">80</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/22-4.png"/> Ultra Gazer</td>
+      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">81</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">82</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">83</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">84</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">85</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">86</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">87</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">88</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">89</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">90</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td class="danger"><img src="../images/monsters/22-4.png"/> Ultra Gazer</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">91</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText highlightFog">92</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">93</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">94</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">95</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+    </tr>
+    <tr>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">96</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">97</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">98</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">99</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
   </tbody>
 </table>
