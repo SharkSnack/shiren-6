@@ -10,7 +10,152 @@ metaDescription: "Update History for Shiren the Wanderer: The Mystery Dungeon of
 
 # Overview
 
-This page provides a summary of patch notes for game updates released by Spike Chunsoft.<br/>Spike Chunsoft has announced that a second large content update is currently planned for Summer 2024.<br/>※ This page was last edited on June 17th, 2024.
+This page provides a summary of patch notes for game updates released by Spike Chunsoft.<br/><span class="orangeText">※ This page was last edited on November 2nd, 2024.</span>
+
+# 2.1.1
+
+|Version|Release Date|
+|-|-|
+|2.1.1|October 31st, 2024|
+
+Changes:
+
+- Various bug fixes.
+
+# 2.1.0
+
+[Official Patch Notes](https://www.spike-chunsoft.com/news/shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-for-nintendo-switch-plus-pack-season-pass-paid-dlc-part-2-fourth-free-content-update-available-now/)
+
+|Version|Release Date|
+|-|-|
+|2.1.0|October 31st, 2024|
+|DLC 2|October 31st, 2024|
+
+Changes:
+
+- New playable character "Asuka" added to Sacred Tree mode (DLC 2).
+- Added 3 New Dungeons (Free)
+    - Training Path of Hiding
+    - Cliff of Condensing
+    - Wild Monster Path
+- Added 5 New Dungeons (DLC 2)
+    - Training Path of Deadly Strikes
+    - Battleground of the Rivals
+    - Timeworn Cave
+    - Floral Garden
+    - Soul of Serpentcoil Island
+- New Live Display type was added.
+- You can now view the 5 most recent adventure results.
+- Sacred Tree Records feature was added.
+- Feature to check or name an unidentified item after the fact was added.
+- Gassy effect now also affects 1 tile outside the room.
+- New option to insert arrows or rocks into full Preservation Pots.
+- The content for the "Champion Aid" Rescue Aid was adjusted.
+- Grid is now displayed when viewing projectile shortcuts.
+- Achievements increased from 69 → 78.
+- Clear Icons increased from 31 → 32.
+
+# 2.0.3
+
+|Version|Release Date|
+|-|-|
+|2.0.3|September 27th, 2024|
+
+Changes:
+
+- Various bug fixes.
+
+# 2.0.2
+
+|Version|Release Date|
+|-|-|
+|2.0.2|September 19th, 2024|
+
+Changes:
+
+- Various bug fixes.
+
+# 2.0.1
+
+|Version|Release Date|
+|-|-|
+|2.0.1|September 5th, 2024|
+
+Changes:
+
+- Various bug fixes.
+
+# 2.0.0
+
+[Official Patch Notes](https://www.spike-chunsoft.com/news/shiren6-nintendo-switch-plus-pack-third-free-content-update/)
+
+|Version|Release Date|
+|-|-|
+|2.0.0|September 5th, 2024|
+|DLC 1|September 10th, 2024|
+
+Changes:
+
+- New playable character "Koppa" added to Sacred Tree mode (DLC 1).
+- Added 3 New Dungeons (Free)
+    - Go Go Dungeon
+    - Wanderers' Highway
+    - Quietude of Serpentcoil Island
+- Added 5 New Dungeons (DLC 1)
+    - Forest of Frugality
+    - Researcher's Experimental Site
+    - Winding Valley
+    - Clash of Weapons and Shields
+    - Peachy Trap Domain
+- Added a Gear Rack feature to the Item Holder in Shukuba Beach.
+- New Settings:
+    - Diagonal Movement sensitivity related option.
+    - Disable movement using the left stick.
+    - Disable Look Around mode using the right stick.
+    - Switch places with characters while dashing.
+    - Option to edit map colors.
+- Improvements to Look Around feature:
+    - You can now Look Around 1 tile around you while inside a hallway.
+    - Expanded the range of Look Around in rooms by 1 tile.
+    - You can now open the Traps page of the Notebook when you hover over a trap.
+- You can now sort the Item Notebook by price.
+- You can now toggle price display and sorting by price when naming unidentified items.
+- You can now filter results while naming unidentified items by typing a letter first.
+- Added a feature that lets you jump to naming an unidentified item by pressing ZR.
+- Achievements increased from 59 → 69.
+- Clear Icons increased from 30 → 31.
+
+# 1.2.0
+
+[Official Patch Notes](https://www.spike-chunsoft.com/news/shiren6_update2/)
+
+|Version|Release Date|
+|-|-|
+|1.2.0|July 4th, 2024|
+
+Changes:
+
+- New playable character "Tatsumi Shiren" added to Sacred Tree mode.
+- Increased dungeon floor counts in Sacred Tree mode.
+    - Kiki Island - 25F → 99F
+    - Training Path of Inference - 20F → 50F
+    - Training Path of Extra Inference - 20F → 50F
+    - Peach Dungeon - 20F → 99F
+    - Sumo Dungeon - 20F → 99F
+    - Cat-Ching’s Divine Will - 10F → 99F
+    - Trapper’s Secret Path - 20F → 99F
+    - Training Path of Gimmicks - 20F → 50F
+    - Training Path of Shopping - 40F → 99F
+    - Behemoth Rush - 30F → 99F
+    - Sacred Ocean Tunnel - 15F → 99F
+    - Domain of Staves and Scrolls - 20F → 50F
+    - Isle of the Mighty - 50F → 99F
+- Basic Training mode Added to Monster Dojo.
+- New "Threat Alert" feature added to Game Settings.
+- Achievements increased from 58 → 59.
+- Clear Icons increased from 29 → 30.
+- Can retry right away if you collapse during a Parallel Play Adventure.
+- Balance Adjustments and Other Improvements.
 
 # 1.1.2
 

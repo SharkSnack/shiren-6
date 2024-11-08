@@ -13,7 +13,7 @@ metaDescription: "Quietude of Serpentcoil Island dungeon guide for Shiren the Wa
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow">Talk to Drokotay the Adventurer (Shukuba Beach).<br/>　<span class="orangeText">※ Update 2.0.1 required.</span></td>
+    <td class="highlightYellow">1. Clear Heart of Serpentcoil Island.<br/>2. Talk to Drokotay the Adventurer (Shukuba Beach).<br/>　<span class="orangeText">※ Update 2.0.1 required.</span></td>
   </tr>
   <tr>
     <th>Entrance</th>
@@ -72,17 +72,193 @@ metaDescription: "Quietude of Serpentcoil Island dungeon guide for Shiren the Wa
   </tr>
 </table>
 
-[Content]
+Mystery Dungeon that uses Heart of Serpentcoil Island as a base, but with some rule changes.<br/>There are usually fewer initial monsters on a floor, and the monster spawn rate is 150 turns.<br/>In addition, Wind of Kron blows far earlier at 900 turns, and Behemoth Gates never appear.<br/>These balance adjustments make it much harder to linger and perform farming techniques,<br/>but it also means evasive play is far more effective than in Heart of Serpentcoil Island.<br/>To be clear, the monster table is identical aside from the lack of Behemoth Gates.
 
 # Strategy
 
 ### General
 
-[Content]
+#### Fewer Enemies
+
+There are usually fewer initial enemies generated per floor than in Heart of Serpentcoil Island.<br/>The monster spawn rate was also increased to 150 turns, making it harder to farm items or level up.<br/>This often makes the player more reliant on items early on since it's tricky to keep up with enemies.
+
+#### No Behemoth Gates
+
+This sounds like it makes things easier, but you miss out on items from making Behemoth Gates vanish.<br/>Blank Scrolls are still somewhat common, thankfully, so it's not an extremely significant loss.
+
+#### Faster Wind
+
+The 1st gust blows after 900 turns here, compared to 1700 turns in Heart of Serpentcoil Island.<br/>That means only 6 new monsters spawn before you're pressured to advanced to the next floor.
+
+#### No Buried Item Floors
+
+Heart of Serpentcoil Island often had buried items on floor numbers that were a multiple of 10,<br/>but it seems Quietude of Serpentcoil Island doesn't have such distinct bonus floors.<br/>On a related note, 50F doesn't appear to exclusively generate Gitan in this dungeon.
+
+#### More Breakable Pillar Rooms
+
+Rooms with breakable pillars appear to generate more often in this dungeon.<br/>These rooms are like a controlled Monster House which provide a chance to earn exp and items.
+
+#### Overall Picture
+
+It's far less efficient to linger for experience points, item drops, or specific monsters like Mixers,<br/>so instead, the player is pressured to adapt their strategy based on available initial monsters.<br/>You might struggle if you're a player who relies on methodical farming techniques a lot,<br/>but those used to working with floor items and advancing at a brisk pace will have an easier time.
+
+### Important Items
+
+#### Runes
+
+Costly and Voracious runes are more viable thanks to fewer enemies being generated.<br/>The Fasting shield rune lets you linger for additional monster spawns without the risk of starvation,<br/>but you'll still want to keep grass or food items on hand in case you step on a Hunger Trap.
+
+##### Weapon
+
+<div class="runeTable2">
+
+|Icon|Name|Source|Notes|
+|-|-|-|-|
+|<img src="../images/rune/weapon/28.png"/>|Costly Hit|Spender's Club|Deal x1.5 damage, but spend 100 Gitan per hit.<br/>Weapon attack set to 0 without enough Gitan.|
+|<img src="../images/rune/weapon/29.png"/>|Voracious Hit|Ferrous Greatsword|Deal x1.5 damage, but spend 2 fullness per hit.<br/>Weapon attack set to 0 without enough fullness.|
+|<img src="../images/rune/weapon/1.png"/>|Rustproof|Golden Sword<br/>Plating Scroll|Mudster (47-54F) and Mudder (47-54F) erase Rustproof before other runes.<br/>Raises normal attack accuracy (92% → 94%).|
+|<img src="../images/rune/weapon/2.png"/>|Frontal Attack|Kama Itachi|Attack multiple monsters at the same time.|
+|<img src="../images/rune/weapon/18.png"/>|Confusing|Confusion Grass|Chance to mostly disable a monster for a while.|
+|<img src="../images/rune/weapon/19.png"/>|Sedating|Sedating Grass|Chance to fully disable a monster for a short while.|
+|<img src="../images/rune/weapon/21.png"/>|Blinding|Blinding Grass|Chance to mostly disable a monster forever.|
+|<img src="../images/rune/weapon/22.png"/>|Paralyzing|Paralyzing Staff|Chance to fully disable a monster forever.|
+|<img src="../images/rune/weapon/13.png"/>|Anti-Draining|Drain Slayer|Polygon Singa (33-39F), Terror Scorpion (50-59F), etc.|
+|<img src="../images/rune/weapon/9.png"/>|Anti-Beast|Primal Axe|Miracle Hen (66-79F), Grampadillo (80-99F), etc.|
+|<img src="../images/rune/weapon/12.png"/>|Anti-Ghost|Sickle of Salvation|Soul Reaper (33-39F), King Reaper (80-99F), etc.|
+
+</div>
+
+##### Shield
+
+<div class="runeTable2">
+
+|Icon|Name|Source|Notes|
+|-|-|-|-|
+|<img src="../images/rune/shield/24.png"/>|Costly Block|Spender's Shield|Reduce normal attack damage received by 30%.<br/>Spend 100 Gitan per hit received, 0 shield defense without enough Gitan.|
+|<img src="../images/rune/shield/25.png"/>|Voracious Block|Ferrous Kite|Reduce normal attack damage received by 30%.<br/>Spend 2 fullness per hit received, 0 shield defense without enough fullness.|
+|<img src="../images/rune/shield/30.png"/>|Fasting|Bodhi Shield|Stops natural fullness depletion, Max Fullness becomes 1.|
+|<img src="../images/rune/shield/4.png"/>|Jitters Payback|Jitters Scroll|Chance to disable a monster that uses a normal attack against you.|
+|<img src="../images/rune/shield/7.png"/>|Onigiri Payback|Onigiri Scroll|Chance to disable a monster that uses a normal attack against you.|
+|<img src="../images/rune/shield/10.png"/>|Anti-Dragon|Dragon Shield|Mainly for Archdragon (80-99F) floors.|
+|<img src="../images/rune/shield/11.png"/>|Anti-Blast|Blast Shield|Adamant Tank (40-44F), Steadfast Tank (42-49F), Fulminachin (80-99F), etc.|
+
+</div>
+
+#### Bracelets
+
+<p><b><u>Tiptoe Bracelet</u></b><br/>Avoid having to fight napping monsters that wake up when you enter or exit a room.<br/>Somewhat difficult to identify, but its effect plays well with this dungeon's rules.</p>
+
+<p><b><u>Monster-find Bracelet</u></b> / <b><u>Clairvoyant Bracelet</u></b><br/>Use it to avoid encounters, or safely retreat to regen HP during combat.</p>
+
+<p><b><u>Monstercall Bracelet</u></b><br/>The monster spawn rate increasing effect seems to be effective even in this dungeon,<br/>so this bracelet single-handedly makes farming techniques more viable.<br/>Particularly nice on Nigiri Baby, Thiefwalrus, or Mixer floors.</p>
+
+<p><b><u>Trapmore Bracelet</u></b><br/>Pair this with Seewell Grass to utilize Summoning Traps and Monsterizing Traps.<br/>Rotting Traps can also be used to obtain food if you're low on onigiri.</p>
+
+#### Staves
+
+<p><b><u>Fortune Staff</u></b> / <b><u>Unlucky Staff</u></b><br/>Level up a monster for more experience points, or lower their level to make combat easier.<br/>Masked Samurai family monsters can be used similarly to Fortune Staff.</p>
+
+<p><b><u>Peach Staff</u></b><br/>Effective when you see a monster you want to utilize, but the timing doesn't line up.<br/>Recommended to swing it at Mixer or Karakuroid family monsters in particular.</p>
+
+<p><b><u>Paralyzing Staff</u></b> / <b><u>Narrow-escape Staff</u></b><br/>Lets you paralyze and delay confronting a monster that can be used for farming techniques.<br/>Try to keep multiple of these staves on hand if possible.</p>
+
+#### Scrolls
+
+<p><b><u>Monstercall Scroll</u></b><br/>Introduces risk, but provides extra experience points and items.<br/>Don't read it on floors where monsters capable of destroying floor items appear.</p>
+
+<p><b><u>Eradication Scroll</u></b> (<b><u>Blank Scroll</u></b>)<br/>It was ideal to have around 4 of these in Heart of Serpentcoil Island, but fewer is needed here.<br/>The goal should be 2 to eradicate the Pop Tank family and either King Reaper or Archdragon.</p>
+
+### Farming Techniques
+
+Most of the techniques from Heart of Serpentcoil Island can be performed in this dungeon.<br/>However, lingering for new monster spawns isn't effective from a Fullness depletion standpoint.<br/>If you're the type to rely on farming techniques, it might be best to get used to a quicker style.
+
+#### General Monster Hunting
+
+Level up a monster and earn lots of exp at once instead of aiming to hunt lots of weaker monsters.<br/>Don't expect to be able to hunt an endless number of monsters for item drops.
+
+#### Nigiri Morph Factory / Bowboy Family
+
+Can be performed if you get lucky and the corresponding monster is an initial spawn for the floor.<br/>Use a Paralyzing Staff to have the monster wait until you're ready - don't just defeat it.
+
+#### Poison Arrows
+
+Mainly viable if you happen to find a Peach Staff by the time you see Karakuroid monsters.
+
+#### Mixermon / Chow
+
+If you want 40-41F to be a bonus zone where mostly Mixermons and Chows spawn,<br/>you'll want to throw an Eradication Scroll at a Pop Tank (16-18F) instead of waiting until 40F.<br/>Another option is to level up a Baby Tank (29-32F) into a Pop Tank before eradicating it.
+
+#### Making Behemoth Gates Vanish
+
+Since Behemoth Gates never appear, this technique cannot be performed.<br/>You'll have fewer chances to obtain Preservation / Synthesis / Rejuvenation Pots and Blank Scrolls.
+
+#### Fever Time / Wishing Shrine
+
+These two are pretty luck-based and inconsistent, but offer a chance to replenish items.
 
 # Floor Guide
 
-[Content]
+### 1-3F
+
+<p><span class="highlightYellow">Notable:</span> Pit Mamel (1-3F), Nigiri Baby (2-4F), Pumphantasm (3-4F), Taur (3-5F)</p>
+
+Level up a Pit Mamel (11 HP, 5 atk) into a Cave Mamel for 2,000 experience points if possible.<br/>Nigiri Baby (17 HP, 8 atk) is rare, so don't expect to be able to easily activate Sumo status.<br/>Pumphantasm (23 HP, 16 atk) and Taur (35 HP, 15 atk) both have higher attack power.
+
+### 4-6F
+
+<p><span class="highlightYellow">Notable:</span> monster_name</p>
+
+### 7-12F
+
+<p><span class="highlightYellow">Notable:</span> monster_name</p>
+
+### 13-15F
+
+<p><span class="highlightYellow">Notable:</span> monster_name</p>
+
+### 16-19F
+
+<p><span class="highlightYellow">Notable:</span> monster_name</p>
+
+### 20-24F
+
+<p><span class="highlightYellow">Notable:</span> monster_name</p>
+
+### 25-29F
+
+<p><span class="highlightYellow">Notable:</span> monster_name</p>
+
+### 30-32F
+
+<p><span class="highlightYellow">Notable:</span> monster_name</p>
+
+### 33-39F
+
+<p><span class="highlightYellow">Notable:</span> monster_name</p>
+
+### 40-49F
+
+<p><span class="highlightYellow">Notable:</span> monster_name</p>
+
+### 50-59F
+
+<p><span class="highlightYellow">Notable:</span> monster_name</p>
+
+### 60-64F
+
+<p><span class="highlightYellow">Notable:</span> monster_name</p>
+
+### 65F
+
+<p><span class="highlightYellow">Notable:</span> monster_name</p>
+
+### 66-79F
+
+<p><span class="highlightYellow">Notable:</span> monster_name</p>
+
+### 80-99F
+
+<p><span class="highlightYellow">Notable:</span> monster_name</p>
 
 # Monsters
 

@@ -44,7 +44,7 @@ metaDescription: "Wanderers' Highway dungeon guide for Shiren the Wanderer: The 
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3"></td>
+    <td colspan="3">All categories</td>
   </tr>
   <tr>
     <th>Shops</th>
@@ -72,17 +72,317 @@ metaDescription: "Wanderers' Highway dungeon guide for Shiren the Wanderer: The 
   </tr>
 </table>
 
-[Content]
+Dungeon where floors are smaller, items are easier to identify, NPCs appear, and visibility is better.<br/>The main idea is to team up with Travel Companions like Asuka to overcome a harder 99F dungeon.<br/>Mixer monsters only appear on floor numbers that are a multiple of 12, and are also pretty rare.<br/>Travel Companions often appear on floor numbers that are 10xN+1 (example: 1F and 11F).<br/>The inference mechanic is enabled, so unidentified items are narrowed down to 3 possibilities.<br/>Wind blows earlier than most other dungeons, so farming techniques aren't as effective.<br/>Overall, it's a nice change of pace from dungeons that are based on Heart of Serpentcoil Island.
 
 # Strategy
 
 ### General
 
-[Content]
+#### Travel Companion Floors (10xN+1)
+
+Travel Companions have a high chance of appearing on floor numbers that are 10xN+1 (1F, 11F, etc.).<br/>However, Travel Companions who collapse during the current adventure won't appear for a 2nd time.<br/>Monster Pups can also appear, so it's nice to befriend pups that give good items like Thiefwalrus.
+
+#### Inference Mechanic
+
+Unidentified items are narrowed down to 3 possibilities, and identified options are greyed out.<br/>See [Training Path of Inference](/dungeons/training-path-of-inference) for a more detailed explanation.
+
+#### Mixer Floors (12xN)
+
+Mixer monsters only appear on floor numbers that are a multiple of 12 (example: 12F, 24F, etc.).<br/>Their spawn rates are low, so it's common to only see 1 even if you linger until the wind blows.<br/>It's a good idea to save items like Fortune Staff for Mixers so that you can synthesize more items.<br/>That said, 36F has both Mixers and Mixermons, so you'll generally have more opportunities there.<br/>Synthesis Pots usually aren't too rare, so prioritize Cross-Mixing runes with Mixers first.
+
+#### Strong Foes
+
+The monster table resembles Heart of Serpentcoil Island / Kiki Island, but there are changes.<br/>For example, Mini Tanks appear on 35\~39F, and Steadfast Tanks were moved to 55\~62F.<br/>Don't let your guard down thinking it's the same as Heart of Serpentcoil Island.
+
+Notable Changes:
+
+- 31-39F : Soul Reaper
+- 35-39F : Mini Tank
+- 55-62F : Steadfast Tank (overlaps with Nigiri Boss on 58-62F)
+- 64-74F : Battler / Skull Lord / Grampadillo
+- 75-87F : King Reaper / Polygon Stunna / Porgon
+- 88-99F : Archdragon / Hat Rascal / Miracle Hen
+
+#### Wind
+
+The 1st gust blows after 700 turns, so you'll get sent back to Shukuba Beach after 1000 turns.<br/>You won't be able to linger for Mixers very long, even if you have plenty of food.
+
+#### Smaller Floors
+
+Floors generally have fewer rooms and are more compact compared to Heart of Serpentcoil Island.<br/>It's not uncommon for a floor to be generated with only 2\~3 rooms, giving the impression of more traps.<br/>Despite this being the case, initial enemy counts can rival Heart of Serpentcoil Island,<br/>and new monsters are generated every 30 turns, so expect lots of encounters.
+
+#### Buried Item Floors (10xN)
+
+Floor numbers that are a multiple of 10 often have lots of buried items inside the walls.<br/>Save Collection Scrolls for these floors whenever possible.
+
+### Important Items
+
+#### Runes
+
+##### Weapon
+
+<div class="runeTable2">
+
+|Icon|Name|Source|Notes|
+|-|-|-|-|
+|<img src="../images/rune/weapon/1.png"/>|Rustproof|Golden Sword<br/>Plating Scroll|Mudster (45-51F) and Mudder (45-51F) erase Rustproof before other runes.<br/>Raises normal attack accuracy (92% → 94%).|
+|<img src="../images/rune/weapon/2.png"/>|Frontal Attack|Kama Itachi|Attack multiple monsters at the same time.|
+|<img src="../images/rune/weapon/5.png"/>|Critical|Axe of the Minotaur|Basically a chance-based type-effective rune that works against anyone.|
+|<img src="../images/rune/weapon/18.png"/>|Confusing|Confusion Grass|Chance to mostly disable a monster for a while.|
+|<img src="../images/rune/weapon/19.png"/>|Sedating|Sedating Grass|Chance to fully disable a monster for a short while.|
+|<img src="../images/rune/weapon/21.png"/>|Blinding|Blinding Grass|Chance to mostly disable a monster forever.|
+|<img src="../images/rune/weapon/22.png"/>|Paralyzing|Paralyzing Staff|Chance to fully disable a monster forever.|
+|<img src="../images/rune/weapon/13.png"/>|Anti-Draining|Drain Slayer|Polygon Singa (30-34F), Terror Scorpion (49-55F), Polygon Stunna (75-87F), etc.|
+|<img src="../images/rune/weapon/9.png"/>|Anti-Beast|Primal Axe|Grampadillo (64-74F), Porgon (75-87F), Miracle Hen (88-99F), etc.|
+|<img src="../images/rune/weapon/10.png"/>|Anti-Dragon|Dragonkiller|Hiding Dragon (88-99F), Archdragon (88-99F), Pyrepuff (88-99F), etc.|
+|<img src="../images/rune/weapon/14.png"/>|Anti-Cyclops|Cyclops Bane|Hyper Gazer (58-62F), Megahead (64-74F), Hat Rascal (88-99F), etc.|
+|<img src="../images/rune/weapon/48.png"/>|Trap-finding|Trapseeker|Smaller rooms and floors = higher chance to reveal a trap when attacking.|
+
+</div>
+
+##### Shield
+
+<div class="runeTable2">
+
+|Icon|Name|Source|Notes|
+|-|-|-|-|
+|<img src="../images/rune/shield/1.png"/>|Rustproof|Golden Shield<br/>Plating Scroll|Mudster (45-51F) and Mudder (45-51F) erase Rustproof before other runes.|
+|<img src="../images/rune/shield/4.png"/>|Jitters Payback|Jitters Scroll|Chance to disable a monster that uses a normal attack against you.|
+|<img src="../images/rune/shield/7.png"/>|Onigiri Payback|Onigiri Scroll|Chance to disable a monster that uses a normal attack against you.|
+|<img src="../images/rune/shield/10.png"/>|Anti-Dragon|Dragon Shield|Archdragon (88-99F), Pyrepuff (88-99F), etc.|
+|<img src="../images/rune/shield/11.png"/>|Anti-Blast|Blast Shield|Adamant Tank (39-42F), Steadfast Tank (55-62F), Fulminachin (75-87F), etc.|
+|<img src="../images/rune/shield/22.png"/>|Unmoving|Unmoving Wall|Helps prevent becoming separated from your Travel Companions.<br/>※ Switching and Vaulting staves cannot be used with this rune.|
+|<img src="../images/rune/shield/31.png"/>|Trap-proof|Sacred Item|Rarely obtained, but reduces stress related to traps.<br/>※ Auspicious set resonance also reduces trap activation rate.|
+|<img src="../images/rune/shield/17.png"/>|Nigiriproof|Nigiri Stopper|Nigiri Boss (58-62F) overlaps with Steadfast Tank (55-62F) on 58-62F.|
+|<img src="../images/rune/shield/16.png"/>|Hatproof|Hat Stopper|Basically just for Hat Rascal (88-99F).|
+
+</div>
+
+#### Bracelets
+
+<p><b><u>Monster-find Bracelet</u></b><br/>Tag-teaming enemies with companions is a very effective strategy, so this bracelet is key.<br/>Also reveals the locations of NPCs, eliminating the risk of missing out on a companion.</p>
+
+<p><b><u>Clairvoyant Bracelet</u></b><br/>Upgraded version of Monster-find Bracelet that also reveals item locations.</p>
+
+<p><b><u>Far-throwing Bracelet</u></b><br/>Throw a Mixer family Peach Bun at a line of monsters to synthesize as much as you want.<br/>Needed items: Paralyzing Staff, Peach Staff, Mixer family Peach Bun</p>
+
+<p><b><u>Floating Bracelet</u></b><br/>Nigiri Baby doesn't appear, so it's difficult to attain Sumo status in this dungeon.<br/>Therefore, this bracelet is your best option when it comes to countering traps.<br/>It also lets you claim island items and walk on water tiles without your items getting wet.</p>
+
+<p><b><u>Passerby Bracelet</u></b><br/>Lets you gang up on a monster by sandwiching them between Shiren and companions.</p>
+
+#### Scrolls
+
+<p><b><u>Eradication Scroll</u></b><br/>Blank Scrolls are somewhat common, but don't use them without thinking.<br/>It's best to save 3 for eradicating key threats, which vary based on your bracelets and runes.<br/><span class="redText">※ Crow Tengu appears on 80-99F, so make sure the target is the actual monster on those floors.</span></p>
+
+|Floors|Monster|
+|-|-|
+|29-32F|Polygon Shaka|
+|30-34F|Polygon Singa|
+|31-39F|Soul Reaper|
+|35-39F|Mini Tank|
+|39-42F|Ornery Tank / Adamant Tank|
+|46-51F|Mudster / Mudder|
+|49-55F|Terror Scorpion|
+|55-62F|Steadfast Tank|
+|64-74F|Battler or Skull Lord|
+|75-87F|Polygon Stunna or Porgon or King Reaper|
+|88-99F|Archdragon or Miracle Hen|
+
+<p><b><u>Confusion / Slumber / Jitters / Fixer / Gathering scrolls</u></b><br/>Scrolls that are helpful when it comes to keeping companions alive.<br/>Note that monsters won't attack on the same turn you read a Gathering Scroll.</p>
+
+<p><b><u>Collection Scroll</u></b><br/>Read it on a floor number that is a multiple of 10 to hopefully obtain lots of items.<br/>However, beware of N'daloon if you read a Collection Scroll on 60F.</p>
+
+<p><b><u>Trap-eraser Scroll</u></b><br/>Read it at the start of a dangerous floor before rushing to the stairs.</p>
+
+#### Staves
+
+<p><b><u>Peach Staff</u></b><br/>Swing it at a Hat Prankster (9-13F) to collect lots of staves.<br/>Level up a Mixer family monster and turn it into a Peach Bun, etc.</p>
+
+<p><b><u>Fortune Staff</u></b><br/>Swing it at a Mudkin (7-13F) and hunt multiplying Mudsters to level up.<br/>Or save it for Mixer monsters to increase the number of items you can synthesize.</p>
+
+<p><b><u>Earthmound / Paralyzing / Knockback / Sluggish staves</u></b><br/>Can be used to keep companions away from Shiren prior to entering a Monster House.</p>
+
+<p><b><u>Disguising / Switching / Swift staves</u></b><br/>Staves that are helpful when it comes to keeping companions alive.<br/>Disguising Staff sets damage received by any attack to 5 damage in this game.</p>
+
+#### Grass
+
+<p><b><u>Swift / Invincible / (HP restoring) grass</u></b><br/>Grasses that are helpful when it comes to keeping companions alive.<br/>Invincible is great for Monster Houses or if you get sandwiched by Soul Reapers in a hallway.<br/>Swift Grass can be used by either Shiren or a companion.</p>
+
+<p><b><u>Seewell Grass</u></b><br/>Nice, since smaller floors means you're more likely to encounter traps.<br/>Probably best saved for Mixer floors or otherwise very dangerous floors.</p>
+
+<p><b><u>Revival Grass</u></b><br/>Behemoth Frenzy Radish can instantly end runs if you don't have Revival Grass.</p>
+
+#### Pots / Incense
+
+<p><b><u>Synthesis Pot</u></b><br/>Found occasionally, and rarely wasted thanks to the inference mechanic.<br/>Use these pots for any regular synthesis needs (not Cross-Mixing recipes).</p>
+
+<p><b><u>Upgrading Pot</u></b><br/>If you find a pot with a capacity of 2, handle it carefully.<br/>If the other 2 inference options have a minimum capacity of 3, it's guaranteed to be this pot.</p>
+
+<p><b><u>Hiding Pot</u></b><br/>Item that can help keep a companion alive in emergencies.<br/>Also useful to block off of an entrance when synthesizing via a Mixer family monster.</p>
+
+<p><b><u>Blurry Incense</u></b><br/>Great to keep 1 on hand in case you encounter a Monster House.<br/>That said, it'll still be difficult to keep companions alive from mid game onward.</p>
+
+### Travel Companions
+
+#### Monster Notes
+
+##### Stat Lowering
+
+<p><span class="highlightLightblue">Monsters:</span> Curse Girl, Scorpion, Mudkin, Nigiri Baby, Polygon Spinna, Swordsman families.</p>
+
+Companions aren't as heavily affected when hit by these monsters' special attacks compared to Shiren,<br/>so use your companions as a shield and let them fight these monsters whenever possible.<br/>However, Asuka's equipment can be affected by Mudkin and Swordsman families.
+
+##### Ranged Attackers
+
+<p><span class="highlightLightblue">Monsters:</span> Bowboy, Pop Tank, Skull Mage, Porky, Dragon, Metalhead families.</p>
+
+Companions stay close to Shiren, so they generally struggle against these monsters.<br/>Consider eradicating Mini Tank, Adamant Tank, and Steadfast Tank in particular.
+
+##### Wall-clip
+
+<p><span class="highlightLightblue">Monsters:</span> Pumphantasm family, Soul Reaper, King Reaper</p>
+
+Companions quickly collapse to these monsters when attacked from inside a wall.<br/>If you want to keep companions alive, don't be stingy writing Eradication Scroll on Blank Scrolls.
+
+#### Characters
+
+##### Asuka
+
+- Throw weapons and shields at Asuka to check equipment upgrade value and cursed status.
+- Prioritize synthesizing status inflicting runes on Asuka's equipment before Shiren's equipment.
+    - This helps keep Asuka alive longer, and if she collapses, you can still synthesize her items.
+- Retribution and Frontal Attack runes are particularly effective on Asuka.
+- If playing as a character other than Normal Shiren, you can focus all synthesis on Asuka.
+
+##### Hibiki
+
+- Reliable like Tugai, and can throw medicine from behind other allies.
+- Good even when you have 2 or more allies in your party.
+
+##### Porky the Pirate
+
+- Excellent for early game, but very unreliable for mid\~late game.
+- The best part of this ally is Shiren being able to collect Porky's Rocks that miss.
+- Lower Max HP than all other Travel Companions.
+
+##### Tugai
+
+- Reliable for 1 vs 1 encounters thanks to good stats and a chance for critical hits.
+- Lacks a ranged attack option, so not as good when you have 2 or more allies in your party.
+
+##### Seki
+
+- Faster HP regen than other allies thanks to her swift action speed.
+- Strong when there's room for her to retreat after attacking, but worse with lots of allies.
+- Weak against monsters who excel at ranged attacks like the Skull Mage family.
 
 # Floor Guide
 
-[Content]
+Floor ranges alternate between full visibility and dark hallways in this dungeon.<br/>Some dangerous floor ranges have dark hallways for longer durations, such as 11-18F and 35-46F.
+
+### 1-4F
+
+<p><span class="highlightYellow">Notable:</span> Pit Mamel (1-3F), Froggo (4F), Polygon Spinna (4-6F)</p>
+
+These floors shouldn't be a challenge, especially if you recruit a companion.
+
+### 5-7F
+
+<p><span class="highlightYellow">Notable:</span> Scorpion (5-7F), Karakuroid (5-7F), Gazer (6-8F), Porky (6-8F)</p>
+
+Scorpion (37 HP, 14 atk, 14 def) appears on 5-7F, so let a companion fight it instead.<br/>Its strength lowering special attack just inflicts a temporary Weakened status against companions.<br/>Get in the habit of having companions fight monsters that are capable of lowering Shiren's stats.
+
+Gazer (30 HP, 18 atk, 14 def) can cause item loss or friendly fire accidents with companions.<br/>Karakuroid (40 HP, 20 atk, 13 def) has Swift 1 action speed, but is asleep until Shiren enters the room.<br/>Porky (30 HP, 17 atk, 12 def) throws 20 damage Porky's Rocks within a 3 tile radius.
+
+### 8-11F
+
+<p><span class="highlightYellow">Notable:</span> Mudkin (7-13F), Bowboy (9-11F), Crossbowboy (9-12F), Masked Samurai (10-12F)</p>
+
+If you have the items for it, level up a Mudkin (70 HP, 5 atk, 9 def) into a Mudster for 460 exp.<br/>The Mudster multiplying strategy is even more effective than usual if you have companions.
+
+Collect arrows from Bowboy (45 HP, 17 atk, 18 def) or Crossbowboy (55 HP, 20 atk, 20 def) if desired.<br/>Masked Samurai (47 HP, 18 atk, 18 def) respawns as Ghost Samurai when defeated.
+
+### 12F
+
+<p><span class="highlightYellow">Notable:</span> Mixer (12F), Mudkin (7-13F), Crossbowboy (9-12F), Masked Samurai (10-12F)</p>
+
+Mixer (78 HP, 39 atk, 29 def) appears, but its spawn rate is on the low side.<br/>Use a Fortune Staff or Ghost Samurai to level it up if you want to synthesize more items.<br/><span class="orangeText">※ Mixer family monsters only appear on floor numbers that are a multiple of 12.</span>
+
+### 13-19F
+
+<p><span class="highlightYellow">Notable:</span> Master Hen (13-18F), Metalhead (12-15F), Pop Tank (16-18F), Thiefwalrus (16-19F), etc.</p>
+
+Slay Master Hen (70 HP, 33 atk, 21 def) before it reverts to Hen for 400 exp instead of 200 exp.<br/>Beware of Pop Tank (90 HP, 20 atk, 24 def)'s 20 damage cannonballs when you have companions.<br/>Linger and let companions fight Thiefwalrus (65 HP, 25 atk, 23 def) to guarantee item drops.<br/>Have companions fight Ghost Radish (40 HP, 18 atk, 15 def) on 16-17F to avoid strength loss.<br/>Otherwise, Lv1 monks appear in various combinations between 15-19F.
+
+### 20-24F
+
+<p><span class="highlightYellow">Notable:</span> Pumpanshee (20-24F), Super Gazer (22-24F), Cave Mamel (20-25F), Mixer (24F), etc.</p>
+
+Pumpanshee (60 HP, 35 atk, 22 def) can easily slay companions if caught in a hallway.<br/>Super Gazer (66 HP, 30 atk, 26 def) can cause item loss or friendly fire accidents with companions.<br/>Cave Mamel (5 HP, 100 atk, 100 def) is mainly a problem when hallways are dark on 23-25F.<br/>Explochin (120 HP, 25 atk, 22 def) appears on 20-22F and explodes when its HP ≤ 24 (deal 96+ damage).<br/>Skull Mage (77 HP, 31 atk, 21 def) spawns on 19-21F, and Skull Wizard (88 HP, 35 atk, 24 def) on 22-23F.<br/>Their special attacks can cause Shiren to become separated from his companions.
+
+Mixer (78 HP, 39 atk, 29 def) appears again on 24F, so linger and synthesize if possible.<br/>N'dulu (70 HP, 40 atk, 31 def) appears on 24-27F, so beware of surprise attacks when using new items.<br/>Either insert the item into a Preservation Pot or advance to the next floor to reveal N'dulu's disguise.<br/>Otherwise, Lv2 ninjas appear in various combinations between 20-23F.
+
+### 25-30F
+
+<p><span class="highlightYellow">Notable:</span> Porko (24-27F), N'dulu (24-27F), Greenwalrus (25-28F), Daze Radish (26-29F), Dragon (27-30F)</p>
+
+Porko (65 HP, 36 atk, 18 def) throws 20 damage Porky's Rocks within a 5 tile radius.<br/>Greenwalrus (88 HP, 30 atk, 27 def) can be hunted for items, but it's only recommended on 25F.<br/>Daze Radish (80 HP, 37 atk, 27 def) throws Confusion Grass → Poison Grass within a 2 tile radius.<br/>Dragon (120 HP, 45 atk, 40 def) appears on 27-30F and breathes 20 damage fire in a straight line.<br/>Sky Dragon (140 HP, 55 atk, 50 def) appears on 28-30F and breathes 20 damage fire in the same room.<br/>If the Dragon or Sky Dragon is in the distance and you have companions, use a Paralyzing Staff or such.
+
+### 31-42F
+
+<p><span class="highlightYellow">Notable:</span> Pumplich (30-39F), Soul Reaper (31-39F), Mini Tank (35-39F), Adamant Tank (39-42F), etc.</p>
+
+<p><span class="redText">The companion slayer zone</span> - This is the most difficult floor range of mid game.<br/>If you want to protect companions, eradicate Soul Reaper → Mini Tank → Adamant Tank in that order.<br/>Dark Owl (90 HP, 16 atk, 25 def)'s room-dimming effect is extremely dangerous on tank floors,<br/>and floors with flowing water and rafts can be tricky if a Mini Tank stations itself on a raft.<br/>Mixer and Mixermon both spawn on 36F, but be very careful if you decide to linger.</p>
+
+Pumplich (100 HP, 50 atk, 30 def) isn't as bad as Soul Reaper, but can be a problem in hallways.<br/>Chow (20 HP, 1 atk, 1 def) also appears, so there's a constant risk of a Soul Reaper leveling up.<br/>King Reaper (225 HP, 65 atk, 50 def) is much tougher than Soul Reaper (75 HP, 40 atk, 40 def),<br/>so use items to disable it instead of trying to trade hits with it.
+
+Mini Tank (100 HP, 55 atk, 40 def) shoots Silver Arrows which pass through creatures and walls.<br/>Ornery Tank (95 HP, 40 atk, 44 def) has Normal action speed and shoots 30 damage cannonballs.<br/>Adamant Tank (100 HP, 60 atk, 54 def) has Swift 1 action speed and shoots 40 damage cannonballs.
+
+Other threats include:<br/>Polygon Singa (129 HP, 40 atk, 40 def) on 30-34F - Lowers max fullness by 7.<br/>Vile Scorpion (108 HP, 45 atk, 33 def) on 30-34F - Lowers current strength by 2.<br/>Floppy Hani (85 HP, 39 atk, 39 def) on 29-34F - Lowers level by 1.<br/><span class="redText">Behemoth Gates</span> can also appear between 31-38F.
+
+### 43-54F
+
+<p><span class="highlightYellow">Notable:</span> Mudster (45-51F), Mudder (45-51F), N'dama (45-55F), Terror Scorpion (51-55F)</p>
+
+Mudster (140 HP, 35 atk, 43 def) and Mudder (145 HP, 45 atk, 53 def) can both erase 1 rune,<br/>and Terror Scorpion (185 HP, 55 atk, 45 def) lowers Max Strength by 1 when adjacent.<br/>If you still have a companion with you, let them fight said monsters in place of Shiren.<br/>Mixermon (98 HP, 50 atk, 35 def) appears on 48F, so linger and synthesize if desired.
+
+Lv3 monks appear on 51-56F, so it's probably best to rush to the stairs (55-58F have dark hallways).<br/>50F is always a "Shuffle Dungeon" style map based on Suzunari Pass.
+
+### 55-63F
+
+<p><span class="highlightYellow">Notable:</span> Steadfast Tank (55-62F), Nigiri Boss (58-62F), Hyper Gazer (58-62F), Bag Knave (58-62F)</p>
+
+Monsters capable of destroying both inventory and floor items appear, so rush to the stairs.<br/>Steadfast Tank (105 HP, 80 atk, 64 def)'s cannonball will instantly defeat Shiren if he has Onigiri status,<br/>so be careful near Nigiri Boss (133 HP, 45 atk, 42 def) if you don't have the Nigiriproof shield rune.<br/><span class="redText">Behemoth Gates</span> can also appear between 61-68F.
+
+Lv3 ninjas appear on 63F, giving you a small break before the next major threats show up.
+
+### 64-74F
+
+<p><span class="highlightYellow">Notable:</span> Grampadillo (64-74F), Skull Lord (64-74F), Battler (64-74F), Pumplord (64-74F), etc.</p>
+
+Companions might struggle to keep up from this point - don't go out of your way to save them.<br/>Throw an Eradication Scroll at Skull Lord (188 HP, 55 atk, 55 def) if you lack Magic Cancel.<br/>If you don't have a Blank Scroll, don't be stingy when using items to disable Skull Lords.<br/>Battler (200 HP, 69 atk, 50 def) can disarm any equipped item if you lack an Affixing Bracelet.<br/>Pumplord (185 HP, 75 atk, 35 def) can be a menace in hallways with its wall-clip ability.
+
+Lv3 monks appear again on 68-73F, so it's best to rush to the stairs (71-74F have dark hallways).<br/>Both Mixermon (98 HP, 50 atk, 35 def) and Mixergon (118 HP, 68 atk, 40 def) appear on 72F.
+
+### 75-87F
+
+<p><span class="highlightYellow">Notable:</span> King Reaper (75-87F), Porgon (75-87F), Polygon Stunna (75-87F), Fulminachin (75-87F)</p>
+
+Companions are very likely to collapse, so assume that you'll have to fight solo from this point.
+
+King Reaper (225 HP, 65 atk, 50 def) has Swift 2 speed, wall-clips, and detects Shiren from anywhere.<br/>Porgon (200 HP, 85 atk, 60 def) throws 20 damage Porky's Rocks within a 10 tile radius.<br/>Polygon Stunna (229 HP, 50 atk, 55 def) warps in front of you in rooms, and lowers Max Fullness by 10.<br/>Fulminachin (200 HP, 45 atk, 32 def) explodes when its HP ≤ 40 (deal 160+ damage to it).
+
+Fluffy Bunny (10 HP, 10 atk, 50 def) appears on 75-99F and warps to a monster and heals their HP by 50.<br/>Crow Tengu (5 HP, 1 atk, 1 def) appears on 80-99F, so beware when throwing Eradication Scrolls,<br/>and shoot an arrow to see if a Mixergon is real first if you want to synthesize on 84F.
+
+### 88-99F
+
+<p><span class="highlightYellow">Notable:</span> Miracle Hen (88-99F), Archdragon (88-99F), Hat Rascal (88-99F), Pyrepuff (88-99F)</p>
+
+It's best to eradicate either Miracle Hen or Archdragon, depending on your equipment and runes.
+
+Miracle Hen (220 HP, 82 atk, 60 def) has very high attack power and Swift 2 speed.<br/>Archdragon (200 HP, 65 atk, 60 def) breathes 30 damage fire from anywhere on the floor.<br/>Hat Rascal (170 HP, 85 atk, 12 def) steals and tosses away a staff, grass, food, or scroll item.<br/>Pyrepuff (255 HP, 75 atk, 45 def) breathes 40 damage fire when adjacent.
+
+<p><span class="redText">Behemoth Gates</span> can also appear between 91-98F - Sleep Radish and Frenzy Radish can appear.<br/>If you want to keep companions alive until 99F, use items like Evasive Incense or Wall-less Scroll.</p>
 
 # Monsters
 
@@ -109,7 +409,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </thead>
   <tbody>
     <tr>
-      <td class="centeredText">1</td>
+      <td class="centeredText highlightFog">1</td>
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
@@ -124,7 +424,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">2</td>
+      <td class="centeredText highlightFog">2</td>
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
@@ -139,7 +439,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">3</td>
+      <td class="centeredText highlightFog">3</td>
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
@@ -287,7 +587,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">11</td>
+      <td rowspan="2" class="centeredText highlightFog">11</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -309,7 +609,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">12</td>
+      <td rowspan="2" class="centeredText highlightFog">12</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -331,7 +631,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">13</td>
+      <td rowspan="2" class="centeredText highlightFog">13</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -353,7 +653,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">14</td>
+      <td class="centeredText highlightFog">14</td>
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
@@ -368,7 +668,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">15</td>
+      <td rowspan="2" class="centeredText highlightFog">15</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -390,7 +690,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">16</td>
+      <td rowspan="3" class="centeredText highlightFog">16</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -419,7 +719,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">17</td>
+      <td rowspan="3" class="centeredText highlightFog">17</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -448,7 +748,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">18</td>
+      <td rowspan="2" class="centeredText highlightFog">18</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -565,7 +865,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">23</td>
+      <td rowspan="2" class="centeredText highlightFog">23</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -587,7 +887,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">24</td>
+      <td rowspan="3" class="centeredText highlightFog">24</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -616,7 +916,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">25</td>
+      <td rowspan="2" class="centeredText highlightFog">25</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -638,7 +938,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">26</td>
+      <td rowspan="2" class="centeredText highlightFog">26</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -836,7 +1136,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">35</td>
+      <td rowspan="2" class="centeredText highlightFog">35</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -858,7 +1158,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">36</td>
+      <td rowspan="2" class="centeredText highlightFog">36</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -880,7 +1180,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">37</td>
+      <td class="centeredText highlightFog">37</td>
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
@@ -895,7 +1195,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">38</td>
+      <td class="centeredText highlightFog">38</td>
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
@@ -910,7 +1210,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">39</td>
+      <td rowspan="2" class="centeredText highlightFog">39</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -932,7 +1232,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">40</td>
+      <td rowspan="2" class="centeredText highlightFog">40</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -954,7 +1254,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">41</td>
+      <td rowspan="2" class="centeredText highlightFog">41</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -976,7 +1276,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">42</td>
+      <td rowspan="2" class="centeredText highlightFog">42</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -998,7 +1298,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">43</td>
+      <td rowspan="2" class="centeredText highlightFog">43</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1020,7 +1320,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">44</td>
+      <td rowspan="2" class="centeredText highlightFog">44</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1042,7 +1342,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">45</td>
+      <td rowspan="2" class="centeredText highlightFog">45</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1064,7 +1364,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">46</td>
+      <td rowspan="2" class="centeredText highlightFog">46</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1269,7 +1569,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="4" class="centeredText">55</td>
+      <td rowspan="4" class="centeredText highlightFog">55</td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
@@ -1305,7 +1605,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">56</td>
+      <td rowspan="3" class="centeredText highlightFog">56</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -1334,7 +1634,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">57</td>
+      <td rowspan="2" class="centeredText highlightFog">57</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1356,7 +1656,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">58</td>
+      <td rowspan="2" class="centeredText highlightFog">58</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1466,7 +1766,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">63</td>
+      <td rowspan="2" class="centeredText highlightFog">63</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1488,7 +1788,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">64</td>
+      <td rowspan="3" class="centeredText highlightFog">64</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -1517,7 +1817,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">65</td>
+      <td rowspan="3" class="centeredText highlightFog">65</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -1546,7 +1846,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">66</td>
+      <td rowspan="3" class="centeredText highlightFog">66</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -1705,7 +2005,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="4" class="centeredText">71</td>
+      <td rowspan="4" class="centeredText highlightFog">71</td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
@@ -1741,7 +2041,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="4" class="centeredText">72</td>
+      <td rowspan="4" class="centeredText highlightFog">72</td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
@@ -1777,7 +2077,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="4" class="centeredText">73</td>
+      <td rowspan="4" class="centeredText highlightFog">73</td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
       <td rowspan="4" class=""></td>
@@ -1813,7 +2113,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">74</td>
+      <td rowspan="3" class="centeredText highlightFog">74</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -1930,7 +2230,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">79</td>
+      <td rowspan="2" class="centeredText highlightFog">79</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1952,7 +2252,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">80</td>
+      <td rowspan="2" class="centeredText highlightFog">80</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1974,7 +2274,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">81</td>
+      <td rowspan="2" class="centeredText highlightFog">81</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1996,7 +2296,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">82</td>
+      <td rowspan="2" class="centeredText highlightFog">82</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -2106,7 +2406,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">87</td>
+      <td rowspan="2" class="centeredText highlightFog">87</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -2128,7 +2428,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">88</td>
+      <td rowspan="2" class="centeredText highlightFog">88</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -2150,7 +2450,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">89</td>
+      <td rowspan="2" class="centeredText highlightFog">89</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -2172,7 +2472,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">90</td>
+      <td rowspan="2" class="centeredText highlightFog">90</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -2282,7 +2582,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">95</td>
+      <td rowspan="2" class="centeredText highlightFog">95</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -2304,7 +2604,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">96</td>
+      <td rowspan="3" class="centeredText highlightFog">96</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -2333,7 +2633,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">97</td>
+      <td rowspan="2" class="centeredText highlightFog">97</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -2355,7 +2655,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">98</td>
+      <td rowspan="2" class="centeredText highlightFog">98</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -2377,7 +2677,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">99</td>
+      <td rowspan="2" class="centeredText highlightFog">99</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>

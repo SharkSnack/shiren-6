@@ -26,17 +26,57 @@ Sacred Tree dungeons offer an option to play as characters other than Shiren.
 
 ### Shiren
 
-Can be used in all dungeons.
+<div class="characterImage">
+  <img src="../images/other/char_shiren.jpg"/>
+</div>
+
+<p><span class="highlightOrange2">Description:</span> Default player character, and protagonist of this game's story.<br/><span class="highlightPurple">Unlock Condition:</span> Available from the start.</p>
+
+#### Restrictions
+
+- <span class="highlightGreen">Dungeons:</span> None.
+- <span class="highlightYellow">Item Categories:</span> None.
+
+#### Characteristics
+
+- Max HP increases by a random amount in the range of 3\~6 per level up.
+- Normal Attack (No Runes) = Reaches 1 tile ahead, deals damage, 0% critical hit rate.
+    - Damage increases primarily based on level, strength, equipped weapon, and other effects.
+        - Other effects include runes (ex: Anti-Dragon) and status conditions (ex: Empowered, Damage-up).
+        - See [Gameplay Basics](/system/gameplay-basics#damage-dealt) for details about Shiren's damage dealt formula.
+- Defense = Shiren has no innate defense, and increasing level or strength does nothing for defense.
+    - Damage received decreases primarily based on equipped shield and other effects.
+        - Other effects include runes (ex: Costly Block) and status conditions (ex: Fortified, Damage-down).
+        - See [Gameplay Basics](/system/gameplay-basics#damage-received) for details about Shiren's damage received formula.
+
+#### Special Attacks / Altered Effects
+
+- None.
+
+#### Techniques
+
+- All standard techniques that don't require other player character special attacks can be performed.
 
 ### Kokatsu Shiren
 
-Unlocked by clearing [Cavern of Suiryu](/dungeons/cavern-of-suiryu).<br/>Cannot be used in Peach Dungeon or Trapper's Secret Path.
+<div class="characterImage">
+  <img src="../images/other/char_kokatsu_shiren.jpg"/>
+</div>
 
-#### Normal Attack
+<p><span class="highlightOrange2">Description:</span> Shiren fused with Kokatsu.<br/><span class="highlightPurple">Unlock Condition:</span> Available after clearing <a href="/dungeons/cavern-of-suiryu">Cavern of Suiryu</a>.</p>
 
-Shiren's normal attack initially reaches 1 tile ahead, but gains 1 tile of range per enemy defeated (max: 3 tiles).<br/>However, the boosted normal attack range resets to the initial state whenever Shiren receives damage.<br/>Since Shiren can't equip a shield, it's very important to utilize the extended range to avoid damage.<br/>This normal attack can cut through corners, and can also hit Pumphantasms inside walls.
+#### Restrictions
 
-#### Special Attacks
+- <span class="highlightGreen">Dungeons:</span> Peach Dungeon / Trapper's Secret Path / Peachy Trap Domain
+- <span class="highlightYellow">Item Categories:</span> Weapons / Shields / Bracelets / Arrows / Rocks
+
+#### Characteristics
+
+- [Content]
+
+#### Special Attacks / Altered Effects
+
+Special Attacks:
 
 |Name|Fullness|Effect|
 |-|-|-|
@@ -45,15 +85,92 @@ Shiren's normal attack initially reaches 1 tile ahead, but gains 1 tile of range
 |Blazing Heat|60|Deals 40\~50 damage to all monsters in the room.<br/>Also inflicts Blind status at the same time.|
 |Sun's Blessing|10|Transforms the selected item into a random<br/>Grass or Onigiri category item.|
 
-#### Altered Effects
-
-Certain traps and monster special attacks affect Kokatsu Shiren differently.
+Altered Effects:
 
 |Trap / Monster|Notes|
 |-|-|
 |Mudkin|Lowers Attack Power and Defense Power.|
 |Removal Trap|Lowers Attack Power and Defense Power.|
 |Silver-seal Trap|Inflicts Sealed status.|
+
+#### Techniques
+
+- [Content]
+
+### Tatsumi Shiren
+
+<div class="characterImage">
+  <img src="../images/other/char_tatsumi_shiren.jpg"/>
+</div>
+
+<p><span class="highlightOrange2">Description:</span> Shiren fused with Tatsumi.<br/><span class="highlightPurple">Unlock Condition:</span> Available after clearing <a href="/dungeons/cavern-of-suiryu">Cavern of Suiryu</a>.</p>
+
+#### Restrictions
+
+- <span class="highlightGreen">Dungeons:</span> Peach Dungeon / Trapper's Secret Path / Peachy Trap Domain
+- <span class="highlightYellow">Item Categories:</span> Weapons / Shields / Bracelets / Arrows / Rocks
+
+#### Characteristics
+
+- [Content]
+
+#### Special Attacks / Altered Effects
+
+- [Content]
+
+#### Techniques
+
+- [Content]
+
+### Koppa
+
+<div class="characterImage">
+  <img src="../images/other/char_koppa_2.jpg"/>
+</div>
+
+<p><span class="highlightOrange2">Description:</span> [Content]<br/><span class="highlightPurple">Unlock Condition:</span> [Content]</p>
+
+#### Restrictions
+
+- <span class="highlightGreen">Dungeons:</span> [Content]
+- <span class="highlightYellow">Item Categories:</span> [Content]
+
+#### Characteristics
+
+- [Content]
+
+#### Special Attacks / Altered Effects
+
+- [Content]
+
+#### Techniques
+
+- [Content]
+
+### Asuka
+
+<div class="characterImage">
+  <img src="../images/other/char_asuka.png"/>
+</div>
+
+<p><span class="highlightOrange2">Description:</span> [Content]<br/><span class="highlightPurple">Unlock Condition:</span> [Content]</p>
+
+#### Restrictions
+
+- <span class="highlightGreen">Dungeons:</span> None.
+- <span class="highlightYellow">Item Categories:</span> None.
+
+#### Characteristics
+
+- [Content]
+
+#### Special Attacks / Altered Effects
+
+- [Content]
+
+#### Techniques
+
+- [Content]
 
 # Normal Trial
 
@@ -112,7 +229,7 @@ Try to clear a dungeon under a specific set of rules.<br/>Select which rules to 
 
 |Rule|Notes|
 |-|-|
-|Complete without equipping items.|Can be completed as Kokatsu Shiren.|
+|Complete without equipping items.|Can be completed as any character.|
 |Complete without Sumo Power.|Sumo status won't activate at 150 Fullness.|
 |Complete without using Grass.|-|
 |Complete without using Scrolls.|-|
@@ -133,3 +250,4 @@ The following dungeons <span class="redText">cannot</span> be selected in this m
 - Training Path of Extra Inference
 - Trapper's Secret Path
 - Peach Dungeon
+- Peachy Trap Domain

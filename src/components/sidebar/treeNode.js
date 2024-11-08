@@ -65,7 +65,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[13] = { items:[], label: 'parallel-play', title: 'Parallel Play', url: '/system/parallel-play'};
         items[14] = { items:[], label: 'wanderer-rescue', title: 'Rescue', url: '/system/wanderer-rescue'};
         break;
-      case 'behemoth-rush': // dungeons
+      case 'battleground-of-the-rivals': // dungeons
         items[0] = { items:[], label: 'serpentcoil-island', title: 'Serpentcoil Isle', url: '/dungeons/serpentcoil-island'};
         items[1] = { items:[], label: 'secluded-path', title: 'Secluded Path', url: '/dungeons/secluded-path'};
         items[2] = { items:[], label: 'ghost-ship', title: 'Ghost Ship', url: '/dungeons/ghost-ship'};
@@ -90,12 +90,19 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[21] = { items:[], label: 'go-go-dungeon', title: 'Go Go Dungeon', url: '/dungeons/go-go-dungeon'};
         items[22] = { items:[], label: 'wanderers-highway', title: 'Wand. Highway', url: '/dungeons/wanderers-highway'};
         items[23] = { items:[], label: 'quietude-of-serpentcoil-island', title: 'Quietude', url: '/dungeons/quietude-of-serpentcoil-island'};
-        items[24] = { items:[], label: 'forest-of-frugality', title: 'Frugality', url: '/dungeons/forest-of-frugality'};
-        items[25] = { items:[], label: 'researchers-experimental-site', title: "Researcher's", url: '/dungeons/researchers-experimental-site'};
-        items[26] = { items:[], label: 'winding-valley', title: 'Winding Valley', url: '/dungeons/winding-valley'};
-        items[27] = { items:[], label: 'clash-of-weapons-and-shields', title: 'Clash of W & S', url: '/dungeons/clash-of-weapons-and-shields'};
-        items[28] = { items:[], label: 'peachy-trap-domain', title: 'Peachy Trap', url: '/dungeons/peachy-trap-domain'};
-        items[29] = { items:[]};
+        items[24] = { items:[], label: 'training-path-of-hiding', title: 'Path of Hiding', url: '/dungeons/training-path-of-hiding'};
+        items[25] = { items:[], label: 'cliff-of-condensing', title: 'Condensing', url: '/dungeons/cliff-of-condensing'};
+        items[26] = { items:[], label: 'wild-monster-path', title: 'Monster Path', url: '/dungeons/wild-monster-path'};
+        items[27] = { items:[], label: 'forest-of-frugality', title: 'Frugality', url: '/dungeons/forest-of-frugality'};
+        items[28] = { items:[], label: 'researchers-experimental-site', title: "Researcher's", url: '/dungeons/researchers-experimental-site'};
+        items[29] = { items:[], label: 'winding-valley', title: 'Winding Valley', url: '/dungeons/winding-valley'};
+        items[30] = { items:[], label: 'clash-of-weapons-and-shields', title: 'Clash of W & S', url: '/dungeons/clash-of-weapons-and-shields'};
+        items[31] = { items:[], label: 'peachy-trap-domain', title: 'Peachy Trap', url: '/dungeons/peachy-trap-domain'};
+        items[32] = { items:[], label: 'training-path-of-deadly-strikes', title: 'Deadly Strikes', url: '/dungeons/training-path-of-deadly-strikes'};
+        items[33] = { items:[], label: 'battleground-of-the-rivals', title: 'Battleground', url: '/dungeons/battleground-of-the-rivals'};
+        items[34] = { items:[], label: 'timeworn-cave', title: 'Timeworn', url: '/dungeons/timeworn-cave'};
+        items[35] = { items:[], label: 'floral-garden', title: 'Floral Garden', url: '/dungeons/floral-garden'};
+        items[36] = { items:[], label: 'soul-of-serpentcoil-island', title: 'Soul of Serp.', url: '/dungeons/soul-of-serpentcoil-island'};
         break;
       case 'notes': // other
         items[0] = { items:[], label: 'notes', title: 'Notes', url: '/other/notes'};

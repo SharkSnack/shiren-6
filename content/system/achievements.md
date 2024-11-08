@@ -6,7 +6,7 @@ metaDescription: "List of achievements, rewards, and clear icons for Shiren the 
 
 # Overview
 
-Clear Icons and Achievements are automatically attained as you reach certain milestones.<br/><span class="orangeText">※ This page last updated September 16th, 2024 (Game version 2.0.1).</span>
+Clear Icons and Achievements are automatically attained as you reach certain milestones.<br/><span class="orangeText">※ This page last updated November 5th, 2024 (Game version 2.1.1).</span>
 
 # Clear Icons
 
@@ -46,7 +46,8 @@ Colors = <span class="highlightGreen">Update Required</span> / <span class="high
 |![28](../images/icons/28.png)|Completed the "Heart of Serpentcoil Island" story arc.|1.0.0|
 |![29](../images/icons/29.png)|Unlocked "Kokatsu Shiren" to adventure as.|1.1.0|
 |![30](../images/icons/30.png)|Unlocked "Tatsumi Shiren" to adventure as.|1.2.0|
-|![31](../images/weapon/unknown.png)|Unlocked "Koppa" to adventure as.|2.0.1|
+|![31](../images/icons/31.png)|Unlocked "Koppa" to adventure as.|2.0.1|
+|![32](../images/icons/32.png)|Unlocked "Asuka" to adventure as.|2.1.1|
 
 </div>
 
@@ -79,54 +80,63 @@ Colors = <span class="highlightGreen">Update Required</span> / <span class="high
 |19|Go Go Dungeon Completion|Completed Go Go Dungeon.|2.0.1|
 |20|Wanderers' Highway Completion|Completed Wanderers' Highway.|2.0.1|
 |21|Quietude of Serpentcoil Island Completion|Completed Quietude of Serpentcoil Island.|2.0.1|
-|22|Forest of Frugality Completion|Completed Forest of Frugality.|2.0.1|
-|23|Researcher's Experimental Site Completion|Completed Researcher's Experimental Site.|2.0.1|
-|24|Winding Valley Completion|Completed Winding Valley.|2.0.1|
-|25|Clash of Weapons and Shields Completion|Completed Clash of Weapons and Shields.|2.0.1|
-|26|Peachy Trap Domain Completion|Completed Peachy Trap Domain.|2.0.1|
-|27|Sumo-ready!|Experienced the Sumo condition.|1.0.0|
-|28|Wish Granted|Reached the Tunnel of Wishes.|1.0.0|
-|29|Blue Sacred Gear|Brought back a Blue Sacred item.|1.0.0|
-|30|Golden Sacred Gear|Brought back a Golden Sacred item.|1.0.0|
-|31|Cannon Master|Defeated a monster in a dungeon with a cannon.|1.0.0|
-|32|Way of Gitau|Took the shop's wares and managed to escape.|1.0.0|
-|33|Trusty Companions|Recruited all companions.|1.0.0|
-|34|Seasoned Wanderer|Completed Kron's challenge.|1.0.0|
-|35|Behemoth Vanquished!|Defeated a Behemoth.|1.0.0|
-|36|Grilled to Perfection!|Had an Onigiri grilled.|1.0.0|
-|37|How Did You Know?!|Attacked a Ninja in hiding.|1.0.0|
-|38|Cooking in the Wild|Made a Hen into Yakitori.|1.0.0|
-|39|Don't Overdo Your Diet|Collapsed due to starvation.|1.0.0|
-|40|Don't Overstay in the Dungeon|Had a gust send you back to Shukuba Beach.|1.0.0|
-|41|Immediate Danger!|Got thrown into a Monster House.|1.0.0|
-|42|Awwww, How Cute!|Became friendly with a monster pup.|1.0.0|
-|43|Rejoined by Fate|Bought back your weapon or shield at an Unsuspicious Shop.|1.0.0|
-|44|First Successful Rescue|Succeeded in rescuing a Wanderer.|1.0.0|
-|45|Invitation to a Parallel World <span class="redText">*1</span>|Uploaded Parallel Data.|1.0.0|
-|46|Journey to a Parallel World|Went on a Parallel Play adventure.|1.0.0|
-|47|First Gear on the Rack|Hung a weapon or shield on the Gear Rack.|2.0.1|
-|48|Weapon Collector|Completed the Weapon listing in the Item Notes.|1.0.0|
-|49|Shield Collector|Completed the Shield listing in the Item Notes.|1.0.0|
-|50|Bracelet Appraiser|Completed the Bracelet listing in the Item Notes.|1.0.0|
-|51|Arrow Collector|Completed the Arrow listing in the Item Notes.|1.0.0|
-|52|Rock Collector|Completed the Rock listing in the Item Notes.|1.0.0|
-|53|Gourmet|Completed the Food listing in the Item Notes.|1.0.0|
-|54|Vegetarian|Completed the Grass listing in the Item Notes.|1.0.0|
-|55|Scroll Collector|Completed the Scroll listing in the Item Notes.|1.0.0|
-|56|Master of Staves|Completed the Stave listing in the Item Notes.|1.0.0|
-|57|Fragrance Expert|Completed the Incense listing in the Item Notes.|1.0.0|
-|58|Pottery Aficionado|Completed the Pot listing in the Item Notes.|1.0.0|
-|59|Peach Bun Lover|Completed the Peach Bun listing in the Item Notes.|1.0.0|
-|60|Monster Whiz|Completed the Monster Notes.|1.0.0|
-|61|Dojo Conqueror|Completed all Dojo Challenges at Monster Dojo.|1.1.0|
-|62|Quick-witted|Completed a Sacred Tree dungeon in a Countdown Trial.|1.1.0|
-|63|Most Efficient Moves|Completed a Sacred Tree dungeon in a Turn Trial.|1.1.0|
-|64|Fastest Run|Completed a Sacred Tree dungeon in a Time Trial.|1.1.0|
-|65|Proven Expert|Completed a Sacred Tree dungeon in a Challenge Trial.|1.1.0|
-|66|A Monster's Life|Completed a Sacred Tree dungeon in a Monster Trial.|1.1.0|
-|67|Tale of the Burning Sand|Completed a Sacred Tree dungeon as Kokatsu Shiren.|1.1.0|
-|68|Dragon God's Frolic|Completed a Sacred Tree dungeon as Tatsumi Shiren.|1.2.0|
-|69|???|Completed a Sacred Tree dungeon as Koppa.|2.0.1|
+|22|Training Path of Hiding Completion|Completed Training Path of Hiding.|2.1.1|
+|23|Cliff of Condensing Completion|Completed Cliff of Condensing.|2.1.1|
+|24|Wild Monster Path Completion|Completed Wild Monster Path.|2.1.1|
+|25|Forest of Frugality Completion|Completed Forest of Frugality.|2.0.1|
+|26|Researcher's Experimental Site Completion|Completed Researcher's Experimental Site.|2.0.1|
+|27|Winding Valley Completion|Completed Winding Valley.|2.0.1|
+|28|Clash of Weapons and Shields Completion|Completed Clash of Weapons and Shields.|2.0.1|
+|29|Peachy Trap Domain Completion|Completed Peachy Trap Domain.|2.0.1|
+|30|Training Path of Deadly Strikes Completion|Completed Training Path of Deadly Strikes.|2.1.1|
+|31|Battleground of the Rivals Completion|Completed Battleground of the Rivals.|2.1.1|
+|32|Timeworn Cave Completion|Completed Timeworn Cave.|2.1.1|
+|33|Floral Garden Completion|Completed Floral Garden.|2.1.1|
+|34|Soul of Serpentcoil Island Completion|Completed Soul of Serpentcoil Island.|2.1.1|
+|35|Sumo-ready!|Experienced the Sumo condition.|1.0.0|
+|36|Wish Granted|Reached the Tunnel of Wishes.|1.0.0|
+|37|Blue Sacred Gear|Brought back a Blue Sacred item.|1.0.0|
+|38|Golden Sacred Gear|Brought back a Golden Sacred item.|1.0.0|
+|39|Cannon Master|Defeated a monster in a dungeon with a cannon.|1.0.0|
+|40|Way of Gitau|Took the shop's wares and managed to escape.|1.0.0|
+|41|Trusty Companions|Recruited all companions.|1.0.0|
+|42|Seasoned Wanderer|Completed Kron's challenge.|1.0.0|
+|43|Behemoth Vanquished!|Defeated a Behemoth.|1.0.0|
+|44|Grilled to Perfection!|Had an Onigiri grilled.|1.0.0|
+|45|How Did You Know?!|Attacked a Ninja in hiding.|1.0.0|
+|46|Cooking in the Wild|Made a Hen into Yakitori.|1.0.0|
+|47|Don't Overdo Your Diet|Collapsed due to starvation.|1.0.0|
+|48|Don't Overstay in the Dungeon|Had a gust send you back to Shukuba Beach.|1.0.0|
+|49|Immediate Danger!|Got thrown into a Monster House.|1.0.0|
+|50|Awwww, How Cute!|Became friendly with a monster pup.|1.0.0|
+|51|Rejoined by Fate|Bought back your weapon or shield at an Unsuspicious Shop.|1.0.0|
+|52|First Successful Rescue|Succeeded in rescuing a Wanderer.|1.0.0|
+|53|Invitation to a Parallel World <span class="redText">*1</span>|Uploaded Parallel Data.|1.0.0|
+|54|Journey to a Parallel World|Went on a Parallel Play adventure.|1.0.0|
+|55|First Gear on the Rack|Hung a weapon or shield on the Gear Rack.|2.0.1|
+|56|Weapon Collector|Completed the Weapon listing in the Item Notes.|1.0.0|
+|57|Shield Collector|Completed the Shield listing in the Item Notes.|1.0.0|
+|58|Bracelet Appraiser|Completed the Bracelet listing in the Item Notes.|1.0.0|
+|59|Arrow Collector|Completed the Arrow listing in the Item Notes.|1.0.0|
+|60|Rock Collector|Completed the Rock listing in the Item Notes.|1.0.0|
+|61|Gourmet|Completed the Food listing in the Item Notes.|1.0.0|
+|62|Vegetarian|Completed the Grass listing in the Item Notes.|1.0.0|
+|63|Scroll Collector|Completed the Scroll listing in the Item Notes.|1.0.0|
+|64|Master of Staves|Completed the Stave listing in the Item Notes.|1.0.0|
+|65|Fragrance Expert|Completed the Incense listing in the Item Notes.|1.0.0|
+|66|Pottery Aficionado|Completed the Pot listing in the Item Notes.|1.0.0|
+|67|Peach Bun Lover|Completed the Peach Bun listing in the Item Notes.|1.0.0|
+|68|Monster Whiz|Completed the Monster Notes.|1.0.0|
+|69|Dojo Conqueror|Completed all Dojo Challenges at Monster Dojo.|1.1.0|
+|70|Quick-witted|Completed a Sacred Tree dungeon in a Countdown Trial.|1.1.0|
+|71|Most Efficient Moves|Completed a Sacred Tree dungeon in a Turn Trial.|1.1.0|
+|72|Fastest Run|Completed a Sacred Tree dungeon in a Time Trial.|1.1.0|
+|73|Proven Expert|Completed a Sacred Tree dungeon in a Challenge Trial.|1.1.0|
+|74|A Monster's Life|Completed a Sacred Tree dungeon in a Monster Trial.|1.1.0|
+|75|Tale of the Burning Sand|Completed a Sacred Tree dungeon as Kokatsu Shiren.|1.1.0|
+|76|Dragon God's Frolic|Completed a Sacred Tree dungeon as Tatsumi Shiren.|1.2.0|
+|77|Ferret's Feat|Completed a Sacred Tree dungeon as Koppa.|2.0.1|
+|78|???|Completed a Sacred Tree dungeon as Asuka.|2.1.1|
 
 </div>
 
@@ -169,5 +179,7 @@ Colors = <span class="highlightGreen">Update Required</span> / <span class="high
 |![23](../images/rewards/23.jpg)|63|Wallpaper "Series: The Adventurers"|2.0.1|
 |![24](../images/rewards/24.jpg)|66|Wallpaper "The Grand Finale!"|2.0.1|
 |![25](../images/rewards/25.jpg)|69|Wallpaper "Proof of Myriad Battles"|2.0.1|
+|![26](../images/rewards/26.jpg)|74|Wallpaper "Onward to a New Challenge"|2.1.1|
+|![27](../images/rewards/27.jpg)|78|Wallpaper "A Truly Magnificent View"|2.1.1|
 
 </div>

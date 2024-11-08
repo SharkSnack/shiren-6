@@ -25,4 +25,4 @@ metaDescription: "Wanderer Rescue details for Shiren the Wanderer: The Mystery D
 |Accuracy Aid|3,000|Enables attacks to always hit.|
 |Haste Aid|3,000|Increases Action Speed, enabling 2 actions every turn.|
 |Floating Aid|2,000|Enables walking on air and immunity to Traps.|
-|Champion Aid|2,500|Adds Preservation Pot, Manji Kabura, and Fuuma Shield to the inventory.|
+|Champion Aid|2,500|<span class="redText">Before Version 2.1.0:</span><br/>Adds Manji Kabura, Fuuma Shield, and Preservation Pot x 1 to the inventory.<br/><span class="redText">Version 2.1.0 or later:</span><br/>Adds Manji Kabura, Fuuma Shield, Preservation Pot x 1, Blank Scroll x 5,<br/>and Revival Grass x 3 to the inventory.|

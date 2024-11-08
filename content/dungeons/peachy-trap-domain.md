@@ -62,11 +62,11 @@ metaDescription: "Peachy Trap Domain dungeon guide for Shiren the Wanderer: The 
     <th>Initial Enemies</th>
     <td></td>
     <th>Spawn Rate</th>
-    <td>900</td>
+    <td></td>
   </tr>
   <tr>
     <th>Wind of Kron</th>
-    <td></td>
+    <td>900</td>
     <th>Reward</th>
     <td></td>
   </tr>

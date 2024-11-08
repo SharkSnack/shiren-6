@@ -791,6 +791,26 @@ export const baseStyles = css`
   .runeTable td:nth-of-type(5) {
     text-align: left;
   }
+  .runeTable2 img {
+    position: relative !important;
+    width: 20px !important;
+    height: 20px !important;
+  }
+  .runeTable2 td {
+    text-align: center;
+  }
+  .runeTable2 tr:nth-of-type(2) th {
+    color: #3b454e;
+    text-align: center;
+    background-color: #ffffed;
+  }
+  .runeTable2 td:nth-of-type(2) {
+    text-align: left;
+    background-color: #f7f7f7;
+  }
+  .runeTable2 td:nth-of-type(4) {
+    text-align: left;
+  }
   .stoneTable th {
     background-color: #f7f7f7;
     text-align: center;
@@ -1147,8 +1167,9 @@ export const baseStyles = css`
   .rewardTable th {
     font-weight: normal;
   }
-  .rewardTable tr:nth-of-type(28),
-  .rewardTable tr:nth-of-type(29) {
+  .rewardTable tr:nth-of-type(29),
+  .rewardTable tr:nth-of-type(30),
+  .rewardTable tr:nth-of-type(31) {
     background-color: #ffffe4;
   }
   .rewardTable tr:nth-of-type(22),
@@ -1156,29 +1177,39 @@ export const baseStyles = css`
   .rewardTable tr:nth-of-type(24),
   .rewardTable tr:nth-of-type(25),
   .rewardTable tr:nth-of-type(26),
-  .rewardTable tr:nth-of-type(27) {
+  .rewardTable tr:nth-of-type(27),
+  .rewardTable tr:nth-of-type(28) {
     background-color: #EAFFEA;
   }
-  .achievementTable tr:nth-of-type(22),
-  .achievementTable tr:nth-of-type(23),
-  .achievementTable tr:nth-of-type(24),
   .achievementTable tr:nth-of-type(25),
   .achievementTable tr:nth-of-type(26),
-  .achievementTable tr:nth-of-type(69) {
+  .achievementTable tr:nth-of-type(27),
+  .achievementTable tr:nth-of-type(28),
+  .achievementTable tr:nth-of-type(29),
+  .achievementTable tr:nth-of-type(30),
+  .achievementTable tr:nth-of-type(31),
+  .achievementTable tr:nth-of-type(32),
+  .achievementTable tr:nth-of-type(33),
+  .achievementTable tr:nth-of-type(34),
+  .achievementTable tr:nth-of-type(77),
+  .achievementTable tr:nth-of-type(78) {
     background-color: #ffffe4;
   }
   .achievementTable tr:nth-of-type(19),
   .achievementTable tr:nth-of-type(20),
   .achievementTable tr:nth-of-type(21),
-  .achievementTable tr:nth-of-type(47),
-  .achievementTable tr:nth-of-type(61),
-  .achievementTable tr:nth-of-type(62),
-  .achievementTable tr:nth-of-type(63),
-  .achievementTable tr:nth-of-type(64),
-  .achievementTable tr:nth-of-type(65),
-  .achievementTable tr:nth-of-type(66),
-  .achievementTable tr:nth-of-type(67),
-  .achievementTable tr:nth-of-type(68) {
+  .achievementTable tr:nth-of-type(22),
+  .achievementTable tr:nth-of-type(23),
+  .achievementTable tr:nth-of-type(24),
+  .achievementTable tr:nth-of-type(55),
+  .achievementTable tr:nth-of-type(69),
+  .achievementTable tr:nth-of-type(70),
+  .achievementTable tr:nth-of-type(71),
+  .achievementTable tr:nth-of-type(72),
+  .achievementTable tr:nth-of-type(73),
+  .achievementTable tr:nth-of-type(74),
+  .achievementTable tr:nth-of-type(75),
+  .achievementTable tr:nth-of-type(76) {
     background-color: #EAFFEA;
   }
   .dungeonItemTable th {
@@ -1652,7 +1683,7 @@ export const baseStyles = css`
     background-color: #ffb23e;
   }
   .highlightLightblue {
-    background-color: #eef6ff !important;
+    background-color: #d9ebff !important;
   }
   .highlightNeon {
     background-color: #ddfff7 !important;
@@ -2015,6 +2046,13 @@ export const baseStyles = css`
     height: auto !important;
     width: 590px;
   }
+  .characterImage {
+    width: 160px !important;
+    height: auto;
+  }
+  .characterImage img {
+    position: relative !important;
+  }
   .dungeonPageImage {
     width: 240px !important;
     height: auto;
@@ -2093,7 +2131,8 @@ export const baseStyles = css`
     text-align: center;
     padding: 1px;
   }
-  .iconTable tr:nth-of-type(31) {
+  .iconTable tr:nth-of-type(31),
+  .iconTable tr:nth-of-type(32) {
     background-color: #ffffe4;
   }
   .iconTable tr:nth-of-type(29),

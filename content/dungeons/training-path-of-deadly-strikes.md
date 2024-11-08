@@ -1,11 +1,11 @@
 ---
-title: "Go Go Dungeon"
-metaTitle: "Go Go Dungeon - Shiren the Wanderer: Serpentcoil Island Wiki"
-metaDescription: "Go Go Dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
+title: "Training Path of Deadly Strikes"
+metaTitle: "Training Path of Deadly Strikes - Shiren the Wanderer: Serpentcoil Island Wiki"
+metaDescription: "Training Path of Deadly Strikes dungeon guide for Shiren the Wanderer: The Mystery Dungeon of Serpentcoil Island."
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-  <img src="../images/areas/other/drokotay.jpg"/><img src="../images/areas/other/go_go_dungeon.jpg"/>
+  <img src="../images/areas/other/drokotay.jpg"/><img src="../images/areas/other/no_image.jpg"/>
 </div>
 
 # Overview
@@ -13,7 +13,7 @@ metaDescription: "Go Go Dungeon guide for Shiren the Wanderer: The Mystery Dunge
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow">Talk to Drokotay the Adventurer (Shukuba Beach).<br/>　<span class="orangeText">※ Update 2.0.1 required.</span></td>
+    <td class="highlightYellow">Talk to Drokotay the Adventurer (Shukuba Beach).<br/>　<span class="orangeText">※ DLC and Update 2.1.1 required.</span></td>
   </tr>
   <tr>
     <th>Entrance</th>
@@ -24,39 +24,39 @@ metaDescription: "Go Go Dungeon guide for Shiren the Wanderer: The Mystery Dunge
 <table class="dungeonTable">
   <tr>
     <th>Floors</th>
-    <td colspan="3">5F</td>
+    <td colspan="3">30F / 99F (Sacred Tree)</td>
   </tr>
   <tr>
     <th>Bring Items</th>
     <td>No</td>
     <th>Companions</th>
-    <td>No</td>
+    <td></td>
   </tr>
   <tr>
     <th>Rescues</th>
-    <td>0</td>
+    <td></td>
     <th>Starting Level</th>
-    <td>Lv1</td>
+    <td>1</td>
   </tr>
   <tr>
     <th>Starting Item</th>
-    <td colspan="3">Break-Off Shield, Large Onigiri</td>
+    <td colspan="3"></td>
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3">None</td>
+    <td colspan="3"></td>
   </tr>
   <tr>
     <th>Shops</th>
     <td></td>
     <th>Monster Houses</th>
-    <td>Yes (Fixed: 5F)</td>
+    <td></td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
     <td></td>
     <th>Fever Time</th>
-    <td>Yes</td>
+    <td></td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
@@ -66,130 +66,25 @@ metaDescription: "Go Go Dungeon guide for Shiren the Wanderer: The Mystery Dunge
   </tr>
   <tr>
     <th>Wind of Kron</th>
-    <td>700</td>
+    <td></td>
     <th>Reward</th>
-    <td>None (Keep items)</td>
+    <td></td>
   </tr>
 </table>
 
-An incredibly short Mystery Dungeon which consists of only 5 floors.<br/>The lineup of monsters changes each floor, and trading attacks quickly becomes difficult.<br/>There is a slight possibility for the player to keep up with enemies, but evasive play is often better.<br/>The starting room on 5F is always a Monster House, so you'll want to save items to deal with it.<br/>Items are found with identified names, so you shouldn't have to gamble on unidentified items on 5F.<br/>There's no reward, but the game does keep track of consecutive clears.
+[Content]
 
 # Strategy
 
+### General
+
 ### Important Items
 
-<p><b><u>Break-Off Shield</u></b><br/>Shiren starts with this shield equipped, but unequip it against weaker enemies.</p>
 
-<p><b><u>Break-Off Blade</u></b><br/>Great to have starting from around 2F.<br/>The resonance effect for the Break-Off set occasionally nullifies upgrade value loss.</p>
-
-<p><b><u>Tiptoe Bracelet</u></b><br/>Item that significantly raises your chance of clearing the dungeon #1.<br/>Enemies never wake from Shiren entering or exiting rooms, including Monster Houses.</p>
-
-<p><b><u>Narrow-escape Staff</u></b><br/>Item that significantly raises your chance of clearing the dungeon #2.<br/>Enemy positions are revealed on the map whenever a Monster House is activated,<br/>so you can swing this at a monster on 5F to instantly locate the stairs.</p>
-
-<p><b><u>Sweet Potato</u></b>, <b><u>Leaping Grass</u></b>, <b><u>Disguising / Switching / Vaulting Staves</u></b>, <b><u>Slumber / Jitters Scrolls</u></b><br/>Some of the items you'll want to keep on hand to deal with the Monster House on 5F.<br/>Sweet Potato is likely the best option, but otherwise a scroll → Disguising Staff works well too.<br/>However, Confusion Scroll is NOT recommended since it can result in an Archdragon.</p>
-
-<p><b><u>Peach Staff</u></b><br/>One-shot nearly any monster, and Pumphantasm Bun or Soul Reaper Bun lets you pass through walls.<br/>Break-Off set equipment doesn't lose upgrade value while morphed as a monster.</p>
-
-<p><b><u>Berserk Seed</u></b><br/>Throw it at a Pit Mamel on 1F → hunt the resulting Cave Mamel to reach Lv10.</p>
-
-<p><b><u>Gitan</u></b><br/>Shops never seem to be generated, so Gitan should be thrown as a projectile.<br/>Nice against Soul Reaper (375+ Gitan) and Lashagga (495+ Gitan) on 4F in particular.</p>
-
-<p><b><u>Cashing Pot</u></b><br/>Insert spare weapons or shields to obtain more Gitan bags to be used as projectiles.</p>
-
-<p><b><u>Evasive / Heat-ban Incense</u></b><br/>Evasive Incense is helpful on 2F (Porky) and 3F (Crossbowboy).<br/>Heat-ban Incense is helpful on 3F (Pop Tank) and 5F (Ornery Tank, Dragon, Sky Dragon).</p>
-
-<p><b><u>Aggressive / Defensive Incense</u></b><br/>Aggressive Incense can be nice if you obtain lots of arrows or rocks.<br/>Defensive Incense is nice if you find lots of movement related staves to allow for evasive play.</p>
 
 # Floor Guide
 
-### 1F
 
-This is usually the only floor where the player can hunt monsters to level up until the wind blows.<br/>Remove Break-Off Shield unless you're fighting a Pumphantasm (23 HP) or Bored Kappa (50 HP).<br/>Bored Kappa can be safely slain by placing an item on the ground and having it loop its item throw.<br/>Step on Gitan bags and exchange them with inventory items so that you can throw them as projectiles.<br/>Place Break-Off Shield on the ground before fighting Nigiri Baby (17 HP) so that you don't lose it.<br/>Nigiri Baby can be used to increase Max Fullness, but doing so is questionable for a 5F dungeon.<br/>Aim for 21+ Max HP before advancing to the next floor, since Porky can deal 20 damage.
-
-#### Monster Stats
-
-|Monster|HP|Atk|Def|
-|-|-|-|-|
-|Pit Mamel|11|5|8|
-|Spearfish|16|6|2|
-|Hoppin' Batter|20|7|3|
-|Nigiri Baby|17|8|2|
-|Firepuff|20|7|7|
-|<span class="greenText">Froggo</span>|23|10|13|
-|Pumphantasm|23|16|10|
-|<span class="redText">Bored Kappa</span>|50|18|11|
-
-### 2F
-
-Floor that is still on the manageable side in terms of checking rooms for items.<br/>If you have Gitan bags and a Paralyzing Staff, try to hunt a leveled up monster via Ghost Samurai.<br/>Skull Mage (77 HP) and Dragon Head (88 HP) have high HP and attack power, so use items as needed.<br/>Porky (30 HP) has a rock throwing range of 3 tiles, so use arrows, staves, grass, or scrolls to disable it.<br/>Collect some Porky's Rocks from a Porky if you have an Evasive Incense.
-
-#### Monster Stats
-
-|Monster|HP|Atk|Def|
-|-|-|-|-|
-|Polygon Spinna|33|16|17|
-|Masked Samurai|47|18|18|
-|<span class="goldText">Water Ninja D</span>|24|15|9|
-|<span class="redText">Porky</span>|30|17|12|
-|Fresh Octopling|60|19|14|
-|Karakuroid|40|20|13|
-|Skull Mage|77|31|21|
-|<span class="redText">Dragon Head</span>|88|31|25|
-
-### 3F
-
-Enemy stats get a significant increase, so fighting without items becomes very difficult.<br/>The notable exception to this is if you have the Break-Off set and a Peach Bun to nullify upgrade loss.<br/>It's risky, but Pop Tank (90 HP) can be leveled up into an Ornery Tank for 1500 experience points.<br/>Blazeous (92 HP) and Mixermon (98 HP) are resistant to projectiles, so use staves or scrolls.<br/>Don't bother collecting Iron Arrows from Crossbowboy (55 HP).
-
-If you found enough items on 1-2F for the 5F Monster House, it's probably best to rush to the stairs.<br/>However, you'll want to check rooms for items if that isn't the case, since 4-5F are even harsher.
-
-#### Monster Stats
-
-|Monster|HP|Atk|Def|
-|-|-|-|-|
-|Crossbowboy|55|20|20|
-|Minotaur|70|31|20|
-|Pop Tank|90|20|24|
-|Schubell|50|20|20|
-|Zapdon|80|43|35|
-|<span class="redText">Blazeous</span>|92|36|24|
-|Master Hen|70|33|21|
-|<span class="redText">Mixermon</span>|98|50|35|
-
-### 4F
-
-Soul Reaper (75 HP) and Lashagga (99 HP) appear, so rush to the stairs as fast as possible.<br/>Avoid dashing even short distances, and ignore breakable pillars in rooms and sparkling walls.<br/>Burrowing Staves and Pickaxes can be used to reduce the number of turns spent navigating hallways.<br/>Greenwalrus (88 HP) has too much HP to hunt for item drops, so just have it steal an unneeded item.<br/>Dartingfrog (75 HP) has a tongue pulling range of 5 tiles, and always uses its special when in range.<br/>If you have lots of items to spare, step in place to lure Soul Reapers at the start of the floor,<br/>then use said items to disable them before searching for the stairs.
-
-#### Monster Stats
-
-|Monster|HP|Atk|Def|
-|-|-|-|-|
-|Earth Ninja C|85|21|28|
-|Metal Ninja C|85|42|29|
-|<span class="goldText">Fire Ninja C</span>|75|45|21|
-|<span class="goldText">Greenwalrus</span>|88|30|27|
-|Dartingfrog|75|40|28|
-|<span class="redText">Lashagga</span>|99|43|34|
-|<span class="redText">Soul Reaper</span>|75|40|40|
-|Tiger Hurler|135|50|45|
-
-### 5F
-
-<p><span class="redText">The starting room is guaranteed to be a Monster House on this floor.</span><br/>To be clear, the Monster House is a regular room as opposed to a single-room Monster House floor.<br/>Use item combos like Slumber Scroll → Switching Staff / Vaulting Staff / Leaping Grass to quickly escape.<br/>All enemies present on the floor become visible on the map after a Monster House is activated,<br/>so Narrow-escape Staff can be used to instantly locate the stairs.</p>
-
-Heat-ban Incense is helpful against Dragons (120 HP), Sky Dragons (140 HP), and Ornery Tanks (95 HP).<br/>Every monster in the table on this floor can pierce through even an unused Break-Off Shield's defense,<br/>so it's important to disable or defeat monsters before they get a chance to act.
-
-#### Monster Stats
-
-|Monster|HP|Atk|Def|
-|-|-|-|-|
-|Big Chintala|85|40|33|
-|<span class="redText">Nigiri Boss</span>|133|45|42|
-|<span class="goldText">Hat Brat</span>|125|45|9|
-|<span class="redText">Hyper Gazer</span>|126|55|45|
-|<span class="redText">Thrashead</span>|122|55|45|
-|Dragon|120|45|40|
-|<span class="redText">Ornery Tank</span>|95|40|44|
-|<span class="redText">Sky Dragon</span>|140|55|50|
 
 # Monsters
 
@@ -209,101 +104,2030 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <th>S</th>
       <th>H</th>
       <th>G</th>
-      <th colspan="4">Monsters</th>
+      <th colspan="5">Monsters</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2" class="centeredText">1</td>
-      <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/1-2.png"/> Pit Mamel</td>
-      <td><img src="../images/monsters/4-1.png"/> Spearfish</td>
-      <td><img src="../images/monsters/40-1.png"/> Hoppin' Batter</td>
-      <td><img src="../images/monsters/27-1.png"/> Nigiri Baby</td>
-    </tr>
-    <tr>
-      <td><img src="../images/monsters/7-1.png"/> Firepuff</td>
-      <td class="farming"><img src="../images/monsters/28-1.png"/> Froggo</td>
-      <td><img src="../images/monsters/6-1.png"/> Pumphantasm</td>
-      <td class="danger"><img src="../images/monsters/17-1.png"/> Bored Kappa</td>
+      <td rowspan="1" class="centeredText">1</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Blazepuff</td>
+      <td>Cave Mamel</td>
+      <td>Cursenior</td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">2</td>
-      <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/24-1.png"/> Polygon Spinna</td>
-      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
-      <td class="items"><img src="../images/monsters/53-1.png"/> Water Ninja D</td>
-      <td class="danger"><img src="../images/monsters/18-1.png"/> Porky</td>
-    </tr>
-    <tr>
-      <td><img src="../images/monsters/3-2.png"/> Fresh Octopling</td>
-      <td><img src="../images/monsters/37-1.png"/> Karakuroid</td>
-      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
-      <td class="danger"><img src="../images/monsters/35-2.png"/> Dragon Head</td>
+      <td rowspan="1" class="centeredText">2</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Blazepuff</td>
+      <td>Great Hen</td>
+      <td>Cave Mamel</td>
+      <td>Cursenior</td>
+      <td></td>
     </tr>
     <tr>
       <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">3</td>
-      <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/15-2.png"/> Crossbowboy</td>
-      <td><img src="../images/monsters/11-2.png"/> Minotaur</td>
-      <td><img src="../images/monsters/16-1.png"/> Pop Tank</td>
-      <td><img src="../images/monsters/43-1.png"/> Schubell</td>
-    </tr>
-    <tr>
-      <td><img src="../images/monsters/42-1.png"/> Zapdon</td>
-      <td class="danger"><img src="../images/monsters/41-2.png"/> Blazeous</td>
-      <td><img src="../images/monsters/13-2.png"/> Master Hen</td>
-      <td class="danger"><img src="../images/monsters/45-2.png"/> Mixermon</td>
+      <td rowspan="1" class="centeredText">3</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Blazepuff</td>
+      <td>Great Hen</td>
+      <td>Cave Mamel</td>
+      <td>Cursenior</td>
+      <td></td>
     </tr>
     <tr>
       <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">4</td>
-      <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/56-2.png"/> Earth Ninja C</td>
-      <td><img src="../images/monsters/55-2.png"/> Metal Ninja C</td>
-      <td class="items"><img src="../images/monsters/52-2.png"/> Fire Ninja C</td>
-      <td class="items"><img src="../images/monsters/29-2.png"/> Greenwalrus</td>
-    </tr>
-    <tr>
-      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
-      <td class="danger"><img src="../images/monsters/14-3.png"/> Lashagga</td>
-      <td class="danger"><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>
+      <td rowspan="1" class="centeredText">4</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Blazepuff</td>
+      <td>Thrashead</td>
+      <td>Great Hen</td>
+      <td>Cave Mamel</td>
+      <td>Cursenior</td>
     </tr>
     <tr>
       <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText highlightFog">5</td>
-      <td rowspan="2" class=""></td>
-      <td rowspan="2" class="highlightMH"></td>
-      <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/2-3.png"/> Big Chintala</td>
-      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
-      <td class="items"><img src="../images/monsters/30-3.png"/> Hat Brat</td>
-      <td class="danger"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td rowspan="1" class="centeredText">5</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Blazepuff</td>
+      <td>Thrashead</td>
+      <td>Great Hen</td>
+      <td>Cave Mamel</td>
+      <td>Cursenior</td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/12-2.png"/> Thrashead</td>
-      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
-      <td class="danger"><img src="../images/monsters/16-2.png"/> Ornery Tank</td>
-      <td class="danger"><img src="../images/monsters/19-2.png"/> Sky Dragon</td>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">6</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Thrashead</td>
+      <td>Metal Ninja A</td>
+      <td>Bag Knave</td>
+      <td>Hell Reaper</td>
+      <td>Great Hen</td>
+    </tr>
+    <tr>
+      <td>Huge Chintala</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">7</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Thrashead</td>
+      <td>Metal Ninja A</td>
+      <td>Bag Knave</td>
+      <td>Hell Reaper</td>
+      <td>Great Hen</td>
+    </tr>
+    <tr>
+      <td>Huge Chintala</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">8</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Thrashead</td>
+      <td>Metal Ninja A</td>
+      <td>Bag Knave</td>
+      <td>Hell Reaper</td>
+      <td>Great Hen</td>
+    </tr>
+    <tr>
+      <td>Huge Chintala</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">9</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Fire Ninja A</td>
+      <td>Earth Ninja A</td>
+      <td>Water Ninja B</td>
+      <td>Bag Knave</td>
+      <td>Cyberoid</td>
+    </tr>
+    <tr>
+      <td>Huge Chintala</td>
+      <td>Lashagga</td>
+      <td>Battler</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">10</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Fire Ninja A</td>
+      <td>Earth Ninja A</td>
+      <td>Water Ninja B</td>
+      <td>Bag Knave</td>
+      <td>Cyberoid</td>
+    </tr>
+    <tr>
+      <td>Huge Chintala</td>
+      <td>Lashagga</td>
+      <td>Battler</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">11</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Fire Ninja A</td>
+      <td>Earth Ninja A</td>
+      <td>Water Ninja B</td>
+      <td>Bag Knave</td>
+      <td>Cyberoid</td>
+    </tr>
+    <tr>
+      <td>Huge Chintala</td>
+      <td>Lashagga</td>
+      <td>Battler</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">12</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Fire Ninja A</td>
+      <td>Earth Ninja A</td>
+      <td>Water Ninja B</td>
+      <td>Bag Knave</td>
+      <td>Cyberoid</td>
+    </tr>
+    <tr>
+      <td>Huge Chintala</td>
+      <td>Lashagga</td>
+      <td>Battler</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">13</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Fire Ninja A</td>
+      <td>Earth Ninja A</td>
+      <td>Water Ninja B</td>
+      <td>Bag Knave</td>
+      <td>Cyberoid</td>
+    </tr>
+    <tr>
+      <td>Lashagga</td>
+      <td>Battler</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">14</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Megahead</td>
+      <td>Hiding Dragon</td>
+      <td>Lashagga</td>
+      <td>Battler</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">15</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Megahead</td>
+      <td>Hiding Dragon</td>
+      <td>Lashagga</td>
+      <td>Battler</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">16</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Megahead</td>
+      <td>Hiding Dragon</td>
+      <td>Lashagga</td>
+      <td>Battler</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">17</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Megahead</td>
+      <td>Hiding Dragon</td>
+      <td>Hyper Gazer</td>
+      <td>Mudster</td>
+      <td>Okina Monk A</td>
+    </tr>
+    <tr>
+      <td>Okame Monk A</td>
+      <td>Tengu Monk A</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">18</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Megahead</td>
+      <td>Hiding Dragon</td>
+      <td>Hyper Gazer</td>
+      <td>Mudster</td>
+      <td>Okina Monk A</td>
+    </tr>
+    <tr>
+      <td>Okame Monk A</td>
+      <td>Tengu Monk A</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">19</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Megahead</td>
+      <td>Hiding Dragon</td>
+      <td>Hyper Gazer</td>
+      <td>Mudster</td>
+      <td>Okina Monk A</td>
+    </tr>
+    <tr>
+      <td>Okame Monk A</td>
+      <td>Tengu Monk A</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">20</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Skullmancer</td>
+      <td>King Reaper</td>
+      <td>Lordly Samurai</td>
+      <td>Hyper Gazer</td>
+      <td>Mudster</td>
+    </tr>
+    <tr>
+      <td>General Ant</td>
+      <td>Okina Monk A</td>
+      <td>Okame Monk A</td>
+      <td>Tengu Monk A</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">21</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Skullmancer</td>
+      <td>King Reaper</td>
+      <td>Lordly Samurai</td>
+      <td>Hyper Gazer</td>
+      <td>Mudster</td>
+    </tr>
+    <tr>
+      <td>General Ant</td>
+      <td>Okina Monk A</td>
+      <td>Okame Monk A</td>
+      <td>Tengu Monk A</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">22</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Skullmancer</td>
+      <td>King Reaper</td>
+      <td>Lordly Samurai</td>
+      <td>Hyper Gazer</td>
+      <td>Mudster</td>
+    </tr>
+    <tr>
+      <td>General Ant</td>
+      <td>Okina Monk A</td>
+      <td>Okame Monk A</td>
+      <td>Tengu Monk A</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">23</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Metalhead</td>
+      <td>Skullmancer</td>
+      <td>King Reaper</td>
+      <td>Lordly Samurai</td>
+      <td>Hyper Gazer</td>
+    </tr>
+    <tr>
+      <td>Mudster</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">24</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Metalhead</td>
+      <td>Skullmancer</td>
+      <td>King Reaper</td>
+      <td>Lordly Samurai</td>
+      <td>Hyper Gazer</td>
+    </tr>
+    <tr>
+      <td>Mudster</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">25</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Tree Ninja A</td>
+      <td>Metalhead</td>
+      <td>Lordly Samurai</td>
+      <td>Hyper Gazer</td>
+      <td>Mudster</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">26</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Tree Ninja A</td>
+      <td>Water Ninja A</td>
+      <td>Mini Tank</td>
+      <td>Terror Scorpion</td>
+      <td>Igneous</td>
+    </tr>
+    <tr>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">27</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Tree Ninja A</td>
+      <td>Water Ninja A</td>
+      <td>Mini Tank</td>
+      <td>Terror Scorpion</td>
+      <td>Igneous</td>
+    </tr>
+    <tr>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">28</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Tree Ninja A</td>
+      <td>Water Ninja A</td>
+      <td>Mini Tank</td>
+      <td>Terror Scorpion</td>
+      <td>Igneous</td>
+    </tr>
+    <tr>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">29</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Tree Ninja A</td>
+      <td>Water Ninja A</td>
+      <td>Mini Tank</td>
+      <td>Terror Scorpion</td>
+      <td>Igneous</td>
+    </tr>
+    <tr>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">30</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Tree Ninja A</td>
+      <td>Water Ninja A</td>
+      <td>Mini Tank</td>
+      <td>Terror Scorpion</td>
+      <td>Igneous</td>
+    </tr>
+    <tr>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="monsterTableExtension"></td>
+      <td colspan="3" class="monsterTableExtension"></td>
+      <td colspan="5" class="monsterTableExtension centeredText">Sacred Tree Mode</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">31</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Deathead</td>
+      <td>Fleefrog</td>
+      <td>Big Chintala</td>
+      <td>Grampadillo</td>
+      <td>Pumplich</td>
+    </tr>
+    <tr>
+      <td>Mixermon</td>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">32</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Deathead</td>
+      <td>Fleefrog</td>
+      <td>Big Chintala</td>
+      <td>Grampadillo</td>
+      <td>Pumplich</td>
+    </tr>
+    <tr>
+      <td>Mixermon</td>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">33</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Deathead</td>
+      <td>Fleefrog</td>
+      <td>Big Chintala</td>
+      <td>Grampadillo</td>
+      <td>Pumplich</td>
+    </tr>
+    <tr>
+      <td>Mixermon</td>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">34</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Deathead</td>
+      <td>Fleefrog</td>
+      <td>Big Chintala</td>
+      <td>Grampadillo</td>
+      <td>Pumplich</td>
+    </tr>
+    <tr>
+      <td>Mixermon</td>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">35</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Deathead</td>
+      <td>Ornery Tank</td>
+      <td>Fleefrog</td>
+      <td>Demon Scorpion</td>
+      <td>Pumplich</td>
+    </tr>
+    <tr>
+      <td>Mixermon</td>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">36</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Deathead</td>
+      <td>Ornery Tank</td>
+      <td>Fleefrog</td>
+      <td>Demon Scorpion</td>
+      <td>Pumplich</td>
+    </tr>
+    <tr>
+      <td>Mixermon</td>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">37</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Ornery Tank</td>
+      <td>Skull Mage</td>
+      <td>Mini Tank</td>
+      <td>Adamant Tank</td>
+      <td>Demon Scorpion</td>
+    </tr>
+    <tr>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">38</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Ornery Tank</td>
+      <td>Skull Mage</td>
+      <td>Mini Tank</td>
+      <td>Adamant Tank</td>
+      <td>Demon Scorpion</td>
+    </tr>
+    <tr>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">39</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Ornery Tank</td>
+      <td>Skull Mage</td>
+      <td>Mini Tank</td>
+      <td>Adamant Tank</td>
+      <td>Demon Scorpion</td>
+    </tr>
+    <tr>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">40</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Ornery Tank</td>
+      <td>Skull Mage</td>
+      <td>Mini Tank</td>
+      <td>Adamant Tank</td>
+      <td>Demon Scorpion</td>
+    </tr>
+    <tr>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">41</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Skull Mage</td>
+      <td>Skull Wizard</td>
+      <td>Streamingfrog</td>
+      <td>Mini Tank</td>
+      <td>Demon Scorpion</td>
+    </tr>
+    <tr>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">42</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Skull Mage</td>
+      <td>Skull Wizard</td>
+      <td>Streamingfrog</td>
+      <td>Mini Tank</td>
+      <td>Demon Scorpion</td>
+    </tr>
+    <tr>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">43</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Skull Mage</td>
+      <td>Skull Wizard</td>
+      <td>Streamingfrog</td>
+      <td>Mini Tank</td>
+      <td>Demon Scorpion</td>
+    </tr>
+    <tr>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">44</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Skull Mage</td>
+      <td>Skull Wizard</td>
+      <td>Streamingfrog</td>
+      <td>Mini Tank</td>
+      <td>Demon Scorpion</td>
+    </tr>
+    <tr>
+      <td>N'dama</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">45</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Skull Wizard</td>
+      <td>Streamingfrog</td>
+      <td>Metal Ninja C</td>
+      <td>Infernous</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">46</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Skull Wizard</td>
+      <td>Streamingfrog</td>
+      <td>Metal Ninja C</td>
+      <td>Pot Knave</td>
+      <td>Infernous</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">47</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Skull Wizard</td>
+      <td>Streamingfrog</td>
+      <td>Metal Ninja C</td>
+      <td>Pot Knave</td>
+      <td>Infernous</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">48</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Pyrepuff</td>
+      <td>Skull Lord</td>
+      <td>Metal Ninja C</td>
+      <td>Pot Knave</td>
+      <td>Electroid</td>
+    </tr>
+    <tr>
+      <td>Infernous</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">49</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Pyrepuff</td>
+      <td>Skull Lord</td>
+      <td>Metal Ninja C</td>
+      <td>Pot Knave</td>
+      <td>Electroid</td>
+    </tr>
+    <tr>
+      <td>Infernous</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">50</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Pyrepuff</td>
+      <td>Skull Lord</td>
+      <td>Metal Ninja C</td>
+      <td>Pot Knave</td>
+      <td>Electroid</td>
+    </tr>
+    <tr>
+      <td>Infernous</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">51</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Pyrepuff</td>
+      <td>Skull Lord</td>
+      <td>Metal Ninja C</td>
+      <td>Pot Knave</td>
+      <td>Electroid</td>
+    </tr>
+    <tr>
+      <td>Infernous</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">52</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Pyrepuff</td>
+      <td>Skull Lord</td>
+      <td>Metal Ninja C</td>
+      <td>Pot Knave</td>
+      <td>Electroid</td>
+    </tr>
+    <tr>
+      <td>Infernous</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">53</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Pyrepuff</td>
+      <td>Metal Ninja B</td>
+      <td>Pot Knave</td>
+      <td>Electroid</td>
+      <td>Clapdon</td>
+    </tr>
+    <tr>
+      <td>Boomdon</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">54</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Pyrepuff</td>
+      <td>Metal Ninja B</td>
+      <td>Pot Knave</td>
+      <td>Electroid</td>
+      <td>Clapdon</td>
+    </tr>
+    <tr>
+      <td>Boomdon</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">55</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Pyrepuff</td>
+      <td>Metal Ninja B</td>
+      <td>Pot Knave</td>
+      <td>Electroid</td>
+      <td>Clapdon</td>
+    </tr>
+    <tr>
+      <td>Boomdon</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">56</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Pyrepuff</td>
+      <td>Metal Ninja B</td>
+      <td>Pot Knave</td>
+      <td>Electroid</td>
+      <td>Clapdon</td>
+    </tr>
+    <tr>
+      <td>Boomdon</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">57</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Fire Ninja A</td>
+      <td>Metal Ninja B</td>
+      <td>Sky Dragon</td>
+      <td>Popdillo</td>
+      <td>Hoppin' Slammer</td>
+    </tr>
+    <tr>
+      <td>Polygon Stunna</td>
+      <td>Pullfrog</td>
+      <td>Mixergon</td>
+      <td>N'dulu</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">58</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Fire Ninja A</td>
+      <td>Metal Ninja B</td>
+      <td>Sky Dragon</td>
+      <td>Popdillo</td>
+      <td>Hoppin' Slammer</td>
+    </tr>
+    <tr>
+      <td>Polygon Stunna</td>
+      <td>Pullfrog</td>
+      <td>Mixergon</td>
+      <td>N'dulu</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">59</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Fire Ninja A</td>
+      <td>Metal Ninja B</td>
+      <td>Sky Dragon</td>
+      <td>Popdillo</td>
+      <td>Hoppin' Slammer</td>
+    </tr>
+    <tr>
+      <td>Polygon Stunna</td>
+      <td>Pullfrog</td>
+      <td>Mixergon</td>
+      <td>N'dulu</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">60</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Fire Ninja A</td>
+      <td>Metal Ninja B</td>
+      <td>Sky Dragon</td>
+      <td>Popdillo</td>
+      <td>Hoppin' Slammer</td>
+    </tr>
+    <tr>
+      <td>Polygon Stunna</td>
+      <td>Pullfrog</td>
+      <td>Mixergon</td>
+      <td>N'dulu</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">61</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Fire Ninja A</td>
+      <td>Metal Ninja B</td>
+      <td>Sky Dragon</td>
+      <td>Popdillo</td>
+      <td>Hoppin' Slammer</td>
+    </tr>
+    <tr>
+      <td>Polygon Stunna</td>
+      <td>Pullfrog</td>
+      <td>Mixergon</td>
+      <td>N'dulu</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">62</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Fire Ninja A</td>
+      <td>Metal Ninja B</td>
+      <td>Sky Dragon</td>
+      <td>Popdillo</td>
+      <td>Hoppin' Slammer</td>
+    </tr>
+    <tr>
+      <td>Polygon Stunna</td>
+      <td>Pullfrog</td>
+      <td>Mixergon</td>
+      <td>N'dulu</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">63</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Fire Ninja A</td>
+      <td>Metal Ninja B</td>
+      <td>Sky Dragon</td>
+      <td>Popdillo</td>
+      <td>Hoppin' Slammer</td>
+    </tr>
+    <tr>
+      <td>Polygon Stunna</td>
+      <td>Pullfrog</td>
+      <td>Mixergon</td>
+      <td>N'dulu</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">64</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Fire Ninja B</td>
+      <td>Metal Ninja D</td>
+      <td>Soul Reaper</td>
+      <td>Bashagga</td>
+      <td>N'dulu</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">65</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Fire Ninja B</td>
+      <td>Metal Ninja D</td>
+      <td>Soul Reaper</td>
+      <td>Bashagga</td>
+      <td>N'dulu</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">66</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Fire Ninja B</td>
+      <td>Metal Ninja D</td>
+      <td>Soul Reaper</td>
+      <td>Bashagga</td>
+      <td>N'dulu</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">67</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Fire Ninja B</td>
+      <td>Metal Ninja D</td>
+      <td>Soul Reaper</td>
+      <td>Bashagga</td>
+      <td>N'dulu</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">68</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Fire Ninja B</td>
+      <td>Metal Ninja D</td>
+      <td>Soul Reaper</td>
+      <td>Bashagga</td>
+      <td>N'dulu</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="1" class="centeredText">69</td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td rowspan="1" class=""></td>
+      <td>Fire Ninja B</td>
+      <td>Metal Ninja D</td>
+      <td>Soul Reaper</td>
+      <td>Bashagga</td>
+      <td>N'dulu</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">70</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Pop Tank</td>
+      <td>Metal Ninja D</td>
+      <td>Soul Reaper</td>
+      <td>Bashagga</td>
+      <td>Mudder</td>
+    </tr>
+    <tr>
+      <td>Polygon Singa</td>
+      <td>N'dulu</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">71</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Pop Tank</td>
+      <td>Metal Ninja D</td>
+      <td>Soul Reaper</td>
+      <td>Bashagga</td>
+      <td>Mudder</td>
+    </tr>
+    <tr>
+      <td>Polygon Singa</td>
+      <td>N'dulu</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">72</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Pop Tank</td>
+      <td>Metal Ninja D</td>
+      <td>Soul Reaper</td>
+      <td>Bashagga</td>
+      <td>Mudder</td>
+    </tr>
+    <tr>
+      <td>Polygon Singa</td>
+      <td>N'dulu</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">73</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Pop Tank</td>
+      <td>Metal Ninja D</td>
+      <td>Miracle Hen</td>
+      <td>Bashagga</td>
+      <td>Mudder</td>
+    </tr>
+    <tr>
+      <td>Polygon Singa</td>
+      <td>N'dulu</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">74</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Pop Tank</td>
+      <td>Metal Ninja D</td>
+      <td>Miracle Hen</td>
+      <td>Bashagga</td>
+      <td>Mudder</td>
+    </tr>
+    <tr>
+      <td>Polygon Singa</td>
+      <td>N'dulu</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">75</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Earth Ninja B</td>
+      <td>Metal Ninja D</td>
+      <td>Miracle Hen</td>
+      <td>Bashagga</td>
+      <td>Mudder</td>
+    </tr>
+    <tr>
+      <td>Polygon Singa</td>
+      <td>N'dulu</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">76</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Earth Ninja B</td>
+      <td>Metal Ninja D</td>
+      <td>Miracle Hen</td>
+      <td>Bashagga</td>
+      <td>Mudder</td>
+    </tr>
+    <tr>
+      <td>Polygon Singa</td>
+      <td>N'dulu</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">77</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Earth Ninja B</td>
+      <td>Metal Ninja D</td>
+      <td>Miracle Hen</td>
+      <td>Ultra Gazer</td>
+      <td>Great Samurai</td>
+    </tr>
+    <tr>
+      <td>Curse Matron</td>
+      <td>Mudder</td>
+      <td>Pumplord</td>
+      <td>N'dulu</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">78</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Earth Ninja B</td>
+      <td>Metal Ninja D</td>
+      <td>Miracle Hen</td>
+      <td>Ultra Gazer</td>
+      <td>Great Samurai</td>
+    </tr>
+    <tr>
+      <td>Curse Matron</td>
+      <td>Mudder</td>
+      <td>Pumplord</td>
+      <td>N'dulu</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">79</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Earth Ninja B</td>
+      <td>Metal Ninja D</td>
+      <td>Miracle Hen</td>
+      <td>Ultra Gazer</td>
+      <td>Great Samurai</td>
+    </tr>
+    <tr>
+      <td>Curse Matron</td>
+      <td>Mudder</td>
+      <td>Pumplord</td>
+      <td>N'dulu</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">80</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Earth Ninja B</td>
+      <td>Metal Ninja D</td>
+      <td>Miracle Hen</td>
+      <td>Ultra Gazer</td>
+      <td>Great Samurai</td>
+    </tr>
+    <tr>
+      <td>Curse Matron</td>
+      <td>Mudder</td>
+      <td>Pumplord</td>
+      <td>N'dulu</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">81</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Dragon</td>
+      <td>Nimble Knave</td>
+      <td>Great Samurai</td>
+      <td>Curse Matron</td>
+      <td>Mudder</td>
+    </tr>
+    <tr>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">82</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Dragon</td>
+      <td>Nimble Knave</td>
+      <td>Great Samurai</td>
+      <td>Curse Matron</td>
+      <td>Mudder</td>
+    </tr>
+    <tr>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">83</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Dragon</td>
+      <td>Nimble Knave</td>
+      <td>Great Samurai</td>
+      <td>Curse Matron</td>
+      <td>Mudder</td>
+    </tr>
+    <tr>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">84</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Dragon</td>
+      <td>Nimble Knave</td>
+      <td>Great Samurai</td>
+      <td>Curse Matron</td>
+      <td>Mudder</td>
+    </tr>
+    <tr>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">85</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Dragon</td>
+      <td>Nimble Knave</td>
+      <td>Great Samurai</td>
+      <td>Curse Matron</td>
+      <td>Mudder</td>
+    </tr>
+    <tr>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td>Okame Monk B</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">86</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Dragon</td>
+      <td>Nimble Knave</td>
+      <td>Great Samurai</td>
+      <td>Curse Matron</td>
+      <td>Mudder</td>
+    </tr>
+    <tr>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td>Okame Monk B</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">87</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Dragon</td>
+      <td>Nimble Knave</td>
+      <td>Great Samurai</td>
+      <td>Curse Matron</td>
+      <td>Mudder</td>
+    </tr>
+    <tr>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td>Okame Monk B</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">88</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Dragon</td>
+      <td>Field Knave</td>
+      <td>Death Reaper</td>
+      <td>Dragon Pit</td>
+      <td>Porky</td>
+    </tr>
+    <tr>
+      <td>Great Samurai</td>
+      <td>Hoppin' Slugger</td>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td>Okame Monk B</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">89</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Dragon</td>
+      <td>Field Knave</td>
+      <td>Death Reaper</td>
+      <td>Dragon Pit</td>
+      <td>Porky</td>
+    </tr>
+    <tr>
+      <td>Great Samurai</td>
+      <td>Hoppin' Slugger</td>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td>Okame Monk B</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">90</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class=""></td>
+      <td>Dragon</td>
+      <td>Field Knave</td>
+      <td>Death Reaper</td>
+      <td>Dragon Pit</td>
+      <td>Porky</td>
+    </tr>
+    <tr>
+      <td>Great Samurai</td>
+      <td>Hoppin' Slugger</td>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td>Okame Monk B</td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">91</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td>Dragon</td>
+      <td>Field Knave</td>
+      <td>Death Reaper</td>
+      <td>Dragon Pit</td>
+      <td>Porky</td>
+    </tr>
+    <tr>
+      <td>Great Samurai</td>
+      <td>Hoppin' Slugger</td>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td>Okame Monk B</td>
+    </tr>
+    <tr>
+      <td>Tengu Monk B</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">92</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td>Dragon</td>
+      <td>Field Knave</td>
+      <td>Death Reaper</td>
+      <td>Dragon Pit</td>
+      <td>Porky</td>
+    </tr>
+    <tr>
+      <td>Great Samurai</td>
+      <td>Hoppin' Slugger</td>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td>Okame Monk B</td>
+    </tr>
+    <tr>
+      <td>Tengu Monk B</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">93</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td>Dragon</td>
+      <td>Field Knave</td>
+      <td>Death Reaper</td>
+      <td>Dragon Pit</td>
+      <td>Porky</td>
+    </tr>
+    <tr>
+      <td>Great Samurai</td>
+      <td>Hoppin' Slugger</td>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td>Okame Monk B</td>
+    </tr>
+    <tr>
+      <td>Tengu Monk B</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">94</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td>Dragon</td>
+      <td>Field Knave</td>
+      <td>Death Reaper</td>
+      <td>Dragon Pit</td>
+      <td>Porky</td>
+    </tr>
+    <tr>
+      <td>Great Samurai</td>
+      <td>Hoppin' Slugger</td>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td>Okame Monk B</td>
+    </tr>
+    <tr>
+      <td>Tengu Monk B</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">95</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td>Dragon</td>
+      <td>Field Knave</td>
+      <td>Death Reaper</td>
+      <td>Dragon Pit</td>
+      <td>Porky</td>
+    </tr>
+    <tr>
+      <td>Great Samurai</td>
+      <td>Hoppin' Slugger</td>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td>Okame Monk B</td>
+    </tr>
+    <tr>
+      <td>Tengu Monk B</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">96</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td>Dragon</td>
+      <td>Field Knave</td>
+      <td>Death Reaper</td>
+      <td>Dragon Pit</td>
+      <td>Porky</td>
+    </tr>
+    <tr>
+      <td>Great Samurai</td>
+      <td>Hoppin' Slugger</td>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td>Okame Monk B</td>
+    </tr>
+    <tr>
+      <td>Tengu Monk B</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">97</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td>Dragon</td>
+      <td>Field Knave</td>
+      <td>Death Reaper</td>
+      <td>Dragon Pit</td>
+      <td>Porky</td>
+    </tr>
+    <tr>
+      <td>Great Samurai</td>
+      <td>Hoppin' Slugger</td>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td>Okame Monk B</td>
+    </tr>
+    <tr>
+      <td>Tengu Monk B</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">98</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td>Dragon</td>
+      <td>Field Knave</td>
+      <td>Death Reaper</td>
+      <td>Dragon Pit</td>
+      <td>Porky</td>
+    </tr>
+    <tr>
+      <td>Great Samurai</td>
+      <td>Hoppin' Slugger</td>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td>Okame Monk B</td>
+    </tr>
+    <tr>
+      <td>Tengu Monk B</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="9" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="3" class="centeredText">99</td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td rowspan="3" class=""></td>
+      <td>Dragon</td>
+      <td>Field Knave</td>
+      <td>Death Reaper</td>
+      <td>Dragon Pit</td>
+      <td>Porky</td>
+    </tr>
+    <tr>
+      <td>Great Samurai</td>
+      <td>Hoppin' Slugger</td>
+      <td>Pumplord</td>
+      <td>Okina Monk B</td>
+      <td>Okame Monk B</td>
+    </tr>
+    <tr>
+      <td>Tengu Monk B</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
@@ -825,7 +2649,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Break-Off Blade</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -963,7 +2787,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Watchful Shield</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1184,7 +3008,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Gutsy Shield</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1322,7 +3146,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Strength Bracelet</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1452,7 +3276,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Far-throwing Bracelet</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1478,7 +3302,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sure-aim Bracelet</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1811,7 +3635,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Wooden Arrow</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1876,11 +3700,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Rock</td>
-    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>X</td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -1955,7 +3779,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2103,8 +3927,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td>X</td>
-    <td>X</td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2126,7 +3950,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Life Grass</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2191,7 +4015,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Dragon Grass</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2208,7 +4032,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2249,14 +4073,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Confusion Grass</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2269,7 +4093,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sedating Grass</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2295,7 +4119,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Blinding Grass</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2308,7 +4132,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Seewell Grass</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2334,13 +4158,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Power-up Grass</td>
-    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>X</td>
     <td></td>
-    <td>X</td>
+    <td></td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2446,7 +4270,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Confusion Scroll</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2463,7 +4287,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2472,7 +4296,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Jitters Scroll</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2485,7 +4309,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Windblade Scroll</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2849,7 +4673,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Fixer Scroll</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2961,11 +4785,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Paralyzing Staff</td>
-    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>X</td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2974,7 +4798,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sealing Staff</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3000,7 +4824,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Empathetic Staff</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3013,11 +4837,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Narrow-escape Staff</td>
-    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>X</td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3039,10 +4863,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Switching Staff</td>
-    <td>X</td>
     <td></td>
     <td></td>
-    <td>X</td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3091,7 +4915,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Burrowing Staff</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3107,8 +4931,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td>X</td>
-    <td>X</td>
+    <td></td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3156,7 +4980,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sluggish Staff</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3411,7 +5235,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Hiding Pot</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3450,7 +5274,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Water Gun Pot</td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3526,7 +5350,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3565,7 +5389,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td>X</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3639,34 +5463,3 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
   </tr>
 </table>
-
-# Traps
-
-F = Earliest floor where the trap has been seen.
-
-|Name|F|
-|-|-|
-|Tripping Trap|1|
-|Sluggish Trap|1|
-|Trap-setting Trap|2|
-|Spring Trap|2|
-|Far-throwing Trap|2|
-|Blast Trap|2|
-|Onigiri Trap|2|
-|Gassy Trap|2|
-|Shadowbind Trap|2|
-|Spinning Trap|2|
-|Poison Arrow Trap|2|
-|Sleep Trap|2|
-|Explosion Trap|4|
-|Log Trap|4|
-|Feeding Trap|5|
-|Summoning Trap|5|
-|Blinding Trap|5|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
