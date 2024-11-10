@@ -65,7 +65,7 @@ metaDescription: "Clash of Weapons and Shields dungeon guide for Shiren the Wand
     <td></td>
   </tr>
   <tr>
-    <th>Wind of Kron</th>
+    <th>Wind (1st Gust)</th>
     <td></td>
     <th>Reward</th>
     <td></td>
@@ -113,16 +113,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/5-1.png"/> Death Reaper</td>
-      <td><img src="../images/monsters/6-1.png"/> Pumphantasm</td>
-      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
-      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
-      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
+      <td><img src="../images/monsters_s/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
+      <td><img src="../images/monsters_s/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters_s/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters_s/41-1.png"/> Fierous</td>
       <td rowspan="2" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
-      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td><img src="../images/monsters_s/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters_s/31-2.png"/> Cursister</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -135,16 +135,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/5-1.png"/> Death Reaper</td>
-      <td><img src="../images/monsters/6-1.png"/> Pumphantasm</td>
-      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
-      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
-      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
+      <td><img src="../images/monsters_s/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
+      <td><img src="../images/monsters_s/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters_s/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters_s/41-1.png"/> Fierous</td>
       <td rowspan="2" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
-      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td><img src="../images/monsters_s/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters_s/31-2.png"/> Cursister</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -157,22 +157,22 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/5-1.png"/> Death Reaper</td>
-      <td><img src="../images/monsters/5-2.png"/> Hell Reaper</td>
-      <td><img src="../images/monsters/6-1.png"/> Pumphantasm</td>
-      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
-      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters_s/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
+      <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
+      <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters_s/9-1.png"/> Masked Samurai</td>
       <td rowspan="3" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/9-2.png"/> Raging Samurai</td>
-      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
-      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
-      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
-      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td><img src="../images/monsters_s/9-2.png"/> Raging Samurai</td>
+      <td><img src="../images/monsters_s/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters_s/41-1.png"/> Fierous</td>
+      <td><img src="../images/monsters_s/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters_s/31-2.png"/> Cursister</td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/32-3.png"/> Mudster</td>
+      <td class="items"><img src="../images/monsters_s/32-3.png"/> Mudster</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -186,22 +186,22 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/5-1.png"/> Death Reaper</td>
-      <td><img src="../images/monsters/5-2.png"/> Hell Reaper</td>
-      <td><img src="../images/monsters/6-1.png"/> Pumphantasm</td>
-      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
-      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters_s/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
+      <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
+      <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters_s/9-1.png"/> Masked Samurai</td>
       <td rowspan="3" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/9-2.png"/> Raging Samurai</td>
-      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
-      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
-      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
-      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td><img src="../images/monsters_s/9-2.png"/> Raging Samurai</td>
+      <td><img src="../images/monsters_s/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters_s/41-1.png"/> Fierous</td>
+      <td><img src="../images/monsters_s/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters_s/31-2.png"/> Cursister</td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/32-3.png"/> Mudster</td>
+      <td class="items"><img src="../images/monsters_s/32-3.png"/> Mudster</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -215,22 +215,22 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/5-1.png"/> Death Reaper</td>
-      <td><img src="../images/monsters/5-2.png"/> Hell Reaper</td>
-      <td><img src="../images/monsters/6-1.png"/> Pumphantasm</td>
-      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
-      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters_s/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
+      <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
+      <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters_s/9-1.png"/> Masked Samurai</td>
       <td rowspan="3" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/9-2.png"/> Raging Samurai</td>
-      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
-      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
-      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
-      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
+      <td><img src="../images/monsters_s/9-2.png"/> Raging Samurai</td>
+      <td><img src="../images/monsters_s/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters_s/41-1.png"/> Fierous</td>
+      <td><img src="../images/monsters_s/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters_s/31-2.png"/> Cursister</td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/32-3.png"/> Mudster</td>
+      <td class="items"><img src="../images/monsters_s/32-3.png"/> Mudster</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -244,19 +244,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
-      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
-      <td><img src="../images/monsters/9-2.png"/> Raging Samurai</td>
-      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
-      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
+      <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters_s/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters_s/9-2.png"/> Raging Samurai</td>
+      <td><img src="../images/monsters_s/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters_s/21-2.png"/> Skull Wizard</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
-      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
-      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
-      <td class="items"><img src="../images/monsters/32-3.png"/> Mudster</td>
-      <td><img src="../images/monsters/12-2.png"/> Thrashead</td>
+      <td><img src="../images/monsters_s/41-1.png"/> Fierous</td>
+      <td><img src="../images/monsters_s/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters_s/31-2.png"/> Cursister</td>
+      <td class="items"><img src="../images/monsters_s/32-3.png"/> Mudster</td>
+      <td><img src="../images/monsters_s/12-2.png"/> Thrashead</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -266,19 +266,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
-      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
-      <td><img src="../images/monsters/9-2.png"/> Raging Samurai</td>
-      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
-      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
+      <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters_s/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters_s/9-2.png"/> Raging Samurai</td>
+      <td><img src="../images/monsters_s/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters_s/21-2.png"/> Skull Wizard</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
-      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
-      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
-      <td class="items"><img src="../images/monsters/32-3.png"/> Mudster</td>
-      <td><img src="../images/monsters/12-2.png"/> Thrashead</td>
+      <td><img src="../images/monsters_s/41-1.png"/> Fierous</td>
+      <td><img src="../images/monsters_s/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters_s/31-2.png"/> Cursister</td>
+      <td class="items"><img src="../images/monsters_s/32-3.png"/> Mudster</td>
+      <td><img src="../images/monsters_s/12-2.png"/> Thrashead</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -288,19 +288,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
-      <td><img src="../images/monsters/9-1.png"/> Masked Samurai</td>
-      <td><img src="../images/monsters/9-2.png"/> Raging Samurai</td>
-      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
-      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
+      <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters_s/9-1.png"/> Masked Samurai</td>
+      <td><img src="../images/monsters_s/9-2.png"/> Raging Samurai</td>
+      <td><img src="../images/monsters_s/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters_s/21-2.png"/> Skull Wizard</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/41-1.png"/> Fierous</td>
-      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
-      <td class="items"><img src="../images/monsters/31-2.png"/> Cursister</td>
-      <td class="items"><img src="../images/monsters/32-3.png"/> Mudster</td>
-      <td><img src="../images/monsters/12-2.png"/> Thrashead</td>
+      <td><img src="../images/monsters_s/41-1.png"/> Fierous</td>
+      <td><img src="../images/monsters_s/8-2.png"/> Brodillo</td>
+      <td class="items"><img src="../images/monsters_s/31-2.png"/> Cursister</td>
+      <td class="items"><img src="../images/monsters_s/32-3.png"/> Mudster</td>
+      <td><img src="../images/monsters_s/12-2.png"/> Thrashead</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -310,16 +310,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
-      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
-      <td><img src="../images/monsters/12-2.png"/> Thrashead</td>
-      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
-      <td><img src="../images/monsters/42-2.png"/> Rumbledon</td>
+      <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters_s/21-2.png"/> Skull Wizard</td>
+      <td><img src="../images/monsters_s/12-2.png"/> Thrashead</td>
+      <td><img src="../images/monsters_s/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters_s/42-2.png"/> Rumbledon</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>
-      <td><img src="../images/monsters/39-3.png"/> Fulminachin</td>
+      <td><img src="../images/monsters_s/36-2.png"/> Tiger Hurler</td>
+      <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -332,16 +332,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
-      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
-      <td><img src="../images/monsters/12-2.png"/> Thrashead</td>
-      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
-      <td><img src="../images/monsters/42-2.png"/> Rumbledon</td>
+      <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters_s/21-2.png"/> Skull Wizard</td>
+      <td><img src="../images/monsters_s/12-2.png"/> Thrashead</td>
+      <td><img src="../images/monsters_s/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters_s/42-2.png"/> Rumbledon</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>
-      <td><img src="../images/monsters/39-3.png"/> Fulminachin</td>
+      <td><img src="../images/monsters_s/36-2.png"/> Tiger Hurler</td>
+      <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -354,16 +354,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
-      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
-      <td><img src="../images/monsters/12-2.png"/> Thrashead</td>
-      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
-      <td><img src="../images/monsters/42-2.png"/> Rumbledon</td>
+      <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters_s/21-2.png"/> Skull Wizard</td>
+      <td><img src="../images/monsters_s/12-2.png"/> Thrashead</td>
+      <td><img src="../images/monsters_s/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters_s/42-2.png"/> Rumbledon</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>
-      <td><img src="../images/monsters/39-3.png"/> Fulminachin</td>
+      <td><img src="../images/monsters_s/36-2.png"/> Tiger Hurler</td>
+      <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -376,16 +376,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
-      <td><img src="../images/monsters/21-2.png"/> Skull Wizard</td>
-      <td><img src="../images/monsters/12-2.png"/> Thrashead</td>
-      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
-      <td><img src="../images/monsters/42-2.png"/> Rumbledon</td>
+      <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters_s/21-2.png"/> Skull Wizard</td>
+      <td><img src="../images/monsters_s/12-2.png"/> Thrashead</td>
+      <td><img src="../images/monsters_s/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters_s/42-2.png"/> Rumbledon</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>
-      <td><img src="../images/monsters/39-3.png"/> Fulminachin</td>
+      <td><img src="../images/monsters_s/36-2.png"/> Tiger Hurler</td>
+      <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -398,17 +398,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
-      <td><img src="../images/monsters/42-2.png"/> Rumbledon</td>
-      <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>
-      <td><img src="../images/monsters/39-3.png"/> Fulminachin</td>
-      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters_s/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters_s/42-2.png"/> Rumbledon</td>
+      <td><img src="../images/monsters_s/36-2.png"/> Tiger Hurler</td>
+      <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
+      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
-      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
-      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters_s/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters_s/7-3.png"/> Blazepuff</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -420,17 +420,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
-      <td><img src="../images/monsters/42-2.png"/> Rumbledon</td>
-      <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>
-      <td><img src="../images/monsters/39-3.png"/> Fulminachin</td>
-      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters_s/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters_s/42-2.png"/> Rumbledon</td>
+      <td><img src="../images/monsters_s/36-2.png"/> Tiger Hurler</td>
+      <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
+      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
-      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
-      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters_s/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters_s/7-3.png"/> Blazepuff</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -442,17 +442,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
-      <td><img src="../images/monsters/42-2.png"/> Rumbledon</td>
-      <td><img src="../images/monsters/36-2.png"/> Tiger Hurler</td>
-      <td><img src="../images/monsters/39-3.png"/> Fulminachin</td>
-      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters_s/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters_s/42-2.png"/> Rumbledon</td>
+      <td><img src="../images/monsters_s/36-2.png"/> Tiger Hurler</td>
+      <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
+      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
-      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
-      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters_s/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters_s/7-3.png"/> Blazepuff</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -464,16 +464,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
-      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
-      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
-      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
-      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters_s/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters_s/7-3.png"/> Blazepuff</td>
+      <td class="items"><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
-      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="items"><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -486,16 +486,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
-      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
-      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
-      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
-      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters_s/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters_s/7-3.png"/> Blazepuff</td>
+      <td class="items"><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
-      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="items"><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -508,16 +508,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
-      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
-      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
-      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
-      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters_s/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters_s/7-3.png"/> Blazepuff</td>
+      <td class="items"><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
-      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="items"><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -530,16 +530,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
-      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
-      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
-      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
-      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters_s/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters_s/7-3.png"/> Blazepuff</td>
+      <td class="items"><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
-      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="items"><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -552,16 +552,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/13-3.png"/> Great Hen</td>
-      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
-      <td class="danger"><img src="../images/monsters/27-3.png"/> Nigiri Boss</td>
-      <td><img src="../images/monsters/7-3.png"/> Blazepuff</td>
-      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
+      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td class="danger"><img src="../images/monsters_s/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters_s/7-3.png"/> Blazepuff</td>
+      <td class="items"><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
-      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
+      <td class="items"><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -574,22 +574,22 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
-      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
-      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
-      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
-      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td class="items"><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
+      <td class="items"><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters_s/41-3.png"/> Igneous</td>
       <td rowspan="3" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
-      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
-      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
-      <td class="danger"><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
-      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td class="danger"><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
+      <td><img src="../images/monsters_s/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters_s/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters_s/59-3.png"/> Okina Monk B</td>
+      <td><img src="../images/monsters_s/60-3.png"/> Okame Monk B</td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="danger"><img src="../images/monsters_s/61-3.png"/> Tengu Monk B</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -603,22 +603,22 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
-      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
-      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
-      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
-      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td class="items"><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
+      <td class="items"><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters_s/41-3.png"/> Igneous</td>
       <td rowspan="3" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
-      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
-      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
-      <td class="danger"><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
-      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td class="danger"><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
+      <td><img src="../images/monsters_s/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters_s/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters_s/59-3.png"/> Okina Monk B</td>
+      <td><img src="../images/monsters_s/60-3.png"/> Okame Monk B</td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="danger"><img src="../images/monsters_s/61-3.png"/> Tengu Monk B</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -632,22 +632,22 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
-      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
-      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
-      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
-      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td class="items"><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
+      <td class="items"><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters_s/41-3.png"/> Igneous</td>
       <td rowspan="3" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
-      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
-      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
-      <td class="danger"><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
-      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td class="danger"><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
+      <td><img src="../images/monsters_s/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters_s/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters_s/59-3.png"/> Okina Monk B</td>
+      <td><img src="../images/monsters_s/60-3.png"/> Okame Monk B</td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="danger"><img src="../images/monsters_s/61-3.png"/> Tengu Monk B</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -661,22 +661,22 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
-      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
-      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
-      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
-      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td class="items"><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
+      <td class="items"><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters_s/41-3.png"/> Igneous</td>
       <td rowspan="3" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
-      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
-      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
-      <td class="danger"><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
-      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td class="danger"><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
+      <td><img src="../images/monsters_s/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters_s/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters_s/59-3.png"/> Okina Monk B</td>
+      <td><img src="../images/monsters_s/60-3.png"/> Okame Monk B</td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="danger"><img src="../images/monsters_s/61-3.png"/> Tengu Monk B</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -690,22 +690,22 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/14-3.png"/> Lashagga</td>
-      <td class="items"><img src="../images/monsters/22-3.png"/> Hyper Gazer</td>
-      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
-      <td><img src="../images/monsters/11-3.png"/> Megataur</td>
-      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td class="items"><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
+      <td class="items"><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters_s/41-3.png"/> Igneous</td>
       <td rowspan="3" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
-      <td><img src="../images/monsters/57-3.png"/> Hannya Monk B</td>
-      <td><img src="../images/monsters/58-3.png"/> Kitsune Monk B</td>
-      <td class="danger"><img src="../images/monsters/59-3.png"/> Okina Monk B</td>
-      <td><img src="../images/monsters/60-3.png"/> Okame Monk B</td>
+      <td class="danger"><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
+      <td><img src="../images/monsters_s/57-3.png"/> Hannya Monk B</td>
+      <td><img src="../images/monsters_s/58-3.png"/> Kitsune Monk B</td>
+      <td class="danger"><img src="../images/monsters_s/59-3.png"/> Okina Monk B</td>
+      <td><img src="../images/monsters_s/60-3.png"/> Okame Monk B</td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/61-3.png"/> Tengu Monk B</td>
+      <td class="danger"><img src="../images/monsters_s/61-3.png"/> Tengu Monk B</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -719,16 +719,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
-      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
-      <td><img src="../images/monsters/37-3.png"/> Electroid</td>
-      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
-      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="items"><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters_s/37-3.png"/> Electroid</td>
+      <td class="danger"><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
+      <td class="stats"><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/3-4.png"/> Superb Octopling</td>
-      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td><img src="../images/monsters_s/3-4.png"/> Superb Octopling</td>
+      <td class="farming"><img src="../images/monsters_s/29-3.png"/> Ironwalrus</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -741,16 +741,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
-      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
-      <td><img src="../images/monsters/37-3.png"/> Electroid</td>
-      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
-      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="items"><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters_s/37-3.png"/> Electroid</td>
+      <td class="danger"><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
+      <td class="stats"><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/3-4.png"/> Superb Octopling</td>
-      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td><img src="../images/monsters_s/3-4.png"/> Superb Octopling</td>
+      <td class="farming"><img src="../images/monsters_s/29-3.png"/> Ironwalrus</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -763,16 +763,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
-      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
-      <td><img src="../images/monsters/37-3.png"/> Electroid</td>
-      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
-      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="items"><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters_s/37-3.png"/> Electroid</td>
+      <td class="danger"><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
+      <td class="stats"><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/3-4.png"/> Superb Octopling</td>
-      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td><img src="../images/monsters_s/3-4.png"/> Superb Octopling</td>
+      <td class="farming"><img src="../images/monsters_s/29-3.png"/> Ironwalrus</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -785,16 +785,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
-      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
-      <td><img src="../images/monsters/37-3.png"/> Electroid</td>
-      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
-      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="items"><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters_s/37-3.png"/> Electroid</td>
+      <td class="danger"><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
+      <td class="stats"><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/3-4.png"/> Superb Octopling</td>
-      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td><img src="../images/monsters_s/3-4.png"/> Superb Octopling</td>
+      <td class="farming"><img src="../images/monsters_s/29-3.png"/> Ironwalrus</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -807,16 +807,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/33-2.png"/> Fencer</td>
-      <td><img src="../images/monsters/41-3.png"/> Igneous</td>
-      <td><img src="../images/monsters/37-3.png"/> Electroid</td>
-      <td class="danger"><img src="../images/monsters/16-3.png"/> Adamant Tank</td>
-      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
+      <td class="items"><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/41-3.png"/> Igneous</td>
+      <td><img src="../images/monsters_s/37-3.png"/> Electroid</td>
+      <td class="danger"><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
+      <td class="stats"><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/3-4.png"/> Superb Octopling</td>
-      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td><img src="../images/monsters_s/3-4.png"/> Superb Octopling</td>
+      <td class="farming"><img src="../images/monsters_s/29-3.png"/> Ironwalrus</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -829,16 +829,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
-      <td class="danger"><img src="../images/monsters/18-3.png"/> Porkon</td>
-      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
-      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
-      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="stats"><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters_s/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters_s/23-4.png"/> Wrinkly Hani</td>
+      <td><img src="../images/monsters_s/4-4.png"/> Admiral Spearfish</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
-      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td class="farming"><img src="../images/monsters_s/29-3.png"/> Ironwalrus</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -851,16 +851,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
-      <td class="danger"><img src="../images/monsters/18-3.png"/> Porkon</td>
-      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
-      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
-      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="stats"><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters_s/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters_s/23-4.png"/> Wrinkly Hani</td>
+      <td><img src="../images/monsters_s/4-4.png"/> Admiral Spearfish</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
-      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td class="farming"><img src="../images/monsters_s/29-3.png"/> Ironwalrus</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -873,16 +873,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
-      <td class="danger"><img src="../images/monsters/18-3.png"/> Porkon</td>
-      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
-      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
-      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="stats"><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters_s/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters_s/23-4.png"/> Wrinkly Hani</td>
+      <td><img src="../images/monsters_s/4-4.png"/> Admiral Spearfish</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
-      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td class="farming"><img src="../images/monsters_s/29-3.png"/> Ironwalrus</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -895,16 +895,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
-      <td class="danger"><img src="../images/monsters/18-3.png"/> Porkon</td>
-      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
-      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
-      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="stats"><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters_s/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters_s/23-4.png"/> Wrinkly Hani</td>
+      <td><img src="../images/monsters_s/4-4.png"/> Admiral Spearfish</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
-      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td class="farming"><img src="../images/monsters_s/29-3.png"/> Ironwalrus</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -917,16 +917,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
-      <td class="danger"><img src="../images/monsters/18-3.png"/> Porkon</td>
-      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
-      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
-      <td><img src="../images/monsters/4-4.png"/> Admiral Spearfish</td>
+      <td class="stats"><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
+      <td class="danger"><img src="../images/monsters_s/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters_s/23-4.png"/> Wrinkly Hani</td>
+      <td><img src="../images/monsters_s/4-4.png"/> Admiral Spearfish</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
-      <td class="farming"><img src="../images/monsters/29-3.png"/> Ironwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td class="farming"><img src="../images/monsters_s/29-3.png"/> Ironwalrus</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -939,17 +939,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
-      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
-      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
-      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
-      <td class="items"><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td class="stats"><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters_s/23-4.png"/> Wrinkly Hani</td>
+      <td class="danger"><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td class="items"><img src="../images/monsters_s/17-3.png"/> Vexing Kappa</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
-      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
-      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters_s/9-3.png"/> Great Samurai</td>
+      <td class="useful"><img src="../images/monsters_s/45-3.png"/> Mixergon</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -961,17 +961,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
-      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
-      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
-      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
-      <td class="items"><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td class="stats"><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters_s/23-4.png"/> Wrinkly Hani</td>
+      <td class="danger"><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td class="items"><img src="../images/monsters_s/17-3.png"/> Vexing Kappa</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
-      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
-      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters_s/9-3.png"/> Great Samurai</td>
+      <td class="useful"><img src="../images/monsters_s/45-3.png"/> Mixergon</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -983,17 +983,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
-      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
-      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
-      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
-      <td class="items"><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td class="stats"><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters_s/23-4.png"/> Wrinkly Hani</td>
+      <td class="danger"><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td class="items"><img src="../images/monsters_s/17-3.png"/> Vexing Kappa</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
-      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
-      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters_s/9-3.png"/> Great Samurai</td>
+      <td class="useful"><img src="../images/monsters_s/45-3.png"/> Mixergon</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1005,17 +1005,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
-      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
-      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
-      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
-      <td class="items"><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td class="stats"><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters_s/23-4.png"/> Wrinkly Hani</td>
+      <td class="danger"><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td class="items"><img src="../images/monsters_s/17-3.png"/> Vexing Kappa</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
-      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
-      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters_s/9-3.png"/> Great Samurai</td>
+      <td class="useful"><img src="../images/monsters_s/45-3.png"/> Mixergon</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1027,17 +1027,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="stats"><img src="../images/monsters/25-3.png"/> Terror Scorpion</td>
-      <td><img src="../images/monsters/6-4.png"/> Pumplord</td>
-      <td class="stats"><img src="../images/monsters/23-4.png"/> Wrinkly Hani</td>
-      <td class="danger"><img src="../images/monsters/20-3.png"/> Sleep Radish</td>
-      <td class="items"><img src="../images/monsters/17-3.png"/> Vexing Kappa</td>
+      <td class="stats"><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+      <td class="stats"><img src="../images/monsters_s/23-4.png"/> Wrinkly Hani</td>
+      <td class="danger"><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td class="items"><img src="../images/monsters_s/17-3.png"/> Vexing Kappa</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
-      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
-      <td class="useful"><img src="../images/monsters/45-3.png"/> Mixergon</td>
+      <td class="danger"><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters_s/9-3.png"/> Great Samurai</td>
+      <td class="useful"><img src="../images/monsters_s/45-3.png"/> Mixergon</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1049,23 +1049,23 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
-      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
-      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
-      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
-      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td class="danger"><img src="../images/monsters_s/13-4.png"/> Miracle Hen</td>
+      <td class="danger"><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters_s/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters_s/35-3.png"/> Dragon Pit</td>
+      <td><img src="../images/monsters_s/15-4.png"/> Mini Tank</td>
       <td rowspan="3" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
-      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
-      <td class="items"><img src="../images/monsters/52-3.png"/> Fire Ninja B</td>
-      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
-      <td class="items"><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+      <td><img src="../images/monsters_s/9-3.png"/> Great Samurai</td>
+      <td class="items"><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td class="items"><img src="../images/monsters_s/52-3.png"/> Fire Ninja B</td>
+      <td><img src="../images/monsters_s/55-3.png"/> Metal Ninja B</td>
+      <td class="items"><img src="../images/monsters_s/53-3.png"/> Water Ninja B</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/54-3.png"/> Tree Ninja B</td>
-      <td><img src="../images/monsters/56-3.png"/> Earth Ninja B</td>
+      <td><img src="../images/monsters_s/54-3.png"/> Tree Ninja B</td>
+      <td><img src="../images/monsters_s/56-3.png"/> Earth Ninja B</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1078,23 +1078,23 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
-      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
-      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
-      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
-      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td class="danger"><img src="../images/monsters_s/13-4.png"/> Miracle Hen</td>
+      <td class="danger"><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters_s/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters_s/35-3.png"/> Dragon Pit</td>
+      <td><img src="../images/monsters_s/15-4.png"/> Mini Tank</td>
       <td rowspan="3" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
-      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
-      <td class="items"><img src="../images/monsters/52-3.png"/> Fire Ninja B</td>
-      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
-      <td class="items"><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+      <td><img src="../images/monsters_s/9-3.png"/> Great Samurai</td>
+      <td class="items"><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td class="items"><img src="../images/monsters_s/52-3.png"/> Fire Ninja B</td>
+      <td><img src="../images/monsters_s/55-3.png"/> Metal Ninja B</td>
+      <td class="items"><img src="../images/monsters_s/53-3.png"/> Water Ninja B</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/54-3.png"/> Tree Ninja B</td>
-      <td><img src="../images/monsters/56-3.png"/> Earth Ninja B</td>
+      <td><img src="../images/monsters_s/54-3.png"/> Tree Ninja B</td>
+      <td><img src="../images/monsters_s/56-3.png"/> Earth Ninja B</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1107,23 +1107,23 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
-      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
-      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
-      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
-      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td class="danger"><img src="../images/monsters_s/13-4.png"/> Miracle Hen</td>
+      <td class="danger"><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters_s/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters_s/35-3.png"/> Dragon Pit</td>
+      <td><img src="../images/monsters_s/15-4.png"/> Mini Tank</td>
       <td rowspan="3" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
-      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
-      <td class="items"><img src="../images/monsters/52-3.png"/> Fire Ninja B</td>
-      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
-      <td class="items"><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+      <td><img src="../images/monsters_s/9-3.png"/> Great Samurai</td>
+      <td class="items"><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td class="items"><img src="../images/monsters_s/52-3.png"/> Fire Ninja B</td>
+      <td><img src="../images/monsters_s/55-3.png"/> Metal Ninja B</td>
+      <td class="items"><img src="../images/monsters_s/53-3.png"/> Water Ninja B</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/54-3.png"/> Tree Ninja B</td>
-      <td><img src="../images/monsters/56-3.png"/> Earth Ninja B</td>
+      <td><img src="../images/monsters_s/54-3.png"/> Tree Ninja B</td>
+      <td><img src="../images/monsters_s/56-3.png"/> Earth Ninja B</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1136,23 +1136,23 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
-      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
-      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
-      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
-      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td class="danger"><img src="../images/monsters_s/13-4.png"/> Miracle Hen</td>
+      <td class="danger"><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters_s/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters_s/35-3.png"/> Dragon Pit</td>
+      <td><img src="../images/monsters_s/15-4.png"/> Mini Tank</td>
       <td rowspan="3" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
-      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
-      <td class="items"><img src="../images/monsters/52-3.png"/> Fire Ninja B</td>
-      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
-      <td class="items"><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+      <td><img src="../images/monsters_s/9-3.png"/> Great Samurai</td>
+      <td class="items"><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td class="items"><img src="../images/monsters_s/52-3.png"/> Fire Ninja B</td>
+      <td><img src="../images/monsters_s/55-3.png"/> Metal Ninja B</td>
+      <td class="items"><img src="../images/monsters_s/53-3.png"/> Water Ninja B</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/54-3.png"/> Tree Ninja B</td>
-      <td><img src="../images/monsters/56-3.png"/> Earth Ninja B</td>
+      <td><img src="../images/monsters_s/54-3.png"/> Tree Ninja B</td>
+      <td><img src="../images/monsters_s/56-3.png"/> Earth Ninja B</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1165,23 +1165,23 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td class="danger"><img src="../images/monsters/13-4.png"/> Miracle Hen</td>
-      <td class="danger"><img src="../images/monsters/19-3.png"/> Archdragon</td>
-      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
-      <td><img src="../images/monsters/35-3.png"/> Dragon Pit</td>
-      <td><img src="../images/monsters/15-4.png"/> Mini Tank</td>
+      <td class="danger"><img src="../images/monsters_s/13-4.png"/> Miracle Hen</td>
+      <td class="danger"><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters_s/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters_s/35-3.png"/> Dragon Pit</td>
+      <td><img src="../images/monsters_s/15-4.png"/> Mini Tank</td>
       <td rowspan="3" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
-      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
-      <td class="items"><img src="../images/monsters/52-3.png"/> Fire Ninja B</td>
-      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
-      <td class="items"><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+      <td><img src="../images/monsters_s/9-3.png"/> Great Samurai</td>
+      <td class="items"><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td class="items"><img src="../images/monsters_s/52-3.png"/> Fire Ninja B</td>
+      <td><img src="../images/monsters_s/55-3.png"/> Metal Ninja B</td>
+      <td class="items"><img src="../images/monsters_s/53-3.png"/> Water Ninja B</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/54-3.png"/> Tree Ninja B</td>
-      <td><img src="../images/monsters/56-3.png"/> Earth Ninja B</td>
+      <td><img src="../images/monsters_s/54-3.png"/> Tree Ninja B</td>
+      <td><img src="../images/monsters_s/56-3.png"/> Earth Ninja B</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1194,17 +1194,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
-      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
-      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
-      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
-      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td><img src="../images/monsters_s/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters_s/9-3.png"/> Great Samurai</td>
+      <td class="danger"><img src="../images/monsters_s/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters_s/36-4.png"/> Tiger Launcher</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
-      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
-      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters_s/2-4.png"/> Huge Chintala</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1216,17 +1216,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
-      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
-      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
-      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
-      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td><img src="../images/monsters_s/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters_s/9-3.png"/> Great Samurai</td>
+      <td class="danger"><img src="../images/monsters_s/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters_s/36-4.png"/> Tiger Launcher</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
-      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
-      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters_s/2-4.png"/> Huge Chintala</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1238,17 +1238,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
-      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
-      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
-      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
-      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td><img src="../images/monsters_s/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters_s/9-3.png"/> Great Samurai</td>
+      <td class="danger"><img src="../images/monsters_s/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters_s/36-4.png"/> Tiger Launcher</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
-      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
-      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters_s/2-4.png"/> Huge Chintala</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1260,17 +1260,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
-      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
-      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
-      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
-      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td><img src="../images/monsters_s/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters_s/9-3.png"/> Great Samurai</td>
+      <td class="danger"><img src="../images/monsters_s/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters_s/36-4.png"/> Tiger Launcher</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
-      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
-      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters_s/2-4.png"/> Huge Chintala</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1282,17 +1282,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/42-3.png"/> Clapdon</td>
-      <td><img src="../images/monsters/9-3.png"/> Great Samurai</td>
-      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
-      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
-      <td><img src="../images/monsters/36-4.png"/> Tiger Launcher</td>
+      <td><img src="../images/monsters_s/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters_s/9-3.png"/> Great Samurai</td>
+      <td class="danger"><img src="../images/monsters_s/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters_s/36-4.png"/> Tiger Launcher</td>
       <td rowspan="2" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/2-4.png"/> Huge Chintala</td>
-      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
-      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters_s/2-4.png"/> Huge Chintala</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1313,19 +1313,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
-      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
-      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
-      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
-      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td class="danger"><img src="../images/monsters_s/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters_s/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/32-4.png"/> Mudder</td>
-      <td class="danger"><img src="../images/monsters/20-4.png"/> Frenzy Radish</td>
-      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
-      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="items"><img src="../images/monsters_s/32-4.png"/> Mudder</td>
+      <td class="danger"><img src="../images/monsters_s/20-4.png"/> Frenzy Radish</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1335,19 +1335,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
-      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
-      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
-      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
-      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td class="danger"><img src="../images/monsters_s/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters_s/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/32-4.png"/> Mudder</td>
-      <td class="danger"><img src="../images/monsters/20-4.png"/> Frenzy Radish</td>
-      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
-      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="items"><img src="../images/monsters_s/32-4.png"/> Mudder</td>
+      <td class="danger"><img src="../images/monsters_s/20-4.png"/> Frenzy Radish</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1357,19 +1357,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
-      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
-      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
-      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
-      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td class="danger"><img src="../images/monsters_s/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters_s/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/32-4.png"/> Mudder</td>
-      <td class="danger"><img src="../images/monsters/20-4.png"/> Frenzy Radish</td>
-      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
-      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="items"><img src="../images/monsters_s/32-4.png"/> Mudder</td>
+      <td class="danger"><img src="../images/monsters_s/20-4.png"/> Frenzy Radish</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1379,19 +1379,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
-      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
-      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
-      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
-      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td class="danger"><img src="../images/monsters_s/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters_s/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/32-4.png"/> Mudder</td>
-      <td class="danger"><img src="../images/monsters/20-4.png"/> Frenzy Radish</td>
-      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
-      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="items"><img src="../images/monsters_s/32-4.png"/> Mudder</td>
+      <td class="danger"><img src="../images/monsters_s/20-4.png"/> Frenzy Radish</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1401,19 +1401,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="danger"><img src="../images/monsters/21-3.png"/> Skullmancer</td>
-      <td class="items"><img src="../images/monsters/33-3.png"/> Battler</td>
-      <td><img src="../images/monsters/8-3.png"/> Popdillo</td>
-      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
-      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
+      <td class="danger"><img src="../images/monsters_s/21-3.png"/> Skullmancer</td>
+      <td class="items"><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters_s/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/32-4.png"/> Mudder</td>
-      <td class="danger"><img src="../images/monsters/20-4.png"/> Frenzy Radish</td>
-      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
-      <td><img src="../images/monsters/40-3.png"/> Hoppin' Slugger</td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
+      <td class="items"><img src="../images/monsters_s/32-4.png"/> Mudder</td>
+      <td class="danger"><img src="../images/monsters_s/20-4.png"/> Frenzy Radish</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1423,16 +1423,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
-      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
-      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters_s/12-4.png"/> Deathead</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters_s/25-4.png"/> Demon Scorpion</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1445,16 +1445,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
-      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
-      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters_s/12-4.png"/> Deathead</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters_s/25-4.png"/> Demon Scorpion</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1467,16 +1467,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
-      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
-      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters_s/12-4.png"/> Deathead</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters_s/25-4.png"/> Demon Scorpion</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1489,16 +1489,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
-      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
-      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters_s/12-4.png"/> Deathead</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters_s/25-4.png"/> Demon Scorpion</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1511,16 +1511,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/6-3.png"/> Pumplich</td>
-      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
-      <td><img src="../images/monsters/39-4.png"/> Detonachin</td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td class="items"><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters_s/12-4.png"/> Deathead</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters_s/25-4.png"/> Demon Scorpion</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1533,16 +1533,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="items"><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters_s/12-4.png"/> Deathead</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters_s/25-4.png"/> Demon Scorpion</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
-      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td><img src="../images/monsters_s/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters_s/38-3.png"/> Captain Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1555,16 +1555,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="items"><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters_s/12-4.png"/> Deathead</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters_s/25-4.png"/> Demon Scorpion</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
-      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td><img src="../images/monsters_s/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters_s/38-3.png"/> Captain Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1577,16 +1577,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="items"><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters_s/12-4.png"/> Deathead</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters_s/25-4.png"/> Demon Scorpion</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
-      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td><img src="../images/monsters_s/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters_s/38-3.png"/> Captain Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1599,16 +1599,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="items"><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters_s/12-4.png"/> Deathead</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters_s/25-4.png"/> Demon Scorpion</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
-      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td><img src="../images/monsters_s/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters_s/38-3.png"/> Captain Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1621,16 +1621,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/31-4.png"/> Cursenior</td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td><img src="../images/monsters/12-4.png"/> Deathead</td>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td class="stats"><img src="../images/monsters/25-4.png"/> Demon Scorpion</td>
+      <td class="items"><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters_s/12-4.png"/> Deathead</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td class="stats"><img src="../images/monsters_s/25-4.png"/> Demon Scorpion</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
-      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td><img src="../images/monsters_s/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters_s/38-3.png"/> Captain Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1643,17 +1643,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
-      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
-      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters_s/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters_s/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters_s/7-4.png"/> Pyrepuff</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
-      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
-      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td><img src="../images/monsters_s/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters_s/40-4.png"/> Hoppin' Slammer</td>
+      <td><img src="../images/monsters_s/38-3.png"/> Captain Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1665,17 +1665,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
-      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
-      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters_s/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters_s/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters_s/7-4.png"/> Pyrepuff</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
-      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
-      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td><img src="../images/monsters_s/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters_s/40-4.png"/> Hoppin' Slammer</td>
+      <td><img src="../images/monsters_s/38-3.png"/> Captain Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1687,17 +1687,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
-      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
-      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters_s/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters_s/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters_s/7-4.png"/> Pyrepuff</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
-      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
-      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td><img src="../images/monsters_s/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters_s/40-4.png"/> Hoppin' Slammer</td>
+      <td><img src="../images/monsters_s/38-3.png"/> Captain Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1709,17 +1709,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
-      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
-      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters_s/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters_s/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters_s/7-4.png"/> Pyrepuff</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
-      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
-      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td><img src="../images/monsters_s/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters_s/40-4.png"/> Hoppin' Slammer</td>
+      <td><img src="../images/monsters_s/38-3.png"/> Captain Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1731,17 +1731,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
-      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
-      <td><img src="../images/monsters/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters_s/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters_s/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters_s/7-4.png"/> Pyrepuff</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
-      <td><img src="../images/monsters/40-4.png"/> Hoppin' Slammer</td>
-      <td><img src="../images/monsters/38-3.png"/> Captain Ant</td>
+      <td><img src="../images/monsters_s/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters_s/40-4.png"/> Hoppin' Slammer</td>
+      <td><img src="../images/monsters_s/38-3.png"/> Captain Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1753,19 +1753,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
-      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
-      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters_s/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters_s/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters_s/9-4.png"/> Lordly Samurai</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
-      <td><img src="../images/monsters/55-4.png"/> Metal Ninja A</td>
-      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
-      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
-      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="items"><img src="../images/monsters_s/52-4.png"/> Fire Ninja A</td>
+      <td><img src="../images/monsters_s/55-4.png"/> Metal Ninja A</td>
+      <td class="items"><img src="../images/monsters_s/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters_s/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters_s/56-4.png"/> Earth Ninja A</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1775,19 +1775,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
-      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
-      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters_s/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters_s/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters_s/9-4.png"/> Lordly Samurai</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
-      <td><img src="../images/monsters/55-4.png"/> Metal Ninja A</td>
-      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
-      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
-      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="items"><img src="../images/monsters_s/52-4.png"/> Fire Ninja A</td>
+      <td><img src="../images/monsters_s/55-4.png"/> Metal Ninja A</td>
+      <td class="items"><img src="../images/monsters_s/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters_s/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters_s/56-4.png"/> Earth Ninja A</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1797,19 +1797,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/5-3.png"/> Soul Reaper</td>
-      <td class="danger"><img src="../images/monsters/18-4.png"/> Porgon</td>
-      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
-      <td class="danger"><img src="../images/monsters/16-4.png"/> Steadfast Tank</td>
-      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td class="danger"><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters_s/35-4.png"/> Hiding Dragon</td>
+      <td class="danger"><img src="../images/monsters_s/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters_s/9-4.png"/> Lordly Samurai</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/52-4.png"/> Fire Ninja A</td>
-      <td><img src="../images/monsters/55-4.png"/> Metal Ninja A</td>
-      <td class="items"><img src="../images/monsters/53-4.png"/> Water Ninja A</td>
-      <td><img src="../images/monsters/54-4.png"/> Tree Ninja A</td>
-      <td><img src="../images/monsters/56-4.png"/> Earth Ninja A</td>
+      <td class="items"><img src="../images/monsters_s/52-4.png"/> Fire Ninja A</td>
+      <td><img src="../images/monsters_s/55-4.png"/> Metal Ninja A</td>
+      <td class="items"><img src="../images/monsters_s/53-4.png"/> Water Ninja A</td>
+      <td><img src="../images/monsters_s/54-4.png"/> Tree Ninja A</td>
+      <td><img src="../images/monsters_s/56-4.png"/> Earth Ninja A</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1819,16 +1819,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
-      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
-      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
-      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
-      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters_s/35-4.png"/> Hiding Dragon</td>
+      <td><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters_s/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters_s/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
-      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters_s/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters_s/27-4.png"/> Nigiri Honcho</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1841,16 +1841,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
-      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
-      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
-      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
-      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters_s/35-4.png"/> Hiding Dragon</td>
+      <td><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters_s/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters_s/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
-      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters_s/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters_s/27-4.png"/> Nigiri Honcho</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1863,17 +1863,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/35-4.png"/> Hiding Dragon</td>
-      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
-      <td><img src="../images/monsters/9-4.png"/> Lordly Samurai</td>
-      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
-      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters_s/35-4.png"/> Hiding Dragon</td>
+      <td><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters_s/9-4.png"/> Lordly Samurai</td>
+      <td><img src="../images/monsters_s/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
-      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
-      <td><img src="../images/monsters/38-4.png"/> General Ant</td>
+      <td><img src="../images/monsters_s/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters_s/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters_s/38-4.png"/> General Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1885,15 +1885,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
-      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
-      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
-      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
-      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters_s/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters_s/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters_s/27-4.png"/> Nigiri Honcho</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/38-4.png"/> General Ant</td>
+      <td><img src="../images/monsters_s/38-4.png"/> General Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1907,15 +1907,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
-      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
-      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
-      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
-      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters_s/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters_s/41-4.png"/> Infernous</td>
+      <td class="danger"><img src="../images/monsters_s/27-4.png"/> Nigiri Honcho</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/38-4.png"/> General Ant</td>
+      <td><img src="../images/monsters_s/38-4.png"/> General Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1929,17 +1929,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
-      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
-      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
-      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
-      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters_s/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters_s/41-4.png"/> Infernous</td>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
-      <td><img src="../images/monsters/38-4.png"/> General Ant</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td class="danger"><img src="../images/monsters_s/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters_s/38-4.png"/> General Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1951,17 +1951,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
-      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
-      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
-      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
-      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters_s/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters_s/41-4.png"/> Infernous</td>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
-      <td><img src="../images/monsters/38-4.png"/> General Ant</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td class="danger"><img src="../images/monsters_s/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters_s/38-4.png"/> General Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1973,17 +1973,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
-      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
-      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
-      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
-      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters_s/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters_s/41-4.png"/> Infernous</td>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
-      <td><img src="../images/monsters/38-4.png"/> General Ant</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td class="danger"><img src="../images/monsters_s/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters_s/38-4.png"/> General Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1995,17 +1995,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td><img src="../images/monsters/11-4.png"/> Gigataur</td>
-      <td><img src="../images/monsters/37-4.png"/> Cyberoid</td>
-      <td><img src="../images/monsters/14-4.png"/> Bashagga</td>
-      <td><img src="../images/monsters/41-4.png"/> Infernous</td>
-      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters_s/37-4.png"/> Cyberoid</td>
+      <td><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters_s/41-4.png"/> Infernous</td>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td class="danger"><img src="../images/monsters/27-4.png"/> Nigiri Honcho</td>
-      <td><img src="../images/monsters/38-4.png"/> General Ant</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td class="danger"><img src="../images/monsters_s/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters_s/38-4.png"/> General Ant</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -2017,19 +2017,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="useful"><img src="../images/monsters/45-4.png"/> Mixerdon</td>
-      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="useful"><img src="../images/monsters_s/45-4.png"/> Mixerdon</td>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/19-4.png"/> Abyss Dragon</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
-      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
-      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
-      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td class="items"><img src="../images/monsters_s/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters_s/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters_s/60-4.png"/> Okame Monk A</td>
+      <td class="danger"><img src="../images/monsters_s/61-4.png"/> Tengu Monk A</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2039,19 +2039,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="useful"><img src="../images/monsters/45-4.png"/> Mixerdon</td>
-      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="useful"><img src="../images/monsters_s/45-4.png"/> Mixerdon</td>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/19-4.png"/> Abyss Dragon</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
-      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
-      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
-      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td class="items"><img src="../images/monsters_s/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters_s/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters_s/60-4.png"/> Okame Monk A</td>
+      <td class="danger"><img src="../images/monsters_s/61-4.png"/> Tengu Monk A</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2061,19 +2061,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="useful"><img src="../images/monsters/45-4.png"/> Mixerdon</td>
-      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="useful"><img src="../images/monsters_s/45-4.png"/> Mixerdon</td>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/19-4.png"/> Abyss Dragon</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
-      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
-      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
-      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td class="items"><img src="../images/monsters_s/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters_s/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters_s/60-4.png"/> Okame Monk A</td>
+      <td class="danger"><img src="../images/monsters_s/61-4.png"/> Tengu Monk A</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2083,19 +2083,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="useful"><img src="../images/monsters/45-4.png"/> Mixerdon</td>
-      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="useful"><img src="../images/monsters_s/45-4.png"/> Mixerdon</td>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/19-4.png"/> Abyss Dragon</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
-      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
-      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
-      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td class="items"><img src="../images/monsters_s/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters_s/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters_s/60-4.png"/> Okame Monk A</td>
+      <td class="danger"><img src="../images/monsters_s/61-4.png"/> Tengu Monk A</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2105,19 +2105,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="useful"><img src="../images/monsters/45-4.png"/> Mixerdon</td>
-      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
+      <td class="useful"><img src="../images/monsters_s/45-4.png"/> Mixerdon</td>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/19-4.png"/> Abyss Dragon</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
-      <td><img src="../images/monsters/58-4.png"/> Kitsune Monk A</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
-      <td><img src="../images/monsters/60-4.png"/> Okame Monk A</td>
-      <td class="danger"><img src="../images/monsters/61-4.png"/> Tengu Monk A</td>
+      <td class="items"><img src="../images/monsters_s/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters_s/58-4.png"/> Kitsune Monk A</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
+      <td><img src="../images/monsters_s/60-4.png"/> Okame Monk A</td>
+      <td class="danger"><img src="../images/monsters_s/61-4.png"/> Tengu Monk A</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2127,19 +2127,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
-      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td class="items"><img src="../images/monsters_s/30-4.png"/> Hat Rascal</td>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/21-4.png"/> Skull Lord</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
-      <td><img src="../images/monsters/42-4.png"/> Boomdon</td>
-      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
-      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters_s/19-4.png"/> Abyss Dragon</td>
+      <td><img src="../images/monsters_s/42-4.png"/> Boomdon</td>
+      <td class="items"><img src="../images/monsters_s/26-4.png"/> Nimble Knave</td>
+      <td class="farming"><img src="../images/monsters_s/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2149,19 +2149,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
-      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td class="items"><img src="../images/monsters_s/30-4.png"/> Hat Rascal</td>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/21-4.png"/> Skull Lord</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
-      <td><img src="../images/monsters/42-4.png"/> Boomdon</td>
-      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
-      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters_s/19-4.png"/> Abyss Dragon</td>
+      <td><img src="../images/monsters_s/42-4.png"/> Boomdon</td>
+      <td class="items"><img src="../images/monsters_s/26-4.png"/> Nimble Knave</td>
+      <td class="farming"><img src="../images/monsters_s/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2171,19 +2171,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
-      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td class="items"><img src="../images/monsters_s/30-4.png"/> Hat Rascal</td>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/21-4.png"/> Skull Lord</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
-      <td><img src="../images/monsters/42-4.png"/> Boomdon</td>
-      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
-      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters_s/19-4.png"/> Abyss Dragon</td>
+      <td><img src="../images/monsters_s/42-4.png"/> Boomdon</td>
+      <td class="items"><img src="../images/monsters_s/26-4.png"/> Nimble Knave</td>
+      <td class="farming"><img src="../images/monsters_s/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2193,19 +2193,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
-      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td class="items"><img src="../images/monsters_s/30-4.png"/> Hat Rascal</td>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/21-4.png"/> Skull Lord</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
-      <td><img src="../images/monsters/42-4.png"/> Boomdon</td>
-      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
-      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters_s/19-4.png"/> Abyss Dragon</td>
+      <td><img src="../images/monsters_s/42-4.png"/> Boomdon</td>
+      <td class="items"><img src="../images/monsters_s/26-4.png"/> Nimble Knave</td>
+      <td class="farming"><img src="../images/monsters_s/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2215,19 +2215,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
-      <td><img src="../images/monsters/8-4.png"/> Grampadillo</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
+      <td class="items"><img src="../images/monsters_s/30-4.png"/> Hat Rascal</td>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/21-4.png"/> Skull Lord</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="danger"><img src="../images/monsters/19-4.png"/> Abyss Dragon</td>
-      <td><img src="../images/monsters/42-4.png"/> Boomdon</td>
-      <td class="items"><img src="../images/monsters/26-4.png"/> Nimble Knave</td>
-      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="danger"><img src="../images/monsters_s/19-4.png"/> Abyss Dragon</td>
+      <td><img src="../images/monsters_s/42-4.png"/> Boomdon</td>
+      <td class="items"><img src="../images/monsters_s/26-4.png"/> Nimble Knave</td>
+      <td class="farming"><img src="../images/monsters_s/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2237,17 +2237,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
-      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="items"><img src="../images/monsters_s/30-4.png"/> Hat Rascal</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/21-4.png"/> Skull Lord</td>
+      <td class="stats"><img src="../images/monsters_s/24-4.png"/> Polygon Stunna</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
-      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="items"><img src="../images/monsters_s/33-4.png"/> Swordmaster</td>
+      <td class="farming"><img src="../images/monsters_s/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -2259,17 +2259,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
-      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="items"><img src="../images/monsters_s/30-4.png"/> Hat Rascal</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/21-4.png"/> Skull Lord</td>
+      <td class="stats"><img src="../images/monsters_s/24-4.png"/> Polygon Stunna</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
-      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="items"><img src="../images/monsters_s/33-4.png"/> Swordmaster</td>
+      <td class="farming"><img src="../images/monsters_s/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -2281,17 +2281,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
-      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="items"><img src="../images/monsters_s/30-4.png"/> Hat Rascal</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/21-4.png"/> Skull Lord</td>
+      <td class="stats"><img src="../images/monsters_s/24-4.png"/> Polygon Stunna</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
-      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="items"><img src="../images/monsters_s/33-4.png"/> Swordmaster</td>
+      <td class="farming"><img src="../images/monsters_s/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -2303,17 +2303,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
-      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="items"><img src="../images/monsters_s/30-4.png"/> Hat Rascal</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/21-4.png"/> Skull Lord</td>
+      <td class="stats"><img src="../images/monsters_s/24-4.png"/> Polygon Stunna</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
-      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="items"><img src="../images/monsters_s/33-4.png"/> Swordmaster</td>
+      <td class="farming"><img src="../images/monsters_s/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -2325,17 +2325,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
-      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="items"><img src="../images/monsters_s/30-4.png"/> Hat Rascal</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/21-4.png"/> Skull Lord</td>
+      <td class="stats"><img src="../images/monsters_s/24-4.png"/> Polygon Stunna</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
-      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="items"><img src="../images/monsters_s/33-4.png"/> Swordmaster</td>
+      <td class="farming"><img src="../images/monsters_s/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -2347,17 +2347,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
-      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="items"><img src="../images/monsters_s/30-4.png"/> Hat Rascal</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/21-4.png"/> Skull Lord</td>
+      <td class="stats"><img src="../images/monsters_s/24-4.png"/> Polygon Stunna</td>
       <td rowspan="2" class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
-      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="items"><img src="../images/monsters_s/33-4.png"/> Swordmaster</td>
+      <td class="farming"><img src="../images/monsters_s/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -2369,17 +2369,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td class="items"><img src="../images/monsters/30-4.png"/> Hat Rascal</td>
-      <td class="danger"><img src="../images/monsters/5-4.png"/> King Reaper</td>
-      <td><img src="../images/monsters/34-4.png"/> Streamingfrog</td>
-      <td class="danger"><img src="../images/monsters/21-4.png"/> Skull Lord</td>
-      <td class="stats"><img src="../images/monsters/24-4.png"/> Polygon Stunna</td>
+      <td class="items"><img src="../images/monsters_s/30-4.png"/> Hat Rascal</td>
+      <td class="danger"><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/34-4.png"/> Streamingfrog</td>
+      <td class="danger"><img src="../images/monsters_s/21-4.png"/> Skull Lord</td>
+      <td class="stats"><img src="../images/monsters_s/24-4.png"/> Polygon Stunna</td>
       <td rowspan="2" class=""></td>
     </tr>
     <tr>
-      <td class="items"><img src="../images/monsters/33-4.png"/> Swordmaster</td>
-      <td class="farming"><img src="../images/monsters/29-4.png"/> Magicwalrus</td>
-      <td class="danger"><img src="../images/monsters/59-4.png"/> Okina Monk A</td>
+      <td class="items"><img src="../images/monsters_s/33-4.png"/> Swordmaster</td>
+      <td class="farming"><img src="../images/monsters_s/29-4.png"/> Magicwalrus</td>
+      <td class="danger"><img src="../images/monsters_s/59-4.png"/> Okina Monk A</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>

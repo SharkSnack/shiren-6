@@ -63,7 +63,7 @@ Sacred Tree dungeons offer an option to play as characters other than Shiren.
   <img src="../images/other/char_kokatsu_shiren.jpg"/>
 </div>
 
-<p><span class="highlightOrange2">Description:</span> Shiren fused with Kokatsu.<br/><span class="highlightPurple">Unlock Condition:</span> Available after clearing <a href="/dungeons/cavern-of-suiryu">Cavern of Suiryu</a>.</p>
+<p><span class="highlightOrange2">Description:</span> Shiren fused with Kokatsu.<br/><span class="highlightPurple">Unlock Condition:</span> Clear <a href="/dungeons/cavern-of-suiryu">Cavern of Suiryu</a> → Visit Sacred Tree.</p>
 
 #### Restrictions
 
@@ -103,7 +103,7 @@ Altered Effects:
   <img src="../images/other/char_tatsumi_shiren.jpg"/>
 </div>
 
-<p><span class="highlightOrange2">Description:</span> Shiren fused with Tatsumi.<br/><span class="highlightPurple">Unlock Condition:</span> Available after clearing <a href="/dungeons/cavern-of-suiryu">Cavern of Suiryu</a>.</p>
+<p><span class="highlightOrange2">Description:</span> Shiren fused with Tatsumi.<br/><span class="highlightPurple">Unlock Condition:</span> Unlock Kokatsu Shiren → Visit Sacred Tree.</p>
 
 #### Restrictions
 
@@ -128,7 +128,7 @@ Altered Effects:
   <img src="../images/other/char_koppa_2.jpg"/>
 </div>
 
-<p><span class="highlightOrange2">Description:</span> [Content]<br/><span class="highlightPurple">Unlock Condition:</span> [Content]</p>
+<p><span class="highlightOrange2">Description:</span> [Content]<br/><span class="highlightPurple">Unlock Condition:</span> Unlock Tatsumi Shiren → Event at Mount Jingara Summit → Visit Sacred Tree.</p>
 
 #### Restrictions
 
@@ -153,7 +153,7 @@ Altered Effects:
   <img src="../images/other/char_asuka.png"/>
 </div>
 
-<p><span class="highlightOrange2">Description:</span> [Content]<br/><span class="highlightPurple">Unlock Condition:</span> [Content]</p>
+<p><span class="highlightOrange2">Description:</span> [Content]<br/><span class="highlightPurple">Unlock Condition:</span> Go through Peach Bun events and have Asuka join as an ally → Visit Sacred Tree.</p>
 
 #### Restrictions
 

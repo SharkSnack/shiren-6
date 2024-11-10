@@ -5,7 +5,7 @@ metaDescription: "Floral Garden dungeon guide for Shiren the Wanderer: The Myste
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-  <img src="../images/areas/other/drokotay.jpg"/><img src="../images/areas/other/no_image.jpg"/>
+  <img src="../images/areas/other/drokotay.jpg"/><img src="../images/areas/other/floral.jpg"/>
 </div>
 
 # Overview
@@ -28,15 +28,15 @@ metaDescription: "Floral Garden dungeon guide for Shiren the Wanderer: The Myste
   </tr>
   <tr>
     <th>Bring Items</th>
-    <td></td>
+    <td>No</td>
     <th>Companions</th>
     <td></td>
   </tr>
   <tr>
     <th>Rescues</th>
-    <td></td>
+    <td>3</td>
     <th>Starting Level</th>
-    <td></td>
+    <td>1</td>
   </tr>
   <tr>
     <th>Starting Item</th>
@@ -65,7 +65,7 @@ metaDescription: "Floral Garden dungeon guide for Shiren the Wanderer: The Myste
     <td></td>
   </tr>
   <tr>
-    <th>Wind of Kron</th>
+    <th>Wind (1st Gust)</th>
     <td></td>
     <th>Reward</th>
     <td></td>

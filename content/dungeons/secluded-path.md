@@ -62,11 +62,11 @@ metaDescription: "Secluded Path dungeon guide for Shiren the Wanderer: The Myste
     <th>Initial Enemies</th>
     <td>4~5</td>
     <th>Spawn Rate</th>
-    <td>30~35</td>
+    <td>30~35 Turns</td>
   </tr>
   <tr>
-    <th>Wind of Kron</th>
-    <td>1200</td>
+    <th>Wind (1st Gust)</th>
+    <td>1200 Turns</td>
     <th>Reward</th>
     <td>None</td>
   </tr>
@@ -111,10 +111,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightShop"></td>
       <td class=""></td>
       <td class=""></td>
-      <td><img src="../images/monsters/2-1.png"/> Chintala</td>
-      <td><img src="../images/monsters/28-1.png"/> Froggo</td>
-      <td><img src="../images/monsters/8-1.png"/> Armordillo</td>
-      <td><img src="../images/monsters/25-1.png"/> Scorpion</td>
+      <td><img src="../images/monsters_s/2-1.png"/> Chintala</td>
+      <td><img src="../images/monsters_s/28-1.png"/> Froggo</td>
+      <td><img src="../images/monsters_s/8-1.png"/> Armordillo</td>
+      <td><img src="../images/monsters_s/25-1.png"/> Scorpion</td>
       <td class="highlightGray"></td>
       <td class=""></td>
     </tr>
@@ -126,11 +126,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class=""></td>
       <td class="highlightMH"></td>
       <td class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
-      <td><img src="../images/monsters/2-1.png"/> Chintala</td>
-      <td><img src="../images/monsters/28-1.png"/> Froggo</td>
-      <td><img src="../images/monsters/8-1.png"/> Armordillo</td>
-      <td><img src="../images/monsters/25-1.png"/> Scorpion</td>
+      <td><img src="../images/monsters_s/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters_s/2-1.png"/> Chintala</td>
+      <td><img src="../images/monsters_s/28-1.png"/> Froggo</td>
+      <td><img src="../images/monsters_s/8-1.png"/> Armordillo</td>
+      <td><img src="../images/monsters_s/25-1.png"/> Scorpion</td>
       <td class=""></td>
     </tr>
     <tr>
@@ -141,11 +141,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightShop"></td>
       <td class=""></td>
       <td class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
-      <td><img src="../images/monsters/2-1.png"/> Chintala</td>
-      <td><img src="../images/monsters/28-1.png"/> Froggo</td>
-      <td><img src="../images/monsters/8-1.png"/> Armordillo</td>
-      <td><img src="../images/monsters/25-1.png"/> Scorpion</td>
+      <td><img src="../images/monsters_s/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters_s/2-1.png"/> Chintala</td>
+      <td><img src="../images/monsters_s/28-1.png"/> Froggo</td>
+      <td><img src="../images/monsters_s/8-1.png"/> Armordillo</td>
+      <td><img src="../images/monsters_s/25-1.png"/> Scorpion</td>
       <td class=""></td>
     </tr>
     <tr>
@@ -156,11 +156,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightShop"></td>
       <td class=""></td>
       <td class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
-      <td><img src="../images/monsters/28-1.png"/> Froggo</td>
-      <td><img src="../images/monsters/25-1.png"/> Scorpion</td>
-      <td><img src="../images/monsters/40-2.png"/> Hoppin' Hitter</td>
-      <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
+      <td><img src="../images/monsters_s/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters_s/28-1.png"/> Froggo</td>
+      <td><img src="../images/monsters_s/25-1.png"/> Scorpion</td>
+      <td><img src="../images/monsters_s/40-2.png"/> Hoppin' Hitter</td>
+      <td><img src="../images/monsters_s/2-2.png"/> Mid Chintala</td>
       <td class=""></td>
     </tr>
     <tr>
@@ -171,11 +171,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightShop"></td>
       <td class="highlightMH"></td>
       <td class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
-      <td><img src="../images/monsters/28-1.png"/> Froggo</td>
-      <td><img src="../images/monsters/25-1.png"/> Scorpion</td>
-      <td><img src="../images/monsters/40-2.png"/> Hoppin' Hitter</td>
-      <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
+      <td><img src="../images/monsters_s/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters_s/28-1.png"/> Froggo</td>
+      <td><img src="../images/monsters_s/25-1.png"/> Scorpion</td>
+      <td><img src="../images/monsters_s/40-2.png"/> Hoppin' Hitter</td>
+      <td><img src="../images/monsters_s/2-2.png"/> Mid Chintala</td>
       <td class=""></td>
     </tr>
     <tr>
@@ -186,11 +186,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class=""></td>
       <td class="highlightMH"></td>
       <td class=""></td>
-      <td><img src="../images/monsters/1-3.png"/> Cave Mamel</td>
-      <td><img src="../images/monsters/28-1.png"/> Froggo</td>
-      <td><img src="../images/monsters/25-1.png"/> Scorpion</td>
-      <td><img src="../images/monsters/40-2.png"/> Hoppin' Hitter</td>
-      <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
+      <td><img src="../images/monsters_s/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters_s/28-1.png"/> Froggo</td>
+      <td><img src="../images/monsters_s/25-1.png"/> Scorpion</td>
+      <td><img src="../images/monsters_s/40-2.png"/> Hoppin' Hitter</td>
+      <td><img src="../images/monsters_s/2-2.png"/> Mid Chintala</td>
       <td class=""></td>
     </tr>
   </tbody>

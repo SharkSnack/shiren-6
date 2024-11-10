@@ -65,7 +65,7 @@ metaDescription: "Ghost Ship dungeon guide for Shiren the Wanderer: The Mystery 
     <td></td>
   </tr>
   <tr>
-    <th>Wind of Kron</th>
+    <th>Wind (1st Gust)</th>
     <td></td>
     <th>Reward</th>
     <td>None</td>
@@ -111,8 +111,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
-      <td><img src="../images/monsters/37-1.png"/> Karakuroid</td>
-      <td><img src="../images/monsters/5-2.png"/> Hell Reaper</td>
+      <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
+      <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
       <td class="highlightGray"></td>
       <td class="highlightBehemoth"></td>
     </tr>
@@ -124,8 +124,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
-      <td><img src="../images/monsters/37-1.png"/> Karakuroid</td>
-      <td><img src="../images/monsters/5-2.png"/> Hell Reaper</td>
+      <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
+      <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
       <td class="highlightGray"></td>
       <td class="highlightBehemoth"></td>
     </tr>
@@ -137,8 +137,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
-      <td><img src="../images/monsters/37-1.png"/> Karakuroid</td>
-      <td><img src="../images/monsters/5-2.png"/> Hell Reaper</td>
+      <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
+      <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
       <td class="highlightGray"></td>
       <td class="highlightBehemoth"></td>
     </tr>
@@ -150,8 +150,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
-      <td><img src="../images/monsters/37-1.png"/> Karakuroid</td>
-      <td><img src="../images/monsters/5-2.png"/> Hell Reaper</td>
+      <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
+      <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
       <td class="highlightGray"></td>
       <td class="highlightBehemoth"></td>
     </tr>
@@ -163,9 +163,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
-      <td><img src="../images/monsters/37-1.png"/> Karakuroid</td>
-      <td><img src="../images/monsters/5-2.png"/> Hell Reaper</td>
-      <td><img src="../images/monsters/15-1.png"/> Bowboy</td>
+      <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
+      <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
+      <td><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
       <td class="highlightBehemoth"></td>
     </tr>
     <tr>
@@ -176,9 +176,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
-      <td><img src="../images/monsters/37-1.png"/> Karakuroid</td>
-      <td><img src="../images/monsters/5-2.png"/> Hell Reaper</td>
-      <td><img src="../images/monsters/15-1.png"/> Bowboy</td>
+      <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
+      <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
+      <td><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
       <td class="highlightBehemoth"></td>
     </tr>
     <tr>
@@ -189,9 +189,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class=""></td>
       <td class="highlightMH"></td>
       <td class=""></td>
-      <td><img src="../images/monsters/37-1.png"/> Karakuroid</td>
-      <td><img src="../images/monsters/5-2.png"/> Hell Reaper</td>
-      <td><img src="../images/monsters/15-1.png"/> Bowboy</td>
+      <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
+      <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
+      <td><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
       <td class="highlightBehemoth"></td>
     </tr>
   </tbody>

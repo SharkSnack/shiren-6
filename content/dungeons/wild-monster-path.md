@@ -5,7 +5,7 @@ metaDescription: "Wild Monster Path dungeon guide for Shiren the Wanderer: The M
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-  <img src="../images/areas/other/drokotay.jpg"/><img src="../images/areas/other/no_image.jpg"/>
+  <img src="../images/areas/other/drokotay.jpg"/><img src="../images/areas/other/monster_path.jpg"/>
 </div>
 
 # Overview
@@ -30,43 +30,43 @@ metaDescription: "Wild Monster Path dungeon guide for Shiren the Wanderer: The M
     <th>Bring Items</th>
     <td>No</td>
     <th>Companions</th>
-    <td></td>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Rescues</th>
-    <td></td>
+    <td>3</td>
     <th>Starting Level</th>
     <td>1</td>
   </tr>
   <tr>
     <th>Starting Item</th>
-    <td colspan="3"></td>
+    <td colspan="3">Large Onigiri</td>
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3"></td>
+    <td colspan="3">Bracelets, Pots, Incense</td>
   </tr>
   <tr>
     <th>Shops</th>
-    <td></td>
+    <td>Yes</td>
     <th>Monster Houses</th>
     <td>Yes</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
-    <td></td>
+    <td>Yes</td>
     <th>Fever Time</th>
-    <td></td>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
     <td></td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>15 Turns (Early Game)<br/>10 Turns (Late Game)</td>
   </tr>
   <tr>
-    <th>Wind of Kron</th>
-    <td></td>
+    <th>Wind (1st Gust)</th>
+    <td>1200 Turns</td>
     <th>Reward</th>
     <td></td>
   </tr>
@@ -90,7 +90,7 @@ metaDescription: "Wild Monster Path dungeon guide for Shiren the Wanderer: The M
 
 See [Monsters](/system/monsters) for individual monster details.
 
-- F - <span class="highlightFog">Dark hallways</span>
+- F - <span class="highlightFog">Dark hallways</span>, <span class="redText">Monster House (Guaranteed)</span>
 - S - <span class="highlightShop">Shop is possible</span>
 - H - <span class="highlightMH">Monster House is possible</span>
 - G - <span class="highlightGold">Golden Egg Thing is possible</span>
@@ -119,7 +119,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Pit Mamel</td>
       <td>Spearfish</td>
       <td>Octopling</td>
-      <td></td>
+      <td class="highlightGray"></td>
       <td rowspan="1" class=""></td>
     </tr>
     <tr>
@@ -170,9 +170,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Pumphantasm</td>
       <td>Taur</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -201,7 +201,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Pumphantasm</td>
       <td>Taur</td>
       <td>Scorpion</td>
-      <td></td>
+      <td class="highlightGray"></td>
       <td rowspan="1" class=""></td>
     </tr>
     <tr>
@@ -231,14 +231,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Masked Samurai</td>
       <td>Hoppin' Hitter</td>
       <td>Fresh Octopling</td>
-      <td></td>
+      <td class="highlightGray"></td>
       <td rowspan="1" class=""></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="1" class="centeredText">9</td>
+      <td rowspan="1" class="centeredText redText">9</td>
       <td rowspan="1" class=""></td>
       <td rowspan="1" class="highlightMH"></td>
       <td rowspan="1" class=""></td>
@@ -246,7 +246,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Hoppin' Hitter</td>
       <td>Fresh Octopling</td>
       <td>Hell Reaper</td>
-      <td></td>
+      <td class="highlightGray"></td>
       <td rowspan="1" class=""></td>
     </tr>
     <tr>
@@ -268,8 +268,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Crossbowboy</td>
       <td>Lt. Spearfish</td>
       <td>Mixer</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -291,7 +291,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Lt. Spearfish</td>
       <td>Floor Dragon</td>
       <td>Mixer</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -313,13 +313,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Floor Dragon</td>
       <td>Schubell</td>
       <td>Mixer</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">13</td>
+      <td rowspan="2" class="centeredText highlightFog">13</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -334,14 +334,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Master Hen</td>
       <td>Schubell</td>
       <td>Mixer</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">14</td>
+      <td rowspan="2" class="centeredText highlightFog">14</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -355,15 +355,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Hat Prankster</td>
       <td>Mixer</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">15</td>
+      <td rowspan="2" class="centeredText highlightFog">15</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -377,15 +377,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixer</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">16</td>
+      <td rowspan="2" class="centeredText highlightFog">16</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -401,7 +401,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Ghost Radish</td>
       <td>Mixer</td>
       <td>Chow</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -422,15 +422,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Ghost Radish</td>
       <td>Mixer</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="2" class="centeredText">18</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td>Master Hen</td>
@@ -444,14 +444,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Ghost Radish</td>
       <td>Mixer</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">19</td>
+      <td rowspan="2" class="centeredText redText">19</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
@@ -489,15 +489,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Froggucchi</td>
       <td>Mixer</td>
       <td>Chow</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">21</td>
+      <td rowspan="3" class="centeredText highlightFog">21</td>
       <td rowspan="3" class=""></td>
-      <td rowspan="3" class=""></td>
+      <td rowspan="3" class="highlightMH"></td>
       <td rowspan="3" class=""></td>
       <td>Thiefwalrus</td>
       <td>Zapdon</td>
@@ -515,16 +515,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">22</td>
+      <td rowspan="3" class="centeredText highlightFog">22</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -545,15 +545,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixer</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">23</td>
+      <td rowspan="2" class="centeredText highlightFog">23</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -569,13 +569,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Froggucchi</td>
       <td>Mixer</td>
       <td>Chow</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">24</td>
+      <td rowspan="2" class="centeredText highlightFog">24</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -590,8 +590,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Famed Octopling</td>
       <td>Mixer</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -611,9 +611,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixer</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -635,7 +635,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Daze Radish</td>
       <td>Mixer</td>
       <td>Chow</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -657,7 +657,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Daze Radish</td>
       <td>Mixer</td>
       <td>Chow</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -678,14 +678,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Dragon</td>
       <td>Mixer</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">29</td>
+      <td rowspan="2" class="centeredText redText">29</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
@@ -700,14 +700,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Dragon</td>
       <td>Mixer</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">30</td>
+      <td rowspan="2" class="centeredText highlightFog">30</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -720,16 +720,16 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">31</td>
+      <td rowspan="2" class="centeredText highlightFog">31</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -743,15 +743,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Polygon Shaka</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">32</td>
+      <td rowspan="2" class="centeredText highlightFog">32</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -765,15 +765,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Cursister</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">33</td>
+      <td rowspan="2" class="centeredText highlightFog">33</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -787,9 +787,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Cursister</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -809,9 +809,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Cursister</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -830,10 +830,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -869,7 +869,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="1" class="centeredText">38</td>
+      <td rowspan="1" class="centeredText highlightFog">38</td>
       <td rowspan="1" class=""></td>
       <td rowspan="1" class=""></td>
       <td rowspan="1" class=""></td>
@@ -884,7 +884,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="1" class="centeredText">39</td>
+      <td rowspan="1" class="centeredText highlightFog redText">39</td>
       <td rowspan="1" class=""></td>
       <td rowspan="1" class="highlightMH"></td>
       <td rowspan="1" class=""></td>
@@ -899,7 +899,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">40</td>
+      <td rowspan="2" class="centeredText highlightFog">40</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -913,15 +913,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixermon</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">41</td>
+      <td rowspan="2" class="centeredText highlightFog">41</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -935,15 +935,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixermon</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">42</td>
+      <td rowspan="2" class="centeredText highlightFog">42</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -957,15 +957,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixermon</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">43</td>
+      <td rowspan="2" class="centeredText highlightFog">43</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -979,15 +979,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixermon</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">44</td>
+      <td rowspan="2" class="centeredText highlightFog">44</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1002,14 +1002,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Froggon</td>
       <td>Mixermon</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">45</td>
+      <td rowspan="2" class="centeredText highlightFog">45</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1023,9 +1023,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixermon</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1045,9 +1045,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixermon</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1069,7 +1069,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Mudder</td>
       <td>Mixermon</td>
       <td>Chow</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1091,13 +1091,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Mudder</td>
       <td>Mixermon</td>
       <td>Chow</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">49</td>
+      <td rowspan="2" class="centeredText redText">49</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
@@ -1113,7 +1113,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Mudder</td>
       <td>Mixermon</td>
       <td>Chow</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1135,7 +1135,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Mudder</td>
       <td>Mixermon</td>
       <td>Chow</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1150,7 +1150,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">51</td>
+      <td rowspan="2" class="centeredText highlightFog">51</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1166,13 +1166,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Mixergon</td>
       <td>Flying Egg</td>
       <td>Chow</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">52</td>
+      <td rowspan="2" class="centeredText highlightFog">52</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1188,13 +1188,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Mixergon</td>
       <td>Flying Egg</td>
       <td>Chow</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">53</td>
+      <td rowspan="2" class="centeredText highlightFog">53</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1210,13 +1210,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Mixergon</td>
       <td>Flying Egg</td>
       <td>Chow</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">54</td>
+      <td rowspan="2" class="centeredText highlightFog">54</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1232,13 +1232,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Mixergon</td>
       <td>Flying Egg</td>
       <td>Chow</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">55</td>
+      <td rowspan="3" class="centeredText highlightFog">55</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -1259,15 +1259,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Flying Egg</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">56</td>
+      <td rowspan="3" class="centeredText highlightFog">56</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -1288,15 +1288,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Flying Egg</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText">57</td>
+      <td rowspan="3" class="centeredText highlightFog">57</td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
@@ -1317,15 +1317,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Flying Egg</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">58</td>
+      <td rowspan="2" class="centeredText highlightFog">58</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1347,7 +1347,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">59</td>
+      <td rowspan="2" class="centeredText highlightFog redText">59</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
@@ -1363,13 +1363,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Fleefrog</td>
       <td>Mixergon</td>
       <td>Chow</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">60</td>
+      <td rowspan="2" class="centeredText highlightFog">60</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1384,14 +1384,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Concusschin</td>
       <td>Mixergon</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">61</td>
+      <td rowspan="2" class="centeredText highlightFog">61</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1405,15 +1405,15 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixergon</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">62</td>
+      <td rowspan="2" class="centeredText highlightFog">62</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1427,9 +1427,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixergon</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1449,9 +1449,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixergon</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1471,9 +1471,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixergon</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1493,9 +1493,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixergon</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1515,9 +1515,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixergon</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1537,9 +1537,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td>Mixergon</td>
       <td>Chow</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1567,7 +1567,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">69</td>
+      <td rowspan="2" class="centeredText redText">69</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
@@ -1699,7 +1699,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">75</td>
+      <td rowspan="2" class="centeredText highlightFog">75</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1721,7 +1721,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">76</td>
+      <td rowspan="2" class="centeredText highlightFog">76</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1743,7 +1743,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">77</td>
+      <td rowspan="2" class="centeredText highlightFog">77</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1765,7 +1765,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">78</td>
+      <td rowspan="2" class="centeredText highlightFog">78</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1781,13 +1781,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Boomdon</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">79</td>
+      <td rowspan="2" class="centeredText highlightFog redText">79</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
@@ -1803,13 +1803,35 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Boomdon</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">80</td>
+      <td rowspan="2" class="centeredText highlightFog">80</td>
+      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightMH"></td>
+      <td rowspan="2" class=""></td>
+      <td>Miracle Hen</td>
+      <td>Megahead</td>
+      <td>Fulminachin</td>
+      <td>Infernous</td>
+      <td>Captain Ant</td>
+      <td rowspan="2" class=""></td>
+    </tr>
+    <tr>
+      <td>King Reaper</td>
+      <td>Boomdon</td>
+      <td>Crow Tengu</td>
+      <td>Dark Owl</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText highlightFog">81</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1825,13 +1847,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Boomdon</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">81</td>
+      <td rowspan="2" class="centeredText highlightFog">82</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -1847,29 +1869,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Boomdon</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td colspan="10" class="tableDivider"></td>
-    </tr>
-    <tr>
-      <td rowspan="2" class="centeredText">82</td>
-      <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
-      <td>Miracle Hen</td>
-      <td>Megahead</td>
-      <td>Fulminachin</td>
-      <td>Infernous</td>
-      <td>Captain Ant</td>
-      <td rowspan="2" class=""></td>
-    </tr>
-    <tr>
-      <td>King Reaper</td>
-      <td>Boomdon</td>
-      <td>Crow Tengu</td>
-      <td>Dark Owl</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1891,7 +1891,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Boomdon</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1913,7 +1913,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Boomdon</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1935,7 +1935,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Boomdon</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1957,7 +1957,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Boomdon</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -1979,7 +1979,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Boomdon</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2001,13 +2001,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Boomdon</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">89</td>
+      <td rowspan="2" class="centeredText redText">89</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
@@ -2022,8 +2022,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Nigiri Honcho</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2044,14 +2044,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Nigiri Honcho</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">91</td>
+      <td rowspan="2" class="centeredText highlightFog">91</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -2066,14 +2066,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Nigiri Honcho</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">92</td>
+      <td rowspan="2" class="centeredText highlightFog">92</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -2088,14 +2088,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Nigiri Honcho</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">93</td>
+      <td rowspan="2" class="centeredText highlightFog">93</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -2110,14 +2110,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Nigiri Honcho</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">94</td>
+      <td rowspan="2" class="centeredText highlightFog">94</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -2132,8 +2132,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Nigiri Honcho</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2141,7 +2141,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td rowspan="2" class="centeredText">95</td>
       <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
       <td>Grampadillo</td>
       <td>Electroid</td>
@@ -2154,8 +2154,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Nigiri Honcho</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2176,8 +2176,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Nigiri Honcho</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2198,8 +2198,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Nigiri Honcho</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
@@ -2220,14 +2220,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Nigiri Honcho</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">99</td>
+      <td rowspan="2" class="centeredText redText">99</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
@@ -2242,8 +2242,83 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td>Nigiri Honcho</td>
       <td>Crow Tengu</td>
       <td>Dark Owl</td>
-      <td></td>
-      <td></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+  </tbody>
+</table>
+
+#### Behemoth Details
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="5">Behemoth Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="1" class="centeredText">7-21</td>
+      <td>Pumphantasm</td>
+      <td>Firepuff</td>
+      <td>Explochin</td>
+      <td>Shagga</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="6" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">28-49</td>
+      <td>Bowboy</td>
+      <td>Daze Radish</td>
+      <td>Porko</td>
+      <td>Pumpanshee</td>
+      <td>Hoppin' Hitter</td>
+    </tr>
+    <tr>
+      <td>Death Reaper</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="6" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">56-70</td>
+      <td>Adamant Tank</td>
+      <td>Hoppin' Slugger</td>
+      <td>Pumplich</td>
+      <td>Baby Tank</td>
+      <td>Archdragon</td>
+    </tr>
+    <tr>
+      <td>Great Hen</td>
+      <td>Porkon</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="6" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">77-98</td>
+      <td>Steadfast Tank</td>
+      <td>Ultra Gazer</td>
+      <td>Mini Tank</td>
+      <td>Porgon</td>
+      <td>Miracle Hen</td>
+    </tr>
+    <tr>
+      <td>Abyss Dragon</td>
+      <td>Gitan Mamel</td>
+      <td>Pumplord</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
   </tbody>
 </table>
@@ -2336,7 +2411,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Manji Kabura</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2752,7 +2827,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Yamanba's Cleaver</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2852,7 +2927,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Fuuma Shield</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3099,7 +3174,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Ferrous Kite</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3215,7 +3290,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Break-Off Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3765,7 +3840,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Iron Arrow</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3929,7 +4004,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Special Onigiri</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5032,7 +5107,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Burrowing Staff</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5096,8 +5171,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sluggish Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5140,7 +5215,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>

@@ -5,7 +5,7 @@ metaDescription: "Training Path of Deadly Strikes dungeon guide for Shiren the W
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-  <img src="../images/areas/other/drokotay.jpg"/><img src="../images/areas/other/no_image.jpg"/>
+  <img src="../images/areas/other/drokotay.jpg"/><img src="../images/areas/other/deadly_strikes.jpg"/>
 </div>
 
 # Overview
@@ -34,7 +34,7 @@ metaDescription: "Training Path of Deadly Strikes dungeon guide for Shiren the W
   </tr>
   <tr>
     <th>Rescues</th>
-    <td></td>
+    <td>3</td>
     <th>Starting Level</th>
     <td>1</td>
   </tr>
@@ -65,7 +65,7 @@ metaDescription: "Training Path of Deadly Strikes dungeon guide for Shiren the W
     <td></td>
   </tr>
   <tr>
-    <th>Wind of Kron</th>
+    <th>Wind (1st Gust)</th>
     <td></td>
     <th>Reward</th>
     <td></td>

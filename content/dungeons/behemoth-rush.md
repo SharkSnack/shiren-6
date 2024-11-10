@@ -65,8 +65,8 @@ metaDescription: "Behemoth Rush dungeon guide for Shiren the Wanderer: The Myste
     <td>-</td>
   </tr>
   <tr>
-    <th>Wind of Kron</th>
-    <td>900</td>
+    <th>Wind (1st Gust)</th>
+    <td>900 Turns</td>
     <th>Reward</th>
     <td>Auspicious Kumade (Gold)</td>
   </tr>
@@ -201,8 +201,8 @@ Monster Colors = <span class="special">Breakable Walls, Monster Pot, Monster Scr
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
-      <td class="special"><img src="../images/monsters/14-4.png"/> Bashagga</td>
-      <td class="special"><img src="../images/monsters/11-4.png"/> Gigataur</td>
+      <td class="special"><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td class="special"><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
       <td class="highlightBehemoth"></td>
     </tr>
     <tr>
@@ -241,16 +241,16 @@ Monster Colors = <span class="special">Breakable Walls, Monster Pot, Monster Scr
   <tbody>
     <tr>
       <td rowspan="2" class="centeredText">1-10</td>
-      <td><img src="../images/monsters/1-1.png"/> Mamel</td>
-      <td><img src="../images/monsters/2-1.png"/> Chintala</td>
-      <td><img src="../images/monsters/4-1.png"/> Spearfish</td>
-      <td><img src="../images/monsters/6-1.png"/> Pumphantasm</td>
-      <td><img src="../images/monsters/7-1.png"/> Firepuff</td>
+      <td><img src="../images/monsters_s/1-1.png"/> Mamel</td>
+      <td><img src="../images/monsters_s/2-1.png"/> Chintala</td>
+      <td><img src="../images/monsters_s/4-1.png"/> Spearfish</td>
+      <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
+      <td><img src="../images/monsters_s/7-1.png"/> Firepuff</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/8-1.png"/> Armordillo</td>
-      <td><img src="../images/monsters/11-1.png"/> Taur</td>
-      <td><img src="../images/monsters/14-1.png"/> Shagga</td>
+      <td><img src="../images/monsters_s/8-1.png"/> Armordillo</td>
+      <td><img src="../images/monsters_s/11-1.png"/> Taur</td>
+      <td><img src="../images/monsters_s/14-1.png"/> Shagga</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -259,31 +259,31 @@ Monster Colors = <span class="special">Breakable Walls, Monster Pot, Monster Scr
     </tr>
     <tr>
       <td rowspan="4" class="centeredText">11-20</td>
-      <td><img src="../images/monsters/15-2.png"/> Crossbowboy</td>
-      <td><img src="../images/monsters/16-1.png"/> Pop Tank</td>
-      <td><img src="../images/monsters/17-1.png"/> Bored Kappa</td>
-      <td><img src="../images/monsters/18-1.png"/> Porky</td>
-      <td><img src="../images/monsters/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters_s/15-2.png"/> Crossbowboy</td>
+      <td><img src="../images/monsters_s/16-1.png"/> Pop Tank</td>
+      <td><img src="../images/monsters_s/17-1.png"/> Bored Kappa</td>
+      <td><img src="../images/monsters_s/18-1.png"/> Porky</td>
+      <td><img src="../images/monsters_s/19-1.png"/> Dragon</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/20-1.png"/> Ghost Radish</td>
-      <td><img src="../images/monsters/21-1.png"/> Skull Mage</td>
-      <td><img src="../images/monsters/22-1.png"/> Gazer</td>
-      <td><img src="../images/monsters/23-1.png"/> Twisty Hani</td>
-      <td><img src="../images/monsters/25-1.png"/> Scorpion</td>
+      <td><img src="../images/monsters_s/20-1.png"/> Ghost Radish</td>
+      <td><img src="../images/monsters_s/21-1.png"/> Skull Mage</td>
+      <td><img src="../images/monsters_s/22-1.png"/> Gazer</td>
+      <td><img src="../images/monsters_s/23-1.png"/> Twisty Hani</td>
+      <td><img src="../images/monsters_s/25-1.png"/> Scorpion</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/26-1.png"/> Field Knave</td>
-      <td><img src="../images/monsters/27-1.png"/> Nigiri Baby</td>
-      <td><img src="../images/monsters/30-1.png"/> Hat Urchin</td>
-      <td><img src="../images/monsters/31-1.png"/> Curse Girl</td>
-      <td><img src="../images/monsters/33-1.png"/> Swordsman</td>
+      <td><img src="../images/monsters_s/26-1.png"/> Field Knave</td>
+      <td><img src="../images/monsters_s/27-1.png"/> Nigiri Baby</td>
+      <td><img src="../images/monsters_s/30-1.png"/> Hat Urchin</td>
+      <td><img src="../images/monsters_s/31-1.png"/> Curse Girl</td>
+      <td><img src="../images/monsters_s/33-1.png"/> Swordsman</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/39-1.png"/> Explochin</td>
-      <td><img src="../images/monsters/40-1.png"/> Hoppin' Batter</td>
-      <td><img src="../images/monsters/42-1.png"/> Zapdon</td>
-      <td><img src="../images/monsters/43-1.png"/> Schubell</td>
+      <td><img src="../images/monsters_s/39-1.png"/> Explochin</td>
+      <td><img src="../images/monsters_s/40-1.png"/> Hoppin' Batter</td>
+      <td><img src="../images/monsters_s/42-1.png"/> Zapdon</td>
+      <td><img src="../images/monsters_s/43-1.png"/> Schubell</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -291,15 +291,15 @@ Monster Colors = <span class="special">Breakable Walls, Monster Pot, Monster Scr
     </tr>
     <tr>
       <td rowspan="2" class="centeredText">21-30</td>
-      <td><img src="../images/monsters/1-2.png"/> Pit Mamel</td>
-      <td><img src="../images/monsters/2-2.png"/> Mid Chintala</td>
-      <td><img src="../images/monsters/4-2.png"/> Lt. Spearfish</td>
-      <td><img src="../images/monsters/6-2.png"/> Pumpanshee</td>
-      <td><img src="../images/monsters/7-2.png"/> Flamepuff</td>
+      <td><img src="../images/monsters_s/1-2.png"/> Pit Mamel</td>
+      <td><img src="../images/monsters_s/2-2.png"/> Mid Chintala</td>
+      <td><img src="../images/monsters_s/4-2.png"/> Lt. Spearfish</td>
+      <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters_s/7-2.png"/> Flamepuff</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/8-2.png"/> Brodillo</td>
-      <td><img src="../images/monsters/11-2.png"/> Minotaur</td>
+      <td><img src="../images/monsters_s/8-2.png"/> Brodillo</td>
+      <td><img src="../images/monsters_s/11-2.png"/> Minotaur</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>

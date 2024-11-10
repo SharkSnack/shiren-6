@@ -65,7 +65,7 @@ metaDescription: "Golden Highway dungeon guide for Shiren the Wanderer: The Myst
     <td></td>
   </tr>
   <tr>
-    <th>Wind of Kron</th>
+    <th>Wind (1st Gust)</th>
     <td>Varies</td>
     <th>Reward</th>
     <td>None</td>
@@ -76,8 +76,8 @@ metaDescription: "Golden Highway dungeon guide for Shiren the Wanderer: The Myst
 
 |Floor|Wind|Floor|Wind|Floor|Wind|
 |-|-|-|-|-|-|
-|1F|600|3F||5F|400|
-|2F||4F||6F|300|
+|1F|600 Turns|3F||5F|400 Turns|
+|2F||4F||6F|300 Turns|
 
 Hidden route that unlocks when you finish the Kawasaku Side Quest.<br/>The floor numbers are displayed as 1-6F, but the dungeon corresponds to 27-28F of Serpentcoil Island.<br/>Blue stairs which let you return to regular Serpentcoil Island floors early can be found starting on ?F.<br/>Once unlocked, this dungeon can be entered anytime.
 
@@ -122,24 +122,24 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
-      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
-      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
-      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
-      <td><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+      <td><img src="../images/monsters_s/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters_s/44-2.png"/> N'dulu</td>
+      <td><img src="../images/monsters_s/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters_s/55-3.png"/> Metal Ninja B</td>
+      <td><img src="../images/monsters_s/53-3.png"/> Water Ninja B</td>
       <td rowspan="3" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/4-3.png"/> Capt. Spearfish</td>
-      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
-      <td><img src="../images/monsters/29-2.png"/> Greenwalrus</td>
-      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
-      <td><img src="../images/monsters/26-2.png"/> Pot Knave</td>
+      <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
+      <td><img src="../images/monsters_s/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters_s/29-2.png"/> Greenwalrus</td>
+      <td><img src="../images/monsters_s/34-2.png"/> Dartingfrog</td>
+      <td><img src="../images/monsters_s/26-2.png"/> Pot Knave</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/26-3.png"/> Bag Knave</td>
-      <td><img src="../images/monsters/45-1.png"/> Mixer</td>
-      <td><img src="../images/monsters/33-1.png"/> Swordsman</td>
+      <td><img src="../images/monsters_s/26-3.png"/> Bag Knave</td>
+      <td><img src="../images/monsters_s/45-1.png"/> Mixer</td>
+      <td><img src="../images/monsters_s/33-1.png"/> Swordsman</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -151,24 +151,24 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
-      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
-      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
-      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
-      <td><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+      <td><img src="../images/monsters_s/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters_s/44-2.png"/> N'dulu</td>
+      <td><img src="../images/monsters_s/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters_s/55-3.png"/> Metal Ninja B</td>
+      <td><img src="../images/monsters_s/53-3.png"/> Water Ninja B</td>
       <td rowspan="3" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/4-3.png"/> Capt. Spearfish</td>
-      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
-      <td><img src="../images/monsters/29-2.png"/> Greenwalrus</td>
-      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
-      <td><img src="../images/monsters/26-2.png"/> Pot Knave</td>
+      <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
+      <td><img src="../images/monsters_s/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters_s/29-2.png"/> Greenwalrus</td>
+      <td><img src="../images/monsters_s/34-2.png"/> Dartingfrog</td>
+      <td><img src="../images/monsters_s/26-2.png"/> Pot Knave</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/26-3.png"/> Bag Knave</td>
-      <td><img src="../images/monsters/45-1.png"/> Mixer</td>
-      <td><img src="../images/monsters/33-1.png"/> Swordsman</td>
+      <td><img src="../images/monsters_s/26-3.png"/> Bag Knave</td>
+      <td><img src="../images/monsters_s/45-1.png"/> Mixer</td>
+      <td><img src="../images/monsters_s/33-1.png"/> Swordsman</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -180,24 +180,24 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
-      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
-      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
-      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
-      <td><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+      <td><img src="../images/monsters_s/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters_s/44-2.png"/> N'dulu</td>
+      <td><img src="../images/monsters_s/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters_s/55-3.png"/> Metal Ninja B</td>
+      <td><img src="../images/monsters_s/53-3.png"/> Water Ninja B</td>
       <td rowspan="3" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/4-3.png"/> Capt. Spearfish</td>
-      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
-      <td><img src="../images/monsters/29-2.png"/> Greenwalrus</td>
-      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
-      <td><img src="../images/monsters/26-2.png"/> Pot Knave</td>
+      <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
+      <td><img src="../images/monsters_s/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters_s/29-2.png"/> Greenwalrus</td>
+      <td><img src="../images/monsters_s/34-2.png"/> Dartingfrog</td>
+      <td><img src="../images/monsters_s/26-2.png"/> Pot Knave</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/26-3.png"/> Bag Knave</td>
-      <td><img src="../images/monsters/45-1.png"/> Mixer</td>
-      <td><img src="../images/monsters/33-1.png"/> Swordsman</td>
+      <td><img src="../images/monsters_s/26-3.png"/> Bag Knave</td>
+      <td><img src="../images/monsters_s/45-1.png"/> Mixer</td>
+      <td><img src="../images/monsters_s/33-1.png"/> Swordsman</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -209,24 +209,24 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
-      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
-      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
-      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
-      <td><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+      <td><img src="../images/monsters_s/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters_s/44-2.png"/> N'dulu</td>
+      <td><img src="../images/monsters_s/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters_s/55-3.png"/> Metal Ninja B</td>
+      <td><img src="../images/monsters_s/53-3.png"/> Water Ninja B</td>
       <td rowspan="3" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/4-3.png"/> Capt. Spearfish</td>
-      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
-      <td><img src="../images/monsters/29-2.png"/> Greenwalrus</td>
-      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
-      <td><img src="../images/monsters/26-2.png"/> Pot Knave</td>
+      <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
+      <td><img src="../images/monsters_s/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters_s/29-2.png"/> Greenwalrus</td>
+      <td><img src="../images/monsters_s/34-2.png"/> Dartingfrog</td>
+      <td><img src="../images/monsters_s/26-2.png"/> Pot Knave</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/26-3.png"/> Bag Knave</td>
-      <td><img src="../images/monsters/45-1.png"/> Mixer</td>
-      <td><img src="../images/monsters/33-1.png"/> Swordsman</td>
+      <td><img src="../images/monsters_s/26-3.png"/> Bag Knave</td>
+      <td><img src="../images/monsters_s/45-1.png"/> Mixer</td>
+      <td><img src="../images/monsters_s/33-1.png"/> Swordsman</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -238,24 +238,24 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
-      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
-      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
-      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
-      <td><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+      <td><img src="../images/monsters_s/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters_s/44-2.png"/> N'dulu</td>
+      <td><img src="../images/monsters_s/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters_s/55-3.png"/> Metal Ninja B</td>
+      <td><img src="../images/monsters_s/53-3.png"/> Water Ninja B</td>
       <td rowspan="3" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/4-3.png"/> Capt. Spearfish</td>
-      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
-      <td><img src="../images/monsters/29-2.png"/> Greenwalrus</td>
-      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
-      <td><img src="../images/monsters/26-2.png"/> Pot Knave</td>
+      <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
+      <td><img src="../images/monsters_s/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters_s/29-2.png"/> Greenwalrus</td>
+      <td><img src="../images/monsters_s/34-2.png"/> Dartingfrog</td>
+      <td><img src="../images/monsters_s/26-2.png"/> Pot Knave</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/26-3.png"/> Bag Knave</td>
-      <td><img src="../images/monsters/45-1.png"/> Mixer</td>
-      <td><img src="../images/monsters/33-1.png"/> Swordsman</td>
+      <td><img src="../images/monsters_s/26-3.png"/> Bag Knave</td>
+      <td><img src="../images/monsters_s/45-1.png"/> Mixer</td>
+      <td><img src="../images/monsters_s/33-1.png"/> Swordsman</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -267,24 +267,24 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
-      <td><img src="../images/monsters/1-4.png"/> Gitan Mamel</td>
-      <td><img src="../images/monsters/44-2.png"/> N'dulu</td>
-      <td><img src="../images/monsters/17-2.png"/> Pesky Kappa</td>
-      <td><img src="../images/monsters/55-3.png"/> Metal Ninja B</td>
-      <td><img src="../images/monsters/53-3.png"/> Water Ninja B</td>
+      <td><img src="../images/monsters_s/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters_s/44-2.png"/> N'dulu</td>
+      <td><img src="../images/monsters_s/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters_s/55-3.png"/> Metal Ninja B</td>
+      <td><img src="../images/monsters_s/53-3.png"/> Water Ninja B</td>
       <td rowspan="3" class=""></td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/4-3.png"/> Capt. Spearfish</td>
-      <td><img src="../images/monsters/3-3.png"/> Famed Octopling</td>
-      <td><img src="../images/monsters/29-2.png"/> Greenwalrus</td>
-      <td><img src="../images/monsters/34-2.png"/> Dartingfrog</td>
-      <td><img src="../images/monsters/26-2.png"/> Pot Knave</td>
+      <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
+      <td><img src="../images/monsters_s/3-3.png"/> Famed Octopling</td>
+      <td><img src="../images/monsters_s/29-2.png"/> Greenwalrus</td>
+      <td><img src="../images/monsters_s/34-2.png"/> Dartingfrog</td>
+      <td><img src="../images/monsters_s/26-2.png"/> Pot Knave</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters/26-3.png"/> Bag Knave</td>
-      <td><img src="../images/monsters/45-1.png"/> Mixer</td>
-      <td><img src="../images/monsters/33-1.png"/> Swordsman</td>
+      <td><img src="../images/monsters_s/26-3.png"/> Bag Knave</td>
+      <td><img src="../images/monsters_s/45-1.png"/> Mixer</td>
+      <td><img src="../images/monsters_s/33-1.png"/> Swordsman</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
