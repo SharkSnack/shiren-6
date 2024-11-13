@@ -13,7 +13,7 @@ metaDescription: "Peachy Trap Domain dungeon guide for Shiren the Wanderer: The 
 <table class="dungeonOverview">
   <tr>
     <th>Unlock</th>
-    <td class="highlightYellow">Talk to Drokotay the Adventurer (Shukuba Beach).<br/>　<span class="orangeText">※ DLC and Update 2.0.1 required.</span></td>
+    <td class="highlightYellow">1. Unlock both Trapper's Secret Path and Peach Dungeon.<br/>2. Talk to Drokotay the Adventurer (Shukuba Beach).<br/>　<span class="orangeText">※ DLC and Update 2.0.1 required.</span></td>
   </tr>
   <tr>
     <th>Entrance</th>

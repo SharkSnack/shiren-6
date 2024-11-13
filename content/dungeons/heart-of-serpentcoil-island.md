@@ -62,7 +62,7 @@ metaDescription: "Heart of Serpentcoil Island dungeon guide for Shiren the Wande
     <th>Initial Enemies</th>
     <td>5~18</td>
     <th>Spawn Rate</th>
-    <td>30 Turns (Early game)<br/>25 Turns (Late game)</td>
+    <td>40 Turns (1F - 2F)<br/>30 Turns (3F - 50F)<br/>25 Turns (51F - 99F)</td>
   </tr>
   <tr>
     <th>Wind (1st Gust)</th>
@@ -2128,7 +2128,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class="centeredText">2</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightGold"></td>
       <td><img src="../images/monsters_s/1-1.png"/> Mamel</td>
       <td><img src="../images/monsters_s/1-2.png"/> Pit Mamel</td>
       <td><img src="../images/monsters_s/3-1.png"/> Octopling</td>
@@ -2148,9 +2148,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText">3</td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightGold"></td>
       <td><img src="../images/monsters_s/1-2.png"/> Pit Mamel</td>
       <td><img src="../images/monsters_s/2-1.png"/> Chintala</td>
       <td class="danger"><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
@@ -2170,7 +2170,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText">4</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters_s/2-1.png"/> Chintala</td>
@@ -4742,7 +4742,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="3" class="centeredText">98</td>
-      <td rowspan="3" class=""></td>
+      <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class=""></td>
       <td rowspan="3" class=""></td>
       <td class="danger"><img src="../images/monsters_s/19-3.png"/> Archdragon</td>

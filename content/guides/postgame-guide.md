@@ -12,7 +12,7 @@ metaDescription: "Postgame guide for Shiren the Wanderer: The Mystery Dungeon of
 
 Congratulations on clearing the main story! You're now finished with the tutorial.<br/>That's right - The main story was just the introduction to Shiren 6, and there's lots more to do!
 
-There are 17 other dungeons besides Serpentcoil Island (not counting hidden routes) with various rules.<br/>In addition, there's a notebook to complete, 59 achievements to aim for, and a secret title screen to unlock.
+There are up to 33 other dungeons besides Serpentcoil Island (excluding hidden routes) with various rules.<br/>In addition, there's a notebook to complete, up to 78 achievements to aim for, and a secret title screen.<br/><span class="orangeText">※ This page was last edited on November 12th, 2024 (Game version 2.1.1).</span>
 
 # Dungeons
 
@@ -32,6 +32,9 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td colspan="6" class="centeredText tableDivider">Base Game</td>
+    </tr>
     <tr>
       <td class="centeredText highlightYellow"><a href="../dungeons/serpentcoil-island">Serpentcoil Island</a></td>
       <td class="centeredText">31F</td>
@@ -208,6 +211,140 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
       <td class="centeredText">3</td>
       <td>Title screen changes.</td>
     </tr>
+    <tr>
+      <td colspan="6" class="centeredText tableDivider">Free Update</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/go-go-dungeon">Go Go Dungeon</a></td>
+      <td class="centeredText">5F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">No</td>
+      <td class="centeredText">0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/wanderers-highway">Wanderers' Highway</a></td>
+      <td class="centeredText">99F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">No</td>
+      <td class="centeredText">3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/quietude-of-serpentcoil-island">Quietude of Serpentcoil Island</a></td>
+      <td class="centeredText">99F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">No</td>
+      <td class="centeredText">3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/training-path-of-hiding">Training Path of Hiding</a></td>
+      <td class="centeredText">20F / 99F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">No</td>
+      <td class="centeredText">3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/cliff-of-condensing">Cliff of Condensing</a></td>
+      <td class="centeredText">25F / 50F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">No</td>
+      <td class="centeredText">3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/wild-monster-path">Wild Monster Path</a></td>
+      <td class="centeredText">50F / 99F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">No</td>
+      <td class="centeredText">3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td colspan="6" class="centeredText tableDivider">Paid DLC</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/forest-of-frugality">Forest of Frugality</a></td>
+      <td class="centeredText">30F / 99F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">No</td>
+      <td class="centeredText">3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/researchers-experimental-site">Researcher's Experimental Site</a></td>
+      <td class="centeredText">99F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">No</td>
+      <td class="centeredText">3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/winding-valley">Winding Valley</a></td>
+      <td class="centeredText">99F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">No</td>
+      <td class="centeredText">3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/clash-of-weapons-and-shields">Clash of Weapons and Shields</a></td>
+      <td class="centeredText">50F / 99F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/peachy-trap-domain">Peachy Trap Domain</a></td>
+      <td class="centeredText">50F / 99F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">No</td>
+      <td class="centeredText">3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/training-path-of-deadly-strikes">Training Path of Deadly Strikes</a></td>
+      <td class="centeredText">30F / 99F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">No</td>
+      <td class="centeredText">3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/battleground-of-the-rivals">Battleground of the Rivals</a></td>
+      <td class="centeredText">24F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">No</td>
+      <td class="centeredText">0</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/timeworn-cave">Timeworn Cave</a></td>
+      <td class="centeredText">99F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">No</td>
+      <td class="centeredText">3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/floral-garden">Floral Garden</a></td>
+      <td class="centeredText">25F / 99F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">No</td>
+      <td class="centeredText">3</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightYellow"><a href="../dungeons/soul-of-serpentcoil-island">Soul of Serpentcoil Island</a></td>
+      <td class="centeredText">99F</td>
+      <td class="centeredText">Yes</td>
+      <td class="centeredText">No</td>
+      <td class="centeredText">3</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
@@ -224,6 +361,9 @@ If a particular dungeon doesn't seem to be unlocking, visit more locations that 
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td colspan="3" class="centeredText tableDivider">Base Game</td>
+    </tr>
     <tr>
       <td class="centeredText highlightPurple">Serpentcoil Island</td>
       <td class="centeredText">Shukuba Beach</td>
@@ -334,12 +474,98 @@ If a particular dungeon doesn't seem to be unlocking, visit more locations that 
       <td class="centeredText">Shukuba Beach</td>
       <td>Clear Heart of Serpentcoil Island.</td>
     </tr>
+    <tr>
+      <td colspan="3" class="centeredText tableDivider">Free Update</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Go Go Dungeon</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Wanderers' Highway</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Quietude of Serpentcoil Island</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>1. Clear Heart of Serpentcoil Island.<br/>2. Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Training Path of Hiding</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Cliff of Condensing</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Wild Monster Path</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
+    <tr>
+      <td colspan="3" class="centeredText tableDivider">Paid DLC</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Forest of Frugality</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Researcher's Experimental Site</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Winding Valley</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Clash of Weapons and Shields</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Peachy Trap Domain</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>1. Unlock Trapper's Secret Path and Peach Dungeon.<br/>2. Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Training Path of Deadly Strikes</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Battleground of the Rivals</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>1. Clear the following dungeons:<br/>・Serpentcoil Island<br/>・Dune of Batsu<br/>・Cavern or Suiryu<br/>・Yamakagashi Pass.<br/>2. Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Timeworn Cave</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Floral Garden</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightPurple">Soul of Serpentcoil Island</td>
+      <td class="centeredText">Shukuba Beach</td>
+      <td>1. Clear Heart of Serpentcoil Island.<br/>2. Talk to Drokotay the Adventurer (Shukuba Beach).</td>
+    </tr>
   </tbody>
 </table>
 
 ### Dungeon Difficulty Ranking
 
-Keep in mind that this difficulty ranking is an opinion piece, and isn't absolute.
+Keep in mind that this difficulty ranking is an opinion piece, and isn't absolute.<br/><span class="orangeText">※ This section needs to be updated.</span>
 
 #### No Carry-In Items
 
@@ -671,6 +897,8 @@ Feel free to swap runes out depending on your preferences.
 
 # 100% Notebook
 
+<p><span class="orangeText">※ This section needs to be updated.</span></p>
+
 #### Rare Entries
 
 Some of the rarer entries needed for notebook completion are noted below:
@@ -744,6 +972,8 @@ Fluffy Bunny (80-89F) in Heart of Serpentcoil Island is currently thought to be 
 
 # Clear Icons
 
+<p><span class="orangeText">※ This section needs to be updated.</span></p>
+
 <div class="iconTable relativeImage">
 
 |Icon|In-Game Description|
@@ -782,6 +1012,8 @@ Fluffy Bunny (80-89F) in Heart of Serpentcoil Island is currently thought to be 
 </div>
 
 # Achievements
+
+<p><span class="orangeText">※ This section needs to be updated.</span></p>
 
 |No|Achievement|In-Game Description|
 |-|-|-|
