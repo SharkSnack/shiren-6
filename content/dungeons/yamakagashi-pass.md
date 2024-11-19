@@ -29,8 +29,14 @@ metaDescription: "Yamakagashi Pass dungeon guide for Shiren the Wanderer: The My
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Stairs</th>
+    <td>Ascending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
-    <td>Yes (Version 1.1.0)</td>
+    <td>Yes (Ver 1.1.0+)</td>
+    <th>Roamers</th>
+    <td>Yes (Ver 1.1.0+)</td>
   </tr>
   <tr>
     <th>Rescues</th>
@@ -40,7 +46,7 @@ metaDescription: "Yamakagashi Pass dungeon guide for Shiren the Wanderer: The My
   </tr>
   <tr>
     <th>Starting Item</th>
-    <td colspan="3">None</td>
+    <td colspan="3">Large Onigiri</td>
   </tr>
   <tr>
     <th>Unidentified</th>
@@ -50,19 +56,25 @@ metaDescription: "Yamakagashi Pass dungeon guide for Shiren the Wanderer: The My
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
-    <td>Regular, Sudden, Special</td>
+    <td>Yes (Regular, Sudden, Special)</td>
+  </tr>
+  <tr>
+    <th>Behemoths</th>
+    <td>Yes</td>
+    <th>Wishing Shrines</th>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
-    <td></td>
+    <td>Yes</td>
     <th>Fever Time</th>
-    <td></td>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
-    <td></td>
+    <td>4~6</td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>30 Turns</td>
   </tr>
   <tr>
     <th>Wind (1st Gust)</th>
@@ -316,7 +328,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="centeredText highlightFog">1</td>
       <td class=""></td>
       <td class=""></td>
-      <td class=""></td>
+      <td class="highlightGold"></td>
       <td class="items"><img src="../images/monsters_s/27-1.png"/> Nigiri Baby</td>
       <td><img src="../images/monsters_s/1-1.png"/> Mamel</td>
       <td><img src="../images/monsters_s/1-2.png"/> Pit Mamel</td>
@@ -809,6 +821,25 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
+    </tr>
+  </tbody>
+</table>
+
+# Behemoths
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="5">Behemoth Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="1" class="centeredText">17-19</td>
+      <td><img src="../images/monsters_s/1-2.png"/> Pit Mamel</td>
+      <td><img src="../images/monsters_s/2-2.png"/> Mid Chintala</td>
+      <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
     </tr>
   </tbody>
 </table>
@@ -1834,7 +1865,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Bellyexpand Bracelet</td>
@@ -2016,7 +2047,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Daredevil Bracelet</td>
@@ -2094,11 +2125,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Item-find Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>

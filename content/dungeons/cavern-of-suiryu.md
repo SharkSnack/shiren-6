@@ -29,7 +29,13 @@ metaDescription: "Cavern of Suiryu dungeon guide for Shiren the Wanderer: The My
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Stairs</th>
+    <td>Descending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td>No</td>
+    <th>Roamers</th>
     <td>No</td>
   </tr>
   <tr>
@@ -50,7 +56,13 @@ metaDescription: "Cavern of Suiryu dungeon guide for Shiren the Wanderer: The My
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
-    <td>Regular, Sudden</td>
+    <td>Yes (Regular, Sudden, Special)</td>
+  </tr>
+  <tr>
+    <th>Behemoths</th>
+    <td>No</td>
+    <th>Wishing Shrines</th>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
@@ -214,7 +226,6 @@ See [Monsters](/system/monsters) for individual monster details.
 - S - <span class="highlightShop">Shop is possible</span>
 - H - <span class="highlightMH">Monster House is possible</span>
 - G - <span class="highlightGold">Golden Egg Thing is possible</span>
-- B - <span class="highlightBehemoth">Behemoth Monsters are possible</span>
 
 Monster Colors = <span class="farming">Farming</span>, <span class="useful">Useful</span>, <span class="stats">Lowers Stats</span>, <span class="items">Targets Items</span>, <span class="danger">Dangerous</span>
 
@@ -226,7 +237,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <th>H</th>
       <th>G</th>
       <th colspan="5">Monsters</th>
-      <th>B</th>
     </tr>
   </thead>
   <tbody>
@@ -240,10 +250,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/14-1.png"/> Shagga</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
-      <td class=""></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td class="centeredText highlightFog">2</td>
@@ -255,10 +264,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/4-1.png"/> Spearfish</td>
       <td><img src="../images/monsters_s/14-1.png"/> Shagga</td>
       <td class="highlightGray"></td>
-      <td class=""></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td class="centeredText highlightFog">3</td>
@@ -270,10 +278,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/4-1.png"/> Spearfish</td>
       <td><img src="../images/monsters_s/14-1.png"/> Shagga</td>
       <td class="highlightGray"></td>
-      <td class=""></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">4</td>
@@ -285,7 +292,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/4-1.png"/> Spearfish</td>
       <td class="items"><img src="../images/monsters_s/22-1.png"/> Gazer</td>
       <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
-      <td rowspan="2" class=""></td>
     </tr>
     <tr>
       <td><img src="../images/monsters_s/14-1.png"/> Shagga</td>
@@ -295,7 +301,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">5</td>
@@ -307,7 +313,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/34-1.png"/> Pullfrog</td>
       <td><img src="../images/monsters_s/4-1.png"/> Spearfish</td>
       <td class="items"><img src="../images/monsters_s/22-1.png"/> Gazer</td>
-      <td rowspan="2" class=""></td>
     </tr>
     <tr>
       <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
@@ -317,7 +322,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">6</td>
@@ -329,7 +334,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="farming"><img src="../images/monsters_s/28-1.png"/> Froggo</td>
       <td class="items"><img src="../images/monsters_s/32-1.png"/> Mudkin</td>
       <td class="items"><img src="../images/monsters_s/22-1.png"/> Gazer</td>
-      <td rowspan="2" class=""></td>
     </tr>
     <tr>
       <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
@@ -339,7 +343,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">7</td>
@@ -351,7 +355,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="farming"><img src="../images/monsters_s/28-1.png"/> Froggo</td>
       <td class="items"><img src="../images/monsters_s/32-1.png"/> Mudkin</td>
       <td class="items"><img src="../images/monsters_s/22-1.png"/> Gazer</td>
-      <td rowspan="2" class=""></td>
     </tr>
     <tr>
       <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
@@ -361,7 +364,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">8</td>
@@ -373,7 +376,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="farming"><img src="../images/monsters_s/28-1.png"/> Froggo</td>
       <td class="items"><img src="../images/monsters_s/32-1.png"/> Mudkin</td>
       <td class="items"><img src="../images/monsters_s/22-1.png"/> Gazer</td>
-      <td rowspan="2" class=""></td>
     </tr>
     <tr>
       <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
@@ -383,7 +385,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">9</td>
@@ -395,7 +397,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/3-2.png"/> Fresh Octopling</td>
       <td><img src="../images/monsters_s/4-2.png"/> Lt. Spearfish</td>
       <td class="farming"><img src="../images/monsters_s/28-1.png"/> Froggo</td>
-      <td rowspan="2" class=""></td>
     </tr>
     <tr>
       <td class="farming"><img src="../images/monsters_s/29-1.png"/> Thiefwalrus</td>
@@ -405,7 +406,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="farming"><img src="../images/monsters_s/48-1.png"/> Chow</td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">10</td>
@@ -417,7 +418,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/3-2.png"/> Fresh Octopling</td>
       <td><img src="../images/monsters_s/4-2.png"/> Lt. Spearfish</td>
       <td class="farming"><img src="../images/monsters_s/28-1.png"/> Froggo</td>
-      <td rowspan="2" class=""></td>
     </tr>
     <tr>
       <td class="farming"><img src="../images/monsters_s/29-1.png"/> Thiefwalrus</td>
@@ -427,7 +427,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="farming"><img src="../images/monsters_s/48-1.png"/> Chow</td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">11</td>
@@ -439,7 +439,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/3-2.png"/> Fresh Octopling</td>
       <td><img src="../images/monsters_s/4-2.png"/> Lt. Spearfish</td>
       <td class="farming"><img src="../images/monsters_s/29-1.png"/> Thiefwalrus</td>
-      <td rowspan="2" class=""></td>
     </tr>
     <tr>
       <td class="items"><img src="../images/monsters_s/32-1.png"/> Mudkin</td>
@@ -449,7 +448,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">12</td>
@@ -461,7 +460,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="farming"><img src="../images/monsters_s/29-1.png"/> Thiefwalrus</td>
       <td class="items"><img src="../images/monsters_s/32-1.png"/> Mudkin</td>
       <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
-      <td rowspan="2" class=""></td>
     </tr>
     <tr>
       <td><img src="../images/monsters_s/14-2.png"/> Nashagga</td>
@@ -471,7 +469,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">13</td>
@@ -483,7 +481,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="items"><img src="../images/monsters_s/32-1.png"/> Mudkin</td>
       <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
       <td><img src="../images/monsters_s/14-2.png"/> Nashagga</td>
-      <td rowspan="2" class=""></td>
     </tr>
     <tr>
       <td><img src="../images/monsters_s/39-1.png"/> Explochin</td>
@@ -493,7 +490,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">14</td>
@@ -505,7 +502,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="items"><img src="../images/monsters_s/32-1.png"/> Mudkin</td>
       <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
       <td><img src="../images/monsters_s/14-2.png"/> Nashagga</td>
-      <td rowspan="2" class=""></td>
     </tr>
     <tr>
       <td><img src="../images/monsters_s/39-1.png"/> Explochin</td>
@@ -515,7 +511,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">15</td>
@@ -527,7 +523,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="items"><img src="../images/monsters_s/32-1.png"/> Mudkin</td>
       <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
       <td><img src="../images/monsters_s/14-2.png"/> Nashagga</td>
-      <td rowspan="2" class=""></td>
     </tr>
     <tr>
       <td><img src="../images/monsters_s/39-1.png"/> Explochin</td>
@@ -537,7 +532,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="3" class="centeredText highlightFog">16</td>
@@ -549,7 +544,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
       <td class="farming"><img src="../images/monsters_s/28-2.png"/> Froggucchi</td>
       <td class="farming"><img src="../images/monsters_s/29-1.png"/> Thiefwalrus</td>
-      <td rowspan="3" class=""></td>
     </tr>
     <tr>
       <td class="items"><img src="../images/monsters_s/32-1.png"/> Mudkin</td>
@@ -566,7 +560,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="3" class="centeredText highlightFog">17</td>
@@ -578,7 +572,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
       <td class="farming"><img src="../images/monsters_s/28-2.png"/> Froggucchi</td>
       <td class="farming"><img src="../images/monsters_s/29-1.png"/> Thiefwalrus</td>
-      <td rowspan="3" class=""></td>
     </tr>
     <tr>
       <td class="items"><img src="../images/monsters_s/32-1.png"/> Mudkin</td>
@@ -595,7 +588,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="3" class="centeredText highlightFog">18</td>
@@ -607,7 +600,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/34-2.png"/> Dartingfrog</td>
       <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
       <td class="farming"><img src="../images/monsters_s/28-2.png"/> Froggucchi</td>
-      <td rowspan="3" class=""></td>
     </tr>
     <tr>
       <td class="farming"><img src="../images/monsters_s/29-1.png"/> Thiefwalrus</td>
@@ -624,7 +616,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="3" class="centeredText highlightFog">19</td>
@@ -636,7 +628,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/34-2.png"/> Dartingfrog</td>
       <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
       <td class="farming"><img src="../images/monsters_s/28-2.png"/> Froggucchi</td>
-      <td rowspan="3" class=""></td>
     </tr>
     <tr>
       <td class="farming"><img src="../images/monsters_s/29-1.png"/> Thiefwalrus</td>
@@ -653,7 +644,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="2" class="highlightOrange2 centeredText">20</td>
@@ -665,7 +656,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/17-1.png"/> Bored Kappa</td>
       <td class="items"><img src="../images/monsters_s/17-2.png"/> Pesky Kappa</td>
       <td><img src="../images/monsters_s/34-2.png"/> Dartingfrog</td>
-      <td rowspan="2" class=""></td>
     </tr>
     <tr>
       <td><img src="../images/monsters_s/4-1.png"/> Spearfish</td>

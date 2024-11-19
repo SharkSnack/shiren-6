@@ -29,7 +29,13 @@ metaDescription: "Training Path of Inference dungeon guide for Shiren the Wander
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Stairs</th>
+    <td>Descending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td>No</td>
+    <th>Roamers</th>
     <td>No</td>
   </tr>
   <tr>
@@ -48,9 +54,15 @@ metaDescription: "Training Path of Inference dungeon guide for Shiren the Wander
   </tr>
   <tr>
     <th>Shops</th>
-    <td>No</td>
+    <td></td>
     <th>Monster Houses</th>
-    <td>Regular</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Behemoths</th>
+    <td>No</td>
+    <th>Wishing Shrines</th>
+    <td>No</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
@@ -60,13 +72,13 @@ metaDescription: "Training Path of Inference dungeon guide for Shiren the Wander
   </tr>
   <tr>
     <th>Initial Enemies</th>
-    <td></td>
+    <td>5</td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>30 Turns</td>
   </tr>
   <tr>
     <th>Wind (1st Gust)</th>
-    <td></td>
+    <td>900 Turns</td>
     <th>Reward</th>
     <td>Gutsy Shield</td>
   </tr>

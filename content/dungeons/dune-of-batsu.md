@@ -29,7 +29,13 @@ metaDescription: "Dune of Batsu dungeon guide for Shiren the Wanderer: The Myste
   <tr>
     <th>Bring Items</th>
     <td>Yes</td>
+    <th>Stairs</th>
+    <td>Descending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td>Yes</td>
+    <th>Roamers</th>
     <td>Yes</td>
   </tr>
   <tr>
@@ -50,7 +56,13 @@ metaDescription: "Dune of Batsu dungeon guide for Shiren the Wanderer: The Myste
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
-    <td>Regular, Sudden, Special</td>
+    <td>Yes (Regular, Sudden, Special)</td>
+  </tr>
+  <tr>
+    <th>Behemoths</th>
+    <td>Yes</td>
+    <th>Wishing Shrines</th>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
@@ -60,9 +72,9 @@ metaDescription: "Dune of Batsu dungeon guide for Shiren the Wanderer: The Myste
   </tr>
   <tr>
     <th>Initial Enemies</th>
-    <td></td>
+    <td>4~7</td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>30 Turns</td>
   </tr>
   <tr>
     <th>Wind (1st Gust)</th>
@@ -239,7 +251,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td class="centeredText highlightFog">4</td>
-      <td class=""></td>
+      <td class="highlightShop"></td>
       <td class=""></td>
       <td class=""></td>
       <td><img src="../images/monsters_s/2-2.png"/> Mid Chintala</td>
@@ -873,6 +885,26 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tbody>
 </table>
 
+# Behemoths
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="5">Behemoth Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="1" class="centeredText">7-10<br/>21-23<br/>27-29</td>
+      <td><img src="../images/monsters_s/14-2.png"/> Nashagga</td>
+      <td><img src="../images/monsters_s/31-1.png"/> Curse Girl</td>
+      <td><img src="../images/monsters_s/30-1.png"/> Hat Urchin</td>
+      <td><img src="../images/monsters_s/7-1.png"/> Firepuff</td>
+    </tr>
+  </tbody>
+</table>
+
 # Items
 
 - F = Floor
@@ -1363,7 +1395,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Bonito Block</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>

@@ -29,8 +29,14 @@ metaDescription: "Ghost Ship dungeon guide for Shiren the Wanderer: The Mystery 
   <tr>
     <th>Bring Items</th>
     <td>Yes</td>
+    <th>Stairs</th>
+    <td></td>
+  </tr>
+  <tr>
     <th>Companions</th>
-    <td>Yes</td>
+    <td></td>
+    <th>Roamers</th>
+    <td></td>
   </tr>
   <tr>
     <th>Rescues</th>
@@ -53,6 +59,12 @@ metaDescription: "Ghost Ship dungeon guide for Shiren the Wanderer: The Mystery 
     <td>Yes</td>
   </tr>
   <tr>
+    <th>Behemoths</th>
+    <td>No</td>
+    <th>Wishing Shrines</th>
+    <td>No</td>
+  </tr>
+  <tr>
     <th>Kron's Challenge</th>
     <td>No</td>
     <th>Fever Time</th>
@@ -60,13 +72,13 @@ metaDescription: "Ghost Ship dungeon guide for Shiren the Wanderer: The Mystery 
   </tr>
   <tr>
     <th>Initial Enemies</th>
-    <td></td>
+    <td>4~6</td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>30 Turns</td>
   </tr>
   <tr>
     <th>Wind (1st Gust)</th>
-    <td></td>
+    <td>1200 Turns</td>
     <th>Reward</th>
     <td>None</td>
   </tr>
@@ -161,7 +173,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td class="centeredText">5</td>
       <td class=""></td>
-      <td class=""></td>
+      <td class="highlightMH"></td>
       <td class=""></td>
       <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
       <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
@@ -193,6 +205,25 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
       <td><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
       <td class="highlightBehemoth"></td>
+    </tr>
+  </tbody>
+</table>
+
+# Behemoths
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="3">Behemoth Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="1" class="centeredText">1-7</td>
+      <td><img src="../images/monsters_s/2-1.png"/> Chintala</td>
+      <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
+      <td><img src="../images/monsters_s/14-1.png"/> Shagga</td>
     </tr>
   </tbody>
 </table>

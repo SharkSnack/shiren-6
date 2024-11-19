@@ -49,13 +49,13 @@ Sacred Tree dungeons offer an option to play as characters other than Shiren.
         - Other effects include runes (ex: Costly Block) and status conditions (ex: Fortified, Damage-down).
         - See [Gameplay Basics](/system/gameplay-basics#damage-received) for details about Shiren's damage received formula.
 
-#### Special Attacks / Altered Effects
+#### Abilities / Altered Effects
 
 - None.
 
 #### Techniques
 
-- All standard techniques that don't require other player character special attacks can be performed.
+- All standard techniques that don't require other player character abilities can be performed.
 
 ### Kokatsu Shiren
 
@@ -63,7 +63,7 @@ Sacred Tree dungeons offer an option to play as characters other than Shiren.
   <img src="../images/other/char_kokatsu_shiren.jpg"/>
 </div>
 
-<p><span class="highlightOrange2">Description:</span> Shiren fused with Kokatsu.<br/><span class="highlightPurple">Unlock Condition:</span> Clear <a href="/dungeons/cavern-of-suiryu">Cavern of Suiryu</a> → Visit Sacred Tree.</p>
+<p><span class="highlightOrange2">Description:</span> Shiren fused with Kokatsu.<br/><span class="highlightPurple">Unlock Condition:</span> Clear <a href="/shiren-6/dungeons/cavern-of-suiryu">Cavern of Suiryu</a> → Visit Sacred Tree.</p>
 
 #### Restrictions
 
@@ -74,16 +74,16 @@ Sacred Tree dungeons offer an option to play as characters other than Shiren.
 
 - [Content]
 
-#### Special Attacks / Altered Effects
+#### Abilities / Altered Effects
 
-Special Attacks:
+Abilities:
 
 |Name|Fullness|Effect|
 |-|-|-|
 |Sand-handling|10|Creates a pillar of sand in front of you.<br/>If the tile in front is a wall, digs out the wall tile.|
 |Deception|20|Creates a decoy (60 HP).|
-|Blazing Heat|60|Deals 40\~50 damage to all monsters in the room.<br/>Also inflicts Blind status at the same time.|
-|Sun's Blessing|10|Transforms the selected item into a random<br/>Grass or Onigiri category item.|
+|Blazing Heat|60|Deals 40\~50 damage and inflicts Blind status to all monsters in the room.|
+|Sun's Blessing|10|Transforms the selected item into a random Grass or Onigiri category item.|
 
 Altered Effects:
 
@@ -114,9 +114,24 @@ Altered Effects:
 
 - [Content]
 
-#### Special Attacks / Altered Effects
+#### Abilities / Altered Effects
 
-- [Content]
+Abilities:
+
+|Name|Fullness|Effect|
+|-|-|-|
+|Vault|10|Vaulting Staff effect, but you won't warp when landing on a water tile.<br/>However, you'll still warp like usual if you land on an air tile.|
+|Raging Tornado|20|Warps every monster in the room to a different spot, including behemoths.<br/>Effective even in a single large room, unlike Sweet Potato.<br/>Range is reduced to a 1 tile radius in hallways.|
+|Summon Kappa Squad|40|Summons up to 3 Kappa Squad guardians (15 HP).<br/>Kappa Squad guardians throw items at targets within a 3 tile radius.<br/>Items: Wooden Arrow, Iron Arrow, Rock, Gitan, Dragon Grass, Leaping Grass.<br/>※ Items can miss, stops throwing items after about 5 items.|
+|Rain's Blessing|20|Transforms the selected item into a random Grass or Onigiri category item.<br/>More likely to result in a negative item than Kokatsu Shiren's Sun's Blessing.<br/>Unlike Sun's Blessing, Berserk Seed is possible.|
+
+Altered Effects:
+
+|Trap / Monster|Notes|
+|-|-|
+|Mudkin|Lowers Attack Power and Defense Power.|
+|Removal Trap|Lowers Attack Power and Defense Power.|
+|Silver-seal Trap|Inflicts Sealed status.|
 
 #### Techniques
 
@@ -139,9 +154,24 @@ Altered Effects:
 
 - [Content]
 
-#### Special Attacks / Altered Effects
+#### Abilities / Altered Effects
 
-- [Content]
+Abilities:
+
+|Name|Fullness|Effect|
+|-|-|-|
+|Burrow|10|Go underground and move up to 3 tiles ahead in 1 turn.<br/>Can be used to traverse past water or air tiles.<br/>Occasionally find Onigiri, Large Onigiri, or Rotten Onigiri.|
+|Frantic Fart|15|Makes all creatures in the room warp to a different location.|
+|Dig & Escape|15|Makes Koppa warp to a different room.<br/>Can be used even if Weighted Incense is active.<br/>Occasionally find Onigiri, Large Onigiri, or Rotten Onigiri.|
+|Flee|100|Immediately advance to the next floor, similar to Floor-exiting Trap.<br/>Can be used even on the last floor of a dungeon, including boss floors.<br/>This ability cannot be used during Thief Mode.|
+
+Altered Effects:
+
+|Trap / Monster|Notes|
+|-|-|
+|Mudkin|Lowers Attack Power and Defense Power.|
+|Removal Trap|Lowers Attack Power and Defense Power.|
+|Silver-seal Trap|Inflicts Sealed status.|
 
 #### Techniques
 
@@ -162,15 +192,38 @@ Altered Effects:
 
 #### Characteristics
 
-- [Content]
+- Normal Attack (No Runes) = Reaches 1 tile ahead, deals damage, 15% critical hit rate.
+    - Asuka's critical hits deal x3.0 damage, crit chance boosting runes are additive.
+        - Damage for guaranteed critical hit sources like Jagged Sword is possibly halved.
+    - Damage increases primarily based on level, strength, equipped weapon, and other effects.
+        - Other effects include runes (ex: Anti-Dragon) and status conditions (ex: Empowered, Damage-up).
+    - Asuka deals more damage with weapons than Shiren \~ Rough damage calculation:
+        - (WEP_ATK + STR_ATK + LV_ATK) - [ENEMY_DEF x 0.5] + 1 x RNG (87.5 ~ 112.5%)
+            - WEP_ATK = [AP x 0.9768866551] + [AP x Strength x 0.0406122449]
+                - AP = Weapon's attack power
+            - STR_ATK = Strength
+            - LV_ATK:
+                - Level &le; 4 = 0.5 + (Lv - 1) x 2
+                - 5 &le; Level &le; 13 = 6.5 + (Lv - 4) x 1
+                - 14 &le; Level = 15.5 + (Lv - 13) x 0.5
+- Defense = Asuka has no innate defense, and increasing level or strength does nothing for defense.
+    - Damage received decreases primarily based on equipped shield and other effects.
+        - Other effects include runes (ex: Costly Block) and status conditions (ex: Fortified, Damage-down).
+    - Asuka's damage reduction based on shield strength is weaker than Shiren's:
+        - Asuka:
+            - Shield defense &le; 40 = Reduce damage by <span class="redText">0.5</span> per point of defense less than or equal to <span class="redText">40</span>.
+            - Shield defense > 40 = Reduce damage by <span class="redText">0.3</span> per point of defense above <span class="redText">40</span>.
+        - Shiren:
+            - Shield defense &le; 20 = Reduce damage by <span class="blueText">1.0</span> per point of defense less than or equal to <span class="blueText">20</span>.
+            - Shield defense > 20 = Reduce damage by <span class="blueText">0.6</span> per point of defense above <span class="blueText">20</span>.
 
-#### Special Attacks / Altered Effects
+#### Abilities / Altered Effects
 
-- [Content]
+- None.
 
 #### Techniques
 
-- [Content]
+- All standard techniques that don't require other player character abilities can be performed.
 
 # Normal Trial
 

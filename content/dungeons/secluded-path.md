@@ -29,7 +29,13 @@ metaDescription: "Secluded Path dungeon guide for Shiren the Wanderer: The Myste
   <tr>
     <th>Bring Items</th>
     <td>Yes</td>
+    <th>Stairs</th>
+    <td></td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td>Yes</td>
+    <th>Roamers</th>
     <td>Yes</td>
   </tr>
   <tr>
@@ -50,7 +56,13 @@ metaDescription: "Secluded Path dungeon guide for Shiren the Wanderer: The Myste
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
-    <td>Sudden</td>
+    <td>Yes (Sudden)</td>
+  </tr>
+  <tr>
+    <th>Behemoths</th>
+    <td>No</td>
+    <th>Wishing Shrines</th>
+    <td>No</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
@@ -60,9 +72,9 @@ metaDescription: "Secluded Path dungeon guide for Shiren the Wanderer: The Myste
   </tr>
   <tr>
     <th>Initial Enemies</th>
-    <td>4~5</td>
+    <td>3~5</td>
     <th>Spawn Rate</th>
-    <td>30~35 Turns</td>
+    <td>35 Turns (1F - 2F)<br/>30 Turns (3F - 6F)</td>
   </tr>
   <tr>
     <th>Wind (1st Gust)</th>
@@ -90,7 +102,6 @@ See [Monsters](/system/monsters) for individual monster details.
 - S - <span class="highlightShop">Shop is possible</span>
 - H - <span class="highlightMH">Monster House is possible</span>
 - G - <span class="highlightGold">Golden Egg Thing is possible</span>
-- B - <span class="highlightBehemoth">Behemoth Monsters are possible</span>
 
 Monster Colors = <span class="farming">Farming</span>, <span class="useful">Useful</span>, <span class="stats">Lowers Stats</span>, <span class="items">Targets Items</span>, <span class="danger">Dangerous</span>
 
@@ -102,7 +113,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <th>H</th>
       <th>G</th>
       <th colspan="5">Monsters</th>
-      <th>B</th>
     </tr>
   </thead>
   <tbody>
@@ -116,10 +126,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/8-1.png"/> Armordillo</td>
       <td><img src="../images/monsters_s/25-1.png"/> Scorpion</td>
       <td class="highlightGray"></td>
-      <td class=""></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td class="centeredText">2</td>
@@ -131,10 +140,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/28-1.png"/> Froggo</td>
       <td><img src="../images/monsters_s/8-1.png"/> Armordillo</td>
       <td><img src="../images/monsters_s/25-1.png"/> Scorpion</td>
-      <td class=""></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td class="centeredText">3</td>
@@ -146,10 +154,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/28-1.png"/> Froggo</td>
       <td><img src="../images/monsters_s/8-1.png"/> Armordillo</td>
       <td><img src="../images/monsters_s/25-1.png"/> Scorpion</td>
-      <td class=""></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td class="centeredText">4</td>
@@ -161,10 +168,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/25-1.png"/> Scorpion</td>
       <td><img src="../images/monsters_s/40-2.png"/> Hoppin' Hitter</td>
       <td><img src="../images/monsters_s/2-2.png"/> Mid Chintala</td>
-      <td class=""></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td class="highlightFog centeredText">5</td>
@@ -176,10 +182,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/25-1.png"/> Scorpion</td>
       <td><img src="../images/monsters_s/40-2.png"/> Hoppin' Hitter</td>
       <td><img src="../images/monsters_s/2-2.png"/> Mid Chintala</td>
-      <td class=""></td>
     </tr>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <td colspan="9" class="tableDivider"></td>
     </tr>
     <tr>
       <td class="highlightFog centeredText">6</td>
@@ -191,7 +196,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/25-1.png"/> Scorpion</td>
       <td><img src="../images/monsters_s/40-2.png"/> Hoppin' Hitter</td>
       <td><img src="../images/monsters_s/2-2.png"/> Mid Chintala</td>
-      <td class=""></td>
     </tr>
   </tbody>
 </table>

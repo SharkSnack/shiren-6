@@ -579,6 +579,10 @@ Earthmound Staff can be used, but the pillar and ground tile get destroyed after
 
 #### Spawn Rate
 
+##### Tunnel of Wishes
+
+Yamakagashi Pass = 50 Turns
+
 # Facilities
 
 #### Warehouse

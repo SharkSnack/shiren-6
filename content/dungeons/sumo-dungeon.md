@@ -29,8 +29,14 @@ metaDescription: "Sumo Dungeon guide for Shiren the Wanderer: The Mystery Dungeo
   <tr>
     <th>Bring Items</th>
     <td>Yes</td>
+    <th>Stairs</th>
+    <td>Ascending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
-    <td></td>
+    <td>Yes</td>
+    <th>Roamers</th>
+    <td>No?</td>
   </tr>
   <tr>
     <th>Rescues</th>
@@ -50,17 +56,23 @@ metaDescription: "Sumo Dungeon guide for Shiren the Wanderer: The Mystery Dungeo
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
-    <td></td>
+    <td>Yes (Regular)</td>
+  </tr>
+  <tr>
+    <th>Behemoths</th>
+    <td>No (99F: Yes)</td>
+    <th>Wishing Shrines</th>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
-    <td></td>
+    <td>Yes</td>
     <th>Fever Time</th>
     <td>Yes</td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
-    <td></td>
+    <td>5~7 (1F - 20F)<br/>6~16 (21F - 99F)</td>
     <th>Spawn Rate</th>
     <td>30 Turns</td>
   </tr>
@@ -440,7 +452,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">15</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters_s/44-1.png"/> N'dubba</td>
@@ -484,7 +496,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">17</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters_s/52-2.png"/> Fire Ninja C</td>
@@ -594,7 +606,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">21</td>
+      <td rowspan="2" class="centeredText highlightFog">21</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -616,7 +628,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">22</td>
+      <td rowspan="2" class="centeredText highlightFog">22</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -638,7 +650,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">23</td>
+      <td rowspan="2" class="centeredText highlightFog">23</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -660,7 +672,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">24</td>
+      <td rowspan="2" class="centeredText highlightFog">24</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
@@ -682,7 +694,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">25</td>
+      <td class="centeredText highlightFog">25</td>
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
@@ -697,7 +709,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">26</td>
+      <td class="centeredText highlightFog">26</td>
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
@@ -712,7 +724,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">27</td>
+      <td class="centeredText highlightFog">27</td>
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
@@ -727,7 +739,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">28</td>
+      <td class="centeredText highlightFog">28</td>
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
@@ -742,7 +754,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">29</td>
+      <td class="centeredText highlightFog">29</td>
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>
@@ -757,10 +769,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td colspan="10" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">30</td>
+      <td class="centeredText highlightFog">30</td>
       <td class=""></td>
       <td class=""></td>
-      <td class=""></td>
+      <td class="highlightGold"></td>
       <td><img src="../images/monsters_s/15-3.png"/> Baby Tank</td>
       <td><img src="../images/monsters_s/25-2.png"/> Vile Scorpion</td>
       <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
@@ -818,7 +830,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td class="centeredText">34</td>
-      <td class=""></td>
+      <td class="highlightShop"></td>
       <td class=""></td>
       <td class=""></td>
       <td><img src="../images/monsters_s/15-3.png"/> Baby Tank</td>
@@ -849,7 +861,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td class="centeredText">36</td>
       <td class=""></td>
-      <td class=""></td>
+      <td class="highlightMH"></td>
       <td class=""></td>
       <td><img src="../images/monsters_s/15-3.png"/> Baby Tank</td>
       <td><img src="../images/monsters_s/25-2.png"/> Vile Scorpion</td>
@@ -895,7 +907,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="centeredText">39</td>
       <td class=""></td>
       <td class=""></td>
-      <td class=""></td>
+      <td class="highlightGold"></td>
       <td><img src="../images/monsters_s/15-3.png"/> Baby Tank</td>
       <td><img src="../images/monsters_s/25-2.png"/> Vile Scorpion</td>
       <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
@@ -923,9 +935,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td class="centeredText">41</td>
+      <td class="highlightShop"></td>
       <td class=""></td>
-      <td class=""></td>
-      <td class=""></td>
+      <td class="highlightGold"></td>
       <td><img src="../images/monsters_s/15-3.png"/> Baby Tank</td>
       <td><img src="../images/monsters_s/25-2.png"/> Vile Scorpion</td>
       <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
@@ -999,7 +1011,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td class="centeredText">46</td>
       <td class=""></td>
-      <td class=""></td>
+      <td class="highlightMH"></td>
       <td class=""></td>
       <td><img src="../images/monsters_s/15-3.png"/> Baby Tank</td>
       <td><img src="../images/monsters_s/25-2.png"/> Vile Scorpion</td>
@@ -1014,7 +1026,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td class="centeredText">47</td>
       <td class=""></td>
-      <td class=""></td>
+      <td class="highlightMH"></td>
       <td class=""></td>
       <td><img src="../images/monsters_s/15-3.png"/> Baby Tank</td>
       <td><img src="../images/monsters_s/25-2.png"/> Vile Scorpion</td>
@@ -1110,7 +1122,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td class="centeredText">53</td>
-      <td class=""></td>
+      <td class="highlightShop"></td>
       <td class=""></td>
       <td class=""></td>
       <td><img src="../images/monsters_s/16-2.png"/> Ornery Tank</td>
@@ -1238,7 +1250,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td rowspan="2" class="centeredText">61</td>
       <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters_s/16-2.png"/> Ornery Tank</td>
       <td><img src="../images/monsters_s/24-3.png"/> Polygon Singa</td>
@@ -1457,7 +1469,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText">71</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
@@ -1611,7 +1623,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText">78</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
@@ -1655,7 +1667,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText">80</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
@@ -1957,7 +1969,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td class="centeredText">95</td>
-      <td class=""></td>
+      <td class="highlightShop"></td>
       <td class=""></td>
       <td class=""></td>
       <td><img src="../images/monsters_s/16-4.png"/> Steadfast Tank</td>
@@ -1972,7 +1984,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td class="centeredText">96</td>
-      <td class=""></td>
+      <td class="highlightShop"></td>
       <td class=""></td>
       <td class=""></td>
       <td><img src="../images/monsters_s/16-4.png"/> Steadfast Tank</td>
@@ -2003,7 +2015,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td class="centeredText">98</td>
       <td class=""></td>
-      <td class=""></td>
+      <td class="highlightMH"></td>
       <td class=""></td>
       <td><img src="../images/monsters_s/16-4.png"/> Steadfast Tank</td>
       <td><img src="../images/monsters_s/24-3.png"/> Polygon Singa</td>
@@ -2030,23 +2042,120 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tbody>
 </table>
 
-#### Behemoth Monsters
+# Behemoths
 
-- 21\~25F - Dragon
-- 26\~30F - Sky Dragon
-- 31\~35F - Porky
-- 36\~40F - Ghost Radish
-- 41\~45F - Death Reaper
-- 46\~50F - Porko
-- 51\~55F - Daze Radish
-- 56\~60F - Sleep Radish
-- 61\~65F - Hell Reaper
-- 66\~70F - Porkon
-- 71\~75F - Frenzy Radish
-- 76\~80F - Archdragon
-- 81\~85F - Abyss Dragon
-- 86\~90F - Porgon
-- 91\~95F - Soul Reaper
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th>Behemoth Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="centeredText">21-25</td>
+      <td><img src="../images/monsters_s/19-1.png"/> Dragon</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">26-30</td>
+      <td><img src="../images/monsters_s/19-2.png"/> Sky Dragon</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">31-35</td>
+      <td><img src="../images/monsters_s/18-1.png"/> Porky</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">36-40</td>
+      <td><img src="../images/monsters_s/20-1.png"/> Ghost Radish</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">41-45</td>
+      <td><img src="../images/monsters_s/5-1.png"/> Death Reaper</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">46-50</td>
+      <td><img src="../images/monsters_s/18-2.png"/> Porko</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">51-55</td>
+      <td><img src="../images/monsters_s/20-2.png"/> Daze Radish</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">56-60</td>
+      <td><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">61-65</td>
+      <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">66-70</td>
+      <td><img src="../images/monsters_s/18-3.png"/> Porkon</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">71-75</td>
+      <td><img src="../images/monsters_s/20-4.png"/> Frenzy Radish</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">76-80</td>
+      <td><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">81-85</td>
+      <td><img src="../images/monsters_s/19-4.png"/> Abyss Dragon</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">86-90</td>
+      <td><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">91-95</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+    </tr>
+  </tbody>
+</table>
 
 # Items
 

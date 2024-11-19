@@ -29,7 +29,13 @@ metaDescription: "Training Path of Gimmicks dungeon guide for Shiren the Wandere
   <tr>
     <th>Bring Items</th>
     <td>Yes</td>
+    <th>Stairs</th>
+    <td>Descending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td>Yes</td>
+    <th>Roamers</th>
     <td>Yes</td>
   </tr>
   <tr>
@@ -50,7 +56,13 @@ metaDescription: "Training Path of Gimmicks dungeon guide for Shiren the Wandere
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
-    <td>Regular, Sudden</td>
+    <td>Yes (Regular, Sudden)</td>
+  </tr>
+  <tr>
+    <th>Behemoths</th>
+    <td>Yes</td>
+    <th>Wishing Shrines</th>
+    <td></td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
@@ -60,13 +72,13 @@ metaDescription: "Training Path of Gimmicks dungeon guide for Shiren the Wandere
   </tr>
   <tr>
     <th>Initial Enemies</th>
-    <td></td>
+    <td>6~9</td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>30 Turns</td>
   </tr>
   <tr>
     <th>Wind (1st Gust)</th>
-    <td></td>
+    <td>900 Turns</td>
     <th>Reward</th>
     <td>Auspicious Omamori</td>
   </tr>
@@ -877,7 +889,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td rowspan="3" class="centeredText">26</td>
       <td rowspan="3" class=""></td>
-      <td rowspan="3" class=""></td>
+      <td rowspan="3" class="highlightMH"></td>
       <td rowspan="3" class=""></td>
       <td><img src="../images/monsters_s/41-4.png"/> Infernous</td>
       <td><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
@@ -1065,7 +1077,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td rowspan="4" class="centeredText">32</td>
       <td rowspan="4" class=""></td>
-      <td rowspan="4" class=""></td>
+      <td rowspan="4" class="highlightMH"></td>
       <td rowspan="4" class=""></td>
       <td><img src="../images/monsters_s/41-4.png"/> Infernous</td>
       <td><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
@@ -1700,6 +1712,41 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/33-4.png"/> Swordmaster</td>
       <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
       <td><img src="../images/monsters_s/16-4.png"/> Steadfast Tank</td>
+    </tr>
+  </tbody>
+</table>
+
+# Behemoths
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="5">Behemoth Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3" class="centeredText">2-9<br/>11-19<br/>21-50</td>
+      <td><img src="../images/monsters_s/1-1.png"/> Mamel</td>
+      <td><img src="../images/monsters_s/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters_s/11-2.png"/> Minotaur</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/14-1.png"/> Shagga</td>
+      <td><img src="../images/monsters_s/14-2.png"/> Nashagga</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/16-1.png"/> Pop Tank</td>
+      <td><img src="../images/monsters_s/20-1.png"/> Ghost Radish</td>
+      <td><img src="../images/monsters_s/39-1.png"/> Explochin</td>
+      <td><img src="../images/monsters_s/43-1.png"/> Schubell</td>
+      <td class="highlightGray"></td>
     </tr>
   </tbody>
 </table>

@@ -29,7 +29,13 @@ metaDescription: "Soul of Serpentcoil Island dungeon guide for Shiren the Wander
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Stairs</th>
+    <td>Descending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td>No</td>
+    <th>Roamers</th>
     <td>No</td>
   </tr>
   <tr>
@@ -50,7 +56,13 @@ metaDescription: "Soul of Serpentcoil Island dungeon guide for Shiren the Wander
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
-    <td></td>
+    <td>Yes (Regular, Sudden, Special)</td>
+  </tr>
+  <tr>
+    <th>Behemoths</th>
+    <td>Yes</td>
+    <th>Wishing Shrines</th>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
@@ -2701,7 +2713,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tbody>
 </table>
 
-#### Behemoth Details
+# Behemoths
 
 <table class="monsterTable">
   <thead>

@@ -29,7 +29,13 @@ metaDescription: "Serpentcoil Island (main story) dungeon guide for Shiren the W
   <tr>
     <th>Bring Items</th>
     <td>Yes</td>
+    <th>Stairs</th>
+    <td>Varies</td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td>Yes</td>
+    <th>Roamers</th>
     <td>Yes</td>
   </tr>
   <tr>
@@ -50,7 +56,13 @@ metaDescription: "Serpentcoil Island (main story) dungeon guide for Shiren the W
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
-    <td>Regular, Sudden</td>
+    <td>Yes (Regular, Sudden)</td>
+  </tr>
+  <tr>
+    <th>Behemoths</th>
+    <td>Yes</td>
+    <th>Wishing Shrines</th>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
@@ -68,7 +80,7 @@ metaDescription: "Serpentcoil Island (main story) dungeon guide for Shiren the W
     <th>Wind (1st Gust)</th>
     <td>Varies</td>
     <th>Reward</th>
-    <td>Blue Sacred Item (Post-Game)</td>
+    <td>Blue Sacred Item (Postgame)</td>
   </tr>
 </table>
 
@@ -1025,8 +1037,27 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
+  </tbody>
+</table>
+
+# Behemoths
+
+<table class="monsterTable">
+  <thead>
     <tr>
-      <td colspan="10" class="tableDivider"></td>
+      <th>F</th>
+      <th colspan="6">Behemoth Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="1" class="centeredText">13<br/>15</td>
+      <td><img src="../images/monsters_s/1-1.png"/> Mamel</td>
+      <td><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
+      <td><img src="../images/monsters_s/16-1.png"/> Pop Tank</td>
+      <td><img src="../images/monsters_s/20-1.png"/> Ghost Radish</td>
+      <td><img src="../images/monsters_s/43-1.png"/> Schubell</td>
+      <td><img src="../images/monsters_s/39-1.png"/> Explochin</td>
     </tr>
   </tbody>
 </table>

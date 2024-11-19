@@ -136,7 +136,7 @@ Colors = <span class="highlightGreen">Update Required</span> / <span class="high
 |75|Tale of the Burning Sand|Completed a Sacred Tree dungeon as Kokatsu Shiren.|1.1.0|
 |76|Dragon God's Frolic|Completed a Sacred Tree dungeon as Tatsumi Shiren.|1.2.0|
 |77|Ferret's Feat|Completed a Sacred Tree dungeon as Koppa.|2.0.1|
-|78|???|Completed a Sacred Tree dungeon as Asuka.|2.1.1|
+|78|Bladedancing Swordswoman|Completed a Sacred Tree dungeon as Asuka.|2.1.1|
 
 </div>
 
