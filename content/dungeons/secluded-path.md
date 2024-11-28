@@ -30,7 +30,7 @@ metaDescription: "Secluded Path dungeon guide for Shiren the Wanderer: The Myste
     <th>Bring Items</th>
     <td>Yes</td>
     <th>Stairs</th>
-    <td></td>
+    <td>Ascending (1F - 2F)<br/>Descending (3F - 6F)</td>
   </tr>
   <tr>
     <th>Companions</th>

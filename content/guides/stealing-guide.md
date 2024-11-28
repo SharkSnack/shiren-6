@@ -98,7 +98,7 @@ Staves that simply move the Shopkeeper so they're no longer blocking the stairs.
 
 Throw an item at the Shopkeeper to anger them, then paralyze them when they're not on the stairs.<br/>Alternatively, swing a Disguising Staff at a regular monster, then anger the Shopkeeper.<br/>※ Keep in mind that Shopkeepers themselves are immune to Disguising Staff.
 
-#### Swift Grass / Invincible Grass / Earthmound Staff
+#### Swift Grass / Invincible Grass / Earthmound Staff / Sluggish Staff
 
 Anger the Shopkeeper, then use good movement to reach the stairs while the Shopkeeper chases you.<br/>The Shopkeeper won't gain Swift 1 speed since Thief Mode doesn't get triggered.
 

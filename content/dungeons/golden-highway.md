@@ -30,7 +30,7 @@ metaDescription: "Golden Highway dungeon guide for Shiren the Wanderer: The Myst
     <th>Bring Items</th>
     <td>Yes</td>
     <th>Stairs</th>
-    <td></td>
+    <td>Descending</td>
   </tr>
   <tr>
     <th>Companions</th>
@@ -56,7 +56,7 @@ metaDescription: "Golden Highway dungeon guide for Shiren the Wanderer: The Myst
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
-    <td>Yes</td>
+    <td>Yes (Regular)</td>
   </tr>
   <tr>
     <th>Behemoths</th>
@@ -157,7 +157,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="3" class="highlightFog centeredText">2</td>
-      <td rowspan="3" class=""></td>
+      <td rowspan="3" class="highlightShop"></td>
       <td rowspan="3" class="highlightMH"></td>
       <td rowspan="3" class=""></td>
       <td><img src="../images/monsters_s/1-4.png"/> Gitan Mamel</td>
@@ -214,7 +214,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td rowspan="3" class="highlightFog centeredText">4</td>
       <td rowspan="3" class="highlightShop"></td>
-      <td rowspan="3" class=""></td>
+      <td rowspan="3" class="highlightMH"></td>
       <td rowspan="3" class=""></td>
       <td><img src="../images/monsters_s/1-4.png"/> Gitan Mamel</td>
       <td><img src="../images/monsters_s/44-2.png"/> N'dulu</td>

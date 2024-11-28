@@ -29,7 +29,13 @@ metaDescription: "Cat-Ching's Divine Will dungeon guide for Shiren the Wanderer:
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Stairs</th>
+    <td>Ascending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td>No</td>
+    <th>Roamers</th>
     <td>No</td>
   </tr>
   <tr>
@@ -50,7 +56,13 @@ metaDescription: "Cat-Ching's Divine Will dungeon guide for Shiren the Wanderer:
     <th>Shops</th>
     <td>No</td>
     <th>Monster Houses</th>
-    <td>Regular, Sudden</td>
+    <td>Yes (Regular, Sudden)</td>
+  </tr>
+  <tr>
+    <th>Behemoths</th>
+    <td>No (99F: Yes)</td>
+    <th>Wishing Shrines</th>
+    <td></td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
@@ -60,9 +72,9 @@ metaDescription: "Cat-Ching's Divine Will dungeon guide for Shiren the Wanderer:
   </tr>
   <tr>
     <th>Initial Enemies</th>
-    <td></td>
+    <td>4</td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>40 Turns</td>
   </tr>
   <tr>
     <th>Wind (1st Gust)</th>
@@ -2520,23 +2532,120 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tbody>
 </table>
 
-#### Behemoth Monsters
+# Behemoths
 
-- 21\~25F - Gazer
-- 26\~30F - Super Gazer
-- 31\~35F - Pumphantasm
-- 36\~40F - Bored Kappa
-- 41\~45F - Hoppin' Batter
-- 46\~50F - Pumpanshee
-- 51\~55F - Pesky Kappa
-- 56\~60F - Vexing Kappa
-- 61\~65F - Hoppin' Hitter
-- 66\~70F - Pumplich
-- 71\~75F - Atrocious Kappa
-- 76\~80F - Hyper Gazer
-- 81\~85F - Ultra Gazer
-- 86\~90F - Pumplord
-- 91\~95F - Hoppin' Slugger
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th>Behemoth Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="centeredText">21-25</td>
+      <td><img src="../images/monsters_s/22-1.png"/> Gazer</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">26-30</td>
+      <td><img src="../images/monsters_s/22-2.png"/> Super Gazer</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">31-35</td>
+      <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">36-40</td>
+      <td><img src="../images/monsters_s/17-1.png"/> Bored Kappa</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">41-45</td>
+      <td><img src="../images/monsters_s/40-1.png"/> Hoppin' Batter</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">46-50</td>
+      <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">51-55</td>
+      <td><img src="../images/monsters_s/17-2.png"/> Pesky Kappa</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">56-60</td>
+      <td><img src="../images/monsters_s/17-3.png"/> Vexing Kappa</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">61-65</td>
+      <td><img src="../images/monsters_s/40-2.png"/> Hoppin' Hitter</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">66-70</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">71-75</td>
+      <td><img src="../images/monsters_s/17-4.png"/> Atrocious Kappa</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">76-80</td>
+      <td><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">81-85</td>
+      <td><img src="../images/monsters_s/22-4.png"/> Ultra Gazer</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">86-90</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">91-95</td>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
+    </tr>
+  </tbody>
+</table>
 
 # Items
 

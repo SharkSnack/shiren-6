@@ -59,6 +59,12 @@ metaDescription: "Training Path of Extra Inference dungeon guide for Shiren the 
     <td></td>
   </tr>
   <tr>
+    <th>Behemoths</th>
+    <td>No</td>
+    <th>Wishing Shrines</th>
+    <td></td>
+  </tr>
+  <tr>
     <th>Kron's Challenge</th>
     <td></td>
     <th>Fever Time</th>

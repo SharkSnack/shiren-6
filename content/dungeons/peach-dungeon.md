@@ -36,7 +36,7 @@ metaDescription: "Peach Dungeon guide for Shiren the Wanderer: The Mystery Dunge
     <th>Companions</th>
     <td>Yes (Ver 1.1.0+)</td>
     <th>Roamers</th>
-    <td>No?</td>
+    <td></td>
   </tr>
   <tr>
     <th>Rescues</th>
@@ -72,7 +72,7 @@ metaDescription: "Peach Dungeon guide for Shiren the Wanderer: The Mystery Dunge
   </tr>
   <tr>
     <th>Initial Enemies</th>
-    <td>4~6?</td>
+    <td>4~6</td>
     <th>Spawn Rate</th>
     <td>30 Turns</td>
   </tr>

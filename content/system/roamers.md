@@ -44,7 +44,7 @@ Travel companions also appear as Roamers, and can be recruited by talking.<br/>M
   <tr>
     <td><img src="../images/npcs/kante.png"/></td>
     <td class="priceTableName">Kante the Appraiser</td>
-    <td class="leftText">Identifies 1 random category of items in your inventory.</td>
+    <td class="leftText">Identifies 1 random category of items in your inventory.<br/>On rare occasions, identifies all items outside of pots.</td>
   </tr>
   <tr>
     <td><img src="../images/npcs/bundle-emall.png"/></td>

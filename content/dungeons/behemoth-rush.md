@@ -29,7 +29,13 @@ metaDescription: "Behemoth Rush dungeon guide for Shiren the Wanderer: The Myste
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Stairs</th>
+    <td>Ascending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td>No</td>
+    <th>Roamers</th>
     <td>No</td>
   </tr>
   <tr>
@@ -50,6 +56,12 @@ metaDescription: "Behemoth Rush dungeon guide for Shiren the Wanderer: The Myste
     <th>Shops</th>
     <td>No</td>
     <th>Monster Houses</th>
+    <td>No</td>
+  </tr>
+  <tr>
+    <th>Behemoths</th>
+    <td>Yes</td>
+    <th>Wishing Shrines</th>
     <td>No</td>
   </tr>
   <tr>
@@ -177,20 +189,14 @@ The lineup of Behemoth Monsters is similar to 1-10F, but each behemoth lingers f
 See [Monsters](/system/monsters) for individual monster details.
 
 - F - <span class="highlightFog">Dark hallways</span>
-- S - <span class="highlightShop">Shop is possible</span>
-- H - <span class="highlightMH">Monster House is possible</span>
-- G - <span class="highlightGold">Golden Egg Thing is possible</span>
 - B - <span class="highlightBehemoth">Behemoth Monsters are possible</span>
 
-Monster Colors = <span class="special">Breakable Walls, Monster Pot, Monster Scroll (Not recorded in log)</span>
+Monster Colors = <span class="special">Schubell summon, Shiny Walls, Monster Pot, Monstercall Scroll (Not recorded in log)</span>
 
 <table class="monsterTable">
   <thead>
     <tr>
       <th>F</th>
-      <th>S</th>
-      <th>H</th>
-      <th>G</th>
       <th colspan="2">Monsters</th>
       <th>B</th>
     </tr>
@@ -198,38 +204,121 @@ Monster Colors = <span class="special">Breakable Walls, Monster Pot, Monster Scr
   <tbody>
     <tr>
       <td class="centeredText">1-30</td>
-      <td class=""></td>
-      <td class=""></td>
-      <td class=""></td>
       <td class="special"><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
       <td class="special"><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
       <td class="highlightBehemoth"></td>
     </tr>
     <tr>
-      <td colspan="7" class="tableDivider"></td>
+      <td colspan="4" class="tableDivider"></td>
     </tr>
     <tr>
       <td class="monsterTableExtension"></td>
-      <td colspan="3" class="monsterTableExtension"></td>
       <td colspan="2" class="monsterTableExtension centeredText">Sacred Tree Mode</td>
       <td class="monsterTableExtension"></td>
     </tr>
     <tr>
-      <td colspan="7" class="tableDivider"></td>
+      <td colspan="4" class="tableDivider"></td>
     </tr>
     <tr>
-      <td class="centeredText">31-99</td>
-      <td class=""></td>
-      <td class=""></td>
-      <td class=""></td>
-      <td class="special">???</td>
-      <td class="special">???</td>
+      <td class="centeredText highlightFog">31-35</td>
+      <td class="special"><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td class="special"><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="4" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">36-39</td>
+      <td class="special"><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td class="special"><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="4" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightFog">40-43</td>
+      <td class="special"><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td class="special"><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="4" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">44-47</td>
+      <td class="special"><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td class="special"><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="4" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightFog">48-51</td>
+      <td class="special"><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td class="special"><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="4" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">52-55</td>
+      <td class="special"><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td class="special"><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="4" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightFog">56-63</td>
+      <td class="special"><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td class="special"><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="4" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">64-67</td>
+      <td class="special"><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td class="special"><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="4" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightFog">68-71</td>
+      <td class="special"><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td class="special"><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="4" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">72-79</td>
+      <td class="special"><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td class="special"><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td class="highlightBehemoth"></td>
+    </tr>
+    <tr>
+      <td colspan="4" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText highlightFog">80-99</td>
+      <td class="special"><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td class="special"><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
       <td class="highlightBehemoth"></td>
     </tr>
   </tbody>
 </table>
 
-#### Behemoth Details
+# Behemoths
 
 <table class="monsterTable">
   <thead>
@@ -301,6 +390,477 @@ Monster Colors = <span class="special">Breakable Walls, Monster Pot, Monster Scr
       <td><img src="../images/monsters_s/8-2.png"/> Brodillo</td>
       <td><img src="../images/monsters_s/11-2.png"/> Minotaur</td>
       <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="monsterTableExtension"></td>
+      <td colspan="5" class="monsterTableExtension centeredText">Sacred Tree Mode</td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="4" class="centeredText">31-49</td>
+      <td><img src="../images/monsters_s/16-2.png"/> Ornery Tank</td>
+      <td><img src="../images/monsters_s/17-2.png"/> Pesky Kappa</td>
+      <td><img src="../images/monsters_s/18-2.png"/> Porko</td>
+      <td><img src="../images/monsters_s/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters_s/20-2.png"/> Daze Radish</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/21-2.png"/> Skull Wizard</td>
+      <td><img src="../images/monsters_s/22-2.png"/> Super Gazer</td>
+      <td><img src="../images/monsters_s/23-2.png"/> Floppy Hani</td>
+      <td><img src="../images/monsters_s/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters_s/26-2.png"/> Pot Knave</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/27-2.png"/> Nigiri Morph</td>
+      <td><img src="../images/monsters_s/30-2.png"/> Hat Prankster</td>
+      <td><img src="../images/monsters_s/31-2.png"/> Cursister</td>
+      <td><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/39-2.png"/> Concusschin</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/40-2.png"/> Hoppin' Hitter</td>
+      <td><img src="../images/monsters_s/42-2.png"/> Rumbledon</td>
+      <td><img src="../images/monsters_s/43-2.png"/> Menbell</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="6" class="centeredText">50</td>
+      <td><img src="../images/monsters_s/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters_s/2-3.png"/> Big Chintala</td>
+      <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/7-3.png"/> Blazepuff</td>
+      <td><img src="../images/monsters_s/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters_s/16-2.png"/> Ornery Tank</td>
+      <td><img src="../images/monsters_s/17-2.png"/> Pesky Kappa</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/18-2.png"/> Porko</td>
+      <td><img src="../images/monsters_s/19-2.png"/> Sky Dragon</td>
+      <td><img src="../images/monsters_s/20-2.png"/> Daze Radish</td>
+      <td><img src="../images/monsters_s/21-2.png"/> Skull Wizard</td>
+      <td><img src="../images/monsters_s/22-2.png"/> Super Gazer</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/23-2.png"/> Floppy Hani</td>
+      <td><img src="../images/monsters_s/25-2.png"/> Vile Scorpion</td>
+      <td><img src="../images/monsters_s/26-2.png"/> Pot Knave</td>
+      <td><img src="../images/monsters_s/27-2.png"/> Nigiri Morph</td>
+      <td><img src="../images/monsters_s/30-2.png"/> Hat Prankster</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/31-2.png"/> Cursister</td>
+      <td><img src="../images/monsters_s/33-2.png"/> Fencer</td>
+      <td><img src="../images/monsters_s/39-2.png"/> Concusschin</td>
+      <td><img src="../images/monsters_s/40-2.png"/> Hoppin' Hitter</td>
+      <td><img src="../images/monsters_s/42-2.png"/> Rumbledon</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/43-2.png"/> Menbell</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="2" class="centeredText">51-59</td>
+      <td><img src="../images/monsters_s/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters_s/2-3.png"/> Big Chintala</td>
+      <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td><img src="../images/monsters_s/7-3.png"/> Blazepuff</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="6" class="centeredText">60</td>
+      <td><img src="../images/monsters_s/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters_s/2-3.png"/> Big Chintala</td>
+      <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/7-3.png"/> Blazepuff</td>
+      <td><img src="../images/monsters_s/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters_s/16-2.png"/> Ornery Tank</td>
+      <td><img src="../images/monsters_s/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters_s/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters_s/21-3.png"/> Skullmancer</td>
+      <td><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
+      <td><img src="../images/monsters_s/23-3.png"/> Droopy Hani</td>
+      <td><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/26-3.png"/> Bag Knave</td>
+      <td><img src="../images/monsters_s/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters_s/30-3.png"/> Hat Brat</td>
+      <td><img src="../images/monsters_s/31-3.png"/> Curse Matron</td>
+      <td><img src="../images/monsters_s/33-3.png"/> Battler</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters_s/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters_s/43-3.png"/> Bellthoven</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="6" class="centeredText">61-69</td>
+      <td><img src="../images/monsters_s/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters_s/2-3.png"/> Big Chintala</td>
+      <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td><img src="../images/monsters_s/7-3.png"/> Blazepuff</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td><img src="../images/monsters_s/15-3.png"/> Baby Tank</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/16-2.png"/> Ornery Tank</td>
+      <td><img src="../images/monsters_s/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters_s/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/21-3.png"/> Skullmancer</td>
+      <td><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
+      <td><img src="../images/monsters_s/23-3.png"/> Droopy Hani</td>
+      <td><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters_s/26-3.png"/> Bag Knave</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters_s/30-3.png"/> Hat Brat</td>
+      <td><img src="../images/monsters_s/31-3.png"/> Curse Matron</td>
+      <td><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters_s/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters_s/43-3.png"/> Bellthoven</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="6" class="centeredText">70</td>
+      <td><img src="../images/monsters_s/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters_s/2-3.png"/> Big Chintala</td>
+      <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/7-3.png"/> Blazepuff</td>
+      <td><img src="../images/monsters_s/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters_s/16-2.png"/> Ornery Tank</td>
+      <td><img src="../images/monsters_s/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters_s/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters_s/21-3.png"/> Skullmancer</td>
+      <td><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
+      <td><img src="../images/monsters_s/23-3.png"/> Droopy Hani</td>
+      <td><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/26-3.png"/> Bag Knave</td>
+      <td><img src="../images/monsters_s/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters_s/30-3.png"/> Hat Brat</td>
+      <td><img src="../images/monsters_s/31-3.png"/> Curse Matron</td>
+      <td><img src="../images/monsters_s/33-3.png"/> Battler</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters_s/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters_s/43-3.png"/> Bellthoven</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="6" class="centeredText">71-79</td>
+      <td><img src="../images/monsters_s/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters_s/2-3.png"/> Big Chintala</td>
+      <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td><img src="../images/monsters_s/7-3.png"/> Blazepuff</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+      <td><img src="../images/monsters_s/15-3.png"/> Baby Tank</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/16-2.png"/> Ornery Tank</td>
+      <td><img src="../images/monsters_s/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters_s/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+      <td><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/21-3.png"/> Skullmancer</td>
+      <td><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
+      <td><img src="../images/monsters_s/23-3.png"/> Droopy Hani</td>
+      <td><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
+      <td><img src="../images/monsters_s/26-3.png"/> Bag Knave</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters_s/30-3.png"/> Hat Brat</td>
+      <td><img src="../images/monsters_s/31-3.png"/> Curse Matron</td>
+      <td><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters_s/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters_s/43-3.png"/> Bellthoven</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="6" class="centeredText">80</td>
+      <td><img src="../images/monsters_s/1-3.png"/> Cave Mamel</td>
+      <td><img src="../images/monsters_s/2-3.png"/> Big Chintala</td>
+      <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/7-3.png"/> Blazepuff</td>
+      <td><img src="../images/monsters_s/8-3.png"/> Popdillo</td>
+      <td><img src="../images/monsters_s/11-3.png"/> Megataur</td>
+      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters_s/14-3.png"/> Lashagga</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters_s/16-2.png"/> Ornery Tank</td>
+      <td><img src="../images/monsters_s/17-3.png"/> Vexing Kappa</td>
+      <td><img src="../images/monsters_s/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters_s/21-3.png"/> Skullmancer</td>
+      <td><img src="../images/monsters_s/22-3.png"/> Hyper Gazer</td>
+      <td><img src="../images/monsters_s/23-3.png"/> Droopy Hani</td>
+      <td><img src="../images/monsters_s/25-3.png"/> Terror Scorpion</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/26-3.png"/> Bag Knave</td>
+      <td><img src="../images/monsters_s/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters_s/30-3.png"/> Hat Brat</td>
+      <td><img src="../images/monsters_s/31-3.png"/> Curse Matron</td>
+      <td><img src="../images/monsters_s/33-3.png"/> Battler</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
+      <td><img src="../images/monsters_s/42-3.png"/> Clapdon</td>
+      <td><img src="../images/monsters_s/43-3.png"/> Bellthoven</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="6" class="centeredText">81-89</td>
+      <td><img src="../images/monsters_s/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters_s/2-4.png"/> Huge Chintala</td>
+      <td><img src="../images/monsters_s/4-4.png"/> Admiral Spearfish</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+      <td><img src="../images/monsters_s/7-4.png"/> Pyrepuff</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters_s/13-4.png"/> Miracle Hen</td>
+      <td><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters_s/15-4.png"/> Mini Tank</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
+      <td><img src="../images/monsters_s/17-4.png"/> Atrocious Kappa</td>
+      <td><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters_s/19-4.png"/> Abyss Dragon</td>
+      <td><img src="../images/monsters_s/20-4.png"/> Frenzy Radish</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/21-4.png"/> Skull Lord</td>
+      <td><img src="../images/monsters_s/22-4.png"/> Ultra Gazer</td>
+      <td><img src="../images/monsters_s/23-4.png"/> Wrinkly Hani</td>
+      <td><img src="../images/monsters_s/25-4.png"/> Demon Scorpion</td>
+      <td><img src="../images/monsters_s/26-4.png"/> Nimble Knave</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters_s/30-4.png"/> Hat Rascal</td>
+      <td><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters_s/33-4.png"/> Swordmaster</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/40-4.png"/> Hoppin' Slammer</td>
+      <td><img src="../images/monsters_s/42-4.png"/> Boomdon</td>
+      <td><img src="../images/monsters_s/43-4.png"/> Showpin</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="6" class="centeredText">90</td>
+      <td><img src="../images/monsters_s/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters_s/2-4.png"/> Huge Chintala</td>
+      <td><img src="../images/monsters_s/4-4.png"/> Admiral Spearfish</td>
+      <td><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/7-4.png"/> Pyrepuff</td>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters_s/13-4.png"/> Miracle Hen</td>
+      <td><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/15-4.png"/> Mini Tank</td>
+      <td><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
+      <td><img src="../images/monsters_s/17-4.png"/> Atrocious Kappa</td>
+      <td><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters_s/19-4.png"/> Abyss Dragon</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/20-4.png"/> Frenzy Radish</td>
+      <td><img src="../images/monsters_s/21-4.png"/> Skull Lord</td>
+      <td><img src="../images/monsters_s/22-4.png"/> Ultra Gazer</td>
+      <td><img src="../images/monsters_s/23-4.png"/> Wrinkly Hani</td>
+      <td><img src="../images/monsters_s/25-4.png"/> Demon Scorpion</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/26-4.png"/> Nimble Knave</td>
+      <td><img src="../images/monsters_s/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters_s/30-4.png"/> Hat Rascal</td>
+      <td><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters_s/33-4.png"/> Swordmaster</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+      <td><img src="../images/monsters_s/40-4.png"/> Hoppin' Slammer</td>
+      <td><img src="../images/monsters_s/42-4.png"/> Boomdon</td>
+      <td><img src="../images/monsters_s/43-4.png"/> Showpin</td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="10" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td rowspan="6" class="centeredText">91-99</td>
+      <td><img src="../images/monsters_s/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters_s/2-4.png"/> Huge Chintala</td>
+      <td><img src="../images/monsters_s/4-4.png"/> Admiral Spearfish</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+      <td><img src="../images/monsters_s/7-4.png"/> Pyrepuff</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/8-4.png"/> Grampadillo</td>
+      <td><img src="../images/monsters_s/11-4.png"/> Gigataur</td>
+      <td><img src="../images/monsters_s/13-4.png"/> Miracle Hen</td>
+      <td><img src="../images/monsters_s/14-4.png"/> Bashagga</td>
+      <td><img src="../images/monsters_s/15-4.png"/> Mini Tank</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
+      <td><img src="../images/monsters_s/17-4.png"/> Atrocious Kappa</td>
+      <td><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td><img src="../images/monsters_s/19-4.png"/> Abyss Dragon</td>
+      <td><img src="../images/monsters_s/20-4.png"/> Frenzy Radish</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/21-4.png"/> Skull Lord</td>
+      <td><img src="../images/monsters_s/22-4.png"/> Ultra Gazer</td>
+      <td><img src="../images/monsters_s/23-4.png"/> Wrinkly Hani</td>
+      <td><img src="../images/monsters_s/25-4.png"/> Demon Scorpion</td>
+      <td><img src="../images/monsters_s/26-4.png"/> Nimble Knave</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/27-4.png"/> Nigiri Honcho</td>
+      <td><img src="../images/monsters_s/30-4.png"/> Hat Rascal</td>
+      <td><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters_s/33-4.png"/> Swordmaster</td>
+      <td><img src="../images/monsters_s/39-4.png"/> Detonachin</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/40-4.png"/> Hoppin' Slammer</td>
+      <td><img src="../images/monsters_s/42-4.png"/> Boomdon</td>
+      <td><img src="../images/monsters_s/43-4.png"/> Showpin</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>

@@ -36,7 +36,7 @@ metaDescription: "Sumo Dungeon guide for Shiren the Wanderer: The Mystery Dungeo
     <th>Companions</th>
     <td>Yes</td>
     <th>Roamers</th>
-    <td>No?</td>
+    <td></td>
   </tr>
   <tr>
     <th>Rescues</th>

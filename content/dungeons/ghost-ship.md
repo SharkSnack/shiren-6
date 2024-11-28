@@ -30,13 +30,13 @@ metaDescription: "Ghost Ship dungeon guide for Shiren the Wanderer: The Mystery 
     <th>Bring Items</th>
     <td>Yes</td>
     <th>Stairs</th>
-    <td></td>
+    <td>Varies</td>
   </tr>
   <tr>
     <th>Companions</th>
     <td></td>
     <th>Roamers</th>
-    <td></td>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Rescues</th>
@@ -56,7 +56,7 @@ metaDescription: "Ghost Ship dungeon guide for Shiren the Wanderer: The Mystery 
     <th>Shops</th>
     <td>No</td>
     <th>Monster Houses</th>
-    <td>Yes</td>
+    <td>Yes (Sudden)</td>
   </tr>
   <tr>
     <th>Behemoths</th>
