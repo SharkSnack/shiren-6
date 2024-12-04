@@ -62,7 +62,7 @@ metaDescription: "Forest of Frugality dungeon guide for Shiren the Wanderer: The
     <th>Initial Enemies</th>
     <td></td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>30 Turns</td>
   </tr>
   <tr>
     <th>Wind (1st Gust)</th>
@@ -212,7 +212,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText">7</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters_s/37-1.png"/> Karakuroid</td>
       <td><img src="../images/monsters_s/11-1.png"/> Taur</td>

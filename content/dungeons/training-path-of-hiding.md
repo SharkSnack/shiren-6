@@ -2059,7 +2059,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tbody>
 </table>
 
-#### Behemoth Details
+# Behemoths
 
 <table class="monsterTable">
   <thead>
@@ -2071,24 +2071,24 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tbody>
     <tr>
       <td rowspan="1" class="centeredText">14-16</td>
-      <td>Ultra Gazer</td>
-      <td>Pumplich</td>
-      <td>Fulminachin</td>
-      <td>Crossbowboy</td>
-      <td></td>
-      <td></td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td><img src="../images/monsters_s/15-2.png"/> Crossbowboy</td>
+      <td><img src="../images/monsters_s/22-4.png"/> Ultra Gazer</td>
+      <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="7" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="1" class="centeredText">31-82</td>
-      <td>Ultra Gazer</td>
-      <td>Pumplich</td>
-      <td>Fulminachin</td>
-      <td>Crossbowboy</td>
-      <td>Great Hen</td>
-      <td>Showpin</td>
+      <td rowspan="1" class="centeredText">31-34<br/>47-50<br/>63-66<br/>79-82</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
+      <td><img src="../images/monsters_s/15-2.png"/> Crossbowboy</td>
+      <td><img src="../images/monsters_s/22-4.png"/> Ultra Gazer</td>
+      <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
+      <td><img src="../images/monsters_s/43-4.png"/> Showpin</td>
     </tr>
   </tbody>
 </table>

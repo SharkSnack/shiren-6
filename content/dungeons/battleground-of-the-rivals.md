@@ -29,14 +29,20 @@ metaDescription: "Battleground of the Rivals dungeon guide for Shiren the Wander
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Stairs</th>
+    <td>Ascending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td>Yes</td>
+    <th>Roamers</th>
     <td>Yes</td>
   </tr>
   <tr>
     <th>Rescues</th>
     <td>0</td>
     <th>Starting Level</th>
-    <td>1</td>
+    <td>Lv1</td>
   </tr>
   <tr>
     <th>Starting Item</th>
@@ -50,7 +56,13 @@ metaDescription: "Battleground of the Rivals dungeon guide for Shiren the Wander
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
-    <td></td>
+    <td>Yes (Regular)</td>
+  </tr>
+  <tr>
+    <th>Behemoths</th>
+    <td>Yes</td>
+    <th>Wishing Shrines</th>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
@@ -60,9 +72,9 @@ metaDescription: "Battleground of the Rivals dungeon guide for Shiren the Wander
   </tr>
   <tr>
     <th>Initial Enemies</th>
-    <td></td>
+    <td>6~9</td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>30 Turns (1F - 20F)<br/>15 Turns (21F)<br/>None (22F - 24F)</td>
   </tr>
   <tr>
     <th>Wind (1st Gust)</th>
@@ -187,7 +199,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td rowspan="2" class="centeredText">5</td>
       <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightMH"></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters_s/40-2.png"/> Hoppin' Hitter</td>
       <td><img src="../images/monsters_s/52-1.png"/> Fire Ninja D</td>
@@ -231,7 +243,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td rowspan="1" class="centeredText">7</td>
       <td rowspan="1" class=""></td>
-      <td rowspan="1" class=""></td>
+      <td rowspan="1" class="highlightMH"></td>
       <td rowspan="1" class=""></td>
       <td><img src="../images/monsters_s/40-2.png"/> Hoppin' Hitter</td>
       <td><img src="../images/monsters_s/52-1.png"/> Fire Ninja D</td>
@@ -311,7 +323,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText">11</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters_s/41-1.png"/> Fierous</td>
@@ -387,7 +399,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="2" class="centeredText highlightFog">15</td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightGold"></td>
       <td><img src="../images/monsters_s/4-2.png"/> Lt. Spearfish</td>
       <td><img src="../images/monsters_s/27-2.png"/> Nigiri Morph</td>
       <td><img src="../images/monsters_s/8-2.png"/> Brodillo</td>
@@ -592,6 +604,36 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
+    </tr>
+  </tbody>
+</table>
+
+# Behemoths
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="6">Behemoth Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" class="centeredText">6-9<br/>15-17</td>
+      <td><img src="../images/monsters_s/1-1.png"/> Mamel</td>
+      <td><img src="../images/monsters_s/1-2.png"/> Pit Mamel</td>
+      <td><img src="../images/monsters_s/2-2.png"/> Mid Chintala</td>
+      <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
+      <td><img src="../images/monsters_s/7-1.png"/> Firepuff</td>
+      <td><img src="../images/monsters_s/14-2.png"/> Nashagga</td>
+    </tr>
+    <tr>
+      <td><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
+      <td><img src="../images/monsters_s/16-1.png"/> Pop Tank</td>
+      <td><img src="../images/monsters_s/20-1.png"/> Ghost Radish</td>
+      <td><img src="../images/monsters_s/30-1.png"/> Hat Urchin</td>
+      <td><img src="../images/monsters_s/31-1.png"/> Curse Girl</td>
+      <td><img src="../images/monsters_s/39-1.png"/> Explochin</td>
     </tr>
   </tbody>
 </table>

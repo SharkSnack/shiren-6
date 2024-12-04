@@ -29,18 +29,24 @@ metaDescription: "Training Path of Deadly Strikes dungeon guide for Shiren the W
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Stairs</th>
+    <td>Descending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
-    <td></td>
+    <td>No</td>
+    <th>Roamers</th>
+    <td>No</td>
   </tr>
   <tr>
     <th>Rescues</th>
     <td>3</td>
     <th>Starting Level</th>
-    <td>1</td>
+    <td>Lv1</td>
   </tr>
   <tr>
     <th>Starting Item</th>
-    <td colspan="3"></td>
+    <td colspan="3">Revival Grass x 3</td>
   </tr>
   <tr>
     <th>Unidentified</th>
@@ -53,6 +59,12 @@ metaDescription: "Training Path of Deadly Strikes dungeon guide for Shiren the W
     <td></td>
   </tr>
   <tr>
+    <th>Behemoths</th>
+    <td>No</td>
+    <th>Wishing Shrines</th>
+    <td></td>
+  </tr>
+  <tr>
     <th>Kron's Challenge</th>
     <td></td>
     <th>Fever Time</th>
@@ -60,13 +72,13 @@ metaDescription: "Training Path of Deadly Strikes dungeon guide for Shiren the W
   </tr>
   <tr>
     <th>Initial Enemies</th>
-    <td></td>
+    <td>4~9</td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>30 Turns (1F - 30F)<br/>25 Turns (31F - 99F)</td>
   </tr>
   <tr>
     <th>Wind (1st Gust)</th>
-    <td></td>
+    <td>900 Turns</td>
     <th>Reward</th>
     <td></td>
   </tr>

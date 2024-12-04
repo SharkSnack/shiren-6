@@ -42,7 +42,7 @@ metaDescription: "Timeworn Cave dungeon guide for Shiren the Wanderer: The Myste
     <th>Rescues</th>
     <td>3</td>
     <th>Starting Level</th>
-    <td>1</td>
+    <td>Lv1</td>
   </tr>
   <tr>
     <th>Starting Item</th>

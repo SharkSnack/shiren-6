@@ -29,14 +29,20 @@ metaDescription: "Cliff of Condensing dungeon guide for Shiren the Wanderer: The
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Stairs</th>
+    <td>Ascending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td></td>
+    <th>Roamers</th>
     <td></td>
   </tr>
   <tr>
     <th>Rescues</th>
     <td>3</td>
     <th>Starting Level</th>
-    <td>1</td>
+    <td>Lv1</td>
   </tr>
   <tr>
     <th>Starting Item</th>
@@ -51,6 +57,12 @@ metaDescription: "Cliff of Condensing dungeon guide for Shiren the Wanderer: The
     <td>Yes</td>
     <th>Monster Houses</th>
     <td>Yes</td>
+  </tr>
+  <tr>
+    <th>Behemoths</th>
+    <td>Yes</td>
+    <th>Wishing Shrines</th>
+    <td></td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
@@ -159,7 +171,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="1" class="centeredText highlightFog">4</td>
-      <td rowspan="1" class=""></td>
+      <td rowspan="1" class="highlightShop"></td>
       <td rowspan="1" class=""></td>
       <td rowspan="1" class=""></td>
       <td><img src="../images/monsters_s/8-1.png"/> Armordillo</td>
@@ -1350,6 +1362,55 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
       <td><img src="../images/monsters_s/51-1.png"/> Fluffy Bunny</td>
       <td><img src="../images/monsters_s/49-1.png"/> Dark Owl</td>
+    </tr>
+  </tbody>
+</table>
+
+# Behemoths
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="7">Behemoth Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="centeredText">14-17</td>
+      <td><img src="../images/monsters_s/7-1.png"/> Firepuff</td>
+      <td><img src="../images/monsters_s/8-1.png"/> Armordillo</td>
+      <td><img src="../images/monsters_s/11-2.png"/> Minotaur</td>
+      <td><img src="../images/monsters_s/14-1.png"/> Shagga</td>
+      <td><img src="../images/monsters_s/19-1.png"/> Dragon</td>
+      <td><img src="../images/monsters_s/22-1.png"/> Gazer</td>
+      <td><img src="../images/monsters_s/27-1.png"/> Nigiri Morph</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">21-24</td>
+      <td><img src="../images/monsters_s/1-1.png"/> Mamel</td>
+      <td><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
+      <td><img src="../images/monsters_s/16-1.png"/> Pop Tank</td>
+      <td><img src="../images/monsters_s/18-1.png"/> Porky</td>
+      <td><img src="../images/monsters_s/20-1.png"/> Ghost Radish</td>
+      <td><img src="../images/monsters_s/33-1.png"/> Swordsman</td>
+      <td><img src="../images/monsters_s/39-1.png"/> Explochin</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">38-40</td>
+      <td><img src="../images/monsters_s/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters_s/20-4.png"/> Frenzy Radish</td>
+      <td><img src="../images/monsters_s/27-3.png"/> Nigiri Boss</td>
+      <td><img src="../images/monsters_s/31-3.png"/> Curse Matron</td>
+      <td><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td class="highlightGray"></td>
     </tr>
   </tbody>
 </table>

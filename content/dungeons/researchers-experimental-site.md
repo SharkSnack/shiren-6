@@ -29,7 +29,13 @@ metaDescription: "Researcher's Experimental Site dungeon guide for Shiren the Wa
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Stairs</th>
+    <td>Descending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td>No</td>
+    <th>Roamers</th>
     <td>No</td>
   </tr>
   <tr>
@@ -53,6 +59,12 @@ metaDescription: "Researcher's Experimental Site dungeon guide for Shiren the Wa
     <td>Yes</td>
   </tr>
   <tr>
+    <th>Behemoths</th>
+    <td>No</td>
+    <th>Wishing Shrines</th>
+    <td>No</td>
+  </tr>
+  <tr>
     <th>Kron's Challenge</th>
     <td>No</td>
     <th>Fever Time</th>
@@ -62,7 +74,7 @@ metaDescription: "Researcher's Experimental Site dungeon guide for Shiren the Wa
     <th>Initial Enemies</th>
     <td></td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>64 Turns</td>
   </tr>
   <tr>
     <th>Wind (1st Gust)</th>

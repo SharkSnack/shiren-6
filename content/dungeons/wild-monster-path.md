@@ -2248,75 +2248,74 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tbody>
 </table>
 
-#### Behemoth Details
+# Behemoths
 
 <table class="monsterTable">
   <thead>
     <tr>
       <th>F</th>
-      <th colspan="5">Behemoth Monsters</th>
+      <th colspan="6">Behemoth Monsters</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="1" class="centeredText">7-21</td>
+      <td rowspan="1" class="centeredText">7, 14, 21</td>
       <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
       <td><img src="../images/monsters_s/7-1.png"/> Firepuff</td>
-      <td><img src="../images/monsters_s/39-1.png"/> Explochin</td>
       <td><img src="../images/monsters_s/14-1.png"/> Shagga</td>
+      <td><img src="../images/monsters_s/39-1.png"/> Explochin</td>
+      <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="6" class="tableDivider"></td>
+      <td colspan="7" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">28-49</td>
-      <td><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
-      <td><img src="../images/monsters_s/20-2.png"/> Daze Radish</td>
-      <td><img src="../images/monsters_s/18-2.png"/> Porko</td>
+      <td rowspan="1" class="centeredText">28, 35, 42, 49</td>
+      <td><img src="../images/monsters_s/5-1.png"/> Death Reaper</td>
       <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
+      <td><img src="../images/monsters_s/18-2.png"/> Porko</td>
+      <td><img src="../images/monsters_s/20-2.png"/> Daze Radish</td>
       <td><img src="../images/monsters_s/40-2.png"/> Hoppin' Hitter</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters_s/5-1.png"/> Death Reaper</td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
-      <td class="highlightGray"></td>
+      <td colspan="7" class="tableDivider"></td>
     </tr>
     <tr>
-      <td colspan="6" class="tableDivider"></td>
-    </tr>
-    <tr>
-      <td rowspan="2" class="centeredText">56-70</td>
-      <td><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
-      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
+      <td rowspan="2" class="centeredText">56, 63, 70</td>
       <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
       <td><img src="../images/monsters_s/15-3.png"/> Baby Tank</td>
+      <td><img src="../images/monsters_s/16-3.png"/> Adamant Tank</td>
+      <td><img src="../images/monsters_s/18-3.png"/> Porkon</td>
       <td><img src="../images/monsters_s/19-3.png"/> Archdragon</td>
     </tr>
     <tr>
-      <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
-      <td><img src="../images/monsters_s/18-3.png"/> Porkon</td>
+      <td><img src="../images/monsters_s/40-3.png"/> Hoppin' Slugger</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
-      <td colspan="6" class="tableDivider"></td>
+      <td colspan="7" class="tableDivider"></td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText">77-98</td>
-      <td><img src="../images/monsters_s/16-4.png"/> Steadfast Tank</td>
-      <td><img src="../images/monsters_s/22-4.png"/> Ultra Gazer</td>
-      <td><img src="../images/monsters_s/15-4.png"/> Mini Tank</td>
-      <td><img src="../images/monsters_s/18-4.png"/> Porgon</td>
+      <td rowspan="2" class="centeredText">77, 84, 91, 98</td>
+      <td><img src="../images/monsters_s/1-4.png"/> Gitan Mamel</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
       <td><img src="../images/monsters_s/13-4.png"/> Miracle Hen</td>
+      <td><img src="../images/monsters_s/15-4.png"/> Mini Tank</td>
+      <td><img src="../images/monsters_s/16-4.png"/> Steadfast Tank</td>
+      <td><img src="../images/monsters_s/18-4.png"/> Porgon</td>
     </tr>
     <tr>
       <td><img src="../images/monsters_s/19-4.png"/> Abyss Dragon</td>
-      <td><img src="../images/monsters_s/1-4.png"/> Gitan Mamel</td>
-      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+      <td><img src="../images/monsters_s/22-4.png"/> Ultra Gazer</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>

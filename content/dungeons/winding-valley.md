@@ -29,7 +29,13 @@ metaDescription: "Winding Valley dungeon guide for Shiren the Wanderer: The Myst
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Stairs</th>
+    <td>Descending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td>No</td>
+    <th>Roamers</th>
     <td>No</td>
   </tr>
   <tr>
@@ -53,6 +59,12 @@ metaDescription: "Winding Valley dungeon guide for Shiren the Wanderer: The Myst
     <td>Yes</td>
   </tr>
   <tr>
+    <th>Behemoths</th>
+    <td>Yes</td>
+    <th>Wishing Shrines</th>
+    <td></td>
+  </tr>
+  <tr>
     <th>Kron's Challenge</th>
     <td>Yes</td>
     <th>Fever Time</th>
@@ -62,11 +74,11 @@ metaDescription: "Winding Valley dungeon guide for Shiren the Wanderer: The Myst
     <th>Initial Enemies</th>
     <td></td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>50 Turns (1F - 24F)<br/>40 Turns (25F - 30F)<br/>35 Turns (31F - 40F)<br/>30 Turns (41F - 99F)</td>
   </tr>
   <tr>
     <th>Wind (1st Gust)</th>
-    <td></td>
+    <td>1700 Turns</td>
     <th>Reward</th>
     <td></td>
   </tr>
@@ -1458,7 +1470,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">68</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters_s/24-2.png"/> Polygon Shaka</td>
@@ -2156,6 +2168,56 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
+    </tr>
+  </tbody>
+</table>
+
+# Behemoths
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="4">Behemoth Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="centeredText">67, 71, 75, 79, 83, 87, 91</td>
+      <td><img src="../images/monsters_s/5-4.png"/> King Reaper</td>
+      <td><img src="../images/monsters_s/6-4.png"/> Pumplord</td>
+      <td><img src="../images/monsters_s/31-4.png"/> Cursenior</td>
+      <td><img src="../images/monsters_s/43-4.png"/> Showpin</td>
+    </tr>
+    <tr>
+      <td colspan="5" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">68, 72, 76, 80, 84, 88, 92</td>
+      <td><img src="../images/monsters_s/5-3.png"/> Soul Reaper</td>
+      <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
+      <td><img src="../images/monsters_s/31-3.png"/> Curse Matron</td>
+      <td><img src="../images/monsters_s/43-3.png"/> Bellthoven</td>
+    </tr>
+    <tr>
+      <td colspan="5" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">69, 73, 77, 81, 85, 89, 93</td>
+      <td><img src="../images/monsters_s/5-2.png"/> Hell Reaper</td>
+      <td><img src="../images/monsters_s/6-2.png"/> Pumpanshee</td>
+      <td><img src="../images/monsters_s/31-2.png"/> Cursister</td>
+      <td><img src="../images/monsters_s/43-2.png"/> Menbell</td>
+    </tr>
+    <tr>
+      <td colspan="5" class="tableDivider"></td>
+    </tr>
+    <tr>
+      <td class="centeredText">70, 74, 78, 82, 86, 90, 94</td>
+      <td><img src="../images/monsters_s/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters_s/6-1.png"/> Pumphantasm</td>
+      <td><img src="../images/monsters_s/31-1.png"/> Curse Girl</td>
+      <td><img src="../images/monsters_s/43-1.png"/> Schubell</td>
     </tr>
   </tbody>
 </table>

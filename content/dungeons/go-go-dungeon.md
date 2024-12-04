@@ -29,7 +29,13 @@ metaDescription: "Go Go Dungeon guide for Shiren the Wanderer: The Mystery Dunge
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Stairs</th>
+    <td>Descending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td>No</td>
+    <th>Roamers</th>
     <td>No</td>
   </tr>
   <tr>
@@ -53,6 +59,12 @@ metaDescription: "Go Go Dungeon guide for Shiren the Wanderer: The Mystery Dunge
     <td>Yes (Fixed: 5F)</td>
   </tr>
   <tr>
+    <th>Behemoths</th>
+    <td>No</td>
+    <th>Wishing Shrines</th>
+    <td>No</td>
+  </tr>
+  <tr>
     <th>Kron's Challenge</th>
     <td></td>
     <th>Fever Time</th>
@@ -62,7 +74,7 @@ metaDescription: "Go Go Dungeon guide for Shiren the Wanderer: The Mystery Dunge
     <th>Initial Enemies</th>
     <td></td>
     <th>Spawn Rate</th>
-    <td></td>
+    <td>35 Turns (1F - 4F)<br/>30 Turns (5F)</td>
   </tr>
   <tr>
     <th>Wind (1st Gust)</th>

@@ -42,7 +42,7 @@ metaDescription: "Soul of Serpentcoil Island dungeon guide for Shiren the Wander
     <th>Rescues</th>
     <td>3</td>
     <th>Starting Level</th>
-    <td>1</td>
+    <td>Lv1</td>
   </tr>
   <tr>
     <th>Starting Item</th>
@@ -2725,65 +2725,65 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tbody>
     <tr>
       <td rowspan="1" class="centeredText">8-16</td>
-      <td>Swordsman</td>
-      <td>Minotaur</td>
-      <td>Armordillo</td>
-      <td>Firepuff</td>
-      <td>Dragon</td>
-      <td>Gazer</td>
-      <td>Shagga</td>
+      <td><img src="../images/monsters_s/7-1.png"/> Firepuff</td>
+      <td><img src="../images/monsters_s/8-1.png"/> Armordillo</td>
+      <td><img src="../images/monsters_s/11-2.png"/> Minotaur</td>
+      <td><img src="../images/monsters_s/14-1.png"/> Shagga</td>
+      <td><img src="../images/monsters_s/33-1.png"/> Swordsman</td>
+      <td><img src="../images/monsters_s/22-1.png"/> Gazer</td>
+      <td><img src="../images/monsters_s/19-1.png"/> Dragon</td>
     </tr>
     <tr>
       <td colspan="8" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="1" class="centeredText">28-42</td>
-      <td>Ghost Radish</td>
-      <td>Bowboy</td>
-      <td>Pop Tank</td>
-      <td>Explochin</td>
-      <td>Mamel</td>
-      <td>Porky</td>
-      <td></td>
+      <td><img src="../images/monsters_s/1-1.png"/> Mamel</td>
+      <td><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
+      <td><img src="../images/monsters_s/16-1.png"/> Pop Tank</td>
+      <td><img src="../images/monsters_s/18-1.png"/> Porky</td>
+      <td><img src="../images/monsters_s/20-1.png"/> Ghost Radish</td>
+      <td><img src="../images/monsters_s/39-1.png"/> Explochin</td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="8" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="1" class="centeredText">51-57</td>
-      <td>Sleep Radish</td>
-      <td>Death Reaper</td>
-      <td>Curse Matron</td>
-      <td>Battler</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><img src="../images/monsters_s/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters_s/31-3.png"/> Curse Matron</td>
+      <td><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="8" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="1" class="centeredText">70-75</td>
-      <td>Frenzy Radish</td>
-      <td>Death Reaper</td>
-      <td>Curse Matron</td>
-      <td>Battler</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><img src="../images/monsters_s/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters_s/20-4.png"/> Frenzy Radish</td>
+      <td><img src="../images/monsters_s/31-3.png"/> Curse Matron</td>
+      <td><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
     <tr>
       <td colspan="8" class="tableDivider"></td>
     </tr>
     <tr>
       <td rowspan="1" class="centeredText">89-94</td>
-      <td>Frenzy Radish</td>
-      <td>Sleep Radish</td>
-      <td>Death Reaper</td>
-      <td>Curse Matron</td>
-      <td>Battler</td>
-      <td></td>
-      <td></td>
+      <td><img src="../images/monsters_s/5-1.png"/> Death Reaper</td>
+      <td><img src="../images/monsters_s/20-3.png"/> Sleep Radish</td>
+      <td><img src="../images/monsters_s/20-4.png"/> Frenzy Radish</td>
+      <td><img src="../images/monsters_s/31-3.png"/> Curse Matron</td>
+      <td><img src="../images/monsters_s/33-3.png"/> Battler</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
     </tr>
   </tbody>
 </table>
