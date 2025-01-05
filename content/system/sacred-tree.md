@@ -112,7 +112,19 @@ Altered Effects:
 
 #### Characteristics
 
-- [Content]
+- Normal attack is a whip that reaches 2 tiles forward.
+  - The whip passes through walls and creatures.
+  - If Sealed or Potted, attack becomes a 1 tile punch.
+- Can walk on water, like an innate Waterwalk Bracelet.
+  - Exposed scrolls will get wet, and food rot.
+- Heals when exposed to water.
+  - Includes being on a water tile, rust traps, and Water Ninja's water attack.
+  - Rust traps will be ignored.
+  - Tatsumi Shiren will still instantly collapse if exposed to water in Onigiri state.
+- Cannot enter Sumo status.
+- Despite visually floating, Tatsumi Shiren is not floating in a gameplay sense.
+  - Will activate traps and cannot pass over air.
+  - Gravity Incense does not prevent Tatsumi Shiren from walking over water.
 
 #### Abilities / Altered Effects
 
@@ -135,7 +147,17 @@ Altered Effects:
 
 #### Techniques
 
-- [Content]
+- Take advantage of water whenever possible.
+  - Water tiles let you recover each turn, do not have traps, and give you extra escape routes most monsters can't follow you through.
+  - Collecting items from item islands is trivial.
+  - Using water can let you attack enemies without them reaching you.
+  - You will still heal even when starving, so staying in water can keep you alive at 0 Fullness.
+  - Be conscious of your scrolls and food before entering water. Preservation Pots are more valuable for keeping scrolls and food safe.
+- Tatsumi Shiren's whip is 2 tiles long and passes through walls and entities, allowing for a first strike.
+  - Attack around corners for a first strike, or while safe inside water.
+  - You can attack enemies that are inside walls.
+  - Note that talking to NPCs takes priority, so if a monster is behind an NPC in a hallway you can't attack past the NPC to hit the enemy.
+  - The whip lets you defeat Behemoth monsters through their barrier, though it's dangerous since you have to be right next to them.
 
 ### Koppa
 
