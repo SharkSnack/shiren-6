@@ -303,7 +303,7 @@ metaDescription: "Complete incense details for Shiren the Wanderer: The Mystery 
               <div>?~?</div>
             </div>
             <div class="monster_text">Burning this item inflicts all beings with Blurry status,<br/>making them unable to see more than 1 tile(s) away.</div>
-            <div class="monster_notes">No additional notes.</div>
+            <div class="monster_notes">Using a Mapping Scroll or eating a Dark Owl Bun will remove this effect.</div>
           </div>
         </div>
       </td>
