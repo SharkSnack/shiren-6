@@ -219,7 +219,9 @@ Altered Effects:
 
 #### Abilities / Altered Effects
 
-- None.
+- Sumo status increases critical hit rate to 100%, but also further doubles fullness depletion to 4x normal depletion.
+- Starting items for dungeons are altered to also include one random Peach Bun.
+- There are heart particle effects whenever Asuka eats a Peach Bun.
 
 #### Techniques
 
