@@ -72,17 +72,31 @@ metaDescription: "Forest of Frugality dungeon guide for Shiren the Wanderer: The
   </tr>
 </table>
 
-[Content]
+Forest of Frugality is a dungeon in which your inventory is cleared and replaced at the start of each floor with 12 random items. This forces the player to adapt on-the-fly with whatever Reeva, the God of Fate, decides to bestow upon them... or to just eat everything and abuse Sumo status.
 
 # Strategy
 
 ### General
 
-[Content]
+As stated above, you are given 12 random items at the start of each floor, overwriting whatever was in your inventory at the time. This means that farming techniques are generally a waste of time, because you cannot take anything from your inventory with you to the next floor. The only things that you get to keep are your stats and the Gitan in your wallet.
+
+On top of this, the only other items that generate on a floor are either buried in walls, sold in shops, or dropped by monsters, so how each floor is to be approached is determined at the start of the floor. If you are given equipment, then it would be a good idea to hunt monsters for experience. Otherwise, it would probably be smarter to just rush for the stairs.
+
+If you are given a Collection Scroll, it is a good idea to immediately read it, as this will give you a handful of extra items to use for the floor. If you find a shop, consider selling off anything you aren't planning on using for extra funds, and buy any food for sale. And before using the stairs, eat as many consumable items that you can, as there may be stretches of floors where you are not given any food, and hunger can become a serious issue.
+
+If possible, try to get Sumo status immediately. The boost to strength and HP, as well as the ability to dig into walls, can offset the consequences of getting a bad item assortment for a floor.
 
 # Floor Guide
 
-[Content]
+Due to the incredibly random nature of this dungeon, it is difficult to give a proper floor-by-floor strategy. However, there are two notable areas to mention.
+
+### 2F - 3F
+
+Nigiri Baby can spawn in this floor range, so if you are lucky enough to have gotten a good shield in your item assortment, it would be a good idea to attempt Nigiri Morph Factory to rush for Sumo status. However, the effectiveness will depend on how many other items you got, and if you were given any projectile stacks that can be split up. If you find an arrow trap, this would be the only reason to farm arrows from them at this time.
+
+### 30F
+
+The final floor is very different from every other floor in this dungeon. You will always start in a Monster House, and roughly half of the items you will be given are high-value Gitan bags. The other items you are given are generally high quality, such as Floating Bracelet and Blank Scroll. If you are lucky to get a Blank Scroll here, it is advised to immediately write and use an Expulsion Scroll to remove all of the enemies in the Monster House. Then it is a matter of rushing for the stairs to complete the dungeon and take home whatever is left in your inventory.
 
 # Monsters
 
