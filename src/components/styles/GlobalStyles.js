@@ -712,17 +712,24 @@ export const baseStyles = css`
     background-color: #d4e2ff;
   }
   .monsterTable td {
-    padding-left: 2.5px;
-    padding-right: 2.5px;
-    padding-top: 3.5px;
-    padding-bottom: 3.5px;
-    font-size: 13.5px;
+    padding: 4px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 12.5px;
   }
   .monsterTable img {
     position: relative !important;
-    max-height: 20px;
-    max-width: 20px;
+    max-height: 18px;
+    max-width: 18px;
     border-radius: 5px;
+  }
+  #hideMonTblImgBtn {
+    padding: 3px;
+    border-radius: 3px;
+    margin: 0;
+  }
+  .hidden {
+    display: none;
   }
   .monsterTableSmall th {
     padding: 2px;
@@ -1221,14 +1228,20 @@ export const baseStyles = css`
   .dungeonItemTable td {
     text-align: center;
     min-width: 25px;
-    padding: 4px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
   }
   .itemTable th {
     text-align: center;
     padding: 3px;
   }
   .itemTable td {
-    padding: 3px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-top: 2px;
+    padding-bottom: 2px;
   }
   .trainingTable th {
     font-weight: normal;
@@ -1628,7 +1641,7 @@ export const baseStyles = css`
     background-color: #F3FFF3;
   }
   .highlightGray {
-    background-color: #f7f7f7 !important;
+    background-color: #eee !important;
   }
   .highlightDarkGray {
     background-color: #dfdfdf !important;
@@ -2320,6 +2333,19 @@ export const baseStyles = css`
     border-right: 1px solid #ffbd76;
     border-bottom: 2px solid #ffbd76;
     border-top: 1px solid #ffbd76;
+    padding-left: 10px;
+  }
+
+  .heading3Tree {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-top: 16px;
+    border-left: 10px solid #ffb6f6;
+    border-right: 1px solid #ffb6f6;
+    border-bottom: 2px solid #ffb6f6;
+    border-top: 1px solid #ffb6f6;
     padding-left: 10px;
   }
 

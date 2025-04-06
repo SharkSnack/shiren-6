@@ -29,7 +29,13 @@ metaDescription: "Wild Monster Path dungeon guide for Shiren the Wanderer: The M
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Stairs</th>
+    <td>Ascending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td>Yes</td>
+    <th>Roamers</th>
     <td>Yes</td>
   </tr>
   <tr>
@@ -72,19 +78,269 @@ metaDescription: "Wild Monster Path dungeon guide for Shiren the Wanderer: The M
   </tr>
 </table>
 
-[Content]
+The JP name is "Waku Waku Monster Path", where "Waku Waku" reads as ワクワク (fun) or 湧く湧く (spawn),<br/>and as such a name implies, monsters indeed spawn very quickly and abundantly in this dungeon.<br/>In addition, there are also guaranteed single room Monster Houses on floor numbers ending in 9,<br/>and Behemoth Gates which rarely change locations are guaranteed to appear every 7 floors.<br/>So it's like a dungeon that mashes "Monster Hotspot" and "Rousing Paradise" together from Shiren 5,<br/>but it's generally not as hard thanks to the lack of out of depth and swarm monsters.
 
 # Strategy
 
-### General
+### Dungeon Characteristics
+
+#### Fast Monster Spawns (1 every 20-10 turns)
+
+Monsters spawn at x2\~3 speed compared to normal dungeons (<u>1-10F</u>: 20T, <u>11-50F</u>: 15T, <u>51-99F</u>: 10T).<br/>This means it's harder to rely on natural HP regen to survive since the next monster arrives so quickly.<br/>However, running away instead of fighting what's in front of you often results in getting cornered by foes,<br/>so you'll want to focus on increasing your damage output as much as possible.
+
+The monster table is on the unique side with monk and ninja enemies nowhere to be found.<br/>Therefore, the priority of shield runes and bracelets differs a bit compared to other dungeons.
+
+#### Larger Floors
+
+Larger floors provide a benefit in less clustering of foes despite the faster monster spawn rate,<br/>but it also means it takes more effort to maintain Sumo status or make Behemoth Gates vanish for items.<br/>Try to make an effort to explore floors in an efficient manner, and it might be good to plan ahead<br/>when it comes to which floors you want to try and rush to the stairs on.
+
+#### Guaranteed Monster Houses (X9F)
+
+Single room Monster House floors are generated on 9F, 19F, 29F, 39F, 59F, 69F, 79F, 89F, and 99F.<br/>49F is an exception - The floor generation is normal and a regular Monster House is generated instead.<br/>Many of these MH floors feature Chow as a possible spawn, so it's important to be efficient with actions.<br/>Items that counter Monster Houses are pretty common, though, so it's not hard to prepare in advance.
+
+#### Behemoth Gate Floors (7xN)
+
+Behemoth Gates appear on 7F, 14F, 21F, 28F, 35F, 42F, 49F, 56F, 63F, 70F, 77F, 84F, 91F, and 98F.<br/>The Behemoth Monsters that spawn are special - Only 1\~3 spawn at a time, and they linger a long time.<br/>In addition, the Behemoth Gate itself rarely relocates elsewhere, so think about your route carefully.<br/>77F, 84F, 91F, and 98F can generate very dangerous Behemoths like Mini Tank, Ultra Gazer, Abyss Dragon, etc.
+
+#### Companions & NPCs Can Appear
+
+Depending on your luck, you might encounter mutliple companions throughout the dungeon.<br/>Companions are great for boosting early game consistency prior to finding equipment or items.<br/>Of course, they can be helpful even later on, but it's challenging to keep them alive that long.
+
+#### Kron's Challenge & Fever Time
+
+These 2 events seem to occur more often than in other dungeons.<br/>Fever Time events where foes are guaranteed to drop items synergizes well with fast monster spawns,<br/>so if you manage to get that event, step in place to quickly lure monsters to you for item drops.
+
+#### Ascending Stairs
+
+This dungeon has Bottomless Pot in its item table, but the dungeon features ascending stairs,<br/>so don't make the mistake of trying to steal from a shop or skip floors by breaking a Bottomless Pot.
+
+### General Strategy
+
+The basic plan is like Heart of Serpentcoil Island - Collect items and synthesize with Mixers to keep up.<br/>But monsters with mean special attacks are more dangerous due to faster spawns if you lack counters,<br/>so you'll want to be more discerning when it comes to deciding whether or not to rush stairs.<br/>Focus on shield runes and bracelets, but don't neglect other items like counters to Monster House floors.<br/>The dungeon's floors alternate between ranges with and without darkness in hallways.
+
+Item drops are easier to come by than in other dungeons since you'll be slaying more enemies.<br/>Weapons, shields, and consumables are common, but Preservation Pots and bracelets seem to be rare.
+
+It's possible to perform Nigiri Morph Factory using Nigiri Baby on 3-4F, but it's not essential at all.<br/>Upgrading equipment or relying on companions should be enough to keep up without activating Sumo status,<br/>but it doesn't hurt to stock up on some additional food while you have the chance.
+
+The difficulty is more variable than other dungeons thanks to companions, Fever Times, and Kron's Challenges.<br/>Companions in particular can be used to regroup via safely hunting Thiefwalrus (19-23F) for extra item drops,<br/>so don't give up even if you don't see Fever Times, Kron's Challenges, or good floor items early on.
+
+As far as playable characters go, Asuka (DLC) really shines under this dungeon's ruleset.<br/>Axe of the Minotaur and Daredevil Bracelet both provide a boost to her innate critical hit rate,<br/>and she makes short work of Monster Houses if she activates Sumo status to attain a 100% critical hit rate.<br/>The faster Fullness depletion during Sumo status isn't a big issue when only used to clear MHs.
+
+#### First Clear
+
+For the first clear, 40-50F is the floor range where it's recommended to rush to the stairs.<br/>You can trade hits with enemies relatively comfortably with 20 or so weapon and shield strength,<br/>so you might want to switch to focusing on non-synthesis related items from around that point.<br/>There are 4 guaranteed Monster House floors during the first clear (9F, 19F, 29F, and 39F),<br/>and an easy counter to these single room MH floors is to simply use a Blurry Incense.
 
 ### Important Items
 
+#### Weapon & Runes
 
+It's best to focus on runes that apply to a wide range of enemies instead of a narrow range.<br/>A Sacred Item is typically the ideal base weapon, but anything with lots of slots is decent early on.
+
+<p><b><u>Sedating</u></b>, <b><u>Blinding</u></b>, <b><u>Paralyzing</u></b>, <b><u>Confusing</u></b>, <b><u>Sealing</u></b><br/>Status inflicting runes work against all enemies, making these a high priority.<br/>Sealing is decent if you want to minimize your chances of getting hit by dangerous special attacks,<br/>but note that it can lead to the player getting hit by more normal attacks than usual.</p>
+
+<p><b><u>Frontal Attack (Kama Itachi)</u></b><br/>Enemy spawn rate is fast and there are guaranteed Monster Houses, so this is a top priorty.</p>
+
+<p><b><u>Critical (Axe of the Minotaur)</u></b>, <b><u>Knockback (Whopping Harisen)</u></b>, <b><u>Swift Strikes (Swift Sword)</u></b><br/>Runes that boost damage output against all enemies instead of being specific to a single family.<br/>Remember, it's possible to find both Targe of the Minotaur and Daredevil Bracelet in this dungeon<br/>to boost your critical hit rate even further.</p>
+
+<p><b><u>Anti-Dragon (Dragonkiller)</u></b><br/>Archdragon (89-99F) can be turned into a non-issue by throwing an Eradication Scroll,<br/>so this rune is more for the Dragon and Sky Dragon (28-39F) zone and Hiding Dragon (89-99F).</p>
+
+<p><b><u>Anti-Beast (Primal Axe)</u></b><br/>Nice to have from 68F+ against Huge Chintala, Megataur, Miracle Hen, Grampadillo, and Tiger Chucker.</p>
+
+<p><b><u>Anti-Ghost (Sickle of Salvation)</u></b><br/>Great against Skull Lord (68-77F) and King Reaper (78-88F) if you don't eradicate them instead.<br/>It's also nice even early game against monsters like Ghost Samurai and the Pumphantasm family,<br/>and the weapon itself makes for a solid early game main weapon thanks to a high rune slot count.</p>
+
+<p><b><u>Anti-Aquatic (Watersplitter)</u></b><br/>Nice against Octopling, Thiefwalrus, Mudkin, and Explochin families in particular.</p>
+
+<p><b><u>Anti-Drain (Drain Slayer)</u></b><br/>Good against monsters that lower your stats or your equipment's upgrade value,<br/>but Draining types stop appearing after 54F, so it becomes a wasted slot in the second clear.<br/>That said, it's still handy for the Draining type monster zone starting at around 30F.</p>
+
+<p><b><u>Break-Off Blade + Dried Bonito (Bonito Block)</u></b><br/>Synthesize a Bonito Block into a Break-Off Blade to create a long-lasting food source.</p>
+
+#### Shield & Runes
+
+Prioritize runes that counter dangerous monster special attacks.<br/>Beware of Mudder erasing runes if you decide to use Golden Shield as a main shield.<br/>Shield strength is still important, especially for the 2nd clear (Miracle Hens and King Reapers).
+
+<p><b><u>Onigiri Payback (Onigiri Scroll)</u></b>, <b><u>Jitter Payback (Jitters Scroll)</u></b>, <b><u>Delusion Payback (Sacred Item)</u></b><br/>Top priority runes that provide a chance to disable any enemy that uses normal attacks.<br/>Leap Payback is not recommended since it just postpones the encounter instead of disabling the foe.</p>
+
+<p><b><u>Critproof (Targe of the Minotaur)</u></b><br/>This shield rune reduces damage received from enemy critical hits by 55%,<br/>so you can pair it with Daredevil Bracelet or Dreaded Bracelet to effectively reduce damage received.<br/>Targe of the Minotaur can be found on the ground in this dungeon.</p>
+
+<p><b><u>Anti-Dragon (Dragon Shield)</u></b><br/>Great to have for the Dragon and Sky Dragon zone (28-39F), along with Archdragon floors.<br/>Chow is pretty common in this dungeon, so Archdragons can be generated via a Sky Dragon leveling up.<br/>The 29F and 39F single room Monster House floors are especially dangerous when it comes to fire damage.<br/>This rune also helps against Behemoth Archdragon (56F, 63F, 70F) and Abyss Dragon (77F, 84F, 91F, 98F).</p>
+
+<p><b><u>Magic Cancel (Shield of Negation)</u></b><br/>Essential for Skull Lord (68-77F) floors if you don't plan on eradicating them.<br/>Lv1-2 Skull Mage monsters aren't much of a threat - Focusing Bracelet counters Skull Wizard (19-22F).</p>
+
+<p><b><u>Projectileproof (Kappa's Dish)</u></b><br/>Nice to have for Mini Tank (40-44F) floors in particular, but it's not a complete counter.<br/>Also helps against Pesky Kappa (28-31F), Vexing Kappa (55-59F), Daze Radish (26-30F), Bag Knave (60-67F),<br/>and Porko (24-27F) and such.</p>
+
+<p><b><u>Nigiriproof (Nigiri Stopper)</u></b><br/>Counters Nigiri Boss (60-67F) and Nigiri Honcho (89-99F)'s special attacks.<br/>It's easy to forget, but it also offers protection against Onigiri Trap.</p>
+
+<p><b><u>Anti-Blast (Blast Shield)</u></b><br/>Essential for the tank zone (40-44F) if you don't have an Eradication Scroll.<br/>Also helps against Concusschin (60-77F) and Fulminachin (78-88F), so it won't go to waste.</p>
+
+<p><b><u>Hatproof (Hat Stopper)</u></b><br/>Basically for Hat Brat (60-67F) if you want to make that floor range slightly less stressful.</p>
+
+<p><b><u>Walrusproof (Walrus Stopper)</u></b>, <b><u>Froggoproof (Froggo Stopper)</u></b><br/>Unnecessary if you have a companion with you, since Froggo and Thiefwalrus can't steal from companions.<br/>In any case, it's best on a secondary shield instead of synthesizing it into your main one.</p>
+
+#### Bracelets
+
+<p><b><u>Monster-find Bracelet</u></b><br/>Eliminates the risk of blindly bumping into enemies and getting hit first in hallways.<br/>If you're lucky enough to find this bracelet, take very good care of it.</p>
+
+<p><b><u>Tiptoe Bracelet</u></b><br/>Equip it before advancing to the next floor in case you start inside a Monster House.<br/>Also great for avoiding always-napping monsters like Karakuroid and Thiefwalrus.</p>
+
+<p><b><u>Waterwalk Bracelet</u></b>, <b><u>Floating Bracelet</u></b><br/>Opens up new escape routes, and lets you safely recover HP by stepping in place.</p>
+
+<p><b><u>Focusing Bracelet</u></b><br/>Counters Daze Radish (26-30F) and Skull Wizard (19-22F).<br/>It's fine to discard it once you've reached 31F.</p>
+
+<p><b><u>Affixing Bracelet</u></b><br/>Counters Swordsman (20-24F), Fencer (51-57F), Battler (68-77F), and Bag Knave (60-67F).<br/>Especially important for floors that have said monsters + dark hallways.</p>
+
+<p><b><u>Daredevil Bracelet</u></b>, <b><u>Dreaded Bracelet</u></b><br/>Equip these alongside Targe of the Minotaur to effectively reduce damage received.</p>
+
+#### Scrolls
+
+<p><b><u>Mapping Scroll</u></b>, <b><u>Monstercall Scroll</u></b><br/>Mapping Scroll is handy for when you want to linger and farm, check for shops, or rush to the stairs.<br/>Monstercall Scroll can be used to activate a Monster-find Bracelet type effect for the current floor,<br/>but make sure you have other items to deal with the generated Monster House before reading it.<br/>Some good floor ranges to use Mapping Scrolls on are 40-44F and 60-67F.</p>
+
+<p><b><u>Wall-less Scroll</u></b><br/>Can be used to steal from a shop or make a Behemoth Gate vanish, but think carefully before reading it.<br/>It's best to check the monster table for the current floor beforehand to see what you'll be up against.</p>
+
+<p><b><u>Eradication Scroll</u></b><br/>Synthesis isn't as hard to perform as other dungeons, so prioritize eradicating nasty special attackers<br/>that you don't have counters to yet.</p>
+
+##### Eradication Targets
+
+|Family|Floors|
+|-|-|
+|Pop Tank|<b><u>Lv1:</u></b> 19-22F, <b><u>Lv2-4:</u></b> 40-44F|
+|Nigiri Morph|<b><u>Lv1:</u></b> 3-4F, <b><u>Lv3:</u></b> 60-67F, <b><u>Lv4:</u></b> 89-99F|
+|Field Knave|<b><u>Lv3:</u></b> 60-67F|
+|Swordsman|<b><u>Lv1:</u></b> 20-24F, <b><u>Lv2:</u></b> 51-57F, <b><u>Lv3:</u></b> 68-77F|
+|Skull Mage|<b><u>Lv1-2:</u></b> 19-23F, <b><u>Lv4:</u></b> 68-77F|
+|Death Reaper|<b><u>Lv1:</u></b> 4-6F, <b><u>Lv2:</u></b> 9-11F, <b><u>Lv4:</u></b> 78-88F|
+|Dragon|<b><u>Lv1-2:</u></b> 28-39F, <b><u>Lv3:</u></b> 89-99F|
+
+#### Incense
+
+<p><b><u>Incense (Various Types)</u></b><br/>Blurry Incense is spectacular in particular, but other types can be useful too.<br/>Heat-ban, Reflective, and Evasive incenses should ideally be paired with a Mapping Scroll.</p>
+
+### Farming Techniques
+
+<p><b><u>Schubell Farm (14-15F)</u></b><br/>Schubell appears between 12-15F, but Crossbowboy overlaps on 12-13F so 14-15F is best.<br/>Simply place a Sacntuary Scroll on the ground for safety, and have Schubell summon new monsters.<br/>This is additionally a nice way to force Mixers to spawn early on to synthesize equipment.</p>
+
+<p><b><u>Thiefwalrus Hunting (19-23F)</u></b><br/>If you have a companion, simply have them fight any Thiefwalrus monsters that spawn for item drops.<br/>However, Skull Mage and Skull Wizard can appear, so beware of becoming separated or an ally getting morphed.</p>
+
+<p><b><u>Skull Wizard Morph Farm (20-22F)</u></b><br/>Intentionally get hit by Skull Wizard's magic until you morph into Swordsman or Thiefwalrus,<br/>then start collecting lots of items from other enemies.</p>
 
 # Floor Guide
 
+### 1-9F
 
+<p><span class="highlightYellow">Notable:</span> Nigiri Baby (3-4F), Firepuff (3-5F), Scorpion (6-8F), Masked Samurai (8-12F), <span class="redText">Behemoth</span> (7F)</p>
+
+Nigiri Baby (17 HP, 8 atk, 2 def) can be used to turn unneeded items into Large Onigiri.<br/>However, Firepuff (20 HP, 7 atk, 7 def)'s 10 damage fire attack will grill all onigiri that aren't in pots.<br/>You can still perform Nigiri Morph Factory with a companion if you paralyze the companion or such.
+
+Masked Samurai (47 HP, 18 atk, 18 def) revives as Ghost Samurai (4 HP, 13 atk, 15 def) when slain.<br/>Ghost Samurai tries to level up an adjacent monster and only takes 1 damage from normal attacks,<br/>but can be one-shot by any type of rock, or by swinging staves like Knockback, Burrowing, or Thunderbolt.
+
+The 1st guaranteed single large room Monster House of this dungeon is encountered on 9F.<br/>None of the monsters have ranged attacks on this floor, so a single Sanctuary Scroll ensures safety.<br/>But if you have a companion with you, you'll want to use other scrolls, staves, or incenses instead.<br/>The high-powered Nashagga appears from 10F, so try to keep your companions alive if possible.
+
+Behemoth Monsters:<br/>7F - Pumphantasm, Firepuff, Shagga, and Explochin.
+
+### 10-19F
+
+<p><span class="highlightYellow">Notable:</span> Nashagga (10-13F), Crossbowboy (10-13F), Schubell (12-15F), Brodillo (16-19F), Big Chintala (17-19F),<br/>Pop Tank (19-22F), Skull Wizard (19-22F), Mixer (10-29F), Chow (15-67F), <span class="redText">Behemoth</span> (14F)</p>
+
+Nashagga (70 HP, 21 atk, 20 def) attacks 2 times per turn and has higher HP, so be very careful.<br/>
+Mixer (78 HP, 39 atk, 29 def) is quite rare, but can be used to synthesize up to 2 thrown items.<br/>Crossbowboy (55 HP, 20 atk, 20 def) overlaps with Bored Kappa on 10-13F, so feel free to collect Iron Arrows.<br/>Consider placing Sanctuary Scroll on 14F or 15F to have Schubell (50 HP, 20 atk, 20 def) summon more Mixers.<br/>Brodillo (70 HP, 36 atk, 38 def) and Big Chintala (85 HP, 40 atk, 33 def) are also rather tough at this point.
+
+The 2nd guaranteed single large room Monster House is encountered on 19F.<br/>The notably troublesome monsters here include Chow, Pop Tank, and Skull Wizard.<br/>It's very common for monsters to level up inside this Monster House, so don't be stingy with items.<br/>Companions can be used to hunt Thiefwalrus monsters for items on 20-23F, so keep them alive at all costs.
+
+Behemoth Monsters:<br/>14F - Pumphantasm, Firepuff, Shagga, and Explochin.
+
+### 20-29F
+
+<p><span class="highlightYellow">Notable:</span> Thiefwalrus (19-23F), Skull Wizard (19-22F), Swordsman (20-24F), Super Gazer (22-24F), Porko (24-27F),<br/>Daze Radish (26-30F), Pesky Kappa (28-31F), Dragon (28-35F), Mixer (10-29F), Chow (15-67F), <span class="redText">Behemoth</span> (21F, 28F)</p>
+
+Thiefwalrus (65 HP, 25 atk, 23 def) and Froggucchi (60 HP, 20 atk, 30 def) can be hunted for items and Gitan,<br/>but beware of Swordsman (77 HP, 30 atk, 25 def) who is capable of disarming your equipped shield.<br/>If you have an Eradication Scroll, consider throwing it at Pop Tank to make 40-44F less of a threat,<br/>but be warned that you'll need a counter for Mini Tanks who shoot Silver Arrows instead.<br/>Mixer family monsters don't appear between 30-39F, so synthesize equipment as needed before advancing.
+
+If you're feeling adventurous, you can intentionally get hit by Skull Wizard's magic until you morph<br/>into either Swordsman or Thiefwalrus, and then begin collecting items from other monsters.
+
+The 3rd guaranteed single large room Monster House is encountered on 29F.<br/>Dragon, Daze Radish, and Dartingfrog are among the companion slayers - Watch your positioning.<br/>Dragon (120 HP, 45 atk, 40 def) spews 20 damage fire in a straight line.<br/>Daze Radish (80 HP, 37 atk, 27 def) throws Confusion Grass → Poison Grass within a 2 tile radius.<br/>Dartingfrog (75 HP, 40 atk, 28 def) pulls creatures within 5 tiles toward itself, then attacks.<br/>Chow also appears, so it's best to rush to the stairs unless you have a Blurry Incense or Expulsion Scroll.<br/>Pesky Kappas can throw items into pots and incenses, so don't be stingy about using items.
+
+Behemoth Monsters:<br/>21F - Pumphantasm, Firepuff, Shagga, and Explochin.<br/>28F - Death Reaper, Pumpanshee, Bowboy, Porko, Daze Radish, and Hoppin' Hitter.
+
+### 30-39F
+
+<p><span class="highlightYellow">Notable:</span> Muddy (30-34F), Vile Scorpion (31-35F), Sky Dragon (36-39F), Chow (15-67F), <span class="redText">Behemoth</span> (35F)</p>
+
+Vile Scorpion (108 HP, 45 atk, 33 def) lowers current strength by 2 when adjacent.<br/>
+Muddy (75 HP, 25 atk, 33 def) lowers equipped weapon or shield upgrade value by 2 when adjacent.<br/>You really don't want to lose upgrade value with all of the fighting you have to do in this dungeon,<br/>so if you don't have Rustproof runes or a Monster-find Bracelet, consider rushing to the stairs.
+
+The 4th guaranteed single large room Monster House is encountered on 39F.<br/>Sky Dragon overlaps with Chow, so expect Sky Dragons to immediately level up into Archdragons.<br/>Rush to the stairs even if you have Anti-Dragon (shield), since it might not be enough to survive for long.<br/>Thankfully all other monsters on this floor have regular action speed and only move 1 tile per turn,<br/>so as long as you have a way to deal with the fire damage, you should be able to make it to the stairs.
+
+Behemoth Monsters:<br/>35F - Death Reaper, Pumpanshee, Bowboy, Porko, Daze Radish, and Hoppin' Hitter.
+
+### 40-44F
+
+<p><span class="highlightYellow">Notable:</span> Mini Tank (40-44F), Adamant Tank (40-44F), Steadfast Tank (40-44F), Mixermon (40-50F), <span class="redText">Behemoth</span> (42F)</p>
+
+The dreaded Tank Zone with the addition of Mini Tanks, along with Behemoth Monsters on 42F.<br/>It can be tricky to survive even with the Anti-Blast rune depending on the number of tanks,<br/>so the best counter is to use a Heat-ban Incense + throw an Eradication Scroll at Mini Tank.<br/>However, you'll still want to <span class="orangeText">rush to the stairs on 44F</span> to avoid Igneous multiplying from explosions.<br/>Read a Mapping Scroll or use the Wall-less Scroll → Blurry Incense combo to advance quickly.<br/>※ If your shield is very strong or you lack Heat-ban Incense, eradicate the Pop Tank family instead.
+
+Ornery Tank (95 HP, 40 atk, 44 def) is regular speed and deals 30 damage per cannonball.<br/>Adamant Tank (100 HP, 60 atk, 54 def) is Swift 1 speed and deals 40 damage per cannonball.<br/>Steadfast Tank (105 HP, 80 atk, 64 def) is Swift 2 speed and deals 50 damage per cannonball.<br/>Mini Tank (100 HP, 55 atk, 40 def) is Swift 1 speed and shoots Silver Arrows when lined up.<br/>Mixermon (98 HP, 50 atk, 35 def) eats and synthesizes up to 3 thrown items.
+
+Behemoth Monsters:<br/>42F - Death Reaper, Pumpanshee, Bowboy, Porko, Daze Radish, and Hoppin' Hitter.
+
+### 45-50F
+
+<p><span class="highlightYellow">Notable:</span> Mixermon (40-50F), Dragon Pit (45-50F), Steamroid (45-50F), Mudster (47-54F), Mudder (47-54F), <span class="redText">Behemoth</span> (49F)</p>
+
+Easier than the previous floor range, but not entirely without danger.<br/>Mixermon is still around until 50F, so feel free to synthesize if the opportunity comes up.<br/>If you're only aiming for the first clear, go ahead and rush stairs while using up remaining items.
+
+Dragon Pit (130 HP, 54 atk, 40 def) and Steamroid (100 HP, 45 atk, 48 def) have Swift 1 speed.<br/>Thrashead (122 HP, 55 atk, 45 def) can attack through corners and from up to 3 tiles away in a line.<br/>Mudster (140 HP, 35 atk, 43 def) and Mudder (145 HP, 45 atk, 53 def) rust gear or erase runes.
+
+Note that <span class="blueText">49F is not a single large room Monster House,</span> since it overlaps with a Behemoth Gate.<br/>Instead, a regular room-style Monster House will be randomly generated somewhere on the floor.
+
+Behemoth Monsters:<br/>49F - Death Reaper, Pumpanshee, Bowboy, Porko, Daze Radish, and Hoppin' Hitter.
+
+<h3 class="heading3Tree">Sacred Tree Mode</h3>
+
+### 51-59F
+
+<p><span class="highlightYellow">Notable:</span> Mudster (47-54F), Mudder (47-54F), Fencer (51-57F), Vexing Kappa (55-59F), <span class="redText">Behemoth</span> (56F)</p>
+
+Always use the <span class="blueText">Look Around</span> command in rooms so that Tiger Hurler doesn't catch you off guard on 51-54F.<br/>Fencer (140 HP, 49 atk, 48 def) disarms your equipped weapon or shield, sending it behind you.<br/>Tiger Hurler (135 HP, 50 atk, 45 def) throws an adjacent Shiren or other monster within 10 tiles.<br/>
+
+The 5th guaranteed single large room Monster House is encountered on 59F.<br/>Vexing Kappa (175 HP, 49 atk, 33 def) throws items found on the ground at Shiren within a 10 tile radius,<br/>so it's probably best to use an Evasive Incense or Blurry Incense and skip to the stairs.
+
+Behemoth Monsters:<br/>56F - Pumplich, Great Hen, Baby Tank, Adamant Tank, Porkon, Archdragon, and Hoppin' Slugger.
+
+### 60-67F
+
+<p><span class="highlightYellow">Notable:</span> Curse Matron (60-67F), Nigiri Boss (60-67F), Bag Knave (60-67F), Hat Brat (60-67F), <span class="redText">Behemoth</span> (63F)</p>
+
+The harassment team only includes Curse Matron, Nigiri Boss, Bag Knave, and Hat Brat - Hyper Gazer is missing.<br/>Mixergon (118 HP, 68 atk, 40 def) on 51-67F is your last chance to synthesize, since Mixerdons don't appear.<br/>The next stretch features Skull Lord, so synthesize Magic Cancel (Shield of Negation) if at all possible.<br/>Keep an eye out for Reflective Incense for the upcoming Monster House on 69F if you lack Magic Cancel.
+
+Behemoth Monsters:<br/>63F - Pumplich, Great Hen, Baby Tank, Adamant Tank, Porkon, Archdragon, and Hoppin' Slugger.
+
+### 68-77F
+
+<p><span class="highlightYellow">Notable:</span> Skull Lord (68-77F), Battler (68-77F), Pumplord (68-77F), Crow Tengu (68-99F), <span class="redText">Behemoth</span> (70, 77F)</p>
+
+Pumplord (185 HP, 75 atk, 35 def) has high attack power and can pass through walls.<br/>Skull Lord (188 HP, 55 atk, 55 def)'s magic effects include Asleep, Blind, Level-3, or 40 damage.<br/>Battler (200 HP, 69 atk, 50 def) disarms your equipped weapon, shield, or bracelet when adjacent.<br/>Skull Lord can be countered via Magic Cancel or Reflective Incense, and Battler via Affixing Bracelet.<br/>If you want to eradicate one of them, <span class="orangeText">make sure the target is not a disguised Crow Tengu monster.</span><br/>Otherwise, the rest of the monsters here shouldn't be too tricky to deal with.
+
+The 6th guaranteed single large room Monster House is encountered on 69F.<br/>Skull Lords and Battlers are the major threats inside this Monster House, so use items liberally.<br/>Reflective Incense offers protection, but don't forget that it reflects your staff magic as well.
+
+Behemoth Monsters:<br/>70F - Pumplich, Great Hen, Baby Tank, Adamant Tank, Porkon, Archdragon, and Hoppin' Slugger.<br/>77F - Gitan Mamel, Pumplord, Miracle Hen, Mini Tank, Steadfast Tank, Porgon, Abyss Dragon, and Ultra Gazer.
+
+### 78-88F
+
+<p><span class="highlightYellow">Notable:</span> Miracle Hen (78-88F), King Reaper (78-88F), Infernous (78-88F), Crow Tengu (68-99F), <span class="redText">Behemoth</span> (84F)</p>
+
+You're quite likely to struggle in this floor range if your gear is very underpowered.<br/>Again, make sure the target isn't a Crow Tengu if you plan on throwing an Eradication Scroll.<br/>Miracle Hen (220 HP, 82 atk, 60 def) and King Reaper (225 HP, 65 atk, 50 def) both have Swift 2 speed.<br/>Infernous (285 HP, 69 atk, 55 def) is immune to projectiles that lack piercing properties.<br/>Megahead (182 HP, 65 atk, 48 def) can attack through corners and from up to 4 tiles away.
+
+The 7th guaranteed single large room Monster House is encountered on 79F.<br/>Sanctuary Scroll basically ensures safety, but don't let Fulminachin's explosion destroy the scroll.<br/>Fulminachin (200 HP, 45 atk, 32 def) explodes when HP ≤ 40 (160+ damage is dealt to it).
+
+Behemoth Monsters:<br/>84F - Gitan Mamel, Pumplord, Miracle Hen, Mini Tank, Steadfast Tank, Porgon, Abyss Dragon, and Ultra Gazer.
+
+### 89-99F
+
+<p><span class="highlightYellow">Notable:</span> Archdragon (89-99F), Nigiri Honcho (89-99F), Grampadillo (89-99F), Crow Tengu (68-99F), <span class="redText">Behemoth</span> (91, 98F)</p>
+
+The final stretch, featuring an incredibly mean Nigiri Honcho + Archdragon combo.<br/>Nigiri Honcho (165 HP, 61 atk, 54 def) inflicts Onigiri status and turns your items into Large Onigiri.<br/>Archdragon (200 HP, 65 atk, 60 def) spews 30 damage fire at the player from anywhere on the floor,<br/>and if you have Onigiri status, you'll be turned into a Grilled Onigiri and instantly collapse.<br/>So be extremely careful not to get hit with Onigiri status if you lack the Nigiriproof shield rune.
+
+The 8th and 9th guaranteed single large room Monster Houses are encountered on 89F and 99F.<br/>Rush to the stairs, but beware of Grampadillo (175 HP, 71 atk, 56 def) making you trip and drop items.<br/>Tiger Chucker (155 HP, 60 atk, 55 def) throws monsters at you within 15 tiles, so don't drop your guard.<br/>Otherwise, Electroid (150 HP, 56 atk, 53 def) and Hiding Dragon (230 HP, 70 atk, 60 def) have Swift 1 speed.
+
+Behemoth Monsters:<br/>91/98F - Gitan Mamel, Pumplord, Miracle Hen, Mini Tank, Steadfast Tank, Porgon, Abyss Dragon, and Ultra Gazer.
 
 # Monsters
 

@@ -29,7 +29,13 @@ metaDescription: "Quietude of Serpentcoil Island dungeon guide for Shiren the Wa
   <tr>
     <th>Bring Items</th>
     <td>No</td>
-    <th>Allies</th>
+    <th>Stairs</th>
+    <td>Descending</td>
+  </tr>
+  <tr>
+    <th>Companions</th>
+    <td>No</td>
+    <th>Roamers</th>
     <td>No</td>
   </tr>
   <tr>
@@ -44,13 +50,19 @@ metaDescription: "Quietude of Serpentcoil Island dungeon guide for Shiren the Wa
   </tr>
   <tr>
     <th>Unidentified</th>
-    <td colspan="3">Bracelets, Scrolls, Grass, Staves, Pots, Incense</td>
+    <td colspan="3">All categories</td>
   </tr>
   <tr>
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
-    <td>Regular, Sudden, Special</td>
+    <td>Yes (Regular, Sudden, Special)</td>
+  </tr>
+  <tr>
+    <th>Behemoths</th>
+    <td>No</td>
+    <th>Wishing Shrines</th>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
@@ -198,6 +210,8 @@ These two are pretty luck-based and inconsistent, but offer a chance to replenis
 
 # Floor Guide
 
+Notable threats are generally the same as Heart of Serpentcoil Island.<br/>However, you can often get by without eradicating some key threats thanks to the reduced spawn rates,<br/>and running away with movement staves is more viable as a strategy thanks to fewer monsters being generated.<br/><span class="blueText">Therefore, it's important not to give up even if you feel like Shiren or his gear is underleveled!</span>
+
 ### 1-3F
 
 <p><span class="highlightYellow">Notable:</span> Pit Mamel (1-3F), Nigiri Baby (2-4F), Pumphantasm (3-4F), Taur (3-5F)</p>
@@ -206,59 +220,171 @@ Level up a Pit Mamel (11 HP, 5 atk) into a Cave Mamel for 2,000 experience point
 
 ### 4-6F
 
-<p><span class="highlightYellow">Notable:</span> monster_name</p>
+<p><span class="highlightYellow">Notable:</span> Karakuroid (4-6F), Scorpion (5-7F), Fire Ninja D (5-8F), Porky (6-9F), Cave Mamel (6-79F)</p>
+
+Karakuroid (40 HP, 20 atk, 13 def) might be tougher than usual if you haven't leveled up.<br/>Wait until 8F to restore lowered strength via Antidote Grass or Rejuvenation Pot.<br/>Fire Ninja D will burn items, so don't bother reading a Monstercall Scroll between 5\~8F.
+
+Cave Mamel (5 HP, 100 atk, 100 def) is very rare, but can potentially one-shot you in a dark hallway.<br/>It won't be included in the "Notable" list going forward, but it's a constant threat between 6\~79F.
+
+If you find a Peach Staff or a sacred weapon with the Peach Bun rune:
+
+- Karakuroid Bun - Create Poison Arrow Traps and collect lots of Poison Arrows.
+- Porky Bun - Throw Porky's Rocks and collect them, which can be used to one-shot Ghost Samurai.
+    - Evasive Incense can be used instead of a Peach Staff to collect Porky's Rocks.
 
 ### 7-12F
 
-<p><span class="highlightYellow">Notable:</span> monster_name</p>
+<p><span class="highlightYellow">Notable:</span> Porky (6-9F), Masked Samurai (7-12F), Crossbowboy (10-12F), Mixer (10-29F), Mudkin (12-17F)</p>
+
+Masked Samurai (47 HP, 18 atk) revives as Ghost Samurai (4 HP, 13 atk) when defeated.<br/>Ghost Samurai only takes 1 damage from normal attacks without the Anti-Ghost rune, and has the ability<br/>to possess a different monster, causing them to level up (Example: Mid Chintala → Big Chintala).
+
+Twisty Hani (35 HP, 12 atk, 15 def) spawns on 7-10F, and lowers Shiren's level by 1 when adjacent.<br/>Use arrows to defeat it from a distance instead of risking losing experience points.
+
+Water Ninja D (24 HP, 15 atk, 9 def) shoots water from up to 3 tiles away.<br/>Getting splashed by water makes equipped items rust, makes food go bad, or causes scrolls to get wet.<br/>Water Ninjas won't use their ability when adjacent, so use zigzag movement to lure them closer.<br/>Rotten Onigiri can be turned into Grilled Onigiri using Fire Ninja D (5-8F) if needed.
+
+Mixer (78 HP, 39 atk, 29 def) is a rare spawn, and is also extremely powerful after eating items.<br/>Use Narrow-escape or Paralyzing staves to paralyze the Mixer, then level it up using a Ghost Samurai.<br/>If there's a cannon, let Mixer man it and throw items at the Mixer to safely synthesize and slay it.<br/>If you have a Peach Staff, consider stocking up on Mixer Buns for when you find synthesis ingredients.
+
+Crossbowboy (55 HP, 20 atk, 20 def) can be used to collect lots of Iron Arrows.<br/>Easiest methods: Evasive Incense, Earthmound Staff, or positioning Bored Kappa (10-12F) in-between.
+
+Mudkin (70 HP, 5 atk, 9 def) lowers the upgrade value of your equipped weapon or shield by 1.<br/>If you lack the Rustproof rune, keep 2 spaces open in a Preservation Pot and insert equipment.<br/>12F: Some players unequip items and level up a Mudkin using Ghost Samurais to hunt Lv3 Mudsters for exp.
+
+Unlike Heart of Serpentcoil Island, 10F doesn't seem to have lots of buried items.
 
 ### 13-15F
 
-<p><span class="highlightYellow">Notable:</span> monster_name</p>
+<p><span class="highlightYellow">Notable:</span> Mixer (10-29F), Mudkin (12-17F), Master Hen (13-18F), Chow (15-99F)</p>
+
+Mudkin is still around - If you have silver-sealed sacred weapons or shields + a Rustproof Bracelet,<br/>you could level up a Mudkin to Mudster and have it remove the silver seals with its special attack.
+
+Master Hen (70 HP, 33 atk, 21 def) provides 400 exp when defeated before reverting to Lv1 Hen.<br/>That said, it's still questionable whether it's worth lingering for additional spawns or not.
+
+Chow (20 HP, 1 atk, 1 def) is a rare spawn starting from 15F throughout the rest of the dungeon.<br/>Keep an eye on the message log so you don't miss monsters leveling up from defeating Chows.<br/>Chow always drops an item when defeated by the player.
 
 ### 16-19F
 
-<p><span class="highlightYellow">Notable:</span> monster_name</p>
+<p><span class="highlightYellow">Notable:</span> Mixer (10-29F), Master Hen (13-18F), Minotaur (16-18F), Pop Tank (16-18F), Thiefwalrus (16-19F)</p>
+
+Good floor range for farming items and experience points if you have a Monstercall Bracelet.<br/>Master Hen (70 HP, 33 atk, 21 def) provides 400 exp when defeated before reverting to Lv1 Hen.<br/>Minotaur (70 HP, 31 atk, 20 def) occasionally drops an Axe of the Minotaur when defeated.<br/>Thiefwalrus (65 HP, 25 atk, 23 def) always drops an item when defeated.<br/>Egg Thing (5 HP, 2 atk, 14 def) always drops an Onigiri when defeated.
+
+Lv1 monks appear between 16-19F - The 3 most dangerous monks are Hannya, Okina, and Tengu.<br/>Hannya Monk D (66 HP, 37 atk, 25 def) causes other enemies to level up or defeat Shopkeepers.<br/>Okina Monk D (70 HP, 25 atk, 25 def) warps monsters on the floor so that they end up near Shiren.<br/>Tengu Monk D (80 HP, 24 atk, 20 def) increases the action speed of a monster on the floor by 1 stage.
+
+Mudkin (70 HP, 5 atk, 9 def) is also still around until 17F.<br/>Ghost Radish (40 HP, 18 atk, 15 def) appears on 16-17F and throws Poison Grass 2 tiles ahead.<br/>Pop Tank (90 HP, 20 atk, 24 def) can be used to grill onigiri or dig your way into a buried shop.<br/>It's highly recommended to eradicate the Pop Tank family here to turn 40-41F into a bonus zone.
 
 ### 20-24F
 
-<p><span class="highlightYellow">Notable:</span> monster_name</p>
+<p><span class="highlightYellow">Notable:</span> Mixer (10-29F), Skull Wizard (19-21F), Explochin (20-22F), Fire Ninja C (20-23F), Super Gazer (22-24F)</p>
+
+Fire Ninja C (75 HP, 41 atk, 25 def) burns staves, scrolls, grass, and onigiri on the ground.<br/>Explochin (120 HP, 25 atk, 22 def) explodes when total damage received exceeds 95 damage.<br/>The explosion reduces Shiren's HP to 1, so use rocks to adjust how much damage you deal as needed.<br/>Skull Wizard (88 HP, 35 atk, 24 def) can inflict Confused status, deal 20 damage, turn you into a monster,<br/>or warp you to the stairs and inflict Paralyzed status.
+
+Super Gazer (66 HP, 30 atk, 26 def) often causes item loss with its hypnosis.<br/>N'dulu (70 HP, 41 atk, 30 def) can be disguised as an item between 24-28F.<br/>For Lv2 N'dulus, you can check if a non-pot category item is real by inserting it into a pot.
+
+All said, it's probably best to advance to the next floor instead of trying to linger in this range,<br/>unless you have shield runes like Magic Cancel, Hypnosisproof, and Anti-Blast.
 
 ### 25-29F
 
-<p><span class="highlightYellow">Notable:</span> monster_name</p>
+<p><span class="highlightYellow">Notable:</span> Mixer (10-29F), Porko (24-27F), Pesky Kappa (24-27F), Greenwalrus (25-29F), Daze Radish (26-29F),<br/>Dragon (27-30F), Sky Dragon (28-32F)</p>
+
+Greenwalrus (88 HP, 30 atk, 27 def) appears, who always drops an item when defeated.<br/>Pesky Kappa (75 HP, 29 atk, 22 def) throws items (excluding weapons or Gitan) at you within 5 tiles.<br/>Porko (65 HP, 36 atk, 18 def) throws Porky's Rocks which deal 20 damage within a 5 tile radius.<br/>Daze Radish (80 HP, 37 atk, 27 def) throws Confusion Grass within a 2 tile radius, then Poison Grass.<br/>Projectiles and staves can still be used like normal while Shiren has Confused status.
+
+Dragon (120 HP, 45 atk, 40 def) and Sky Dragon (140 HP, 55 atk, 50 def) are dangerous, but grant 1000+ exp.<br/>Dragon breathes fire in a straight line, and Sky Dragon breathes fire from anywhere in the same room.<br/>In either case, Shiren receives 20 damage if he gets hit by the flame.
 
 ### 30-32F
 
-<p><span class="highlightYellow">Notable:</span> monster_name</p>
+<p><span class="highlightYellow">Notable:</span> Dragon (27-30F), Sky Dragon (28-32F), Baby Tank (29-32F), Vile Scorpion (30-32F)</p>
+
+Baby Tank (85 HP, 40 atk, 30 def) is generally your last chance to collect arrows.<br/>Vile Scorpion (108 HP, 45 atk, 33 def) lowers the player's current strength by 2 when adjacent.<br/>After this floor range, current strength will likely only be lowered by Poison Arrow Traps,<br/>so it's fine to use a Rejuvenation Pot or Antidote Grass to restore strength once you reach 33F.
 
 ### 33-39F
 
-<p><span class="highlightYellow">Notable:</span> monster_name</p>
+<p><span class="highlightYellow">Notable:</span> Soul Reaper (33-39F), Polygon Singa (33-39F), Pumplich (33-39F)</p>
+
+This floor range marks the start to Quietude of Serpentcoil Island's true challenge.<br/>Ghost types pass through walls and rush at the player, and Draining types lower Level and Max Fullness.<br/>If you lack items and stats to deal with these enemies, rush to the stairs instead of trying to explore.<br/>However, this is also your last chance to prepare for the dreaded "Tank Zone" which begins on 40F.
+
+Floppy Hani (85 HP, 39 atk, 39 def) lowers Shiren's level by 1 when adjacent.<br/>Soul Reaper (75 HP, 40 atk, 40 def) and Pumplich (100 HP, 50 atk, 30 def) can track you from anywhere.<br/>Soul Reaper is particularly dangerous if your shield is weak, since it has Swift 2 action speed.
+
+Polygon Singa (129 HP, 40 atk, 40 def) warps to you in rooms, and lowers Max Fullness by 7 when adjacent.<br/>Throw an Eradication Scroll at Polygon Singa if you have Sumo status and didn't eradicate Pop Tanks.<br/>Reflective Incense can protect against Polygon Singa and Floppy Hani special attacks.
 
 ### 40-49F
 
-<p><span class="highlightYellow">Notable:</span> monster_name</p>
+<p><span class="highlightYellow">Notable:</span> Mixermon (40-49F), Adamant Tank (40-44F), Steadfast Tank (42-49F), Igneous (43-49F),<br/>Dragon Pit (44-50F), Mudster (47-54F), Mudder (47-54F), Lashagga (47-54F), N'dama (47-59F)</p>
+
+Tank Zone - <span class="redText">It can be game over if you lack an Eradication Scroll (Blank Scroll) or the Anti-Blast rune.</span><br/>That said, if you do manage to successfully eradicate the Pop Tank family, 40-41F turns into a bonus zone<br/>where only Mixermon (98 HP, 50 atk, 35 def), Chow (20 HP), and Cave Mamel (5 HP, 100 atk/def) spawns.<br/>Check for traps - Pitfall Trap or Far-throwing Trap can ruin this great chance to synthesize and obtain items.
+
+Ornery Tank (95 HP, 40 atk, 44 def) has Normal action speed and fires 30 damage cannonballs.<br/>Adamant Tank (100 HP, 60 atk, 54 def) has Swift 1 action speed and fires 40 damage cannonballs.<br/>Steadfast Tank (105 HP, 80 atk, 64 def) has Swift 2 action speed and fires 50 damage cannonballs.<br/>Water Gun Pot can be used to inflict Slowed and Sealed statuses against any Pop Tank family monster.
+
+Dragon Pit (130 HP, 54 atk, 40 def) has Swift 1 action speed and aims for pincer attacks.<br/>Blazepuff (135 HP, 55 atk, 35 def) breathes fire (30 damage) when adjacent, but the attack can fail.<br/>They have higher HP and attack power, but they aren't too scary if you have the Anti-Dragon rune.
+
+Mudster (140 HP, 35 atk, 43 def) and Mudder (145 HP, 45 atk, 53 def) can erase 1 rune.<br/>The Rustproof rune will be targeted first if present, but otherwise the rune is selected randomly.<br/>Rustproof Bracelet protects against both the rune erasing and upgrade value lowering special attacks,<br/>and can additionally make the Mudster or Mudder remove silver from silver-sealed rune slots.<br/>They have high HP and defense, so use staves to disable them instead of unequipping your items.
+
+##### N'dama Notes
+
+N'dama (135 HP, 50 atk, 35 def) can be disguised as an item on the ground between 47-59F.<br/>Unlike N'dulu, inserting the item into a pot or advancing floors won't reveal the disguised N'dama.
+
+Sample guidelines for handling items on N'dama floors:
+
+- Staves - Swing the staff 1 time when your surroundings are safe.
+- Grass - Eat or throw the grass at a monster instead of carrying it in your inventory.
+- Pot - It's probably best to ignore pots that aren't Preservation Pots or "Tap" type pots.
+- Blank Scroll - Write Heavenly, Earthly, or Pot-upsize and try using it to upgrade right away.
+- If you want to carry the item, insert it into a dedicated Preservation Pot named "N'dama?".
+
+Also, the following sources are guaranteed to be real items:
+
+- Shop merchandise.
+- Items buried in walls.
+- Items dropped by defeated monsters.
 
 ### 50-59F
 
-<p><span class="highlightYellow">Notable:</span> monster_name</p>
+<p><span class="highlightYellow">Notable:</span> Mixergon (50-70F), Mudster (47-54F), Mudder (47-54F), N'dama (47-59F), Terror Scorpion (50-59F),<br/>Ironwalrus (55-59F), Vexing Kappa (55-59F)</p>
+
+This floor range is roughly the point in which you want to finalize your main equipment.<br/>50F is always a shuffle dungeon map based on Firespew Mountain, and only bags of 1000 Gitan can be found.<br/>Behemoth monsters have a chance to appear between 52-55F, and there's little reason to linger.
+
+Mudster and Mudder are still around until you descend past 54F.<br/>Terror Scorpion (185 HP, 55 atk, 45 def) lowers Max Strength by 1 when adjacent.<br/>If you don't have a Cleansing Bracelet to counter the poison, throw an Eradication Scroll at one.<br/>If Terror Scorpions are eradicated, you can safely hunt Ironwalrus (138 HP, 35 atk, 55 def) for items.<br/>Vexing Kappa (175 HP, 49 atk, 33 def) throws any item aside from Gitan within a range of 10 tiles.
+
+Lv3 monks appear between 51-59F, and like before, the dangerous ones are Hannya, Okina, and Tengu.<br/>Hannya Monk B (166 HP, 57 atk, 45 def) causes other enemies to level up or defeat Shopkeepers.<br/>Okina Monk B (170 HP, 56 atk, 50 def) warps monsters on the floor so that they end up near Shiren.<br/>Tengu Monk B (180 HP, 55 atk, 47 def) increases the action speed of a monster on the floor by 1 stage.
 
 ### 60-64F
 
-<p><span class="highlightYellow">Notable:</span> monster_name</p>
+<p><span class="highlightYellow">Notable:</span> Mixergon (50-70F), Curse Matron (60-64F), Nigiri Boss (60-64F), Bag Knave (60-64F),<br/>Hyper Gazer (60-64F), Hat Rascal (60-64F), N'daloon (60-69F)</p>
+
+Item destruction zone with lots of annoying monsters.<br/>The initial enemy count also seems to increase starting from this floor range.<br/>There's no reason to linger unless you have all protection methods, which include:<br/>Cursebreak Bracelet, Affixing Bracelet, Nigiriproof (rune), Hyponosisproof (rune), and Hatproof (rune).
+
+Curse Matron (145 HP, 53 atk, 48 def) curses up to 2 of your equipped weapon, shield, or bracelets.<br/>Hyper Gazer (126 HP, 55 atk, 45 def) hypnotizes Shiren and can force random item usage when adjacent.<br/>Hat Rascal (170 HP, 85 atk, 12 def) steals and tosses away a staff, grass, food, or scroll item.<br/>Bag Knave (95 HP, 40 atk, 35 def) throws Weeds to knock away your items, which also breaks pots.<br/>They also transform items on the ground into Weeds, so it's best to just rush to the stairs.
+
+Non-item destruction threats include Nigiri Boss and N'daloon.<br/>Nigiri Boss (133 HP, 45 atk, 42 def) inflicts Onigiri status, which nullifies equipment while morphed.<br/>N'daloon (205 HP, 65 atk, 45 def) has the ability of N'dubba, N'dulu, or N'dama, selected randomly.
 
 ### 65F
 
-<p><span class="highlightYellow">Notable:</span> monster_name</p>
+<p><span class="highlightYellow">Notable:</span> Mixergon (50-70F), N'daloon (60-69F), Fire Ninja B (65F), Water Ninja B (65F)</p>
+
+Level 3 ninjas appear for a single floor.<br/>Special Monster Houses generated on this floor often feature ninjas or monks.<br/>Ninja enemies have a higher item drop rate, and Mixergon appears, so linger if you want.<br/>After you've finished your final preparations, descend and rush through the remaining 66-99F.
 
 ### 66-79F
 
-<p><span class="highlightYellow">Notable:</span> monster_name</p>
+<p><span class="highlightYellow">Notable:</span> N'daloon (60-69F), Miracle Hen (66-79F), Skull Lord (66-79F), Battler (66-79F), Bellthoven (66-79F)</p>
+
+<p><span class="redText">The start of Quietude of Serpentcoil Island's true attempt to filter out unprepared wanderers.</span><br/>Miracle Hen, Battler, and Skull Lord appear together for 14 floors in a row.<br/>Initial monster spawns can rival a Monster House, so it's best to have some healing items ready.</p>
+
+Miracle Hen (220 HP, 82 atk, 60 def) has Swift 2 speed and extremely high attack power.<br/>You'll want to use Poison Arrows or Wallpass Bracelet if you lack Anti-Beast, Keen, and payback runes.
+
+Battler (200 HP, 69 atk, 50 def) knocks away any equipped item, sending it flying behind you.<br/>Equip an Affixing Bracelet if you have one to stay safe.
+
+Skull Lord (188 HP, 55 atk, 55 def) fires magic that inflicts Asleep, Blind, level-3, or 40 damage.<br/>Magic Cancel (rune) keeps you safe, and Rousing Bracelet helps a bit if you don't have that rune.<br/>If you lack defensive options for both Battler and Skull Lord, it's likely best to eradicate Skull Lord.
+
+Bellthoven (150 HP, 45 atk, 45 def) summons up to 3 monsters in one turn, even when not adjacent.<br/>N'daloon (205 HP, 65 atk, 45 def) exits the monster table from 70F, so you can trust items again.<br/>All five varieties of Lv3 Monks appear between 70-75F.
 
 ### 80-99F
 
-<p><span class="highlightYellow">Notable:</span> monster_name</p>
+<p><span class="highlightYellow">Notable:</span> Archdragon (80-99F), King Reaper (80-99F), Fulminachin (80-99F)</p>
+
+The final stretch, featuring Archdragons spewing 30 damage fire from anywhere on the floor,<br/>along with swift monsters like King Reaper, Hiding Dragon, and Electroid hunting the player down.<br/>It mostly comes down to brawling with or running away from higher stat enemies at this point.<br/>Reflective Incense + Narrow-escape Staff lets you skip floors, and Blurry Incense + Guiding Staff<br/>lets you avoid Archdragon's fire and becoming surrounded by King Reapers.
+
+Archdragon (200 HP, 65 atk, 60 def) breathes 30 damage fire from anywhere on the current floor.<br/>Anti-Dragon (shield) reduces it to 15 damage, but you'll likely want to eradicate them either way.<br/>However, some players prefer to eradicate King Reaper instead if they have a weaker shield.
+
+King Reaper (225 HP, 65 atk, 50 def) has Swift 2 speed and can pass through walls.<br/>Anti-Ghost, Anti-Floating, Keen, and payback runes are a significant help against them.
+
+If you have a Peach Staff, create Electroid Buns or Dark Owl Buns to help with navigation.<br/>Electroid Bun can be used to make a Pitfall Trap, and Dark Owl Bun grants Mapping Scroll's effect.
 
 # Monsters
 

@@ -159,7 +159,7 @@ Floor numbers that are a multiple of 10 often have lots of buried items inside t
 |Icon|Name|Source|Notes|
 |-|-|-|-|
 |<img src="../images/rune/shield/1.png"/>|Rustproof|Golden Shield<br/>Plating Scroll|Mudster (45-51F) and Mudder (45-51F) erase Rustproof before other runes.|
-|<img src="../images/rune/shield/4.png"/>|Jitters Payback|Jitters Scroll|Chance to disable a monster that uses a normal attack against you.|
+|<img src="../images/rune/shield/4.png"/>|Jitter Payback|Jitters Scroll|Chance to disable a monster that uses a normal attack against you.|
 |<img src="../images/rune/shield/7.png"/>|Onigiri Payback|Onigiri Scroll|Chance to disable a monster that uses a normal attack against you.|
 |<img src="../images/rune/shield/10.png"/>|Anti-Dragon|Dragon Shield|Archdragon (88-99F), Pyrepuff (88-99F), etc.|
 |<img src="../images/rune/shield/11.png"/>|Anti-Blast|Blast Shield|Adamant Tank (39-42F), Steadfast Tank (55-62F), Fulminachin (75-87F), etc.|

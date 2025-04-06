@@ -29,7 +29,13 @@ metaDescription: "Training Path of Hiding dungeon guide for Shiren the Wanderer:
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Stairs</th>
+    <td>Descending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
+    <td>No</td>
+    <th>Roamers</th>
     <td>No</td>
   </tr>
   <tr>
@@ -72,19 +78,200 @@ metaDescription: "Training Path of Hiding dungeon guide for Shiren the Wanderer:
   </tr>
 </table>
 
-[Content]
+Mystery Dungeon focused on evasive play, similar to The Pinnacle (Shiren 5) or Pot Cave (Shiren DS2).<br/>Shiren's level is locked to Lv1, so the player must use items like Hiding Pot to reach the end.<br/>The player starts with 3 Hiding Pots in their inventory, and more can easily be found on the ground.<br/>Overall, this dungeon is one of the easier ones among the evasive style dungeons in the series.
 
 # Strategy
 
 ### General
 
+##### Changes from Similar Dungeons in Past Games
+
+- Thrown items and projectiles are <span class="redText">not</span> guaranteed to hit their target.
+    - This includes throwing a Hiding Pot at a monster.
+- Field of view is not limited on any floor, even in the 99F Sacred Tree Mode extension.
+- Generally speaking, a larger variety of items can be found.
+- Food and Transmutation Pots are pretty common.
+- The monster table includes many enemies with special abilities.
+- Shops and Monster Houses can be generated.
+    - Revival Grass and Blank Scrolls can be found in shops, among other items.
+
+##### Sumo Status Warning
+
+This is one dungeon where you'll probably want to avoid activating Sumo status.<br/>You really don't want to lose access to Vaulting Staff, Switching Staff, or Pitfall Trap if possible.<br/>However, Max HP +50 does let you survive some attacks, and the ability to ignore traps is still nice,<br/>so it's not the end of the world if you accidentally activate Sumo status.
+
+##### Game Settings Tips
+
+The number of tiles visible in vertical directions is quite narrow, so a very common cause of collapsing<br/>is the player walking up or down and not reacting to an incoming enemy in time.
+
+- <span class="redText">Select "Look Around" or tilt the right analog stick → Tap R2 until field of view is fully zoomed out.</span>
+- <span class="redText">Adjust game settings so that walk speed is set to slow.</span>
+
+##### Behemoth Gate Items
+
+The list of possible items left behind when a Behemoth Gate vanishes differs in this dungeon.
+
+|Category|Items|
+|-|-|
+|Bracelet|Sure-aim Bracelet, Tiptoe Bracelet|
+|Food|Special Onigiri, Sumo Onigiri|
+|Staff|Peach Staff, Switching Staff, Disguising Staff, Vaulting Staff|
+|Scroll|Mapping Scroll, Eradication Scroll|
+|Grass|Revival Grass, Invincible Grass|
+|Pot|Hilarious Pot|
+
 ### Important Items
 
+#### Weapon
 
+<p><b><u>Pickaxe</u></b> / <b><u>Wooden Mallet</u></b> / <b><u>Trapseeker</u></b> / <b><u>Bonito Block</u></b><br/>These four weapons are generally the only types of weapons you'll find in this dungeon.<br/>Pickaxe can be found on the ground, and the other 3 can appear in shops (including sacred versions).<br/>Sacred versions are basically pointless aside from Pickaxe and Bonito Block.</p>
+
+#### Bracelets
+
+<p><b><u>Sure-aim Bracelet</u></b><br/>Obtained in shops or from making a Behemoth Gate vanish.<br/>Accuracy of projectiles and thrown items increases to 100% while the bracelet is equipped.<br/>Also makes it possible to hit Bored Kappa and Hoppin' Batter families with thrown items.</p>
+
+<p><b><u>Tiptoe Bracelet</u></b><br/>Obtained from making a Behemoth Gate vanish.<br/>Napping enemies won't wake up when Shiren walks adjacent to them or enters / exits a room.</p>
+
+<p><b><u>Waterwalk Bracelet</u></b><br/>Opens up additional escape routes if there are water tiles nearby.<br/>Unequip the bracelet while standing on a water tile to warp as a last resort.<br/>Beware of scrolls and food items getting wet while walking on water tiles.</p>
+
+<p><b><u>Passerby Bracelet</u></b><br/>Combine with Swift Grass to safely pass by a regular speed enemy.<br/>※ Shiren cannot switch places with a monster that has Hiding status.</p>
+
+#### Grass
+
+<p><b><u>Revival Grass</u></b><br/>Generally rare in this dungeon, but can also be found in shops.<br/>Treat every Revival Grass you find very carefully.</p>
+
+<p><b><u>Leaping Grass</u></b><br/>Use this as a last resort to escape from a dire situation.<br/>Remember, there's no guarantee that you'll land somewhere safe!</p>
+
+#### Scrolls
+
+<p><b><u>Eradication Scroll (Blank Scroll)</u></b><br/>Blank Scrolls can be found in shops, and Eradication Scroll can be obtained via a Behemoth Gate.<br/>It's best to eradicate either the Pumphantasm or Death Reaper family since they can wall clip.<br/>If you're currently only attempting the first clear (20F), just eradicate the Pumphantasm family.<br/>Otherwise, eradicate the Death Reaper family before King Reaper (80-85F) and Soul Reaper (95-99F) floors.</p>
+
+<p><b><u>Slumber Scroll</u></b> / <b><u>Confusion Scroll</u></b><br/>Crowd control items, but both scrolls are risky for a dungeon where Shiren collapses in 1 hit.<br/>Honestly, it's often better to have Shiren enter a Hiding Pot instead of reading either scroll,<br/>so don't carry more than 1~2 of these scrolls once your inventory is full.</p>
+
+#### Staves
+
+<p><b><u>Knockback Staff</u></b><br/>Use this staff against Cave Mamels to conserve Burrowing Staff charges and Hiding Pots.</p>
+
+<p><b><u>Burrowing Staff</u></b><br/>These staves should mainly be used to create shortcuts or escape routes.<br/>However, it can also be used to slay Cave Mamels or Egg Thing family monsters.</p>
+
+<p><b><u>Vaulting Staff</u></b><br/>Valuable staff for escaping from enemies or bad situations.<br/>Swing a Vaulting Staff so that you land on a water tile to warp as a last resort if needed.<br/>Swinging it at a monster that has Hiding status <span class="blueText">will not</span> cancel the monster's Hiding status.</p>
+
+#### Pots
+
+<p><b><u>Hiding Pot</u></b><br/>The player starts with 3 of these in their inventory, and they're also commonly found on the ground.<br/>Select <span class="blueText">Insert</span> to have Shiren hide inside the pot when you're cornered or surrounded by monsters,<br/>or select <span class="blueText">Throw</span> while facing a monster to trap that monster inside the pot indefinitely.<br/>However, keep in mind that thrown Hiding Pots <span class="redText">are not</span> guaranteed to hit their target,<br/>so use a Knockback Staff or Vaulting Staff to create distance first if you're adjacent.<br/>Monsters with Hiding status are unaffected by Okina Monk's warp and Okame Monk's status curing notes,<br/>and Shiren is unable to traverse tiles that have monsters with Hiding status on them.</p>
+
+<p><b><u>Transmutation Pot</u></b><br/>Pretty common, similar to Hiding Pot.<br/>The item generated is always a different category than the item you inserted,<br/>so for example if you want staves, insert anything that isn't a staff category item.<br/>Good insertion fodder include Vaulting Staff[0], Earthmound Staff[0], Leaping Grass, Swift Grass, etc.</p>
+
+<p><b><u>Bottomless Pot</u></b><br/>Break this pot to generate Pitfall Traps, which can then be used to skip to the next floor.<br/>Best used to steal from a shop or to skip a floor that has dangerous Behemoth Monsters.</p>
+
+<p><b><u>Water Gun Pot</u></b><br/>Can be used to one-shot Cave Mamel or Fierous family monsters.<br/>Reduces damage received from Death Reaper family, Swordmaster, Gigataur, and Bashagga to 1 damage.</p>
+
+<p><b><u>Hilarious Pot</u></b><br/>Prevents an enemy from acting for a short duration.<br/>Probably best used when you encounter a single enemy near the stairs before descending.</p>
 
 # Floor Guide
 
+### General Advice
 
+Trying to check every room on a floor usually results in consuming more items than you gain,<br/>so aim to hurry to the next floor when you spot the stairs instead of lingering and exploring.<br/>That said, shops are an exception, since you could find a nice item like Revival Grass for sale.
+
+When throwing Hiding Pots at monsters, always throw from 2 or more tiles away instead of when adjacent.<br/>It's also best to throw Hiding Pots in rooms, since throwing them in a hallway blocks off the path.<br/>Remember that you can insert yourself into a Hiding Pot if you're adjacent to an enemy,<br/>and never use Handy Dash (or even normal dash) in a dungeon where a single mistake can end the run.
+
+### 1-4F
+
+<p><span class="highlightYellow">Notable:</span> Pumpanshee (1-16F)</p>
+
+Cave Mamel only has 5 HP, so items like Knockback Staff or Burrowing Staff can be used to one-shot it.<br/>Otherwise, the biggest threat to watch for is Pumpanshee who can pass through walls.
+
+### 5-9F
+
+<p><span class="highlightYellow">Notable:</span> Pumpanshee (1-16F), Earth Ninja C (5-9F), Okame Monk B (5-9F)</p>
+
+Throw an item at any sand pillars you need to walk past to stay safe from hidden Earth Ninja C.<br/>Okame Monk B cures bad status conditions for non-monk monsters, but it cannot cure Hiding status.<br/>Therefore, it's fine to use items like Paralyzing Staff on Okame Monk B to disable them.
+
+### 10-16F
+
+<p><span class="highlightYellow">Notable:</span> Pumpanshee (1-16F), Polygon Stunna (10-16F), <span class="redText">Behemoth</span> (14-16F)</p>
+
+Polygon Stunna warps in front of Shiren when inside a room.<br/>If you're careful with your footwork, you might be able to conserve items.
+
+Possible Behemoths include Pumplich, Crossbowboy, Ultra Gazer, and Fulminachin.<br/>B-Crossbowboy and B-Ultra Gazer are very dangerous - use movement staves or Bottomless Pot to escape.<br/>If you're feeling confident, go ahead and fully explore the floor to make the Behemoth Gate vanish,<br/>since you could find a powerful item like Sure-aim Bracelet or Eradication Scroll as a reward.
+
+### 17-20F
+
+<p><span class="highlightYellow">Notable:</span> Water Ninja C (17-20F), Bored Kappa (17-20F), Pesky Kappa (17-20F), Hoppin' Slugger (17-20F)</p>
+
+Bored Kappa, Pesky Kappa, and Hoppin' Slugger are immune to thrown items, so use scrolls or staves.<br/>Throw an item at a distant wall to make Bored Kappa family monsters go towards the item instead of Shiren.<br/>Water Ninja C's ranged special attack deals 10 damage, so you can survive 1 hit at full HP.
+
+<h3 class="heading3Tree">Sacred Tree Mode</h3>
+
+### 21-27F
+
+<p><span class="highlightYellow">Notable:</span> Okina Monk A (21-27F), Corporal Ant (21-27F), Pumplord (21-34F)</p>
+
+Okina Monk A warps monsters closer to Shiren, but it can't warp monsters that have Hiding status.<br/>It's ideal to use Hiding Pots against non-monk enemies, and use other items against Okina Monk A.<br/>Don't forget that Corporal Ant can attack through corners.
+
+### 28-34F
+
+<p><span class="highlightYellow">Notable:</span> Pumplord (21-34F), Polygon Singa (28-34F), Mixermon (28-34F), <span class="redText">Behemoth</span> (31-34F)</p>
+
+Treat Mixermons as monsters that are immune to projectiles - Synthesizing items isn't realistic at all.<br/>Polygon Singa and Pumplord behave similarly to Polygon Stunna and Pumpanshee from earlier.
+
+Possible Behemoths include Pumplich, Great Hen, Crossbowboy, Ultra Gazer, Fulminachin, and Showpin.<br/>B-Great Hen acts faster than other Behemoth monsters, and avoid being in the same room as B-Showpin.<br/>The lineup of possible Behemoth monsters is the same from here until the end of the dungeon.
+
+### 35-40F
+
+<p><span class="highlightYellow">Notable:</span> Earth Ninja C (35-40F), Hell Reaper (35-40F), Hoppin' Slammer (35-50F)</p>
+
+Hell Reaper has Swift 2 speed (2 attacks per turn), and Shiren can only survive 1 hit at full HP.<br/>Therefore, you need to be extra careful with inputs related to movement in this floor range.<br/>Otherwise, check for Earth Ninja C by throwing an item at sand pillars as needed like earlier,<br/>and remember that Hoppin' Slammers are immune to projectiles (without Sure-aim Bracelet) and staves.
+
+### 41-55F
+
+<p><span class="highlightYellow">Notable:</span> Hoppin' Slammer (35-50F), Pumplord (41-46F / 51-55F), Bored Kappa (47-50F), Pesky Kappa (47-50F),<br/>Earth Ninja C (51-55F), Cyberoid (51-55F), <span class="redText">Behemoth</span> (47-50F)</p>
+
+The only notable new threat who isn't a repeat from an earlier floor range is Cyberoid.<br/>Cyberoid is always generated napping in a room, and wakes up when Shiren enters or exits the room.<br/>It also has Swift 2 action speed, so be very careful with inputs whenever you spot one.
+
+Possible Behemoths include Pumplich, Great Hen, Crossbowboy, Ultra Gazer, Fulminachin, and Showpin.<br/>Don't neglect to use the "Look Around" command when inside a room.
+
+### 56-69F
+
+<p><span class="highlightYellow">Notable:</span> Bored Kappa (56-59F), Pesky Kappa (56-59F), Igneous (56-69F), Mixergon (60-65F), Pumplich (60-74F),<br/>Skull Mage (66-69F), Electroid (66-74F), <span class="redText">Behemoth</span> (63-66F)</p>
+
+Another projectile-immune monster zone with Bored Kappa, Pesky Kappa, Igneous, and Mixergon.<br/>Igneous can be defeated with a single use of Water Gun Pot, so try to keep at least one pot on hand.<br/>Nigiri Honcho (60-79F) can be instantly defeated by throwing an Onigiri type item at it.
+
+Skull Mage's magic effects include Switching, Knockback, Swift, and warp.<br/>None of these can directly one-shot Shiren from full HP, but use "Look Around" in rooms anyway.<br/>Otherwise, Electroid is the only Swift 2 action speed threat in this floor range.
+
+Again, possible Behemoths include Pumplich, Great Hen, Crossbowboy, Ultra Gazer, Fulminachin, and Showpin.
+
+### 70-74F
+
+<p><span class="highlightYellow">Notable:</span> Earth Ninja C (70-74F), Pumplich (60-74F), General Ant (70-79F), Hoppin' Slugger (70-79F), Electroid (66-74F)</p>
+
+Basically the same threats as earlier in the dungeon, but in a different lineup of monsters.<br/>Pumplich, Hoppin' Slugger, and Electroid are the worst monsters to watch out for.
+
+### 75-79F
+
+<p><span class="highlightYellow">Notable:</span> General Ant (70-79F), Hoppin' Slugger (70-79F), Hiding Dragon (75-79F), <span class="redText">Behemoth</span> (79-82F)</p>
+
+Hiding Dragon has Swift 1 speed (1 attack), and can be generated awake from the start.<br/>As before, possible Behemoths include Pumplich, Great Hen, Crossbowboy, Ultra Gazer, Fulminachin, and Showpin.
+
+### 80-85F
+
+<p><span class="highlightYellow">Notable:</span> Pumplich (80-91F), Polygon Singa (80-94F), Infernous (80-85F), Mixerdon (80-85F), <span class="orangeText">King Reaper</span> (80-85F),<br/><span class="redText">Behemoth</span> (79-82F)</p>
+
+The dreaded King Reaper (Swift 2 action speed + wall clip) appears between 80-85F.<br/>Step in place at the start of the floor to lure any King Reapers to you before exploring, then rush to the stairs.
+
+Possible Behemoths are the same - Pumplich, Great Hen, Crossbowboy, Ultra Gazer, Fulminachin, and Showpin.
+
+### 86-94F
+
+<p><span class="highlightYellow">Notable:</span> Pumplich (80-91F), Polygon Singa (80-94F), Hoppin' Slugger (86-99F), Okina Monk B (86-99F),<br/>Okame Monk A (92-99F)</p>
+
+Remember, Okame Monk A can't cure Hiding status or ailments that other monks have.<br/>Again, Okina Monk B warps monsters closer to Shiren, but it can't warp monsters that have Hiding status.<br/>The threats are still tame compared to the final rush, so be smart with item usage and save some resources.
+
+### 95-99F
+
+<p><span class="highlightYellow">Notable:</span> Pumplich (95-99F), Dartingfrog (95-99F), Hoppin' Slugger (86-99F), <span class="orangeText">Soul Reaper</span> (95-99F),<br/>Okina Monk B (86-99F), Okame Monk A (92-99F)</p>
+
+The final rush - Waiting for Soul Reapers at the start of the floor can be risky,<br/>since Okina Monk B and Dartingfrog have the potential to catch you off guard if you step in place.<br/>Plan your actions in advance, but be ready to adapt to changes to your situation on any given turn.<br/>Don't dash under any circumstances, use the "Look Around" command, and be very careful with inputs.<br/>For reference, Dartingfrog has a special attack range of 5 tiles in a straight line.
 
 # Monsters
 
@@ -2072,8 +2259,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td rowspan="1" class="centeredText">14-16</td>
       <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
-      <td><img src="../images/monsters_s/15-2.png"/> Crossbowboy</td>
-      <td><img src="../images/monsters_s/22-4.png"/> Ultra Gazer</td>
+      <td class="danger"><img src="../images/monsters_s/15-2.png"/> Crossbowboy</td>
+      <td class="danger"><img src="../images/monsters_s/22-4.png"/> Ultra Gazer</td>
       <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -2085,8 +2272,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td rowspan="1" class="centeredText">31-34<br/>47-50<br/>63-66<br/>79-82</td>
       <td><img src="../images/monsters_s/6-3.png"/> Pumplich</td>
       <td><img src="../images/monsters_s/13-3.png"/> Great Hen</td>
-      <td><img src="../images/monsters_s/15-2.png"/> Crossbowboy</td>
-      <td><img src="../images/monsters_s/22-4.png"/> Ultra Gazer</td>
+      <td class="danger"><img src="../images/monsters_s/15-2.png"/> Crossbowboy</td>
+      <td class="danger"><img src="../images/monsters_s/22-4.png"/> Ultra Gazer</td>
       <td><img src="../images/monsters_s/39-3.png"/> Fulminachin</td>
       <td><img src="../images/monsters_s/43-4.png"/> Showpin</td>
     </tr>

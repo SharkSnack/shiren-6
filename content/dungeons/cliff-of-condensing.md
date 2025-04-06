@@ -34,9 +34,9 @@ metaDescription: "Cliff of Condensing dungeon guide for Shiren the Wanderer: The
   </tr>
   <tr>
     <th>Companions</th>
-    <td></td>
+    <td>No<sup><span class="redText">*1</span></sup></td>
     <th>Roamers</th>
-    <td></td>
+    <td>No</td>
   </tr>
   <tr>
     <th>Rescues</th>
@@ -84,21 +84,198 @@ metaDescription: "Cliff of Condensing dungeon guide for Shiren the Wanderer: The
   </tr>
 </table>
 
-[Content]
+<p><span class="redText">*1</span> - Companions appear in the official Parallel Data "SPCH-UNPQ".</p>
+
+Mystery Dungeon that's essentially a 99F dungeon condensed down into a 50F dungeon.<br/>Enemy strength ramps up quickly and continues to pressure the player throughout the run,<br/>but it's still possible to upgrade equipment, gather items to counter specific threats, etc.<br/>Overall, it offers a solid taste of a harder postgame dungeon without a big time commitment.
 
 # Strategy
 
 ### General
 
+#### Monster Table Condensed to 50F
+
+The monster table is kind of like Wanderers' Highway condensed to 50 floors.<br/>However, there are some changes like Nigiri Baby not appearing, and Steadfast Tank being near the end.<br/>Fewer floors means items like Incenses and those that help with rushing stairs are more valuable.<br/>Items are on the plentiful side similar to Heart of Serpentcoil Island, including Blank Scrolls.<br/>Evasive play is also generally more effective than in most of the 99F dungeons in this game.
+
+Possible Behemoth monsters on 38-40F include Death Reaper, Sleep Radish, and Frenzy Radish,<br/>so either prepare to rush to the stairs or use a Wall-less Scroll to make the Behemoth Gate vanish.
+
+#### Limited Mixer Spawns (4xN+8)
+
+Mixer family monsters appear on floors that are a multiple of 4, starting from 8F (8F, 12F, 16F, ...).<br/><span class="redText">However, be warned that Crow Tengu overlaps with Mixer family monsters on 32F and 44F.</span><br/>It's best to shoot an arrow to verify that it's a real Mixer family monster before throwing equipment.<br/>It'd also be good to have counters to Draining types if you plan on lingering for Mixer spawns.
+
+#### Buried Item Floors (10xN)
+
+It seems floors that are a multiple of 10 can sometimes have lots of buried items.<br/>Item-find Bracelet and Shield of Presage will let you know if this is the case at a glance,<br/>and Collection Scroll will let you claim all of the buried items on the current floor.
+
+#### No Blessed or Cursed Items
+
+Blessed or cursed items don't appear, except for the 3 "always cursed" bracelets.<br/>These bracelets include Item-losing Bracelet, Gitan-losing Bracelet, and Bellyshrink Bracelet.<br/>In addition, Exorcism Scroll, Curse Scroll, Exorcism Pot, and Curse Pot don't appear.<br/>This also means it's safe to equip unidentified weapons and shields to check upgrade value.
+
+The only Curse Girl family monster that appears is Curse Matron between 35-36F,<br/>so a single Fixer Scroll should be plenty as a counter.
+
 ### Important Items
 
+#### Weapon Runes
 
+<p><b><u>Sedating</u></b>, <b><u>Blinding</u></b>, <b><u>Paralyzing</u></b>, <b><u>Confusing</u></b><br/>Status inflicting runes work against all enemies, making these a high priority.</p>
+
+<p><b><u>Frontal Attack (Kama Itachi)</u></b>, <b><u>Knockback (Whopping Harisen)</u></b>, <b><u>Swift Strikes (Swift Sword)</u></b><br/>Frontal Attack - Enemy spawn rate is on the fast side, so being able to hit up to 3 foes at once is great.<br/>Knockback - Knocking a foe back can lead to conserving items if the target lacks a ranged attack.<br/>Swift Strikes - Deal more damage / higher chance to inflict an ailment with a status rune in 1 turn.</p>
+
+<p><b><u>Rustproof (Golden Sword / Plating Scroll)</u></b><br/>Protects against Mudkin's special attack, making it easier to linger for Mixers on 8F.<br/>Also increases normal attack accuracy, so it won't go to waste even if you find a Rustproof Bracelet.</p>
+
+<p><b><u>Anti-Drain (Drain Slayer)</u></b><br/>Mudkin and Scorpion family monsters appear on a wide number of floors, so this rune helps prevent you<br/>from being unable to keep up with scaling monster strength due to repeated upgrade value or strength loss.<br/>You might also need Anti-Aquatic (Watersplitter) for Mudster and Mudder if you lack Rustproof Bracelet.<br/>And if you don't have any of the above items or runes, just throw an Eradication Scroll.</p>
+
+<p><b><u>Anti-Aquatic (Watersplitter)</u></b><br/>Higher priority if you don't plan on eradicating the Mudkin family.<br/>Generally more useful early~mid game, since end game only has Fulminachin for Aquatic types.</p>
+
+<p><b><u>Anti-Ghost (Sickle of Salvation)</u></b><br/>Very nice to have for Masked Samurai (8-10F) floors.<br/>Effective against Pumphantasm and Death Reaper families, as usual.</p>
+
+<p><b><u>Anti-Beast (Primal Axe)</u></b>, <b><u>Anti-Cyclops (Cyclops Bane)</u></b>, <b><u>Anti-Dragon (Dragonkiller)</u></b><br/>Effective throughout the dungeon and even against some of the end game monsters.<br/>However, these aren't exactly essential since you should have other items by the end.</p>
+
+<p><b><u>Sealing (Sealing Staff)</u></b><br/>Nice to have against less threatening Draining types or monsters with annoying but not dire abilities.<br/>※ Higher level Pop Tank family monsters have high attack power and are still dangerous when sealed.</p>
+
+#### Shield Runes
+
+<p><b><u>Jitter Payback</u></b>, <b><u>Onigiri Payback</u></b><br/>These 2 runes are top priority, as usual.</p>
+
+<p><b><u>Oracle (Shield of Presage)</u></b><br/>Wishing Shrines are on the somewhat common side.<br/>The ability to spot buried items on floor numbers that are a multiple of 10 is also nice.</p>
+
+<p><b><u>Magic Cancel (Shield of Negation)</u></b>, <b><u>Magic Reflect (Sacred Item)</u></b><br/>Great for Skull Mage (12-14F), Skull Wizard (15-16F), and Skull Lord (38-41F) floors.</p>
+
+<p><b><u>Anti-Blast (Blast Shield)</u></b><br/>Nice to have for Pop Tank family monsters if you don't plan on eradicating them.<br/>Synthesize it before 24F if possible, since both Ornery Tank and Adamant Tank appear between 24-26F.<br/>However, if you don't care to linger for Mixermons on 24F, a Heat-ban Incense[3] should be enough.<br/>Steadfast Tanks appear between 48-50F.</p>
+
+<p><b><u>Hatproof (Hat Stopper)</u></b><br/>Hat Brat (35-36F) and Hat Rascal (46-50F) can be rather annoying when rushing stairs,<br/>so it's fine to go ahead and synthesize this rune in this dungeon.</p>
+
+#### Bracelets
+
+<p><b><u>Item-losing Bracelet</u></b>, <b><u>Gitan-losing Bracelet</u></b>, <b><u>Bellyshrink Bracelet</u></b><br/>These 3 are guaranteed to be cursed, so beware of equipping unidentified bracelets.<br/>Exorcism Scroll can't be found - Use a Removal Trap, Fixer Scroll, or Onigiri Scroll to remove it.</p>
+
+#### Other Items
+
+<p><b><u>Eradication Scroll (Blank Scroll)</u></b><br/>Blank Scrolls aren't super uncommon, so don't hesitate to eradicate annoying monsters.<br/>These include Mudkin, Polygon Spinna, Pop Tank, Skull Mage, and Swordsman families.</p>
+
+<p><b><u>Fortune Staff</u></b><br/>Use this on Mixer family monsters to increase the number of items that can be synthesized.<br/>Don't forget to prepare a safe method in advance to defeat the leveled up Mixer.</p>
+
+<p><b><u>Incense (Various Types)</u></b><br/>The monster table is condensed, so a single incense is often enough to counter tricky monsters.</p>
+
+### Farming Techniques
+
+<p><b><u>Armordillo Bun (Peach Staff)</u></b><br/>If you find a Peach Staff between 1-4F, you'll be able to collect items using an Armordillo Bun.<br/>The ideal target is Mudkin on 5-6F, since you can make them multiply by knocking them into a wall.<br/>But it's best to level up beforehand, since Porky can be troublesome to deal with while transformed.<br/>Mudkin continues to appear until 9F, but it's harder to farm with Bowboy and other trickier foes appearing,<br/>and at that point you might want to create a Hat Prankster Bun to collect grasses for synthesis,<br/>or simply create Peach Buns of leveled up Mixer family monsters instead.</p>
 
 # Floor Guide
 
-### 12F
+### 1-7F
 
-Note: Shuffle Map (Firespew Mountain)
+<p><span class="highlightYellow">Notable:</span> Bored Kappa (3-5F), Karakuroid (4-6F), Gazer (5-7F), Scorpion (5-7F), Porky (5-7F), Mudkin (5-9F)</p>
+
+The number of items generated on the ground is higher early on, so check every room.
+
+Chintala (15 HP, 9 atk, 4 def) appears from 1F and deals about 10 damage to Shiren without a shield.<br/>Bored Kappa (50 HP, 18 atk, 11 def) has higher stats, but can be defeated without taking damage.<br/>To do so, place an item that Bored Kappa can throw → lure it onto the item → attack it → step back → repeat.<br/>※ Lv1 Bored Kappa cannot throw weapons, shields, or Gitan.
+
+Start collecting synthesis ingredients for 8F, but beware of Mudkin (70 HP, 5 atk, 9 def) starting on 5F.<br/>Either keep 2 slots open in a Preservation Pot so you can multi-select insert equipped items in 1 turn,<br/>or equip a pair of items that you plan on discarding after Mudkin exits the monster table.
+
+### 8-12F
+
+<p><span class="highlightYellow">Notable:</span> Mudkin (5-9F), Crossbowboy (7-10F), Masked Samurai (8-10F), Mixer (8/12F), Thiefwalrus (11-15F)</p>
+
+Floor range where you can synthesize, collect arrows, level up, or farm item drops.<br/>Egg Thing and Master Hen + Pop Tank appear between 11-12F, so it's also possible to stock up on food.<br/>However, many enemies already begin to hit pretty hard, so be careful with HP management.
+
+12F is always a Shuffle Dungeon style map (Firespew Mountain) without dark hallways.
+
+#### Hard Hitters
+
+|Monster|HP|Atk|Def|Floors|
+|-|-|-|-|-|
+|Mixer|78|39|29|8/12F|
+|Lt. Spearfish|60|24|17|8-9/11-12F|
+|Floor Dragon|55|25|20|8-12F|
+|Okina Monk D|70|25|25|9-11F|
+|Metalhead|66|30|19|9-11F|
+|Minotaur|70|31|20|10-12F|
+|Master Hen|70|33|21|10-12F|
+|Tiger Thrower|68|26|22|10-13F|
+|Hannya Monk D|66|37|25|11-13F|
+|Cave Mamel|5|100|100|11-15F|
+
+### 13-16F
+
+<p><span class="highlightYellow">Notable:</span> Mixer/Mixermon (16F), Fire Ninja C (13-14F), Pumpanshee (13-17F), Skull Wizard (15-16F), Super Gazer (15-17F)</p>
+
+This floor range is reminiscent of Firespew Mountain's monster table, but with some changes.<br/>Linger and synthesize on 16F since 2 types of Mixer monsters can spawn (Mixermon has 98 HP and 50 atk),<br/>but beware of accidents caused by Skull Wizard (88 HP, 35 atk), Super Gazer (66 HP, 30 atk), and Chow.
+
+Fire Ninja C (75 HP, 45 atk, 21 def) hits hard and burns staves, scrolls, grasses, and onigiri.<br/>Pumpanshee (60 HP, 35 atk, 22 def) has random movement and can pass through walls.<br/>Cave Mamel (5 HP, 100 atk, 100 def) appears until 15F, and Chow (20 HP, 1 atk, 1 def) between 15-19F.
+
+### 17-20F
+
+<p><span class="highlightYellow">Notable:</span> Porko (17-20F), Daze Radish (18F), Baby Tank (18-19F), Vile Scorpion (19-21F), Greenwalrus (19-21F),<br/>Mixermon (20F), Polygon Singa (20-21F), Dragon (20-22F), Running Egg (20-29F)</p>
+
+Dragon (120 HP, 45 atk, 40 def) can be utilized with the Onigiri Payback shield rune to stock up on food.<br/>Polygon Singa (129 HP, 40 atk, 40 def) lowers Max Fullness by 7, but only appears for 2 floors.<br/>Only throw an Eradication Scroll if you don't plan on eradicating Battler, Skull Lord, or Archdragon later on.<br/>Greenwalrus (88 HP, 30 atk, 27 def) always drops an item when slain, and Mixermon (98 HP, 50 atk, 35 def)<br/>can be used to synthesize, so feel free to linger if you have counters for Polygon Singa and Vile Scorpion.
+
+### 21-25F
+
+<p><span class="highlightYellow">Notable:</span> Vile Scorpion (19-21F), Polygon Singa (20-21F), Soul Reaper (21-24F), Lv3 Monks (21-24F),<br/>Cave Mamel (21-25F), Mini Tank (22-24F), Ornery Tank (24-26F), Adamant Tank (24-26F), Dragon Pit (25-27F)</p>
+
+This is by far the most difficult floor range when attempting the first clear - <span class="redText">Rush to the stairs.</span><br/>Soul Reapers, Mini Tanks, Ornery Tanks, and Adamant Tanks alongside monk buffs makes for a miserable time.<br/>Keep a Blank Scroll, Blurry Incense, or Heat-ban Incense on hand in case you encounter a Monster House.<br/>Avoid trying to synthesize on 24F unless you eradicate the Pop Tank family or read a Mapping Scroll,<br/>since you'll otherwise risk losing synthesized equipment from cannon blasts.
+
+Notable monster stats:
+
+|Monster|HP|Atk|Def|Floors|
+|-|-|-|-|-|
+|Vile Scorpion|108|45|33|19-21F|
+|Polygon Singa|129|40|40|20-21F|
+|Soul Reaper|75|40|40|21-24F|
+|Hannya Monk B|166|57|45|21-24F|
+|Kitsune Monk B|175|53|48|21-24F|
+|Okina Monk B|170|56|50|21-24F|
+|Okame Monk B|160|50|51|21-24F|
+|Tengu Monk B|180|55|47|21-24F|
+|Cave Mamel|5|100|100|21-25F|
+|Mini Tank|100|55|40|22-24F|
+|Ornery Tank|95|40|44|24-26F|
+|Adamant Tank|100|60|54|24-26F|
+|Dragon Pit|130|54|40|25-27F|
+
+<h3 class="heading3Tree">Sacred Tree Mode</h3>
+
+### 26-32F
+
+<p><span class="highlightYellow">Notable:</span> Mudster (26-30F), Mudder (26-30F), N'dama (26-34F), Terror Scorpion (29-34F), Lv3 Monks (31-34F)</p>
+
+It's best to rush to the stairs if you lack counters to Mudster, Mudder, and Terror Scorpion.
+
+Mudster (140 HP, 35 atk, 43 def) and Mudder (145 HP, 45 atk, 53 def) can erase runes.<br/>N'dama (135 HP, 50 atk, 35 def) won't be revealed even when inserting into a pot or advancing floors.<br/>Terror Scorpion (185 HP, 55 atk, 45 def) occasionally lowers Max Strength by 1 when adjacent.<br/>Any Mixermon (98 HP, 50 atk, 35 def) or Mixergon (118 HP, 68 atk, 40 def) you encounter on 28F is real,<br/>but <span class="redText">Mixergon overlaps with Crow Tengu (5 HP, 1 atk, 1 def) on 32F</span>, so always shoot an arrow first on 32F.
+
+### 33-37F
+
+<p><span class="highlightYellow">Notable:</span> N'dama (26-34F), Terror Scorpion (29-34F), Lv3 Monks (31-34F), Ironwalrus (33-34F), Vexing Kappa (33-34F),<br/>Curse Matron (35-36F), Nigiri Boss (35-36F), Bag Knave (35-36F), Hyper Gazer (35-36F), Lv3 Ninjas (37F)</p>
+
+N'dama and Terror Scorpion are still around until 34F.<br/>Ironwalrus (138 HP, 35 atk, 55 def) appears, but it's not recommended to linger.<br/>Vexing Kappa (175 HP, 49 atk, 33 def) throws items found on the ground within 10 tiles,<br/>so if you want to claim ground items, use an Evasive Incense or Collection Scroll.
+
+35-36F is the usual deeper floor range harassment team of monsters - It's only 2 floors here, so rush stairs.<br/>Don't bother attempting to synthesize using Mixergons on 36F, you're pretty close to the end now anyway.<br/>37F mostly spawns Lv3 ninjas, so it kind of serves as a rest area before the final stretch.
+
+### 38-41F
+
+<p><span class="highlightYellow">Notable:</span> Battler (38-41F), Skull Lord (38-41F), Grampadillo (38-41F), Bellthoven (38-41F), <span class="redText">Behemoth</span> (38-40F)</p>
+
+It's highly recommended to rush to the stairs from this point until you clear the dungeon.<br/>Extremely dangerous behemoths can spawn, including Death Reaper, Sleep Radish, and Frenzy Radish.
+
+Battler (200 HP, 69 atk, 50 def) can disarm equipped weapons, shields, and bracelets.<br/>Skull Lord (188 HP, 55 atk, 55 def)'s magic effects include Asleep, Blind, Level-3, or 40 damage.<br/>Grampadillo (175 HP, 71 atk, 56 def) can make you trip and drop items when adjacent.<br/>Bellthoven (150 HP, 45 atk, 45 def) can summon up to 3 monsters at once even when not adjacent.<br/>Megahead (182 HP, 65 atk, 48 def) and Pumplord (185 HP, 75 atk, 35 def) also hit hard.
+
+### 42-45F
+
+<p><span class="highlightYellow">Notable:</span> King Reaper (42-45F), Polygon Stunna (42-45F), Porgon (42-45F), Electroid (42-45F), Fulminachin (42-45F)</p>
+
+Stepping in place at the start of the floor to lure King Reapers (225 HP, 65 atk, 50 def) to you<br/>sometimes leads to getting pelted by Porgon (200 HP, 85 atk, 60 def)'s rocks instead, so it's better<br/>to use items like Evasive Incense or Eradication Scroll to make one of the monsters a non-issue.
+
+Polygon Stunna (229 HP, 50 atk, 55 def) can lower Max Fullness by 10 when adjacent.<br/>Fulminachin (200 HP, 45 atk, 32 def) explodes after taking 160+ damage without being defeated.<br/>Electroid (150 HP, 56 atk, 53 def) has Swift 1 speed and creates new traps.
+
+Mixergon and Mixerdon overlap with Crow Tengu on 44F, but you should be done synthesizing by now.
+
+### 46-50F
+
+<p><span class="highlightYellow">Notable:</span> Miracle Hen (46-50F), Archdragon (46-50F), Pyrepuff (46-50F), Hat Rascal (46-50F), Steadfast Tank (48-50F)</p>
+
+The ideal counter for this floor range is to throw an Eradication Scroll at Miracle Hen,<br/>then use a Heat-ban Incense to breeze through Archdragon and Steadfast Tank's special attacks.
+
+Archdragon (200 HP, 65 atk, 60 def) spews a 30 damage flame from anywhere on the floor.<br/>Miracle Hen (220 HP, 82 atk, 60 def) has Swift 2 speed and hits very hard, but lacks a special attack.<br/>Hat Rascal (170 HP, 85 atk, 12 def) steals and tosses away your staves, grass, food, or scrolls.<br/>Pyrepuff (255 HP, 75 atk, 45 def) breathes 40 damage fire when adjacent, but the attack can fail.<br/>Steadfast Tank (105 HP, 80 atk, 64 def) has Swift 2 speed and its cannonballs deal 50 damage.<br/>Infernous (285 HP, 69 atk, 55 def) and Hiding Dragon (230 HP, 70 atk, 60 def) also hit pretty hard.
 
 # Monsters
 

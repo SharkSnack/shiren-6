@@ -29,6 +29,7 @@ const plugins = [
             maxWidth: 1035,
             quality: 100,
             loading: 'eager',
+            disableBgImage: true,
           }
         },
         {

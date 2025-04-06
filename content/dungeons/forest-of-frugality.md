@@ -29,8 +29,14 @@ metaDescription: "Forest of Frugality dungeon guide for Shiren the Wanderer: The
   <tr>
     <th>Bring Items</th>
     <td>No</td>
+    <th>Stairs</th>
+    <td>Ascending</td>
+  </tr>
+  <tr>
     <th>Companions</th>
     <td>No</td>
+    <th>Roamers</th>
+    <td>Yes</td>
   </tr>
   <tr>
     <th>Rescues</th>
@@ -72,17 +78,145 @@ metaDescription: "Forest of Frugality dungeon guide for Shiren the Wanderer: The
   </tr>
 </table>
 
-[Content]
+Dungeon where the player's inventory is swapped out with 12 random items at the start of each floor.<br/>Certain floors have a tendency to generate specific categories of items instead of being 100% random.<br/>All items are identified from the start, and none of the items you're given are ever in a cursed state.<br/>Items are never generated on the ground, but can be obtained from shops, enemy drops, islands, and walls.<br/>Shiren's current and max stats (Level, Exp, HP, Fullness, Strength) and Gitan are retained between floors.<br/>Hallways remain visible during the first clear (1-30F), but become dark in the extension (31-99F).<br/>Monster Houses appear on 30F and 99F, but you sometimes start with an Expulsion Scroll.
 
 # Strategy
 
-### General
+### Dungeon Characteristics
 
-[Content]
+#### 12 Starting Items Per Floor
+
+The player's current inventory gets swapped out with 12 new items whenever they change floors.<br/>This includes any equipped weapon or shield, and the new items are always identified and never cursed.<br/>Items are never generated on the ground, but can be obtained from shops, enemy drops, islands, and walls.<br/>Certain floors lean toward supplying specific item categories, like Peach Buns on 51-60F and 81-90F.<br/>Shops seem to lean toward consumables that can be used to increase Max HP and Max Fullness.
+
+Item Category Leanings:
+
+|Floor|Leaning|
+|-|-|
+|1-6F|None|
+|7-11F|Staff|
+|12-15F|None|
+|16-19F|Scroll|
+|20-22F|Grass|
+|23-29F|None|
+|30F|Gitan|
+|31-40F|None|
+|41-47F|Grass, Scroll|
+|48-50F|None|
+|51-60F|Peach Bun|
+|61-70F|Scroll|
+|71-80F|Staff|
+|81-90F|Peach Bun|
+|91-98F|None|
+|99F|Gitan|
+
+#### Retained Player Stats
+
+Shiren's current and max stats (Level, Exp, HP, Fullness, Strength) and Gitan are retained between floors.<br/>It's pretty important to increase the player's current and max stats with supplied items whenever possible,<br/>including eating some negative grasses like Confusion Grass while standing on the stairs before advancing floors.<br/>※ Eat HP restoring grass when HP is full to boost Max HP, and food when Fullness is full to boost Max Fullness.
+
+|Item|Stat Boost|
+|-|-|
+|Grass (Any)|Fullness +2|
+|Fixer Scroll|Fullness +200<br/>(When Fullness &lt; 20)|
+|Herb|Max HP +1|
+|Otogirisou|Max HP +2|
+|Healing Grass|Max HP +3|
+|Life Grass|Max HP +4|
+|Strength Grass|Max Strength +1|
+|Onigiri|Max Fullness +3|
+|Large Onigiri|Max Fullness +4|
+|Grilled Onigiri|Max Fullness +2|
+|Special Onigiri|Max Fullness +2|
+|Sweet Potato|Max Fullness +2|
+
+#### Guaranteed Monster Houses (30F, 99F)
+
+Monster Houses always appear on 30F and 99F, and you often start with 5 bags of 1000\~2000 Gitan.<br/>There's a chance to start with Expulsion Scrolls or Blank Scrolls as well, but it's not guaranteed.<br/>You get to take home all current inventory items when you clear the dungeon, so do your best!
+
+#### Field of View (Light: 1-30F, Dark: 31-99F)
+
+Hallways are fully visible during the 1st clear (1-30F), but become dark during the 2nd clear (31-99F).<br/>There's little point in lingering given the increased danger, so hurry to the stairs starting from 31F.
+
+#### Rare Items for Notebook
+
+Expulsion Scroll, Accurate Sword, Bodhi Shield, Floating Bracelet, etc. have been sighted in supplied items,<br/>so consider doing a few runs of this dungeon if you still need to register some of the rarer items.
+
+### Important Items
+
+<p><b><u>Weapons, Shields, Bracelets</u></b><br/>Equip whatever strongest weapon and shield, but equipment isn't guaranteed to be supplied each floor.<br/>That said, <span class="redText">never equip Bodhi Shield,</span> since Max Fullness will be reduced to 1 and you won't keep the shield.<br/>You'll also want to carefully check the runes on Sacred Items prior to equipping them.</p>
+
+<p><b><u>Food</u></b><br/>Focus on increasing Max Fullness early on so that Sumo status becomes a viable option late game.<br/>Sumo status lets you dig through walls, boosts Max HP by 50, and multiplies attack power by 50%.<br/>Eat food when none of the replenished Fullness goes to waste (Example: Eat Onigiri at 50 Fullness).<br/>If Max Fullness is still low and you only have 1 food item, wait until the stairs to eat it.</p>
+
+<p><b><u>Grass</u></b><br/>Dungeon shops and walls often have grasses that can be used to increase max stats.<br/>Negative effect grasses can miss when thrown at an enemy, so don't rely on them in dire situations.<br/>Revival Grass can't be brought to the next floor, so consider intentionally collapsing to replenish stats,<br/>including HP, Strength, and Fullness - But if Max Fullness is 150+, Sumo status will activate.<br/>Fortune Grass or Angel Seed can be thrown to level up monster for more experience points.</p>
+
+<p><b><u>Scrolls</u></b><br/>Mapping Scroll should be used at the start of the floor.<br/>Collection Scroll or Wall-less Scroll can be used to claim items in walls, islands, or Monster Houses,<br/>but wait to read Wall-less Scroll until after you've thinned out the number of monsters.<br/>Monstercall Scroll can be paired with Expulsion Scroll or such to activate the Monster-find effect.<br/>Gathering Scroll can be used to disable foes at the start depending on other supplied items.</p>
+
+<p><b><u>Staves</u></b><br/>Fortune Staff can be swung at Hoppin' Batter family monsters for a chance to gain 2000 experience points.<br/>Narrow-escape Staff can also be swung at them for a chance to warp the player directly to the stairs.<br/>Otherwise, save staves like Sluggish Staff or Empathetic Staff for stronger enemies.</p>
+
+<p><b><u>Pots, Incense</u></b><br/>Pots might seem lackluster under this dungeon's rules, but they're still useful aside from Synthesis Pot.<br/>Cashing Pot can be used to transform equipment into Gitan before advancing to the next floor.<br/>Transmutation Pot lets you turn some of the less useful supplied items into hopefully better items.<br/>Rejuvenation Pot, Hiding Pot, and incenses help with survival or powering through encounters.<br/>Surprise Pot can be thrown at a wall while standing on the stairs before advancing to the next floor,<br/>but it's probably best to place Surprise Pot and Monster Pot on the ground if Gazers are around.</p>
+
+### Farming Techniques
+
+<p><b><u>Experience Points</u></b><br/>If you obtain items that can be used to level up an enemy, go ahead and hunt a high level monster.<br/>Make sure you have items capable of dealing fixed damage or Slow status before leveling up a target.<br/>Berserk Seed, Blinding Grass, Confusion Grass, and Jitters Scroll can also be used to level them up.</p>
+
+Recommended Monsters:
+
+- Hat Urchin (1-2F) → Hat Brat (Lv3, 880 Exp)
+    - Requires 2 level ups, but Hat Brat only has 9 defense so it's easy to deal damage.
+    - It has 125 HP and 45 attack, though, so be careful not to get hit by its normal attack.
+- Hoppin' Hitter (7-10F) → Fortune Staff (2000 Exp)
+    - Supplied items seem to lean toward staves on the floors where this monster appears.
+    - Masked Samurai (8-13F) can be used to level up a Hoppin' Hitter for better reflect odds, but it's risky.
+- Porky (8-10F) → Porko (Lv2, 840 Exp)
+    - Porko only has 65 HP, 36 attack, and 18 defense, so it's a pretty easy target to hunt.
+    - Masked Samurai (8-13F) can be used to level up a Porky, but don't accidentally create a Lv3 Porkon.
+- Crossbowboy (11-13F) → Mini Tank (Lv4, 800 Exp)
+    - If you're worried about damage received, Baby Tank (Lv3, 450 Exp) is an okay target too.
+    - Baby Tank and Mini Tank have Swift 1 speed, so be careful when you retreat into a hallway.
+    - Masked Samurai (8-13F) can be used, or just have Crossbowboy shoot arrows at another enemy.
+
+### Sumo Status
+
+<p><b><u>Make Monsters Turn Back</u></b><br/>explanation</p>
 
 # Floor Guide
 
-[Content]
+### General Advice
+
+### 1-6F
+
+### 7-11F
+
+### 12-17F
+
+### 18-23F
+
+### 24-29F
+
+### 30F
+
+<h3 class="heading3Tree">Sacred Tree Mode</h3>
+
+### 31-33F
+
+### 34-38F
+
+### 39-48F
+
+### 49-58F
+
+### 59-68F
+
+### 69-75F
+
+### 76-82F
+
+### 83-88F
+
+### 89-94F
+
+### 95-98F
+
+### 99F
 
 # Monsters
 

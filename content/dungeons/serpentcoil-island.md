@@ -209,7 +209,7 @@ Fresh Octopling (60 HP, 19 atk, 14 def) gains attack power when the target it fo
 
 Pillars in rooms can be destroyed by normal attacks, and often have an item, monster, or trap hidden inside.<br/>Mapping Scroll, Monster-find Bracelet, or Item-find Braceler lets you safely check what they contain.
 
-### Underwater Training Groud
+### Underwater Training Ground
 
 <div class="dungeonPageImage">
   <img src="../images/areas/serpentcoil/village_4.jpg"/>
@@ -354,6 +354,8 @@ Other notes:
 
 # Monsters
 
+<button id="hideMonTblImgBtn" onClick={()=>{var mon_imgs = document.querySelectorAll('#monsterTable img');mon_imgs.forEach(e => e.classList.toggle('hidden'));}}>Toggle Monster Images</button>
+
 See [Monsters](/system/monsters) for individual monster details.
 
 - F - <span class="highlightFog">Dark hallways</span>, <span class="highlightOrange2">Boss Floor</span>
@@ -364,7 +366,7 @@ See [Monsters](/system/monsters) for individual monster details.
 
 Monster Colors = <span class="farming">Farming</span>, <span class="useful">Useful</span>, <span class="stats">Lowers Stats</span>, <span class="items">Targets Items</span>, <span class="danger">Dangerous</span>
 
-<table class="monsterTable">
+<table id="monsterTable" class="monsterTable">
   <thead>
     <tr>
       <th>F</th>
@@ -605,7 +607,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td class="monsterTableVillage"></td>
       <td colspan="3" class="monsterTableVillage"></td>
-      <td colspan="5" class="monsterTableVillage centeredText">Underwater Training Groud</td>
+      <td colspan="5" class="monsterTableVillage centeredText">Underwater Training Ground</td>
       <td class="monsterTableVillage"></td>
     </tr>
     <tr>
@@ -1042,7 +1044,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
 
 # Behemoths
 
-<table class="monsterTable">
+<button id="hideMonTblImgBtn" onClick={()=>{var mon_imgs = document.querySelectorAll('#behemothTable img');mon_imgs.forEach(e => e.classList.toggle('hidden'));}}>Toggle Monster Images</button>
+
+See [Monsters](/system/monsters) for individual monster details.
+
+<table id="behemothTable" class="monsterTable">
   <thead>
     <tr>
       <th>F</th>
@@ -1051,7 +1057,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </thead>
   <tbody>
     <tr>
-      <td rowspan="1" class="centeredText">13<br/>15</td>
+      <td rowspan="1" class="centeredText">13, 15</td>
       <td><img src="../images/monsters_s/1-1.png"/> Mamel</td>
       <td><img src="../images/monsters_s/15-1.png"/> Bowboy</td>
       <td><img src="../images/monsters_s/16-1.png"/> Pop Tank</td>
