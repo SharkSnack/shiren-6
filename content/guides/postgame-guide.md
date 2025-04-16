@@ -12,7 +12,7 @@ metaDescription: "Postgame guide for Shiren the Wanderer: The Mystery Dungeon of
 
 Congratulations on clearing the main story! You're now finished with the tutorial.<br/>That's right - The main story was just the introduction to Shiren 6, and there's lots more to do!
 
-There are up to 33 other dungeons besides Serpentcoil Island (excluding hidden routes) with various rules.<br/>In addition, there's a notebook to complete, up to 78 achievements to aim for, and a secret title screen.<br/><span class="orangeText">※ This page was last edited on November 12th, 2024 (Game version 2.1.1).</span>
+There are up to 33 other dungeons besides Serpentcoil Island (excluding hidden routes) with various rules.<br/>In addition, there's a notebook to complete, up to 78 achievements to aim for, and a secret title screen.<br/><span class="orangeText">※ This page was last edited on April 16th, 2025 (Game version 2.2.3).</span>
 
 # Dungeons
 
@@ -565,122 +565,317 @@ If a particular dungeon doesn't seem to be unlocking, visit more locations that 
 
 ### Dungeon Difficulty Ranking
 
-Keep in mind that this difficulty ranking is an opinion piece, and isn't absolute.<br/><span class="orangeText">※ This section needs to be updated.</span>
+Keep in mind that this difficulty ranking is an opinion piece, and isn't absolute.
 
 #### No Carry-In Items
+
+- Dungeons within a tier are <span class="redText">not</span> ordered from hardest to easiest.
+- Player character is Normal Shiren (except for Cavern of Suiryu) for this ranking.
+- Scroll section of Notebook is complete, meaning any scroll can be written on a Blank Scroll.
+- All unlockables like Mixers and Peach Staff are assumed to be unlocked.
+- All Travel Companions unlocked.
+
+<br/>
 
 <table>
   <thead>
     <tr>
       <th class="centeredText">Difficulty</th>
+      <th class="centeredText">Type</th>
       <th class="centeredText">Dungeon</th>
       <th class="centeredText">Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="centeredText highlightGray">Super Hard</td>
+      <td rowspan="5" class="centeredText highlightGray">Rank 7<br/>(Hard)</td>
+      <td class="highlightGreen">Update</td>
+      <td>Cat-Ching's Divine Will (99F)</td>
+      <td>Said to be the hardest excluding DLC.</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">DLC</td>
+      <td>Forest of Frugality (99F)</td>
+      <td>Quite luck-dependent, some say it's the hardest.</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">DLC</td>
+      <td>Researcher's Experimental Site (99F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">DLC</td>
+      <td>Timeworn Cave (99F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">DLC</td>
+      <td>Soul of Serpentcoil Island (99F)</td>
+      <td>Probably actually the hardest dungeon.</td>
+    </tr>
+    <tr class="tableBorder">
+      <td rowspan="7" class="centeredText highlightGray">Rank 6</td>
+      <td class="highlightGreen">Update</td>
+      <td>Training Path of Extra Inference (50F)</td>
+      <td>Descend the stairs on 50F.</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue">Base</td>
       <td>Heart of Serpentcoil Island</td>
       <td>The 12 Celestial Stones.</td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText highlightGray">Hard</td>
-      <td>Heart of Serpentcoil Island</td>
+      <td class="highlightGreen">Update</td>
+      <td>Training Path of Hiding (99F)</td>
       <td>-</td>
     </tr>
     <tr>
-      <td>Yamakagashi Pass</td>
-      <td>Including the boss fight.</td>
-    </tr>
-    <tr>
-      <td rowspan="4" class="centeredText highlightGray">Medium Hard</td>
-      <td>Training Path of Inference</td>
+      <td class="highlightYellow">DLC</td>
+      <td>Winding Valley (99F)</td>
       <td>-</td>
     </tr>
     <tr>
-      <td>Training Path of Extra Inference</td>
+      <td class="highlightYellow">DLC</td>
+      <td>Peachy Trap Domain (99F)</td>
+      <td>Farming Techniques lowers its rank.</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">DLC</td>
+      <td>Training Path of Deadly Strikes (99F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">DLC</td>
+      <td>Floral Garden (99F)</td>
+      <td>-</td>
+    </tr>
+    <tr class="tableBorder">
+      <td rowspan="8" class="centeredText highlightGray">Rank 5</td>
+      <td class="highlightGreen">Update</td>
+      <td>Training Path of Inference (50F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue">Base</td>
+      <td>Training Path of Extra Inference (20F)</td>
       <td>Descend to 20F.</td>
     </tr>
     <tr>
-      <td>Peach Dungeon</td>
-      <td>Sumo status → Medium.</td>
+      <td class="highlightGreen">Update</td>
+      <td>Kiki Island (99F)</td>
+      <td>Harder than Heart's normal route.</td>
     </tr>
     <tr>
-      <td>Sacred Ocean Tunnel</td>
+      <td class="highlightGreen">Update</td>
+      <td>Peach Dungeon (99F)</td>
+      <td>Harder than Heart's normal route.</td>
+    </tr>
+    <tr>
+      <td class="highlightGreen">Update</td>
+      <td>Sacred Ocean Tunnel (99F)</td>
       <td>-</td>
     </tr>
     <tr>
-      <td rowspan="4" class="centeredText highlightGray">Medium</td>
-      <td>Kiki Island</td>
+      <td class="highlightGreen">Update</td>
+      <td>Wanderers' Highway (99F)</td>
+      <td>Harder than Heart's normal route.</td>
+    </tr>
+    <tr>
+      <td class="highlightGreen">Update</td>
+      <td>Cliff of Condensing (50F)</td>
       <td>-</td>
     </tr>
     <tr>
-      <td>Cavern of Suiryu</td>
-      <td>Medium Hard after 1st clear.</td>
+      <td class="highlightGreen">Update</td>
+      <td>Wild Monster Path (99F)</td>
+      <td>-</td>
+    </tr>
+    <tr class="tableBorder">
+      <td rowspan="6" class="centeredText highlightGray">Rank 4</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Yamakagashi Pass (25F)</td>
+      <td>Including boss fight.</td>
     </tr>
     <tr>
-      <td>Trapper's Secret Path</td>
+      <td class="highlightGreen">Update</td>
+      <td>Behemoth Rush (99F)</td>
       <td>-</td>
     </tr>
     <tr>
-      <td>Domain of Staves and Scrolls</td>
-      <td>Transmutation Pot → Easy.</td>
+      <td class="highlightGreen">Update</td>
+      <td>Domain of Staves and Scrolls (50F)</td>
+      <td>Transmutation Pot lowers its rank.</td>
     </tr>
     <tr>
-      <td rowspan="3" class="centeredText highlightGray">Easy</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Heart of Serpentcoil Island (99F)</td>
+      <td>Normal route.</td>
+    </tr>
+    <tr>
+      <td class="highlightGreen">Update</td>
+      <td>Quietude of Serpentcoil Island (99F)</td>
+      <td>Harder or easier based on play style.</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">DLC</td>
+      <td>Battleground of the Rivals (24F)</td>
+      <td>-</td>
+    </tr>
+    <tr class="tableBorder">
+      <td rowspan="5" class="centeredText highlightGray">Rank 3</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Training Path of Inference (20F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue">Base</td>
+      <td>Kiki Island (25F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue">Base</td>
+      <td>Peach Dungeon (25F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightGreen">Update</td>
+      <td>Trapper's Secret Path (99F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightGreen">Update</td>
+      <td>Training Path of Hiding (20F)</td>
+      <td>-</td>
+    </tr>
+    <tr class="tableBorder">
+      <td rowspan="5" class="centeredText highlightGray">Rank 2</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Cavern of Suiryu (20F)</td>
+      <td>Normal Shiren raises its rank.</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue">Base</td>
+      <td>Behemoth Rush (30F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue">Base</td>
+      <td>Sacred Ocean Tunnel (15F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue">Base</td>
+      <td>Domain of Staves and Scrolls (20F)</td>
+      <td>Transmutation Pot lowers its rank.</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">DLC</td>
+      <td>Forest of Frugality (30F)</td>
+      <td>-</td>
+    </tr>
+    <tr class="tableBorder">
+      <td rowspan="4" class="centeredText highlightGray">Rank 1<br/>(Easy)</td>
+      <td class="highlightLightblue">Base</td>
       <td>Training Path of Extra Inference</td>
       <td>Identify 50 items.</td>
     </tr>
     <tr>
-      <td>Behemoth Rush</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Cat-Ching's Divine Will (10F)</td>
       <td>-</td>
     </tr>
     <tr>
-      <td>Cat-Ching's Divine Will</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Trapper's Secret Path (20F)</td>
       <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightGreen">Update</td>
+      <td>Go Go Dungeon (5F)</td>
+      <td>Only clearing it 1 time.</td>
     </tr>
   </tbody>
 </table>
 
 #### Carry-In Items
 
-All dungeons that allow bringing items drop down to "Easy" if you overprepare.
+- Dungeons within a tier are <span class="redText">not</span> ordered from hardest to easiest.
+- All dungeons that allow bringing items drop down to the easiest rank if you overprepare.
+
+<br/>
 
 <table>
   <thead>
     <tr>
       <th class="centeredText">Difficulty</th>
+      <th class="centeredText">Type</th>
       <th class="centeredText">Dungeon</th>
       <th class="centeredText">Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="centeredText highlightGray">Hard</td>
-      <td>Isle of the Mighty</td>
+      <td rowspan="4" class="centeredText highlightGray">Rank 4<br/>(Hard)</td>
+      <td class="highlightGreen">Update</td>
+      <td>Sumo Dungeon (99F)</td>
       <td>-</td>
     </tr>
     <tr>
-      <td class="centeredText highlightGray">Medium Hard</td>
-      <td>Training Path of Shopping</td>
+      <td class="highlightGreen">Update</td>
+      <td>Training Path of Shopping (99F)</td>
       <td>-</td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText highlightGray">Medium</td>
-      <td>Training Path of Gimmicks</td>
+      <td class="highlightGreen">Update</td>
+      <td>Isle of the Mighty (99F)</td>
       <td>-</td>
     </tr>
     <tr>
-      <td>Dune of Batsu</td>
+      <td class="highlightYellow">DLC</td>
+      <td>Clash of Weapons and Shields (99F)</td>
+      <td>-</td>
+    </tr>
+    <tr class="tableBorder">
+      <td rowspan="3" class="centeredText highlightGray">Rank 3</td>
+      <td class="highlightGreen">Update</td>
+      <td>Training Path of Gimmicks (50F)</td>
       <td>-</td>
     </tr>
     <tr>
-      <td rowspan="2" class="centeredText highlightGray">Easy</td>
-      <td>Sumo Dungeon</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Isle of the Mighty (50F)</td>
       <td>-</td>
     </tr>
     <tr>
-      <td>Serpentcoil Island</td>
+      <td class="highlightYellow">DLC</td>
+      <td>Clash of Weapons and Shields (50F)</td>
+      <td>-</td>
+    </tr>
+    <tr class="tableBorder">
+      <td rowspan="3" class="centeredText highlightGray">Rank 2</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Dune of Batsu (30F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue">Base</td>
+      <td>Training Path of Gimmicks (20F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue">Base</td>
+      <td>Training Path of Shopping (40F)</td>
+      <td>-</td>
+    </tr>
+    <tr class="tableBorder">
+      <td rowspan="2" class="centeredText highlightGray">Rank 1<br/>(Easy)</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Serpentcoil Island (31F)</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue">Base</td>
+      <td>Sumo Dungeon (20F)</td>
       <td>-</td>
     </tr>
   </tbody>
@@ -688,43 +883,128 @@ All dungeons that allow bringing items drop down to "Easy" if you overprepare.
 
 #### Restricted Play (No Bringing Items / Wanderer Rescue)
 
+- Dungeons within a tier are <span class="redText">not</span> ordered from hardest to easiest.
+
+<br/>
+
 <table>
   <thead>
     <tr>
       <th class="centeredText">Difficulty</th>
+      <th class="centeredText">Type</th>
       <th class="centeredText">Dungeon</th>
       <th class="centeredText">Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2" class="centeredText highlightGray">Super Hard</td>
-      <td>Isle of the Mighty</td>
-      <td>50F rescue using points.</td>
-    </tr>
-    <tr>
-      <td>Training Path of Shopping</td>
+      <td rowspan="2" class="centeredText highlightGray">Rank 4<br/>(Hard)</td>
+      <td class="highlightGreen">Update</td>
+      <td>Training Path of Shopping (99F)</td>
       <td>No bringing items.</td>
     </tr>
     <tr>
-      <td class="centeredText highlightGray">Hard</td>
-      <td>Isle of the Mighty</td>
+      <td class="highlightGreen">Update</td>
+      <td>Training Path of Gimmicks (50F)</td>
+      <td>No bringing items.</td>
+    </tr>
+    <tr class="tableBorder">
+      <td rowspan="4" class="centeredText highlightGray">Rank 3</td>
+      <td class="highlightGreen">Update</td>
+      <td>Isle of the Mighty (99F)</td>
       <td>Bring items from 1 run of Heart.</td>
     </tr>
     <tr>
-      <td class="centeredText highlightGray">Medium Hard</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Isle of the Mighty (50F)</td>
+      <td>50F rescue using Wanderer Aids.</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">DLC</td>
+      <td>Clash of Weapons and Shields (99F)</td>
+      <td>Bring items from 1 run of Heart.</td>
+    </tr>
+    <tr>
+      <td class="highlightYellow">DLC</td>
+      <td>Clash of Weapons and Shields (50F)</td>
+      <td>50F rescue using Wanderer Aids.</td>
+    </tr>
+    <tr class="tableBorder">
+      <td rowspan="4" class="centeredText highlightGray">Rank 2</td>
+      <td class="highlightLightblue">Base</td>
       <td>Dune of Batsu</td>
       <td>No bringing items.</td>
     </tr>
     <tr>
-      <td class="centeredText highlightGray">Medium</td>
-      <td>Sumo Dungeon</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Training Path of Gimmicks (20F)</td>
+      <td>Bring items from Serpentcoil Isle 12F.</td>
+    </tr>
+    <tr>
+      <td class="highlightLightblue">Base</td>
+      <td>Training Path of Shopping (40F)</td>
+      <td>Bring items from Serpentcoil Isle 12F.</td>
+    </tr>
+    <tr>
+      <td class="highlightGreen">Update</td>
+      <td>Sumo Dungeon (99F)</td>
+      <td>No bringing items.</td>
+    </tr>
+    <tr class="tableBorder">
+      <td rowspan="2" class="centeredText highlightGray">Rank 1<br/>(Easy)</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Serpentcoil Island (31F)</td>
       <td>No bringing items.</td>
     </tr>
     <tr>
-      <td class="centeredText highlightGray">Easy</td>
-      <td>Serpentcoil Island</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Sumo Dungeon (20F)</td>
       <td>No bringing items.</td>
+    </tr>
+  </tbody>
+</table>
+
+# Characters
+
+### Playable Character Unlock Chart
+
+- Special playable characters can be used in [Sacred Tree](/system/sacred-tree) Mode.
+
+<br/>
+
+<table class="pageLinksTable">
+  <thead>
+    <tr>
+      <th class="centeredText">Character</th>
+      <th class="centeredText">Type</th>
+      <th class="centeredText">Unlock Condition</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="centeredText"><img src="../images/other/char_shiren.jpg"/><br/>Shiren</td>
+      <td class="highlightLightblue">Base</td>
+      <td>Available from the start.</td>
+    </tr>
+    <tr>
+      <td class="centeredText"><img src="../images/other/char_kokatsu_shiren.jpg"/><br/>Kokatsu<br/>Shiren</td>
+      <td class="highlightGreen">Update</td>
+      <td>1. Clear <a href="/shiren-6/dungeons/serpentcoil-island">Serpentcoil Island</a>.<br/>2. Clear <a href="/shiren-6/dungeons/dune-of-batsu">Dune of Batsu</a>.<br/>3. Clear <a href="/shiren-6/dungeons/cavern-of-suiryu">Cavern of Suiryu</a>.<br/>4. Visit the Sacred Tree in Shukuba Beach.</td>
+    </tr>
+    <tr>
+      <td class="centeredText"><img src="../images/other/char_tatsumi_shiren.jpg"/><br/>Tatsumi<br/>Shiren</td>
+      <td class="highlightGreen">Update</td>
+      <td>1. Unlock Kokatsu Shiren<br/>2. Visit the Sacred Tree in Shukuba Beach.</td>
+    </tr>
+    <tr>
+      <td class="centeredText"><img src="../images/other/char_koppa_2.jpg"/><br/>Koppa</td>
+      <td class="highlightYellow">DLC</td>
+      <td>1. Unlock Tatsumi Shiren.<br/>2. Event at Mount Jingara Summit.<br/>3. Visit the Sacred Tree in Shukuba Beach.</td>
+    </tr>
+    <tr>
+      <td class="centeredText"><img src="../images/other/char_asuka.png"/><br/>Asuka</td>
+      <td class="highlightYellow">DLC</td>
+      <td>1. Go through Peach Bun events and have Asuka join as an ally.<br/>2. Visit the Sacred Tree in Shukuba Beach.</td>
     </tr>
   </tbody>
 </table>
@@ -901,41 +1181,14 @@ Feel free to swap runes out depending on your preferences.
 
 #### Rare Entries
 
-Some of the rarer entries needed for notebook completion are noted below:
+See [Item Locations](/guides/item-locations) for rare item locations.
 
-- Kajin Fuuma
-    - Upgrade a Katana+99 at the Traveling Blacksmith in Shukuba Beach.
-- Kabura Sutegi
-    - Upgrade a Manji Kabura+99 at the Traveling Blacksmith in Shukuba Beach.
-- Golden Pickaxe
-    - Isle of the Mighty (shop, 48\~49F and 98\~99F).
-    - Clear Heart of Serpentcoil Island 3 times.
-- Epic Hammer
-    - Isle of the Mighty (shop, 48\~49F and 98\~99F).
-    - Clear Heart of Serpentcoil Island 4 times.
-- Accurate Sword
-    - Clear Heart of Serpentcoil Island 6 times.
-    - Isle of the Mighty (shop, 98\~99F)
-- Rasen Fuuma
-    - Upgrade a Fuuma Shield+99 at the Traveling Blacksmith in Shukuba Beach.
-- Bodhi Shield
-    - Heart of Serpentcoil Island (floor).
-    - Clear Heart of Serpentcoil Island 5 times.
-    - Isle of the Mighty.
-- Appraiser's Bracelet
-    - Training Path of Extra Inference (13F+, guaranteed on 50F).
-- Expulsion Scroll
-    - Isle of the Mighty (shop, 48\~49F, 3000G).
-- Eradication Scroll
-    - Domain of Staves and Scrolls (floor).
-- Ill-fated Seed
-    - Heart of Serpentcoil Island (shop, 2000G).
-- Bellyshrink Seed
-    - Heart of Serpentcoil Island (floor).
 - Alarm Switch
     - Heart of Serpentcoil Island (40\~99F?)
+    - <span class="highlightOrange">DLC</span> - Clash of Weapons and Shields (1F+), Researcher's Experimental Site (1F+)
 - Sacred Item exclusive runes
     - Isle of the Mighty or Sacred Ocean Tunnel.
+    - <span class="highlightOrange">DLC</span> - Clash of Weapons and Shields
 - Peach Buns
     - Peach Bun shop in Shukuba Beach (Eat the Peach Bun to also unlock the monster entry).
 
@@ -972,110 +1225,135 @@ Fluffy Bunny (80-89F) in Heart of Serpentcoil Island is currently thought to be 
 
 # Clear Icons
 
-<p><span class="orangeText">※ This section needs to be updated.</span></p>
+Colors = <span class="highlightGreen">Update Required</span> / <span class="highlightYellow">DLC Required</span>
 
 <div class="iconTable relativeImage">
 
-|Icon|In-Game Description|
-|-|-|
-|![1](../images/icons/1.png)|Completed the "Serpentcoil Island" story arc.|
-|![2](../images/icons/2.png)|Completed the "Suiryu" story arc.|
-|![3](../images/icons/3.png)|Completed the "Kokatsu" story arc.|
-|![4](../images/icons/4.png)|Completed the "Reconciliation" story arc.|
-|![5](../images/icons/5.png)|Completed "The Two Pirate Gangs" story arc.|
-|![6](../images/icons/6.png)|Completed the "Peach Club" story arc.|
-|![7](../images/icons/7.png)|Completed the "Secret Ninja Village" story arc.|
-|![8](../images/icons/8.png)|Completed the "Secluded Path" story arc.|
-|![9](../images/icons/9.png)|Completed the "Ghost Ship" story arc.|
-|![10](../images/icons/10.png)|Completed the "Golden Highway" story arc.|
-|![11](../images/icons/11.png)|Completed the "Kiki Island" story arc.|
-|![12](../images/icons/12.png)|Completed the "Yamakagashi Pass" story arc.|
-|![13](../images/icons/13.png)|Completed the "Peach Dungeon" story arc.|
-|![14](../images/icons/14.png)|Completed the "Training Path of Inference" story arc.|
-|![15](../images/icons/15.png)|Completed the "Asuka" story arc.|
-|![16](../images/icons/16.png)|Completed the "Porky the Pirate" story arc.|
-|![17](../images/icons/17.png)|Completed the "Tugai" story arc.|
-|![18](../images/icons/18.png)|Completed the "Hibiki" story arc.|
-|![19](../images/icons/19.png)|Completed the "Sumo Dungeon" story arc.|
-|![20](../images/icons/20.png)|Completed the "Cat-Ching's Divine Will" story arc.|
-|![21](../images/icons/21.png)|Completed the "Trapper's Secret Path" story arc.|
-|![22](../images/icons/22.png)|Completed the "Training Path of Gimmicks" story arc.|
-|![23](../images/icons/23.png)|Completed the "Training Path of Shopping" story arc.|
-|![24](../images/icons/24.png)|Completed the "Behemoth Rush" story arc.|
-|![25](../images/icons/25.png)|Completed the "Sacred Ocean Tunnel" story arc.|
-|![26](../images/icons/26.png)|Completed the "Domain of Staves and Scrolls" story arc.|
-|![27](../images/icons/27.png)|Completed the "Isle of the Mighty" story arc.|
-|![28](../images/icons/28.png)|Completed the "Heart of Serpentcoil Island" story arc.|
-|![29](../images/icons/29.png)|Unlocked "Kokatsu Shiren" to adventure as.|
-|![30](../images/icons/30.png)|Unlocked "Tatsumi Shiren" to adventure as.|
+|Icon|In-Game Description|Version|
+|-|-|-|
+|![1](../images/icons/1.png)|Completed the "Serpentcoil Island" story arc.|1.0.0|
+|![2](../images/icons/2.png)|Completed the "Suiryu" story arc.|1.0.0|
+|![3](../images/icons/3.png)|Completed the "Kokatsu" story arc.|1.0.0|
+|![4](../images/icons/4.png)|Completed the "Reconciliation" story arc.|1.0.0|
+|![5](../images/icons/5.png)|Completed "The Two Pirate Gangs" story arc.|1.0.0|
+|![6](../images/icons/6.png)|Completed the "Peach Club" story arc.|1.0.0|
+|![7](../images/icons/7.png)|Completed the "Secret Ninja Village" story arc.|1.0.0|
+|![8](../images/icons/8.png)|Completed the "Secluded Path" story arc.|1.0.0|
+|![9](../images/icons/9.png)|Completed the "Ghost Ship" story arc.|1.0.0|
+|![10](../images/icons/10.png)|Completed the "Golden Highway" story arc.|1.0.0|
+|![11](../images/icons/11.png)|Completed the "Kiki Island" story arc.|1.0.0|
+|![12](../images/icons/12.png)|Completed the "Yamakagashi Pass" story arc.|1.0.0|
+|![13](../images/icons/13.png)|Completed the "Peach Dungeon" story arc.|1.0.0|
+|![14](../images/icons/14.png)|Completed the "Training Path of Inference" story arc.|1.0.0|
+|![15](../images/icons/15.png)|Completed the "Asuka" story arc.|1.0.0|
+|![16](../images/icons/16.png)|Completed the "Porky the Pirate" story arc.|1.0.0|
+|![17](../images/icons/17.png)|Completed the "Tugai" story arc.|1.0.0|
+|![18](../images/icons/18.png)|Completed the "Hibiki" story arc.|1.0.0|
+|![19](../images/icons/19.png)|Completed the "Sumo Dungeon" story arc.|1.0.0|
+|![20](../images/icons/20.png)|Completed the "Cat-Ching's Divine Will" story arc.|1.0.0|
+|![21](../images/icons/21.png)|Completed the "Trapper's Secret Path" story arc.|1.0.0|
+|![22](../images/icons/22.png)|Completed the "Training Path of Gimmicks" story arc.|1.0.0|
+|![23](../images/icons/23.png)|Completed the "Training Path of Shopping" story arc.|1.0.0|
+|![24](../images/icons/24.png)|Completed the "Behemoth Rush" story arc.|1.0.0|
+|![25](../images/icons/25.png)|Completed the "Sacred Ocean Tunnel" story arc.|1.0.0|
+|![26](../images/icons/26.png)|Completed the "Domain of Staves and Scrolls" story arc.|1.0.0|
+|![27](../images/icons/27.png)|Completed the "Isle of the Mighty" story arc.|1.0.0|
+|![28](../images/icons/28.png)|Completed the "Heart of Serpentcoil Island" story arc.|1.0.0|
+|![29](../images/icons/29.png)|Unlocked "Kokatsu Shiren" to adventure as.|1.1.0|
+|![30](../images/icons/30.png)|Unlocked "Tatsumi Shiren" to adventure as.|1.2.0|
+|![31](../images/icons/31.png)|Unlocked "Koppa" to adventure as.|2.0.1|
+|![32](../images/icons/32.png)|Unlocked "Asuka" to adventure as.|2.1.1|
 
 </div>
 
 # Achievements
 
-<p><span class="orangeText">※ This section needs to be updated.</span></p>
+<div class="achievementTable">
 
-|No|Achievement|In-Game Description|
-|-|-|-|
-|1|Serpentcoil Island Completion|Defeated Jakaku and completed Serpentcoil Island.|
-|2|Dune of Batsu Completion|Defeated Embodiment of Batsu and completed Dune of Batsu.|
-|3|Cavern of Suiryu Completion|Defeated Embodiment of Suiryu and completed Cavern of Suiryu.|
-|4|Yamakagashi Pass Completion|Defeated Madara and completed Yamakagashi Pass.|
-|5|Kiki Island Completion|Completed Kiki Island.|
-|6|Training Path of Inference Completion|Completed Training Path of Inference.|
-|7|Training Path of Extra Inference Completion|Completed Training Path of Extra Inference.|
-|8|Peach Dungeon Completion|Completed Peach Dungeon.|
-|9|Sumo Dungeon Completion|Completed Sumo Dungeon.|
-|10|Cat-Ching's Divine Will Completion|Completed Cat-Ching's Divine Will.|
-|11|Trapper's Secret Path Completion|Completed Trapper's Secret Path.|
-|12|Training Path of Gimmicks Completion|Completed Training Path of Gimmicks.|
-|13|Training Path of Shopping Completion|Completed Training Path of Shopping.|
-|14|Behemoth Rush Completion|Completed Behemoth Rush.|
-|15|Sacred Ocean Tunnel Completion|Completed Sacred Ocrean Tunnel.|
-|16|Domain of Staves and Scrolls Completion|Completed Domain of Staves and Scrolls.|
-|17|Isle of the Mighty Completion|Completed Isle of the Mighty.|
-|18|Heart of Serpentcoil Island Completion|Completed Heart of Serpentcoil Island.|
-|19|Sumo-ready!|Experienced the Sumo condition.|
-|20|Wish Granted|Reached the Tunnel of Wishes.|
-|21|Blue Sacred Gear|Brought back a Blue Sacred item.|
-|22|Golden Sacred Gear|Brought back a Golden Sacred item.|
-|23|Cannon Master|Defeated a monster in a dungeon with a cannon.|
-|24|Way of Gitau|Took the shop's wares and managed to escape.|
-|25|Trusty Companions|Recruited all companions.|
-|26|Seasoned Wanderer|Completed Kron's challenge.|
-|27|Behemoth Vanquished!|Defeated a Behemoth.|
-|28|Grilled to Perfection!|Had an Onigiri grilled.|
-|29|How Did You Know?!|Attacked a Ninja in hiding.|
-|30|Cooking in the Wild|Made a Hen into Yakitori.|
-|31|Don't Overdo Your Diet|Collapsed due to starvation.|
-|32|Don't Overstay in the Dungeon|Had a gust send you back to Shukuba Beach.|
-|33|Immediate Danger!|Got thrown into a Monster House.|
-|34|Awwww, How Cute!|Became friendly with a monster pup.|
-|35|Rejoined by Fate|Bought back your weapon or shield at an Unsuspicious Shop.|
-|36|First Successful Rescue|Succeeded in rescuing a Wanderer.|
-|37|Invitation to a Parallel World <span class="redText">*1</span>|Uploaded Parallel Data.|
-|38|Journey to a Parallel World|Went on a Parallel Play adventure.|
-|39|Weapon Collector|Completed the Weapon listing in the Item Notes.|
-|40|Shield Collector|Completed the Shield listing in the Item Notes.|
-|41|Bracelet Appraiser|Completed the Bracelet listing in the Item Notes.|
-|42|Arrow Collector|Completed the Arrow listing in the Item Notes.|
-|43|Rock Collector|Completed the Rock listing in the Item Notes.|
-|44|Gourmet|Completed the Food listing in the Item Notes.|
-|45|Vegetarian|Completed the Grass listing in the Item Notes.|
-|46|Scroll Collector|Completed the Scroll listing in the Item Notes.|
-|47|Master of Staves|Completed the Stave listing in the Item Notes.|
-|48|Fragrance Expert|Completed the Incense listing in the Item Notes.|
-|49|Pottery Aficionado|Completed the Pot listing in the Item Notes.|
-|50|Peach Bun Lover|Completed the Peach Bun listing in the Item Notes.|
-|51|Monster Whiz|Completed the Monster Notes.|
-|52|Dojo Conqueror|Completed all Dojo Challenges at Monster Dojo.|
-|53|Quick-witted|Completed a Sacred Tree dungeon in a Countdown Trial.|
-|54|Most Efficient Moves|Completed a Sacred Tree dungeon in a Turn Trial.|
-|55|Fastest Run|Completed a Sacred Tree dungeon in a Time Trial.|
-|56|Proven Expert|Completed a Sacred Tree dungeon in a Challenge Trial.|
-|57|A Monster's Life|Completed a Sacred Tree dungeon in a Monster Trial.|
-|58|Tale of the Burning Sand|Completed a Sacred Tree dungeon as Kokatsu Shiren.|
-|59|Dragon God's Frolic|Completed a Sacred Tree dungeon as Tatsumi Shiren.|
+Colors = <span class="highlightGreen">Update Required</span> / <span class="highlightYellow">DLC Required</span>
+
+|No|Achievement|In-Game Description|Version|
+|-|-|-|-|
+|1|Serpentcoil Island Completion|Defeated Jakaku and completed Serpentcoil Island.|1.0.0|
+|2|Dune of Batsu Completion|Defeated Embodiment of Batsu and completed Dune of Batsu.|1.0.0|
+|3|Cavern of Suiryu Completion|Defeated Embodiment of Suiryu and completed Cavern of Suiryu.|1.0.0|
+|4|Yamakagashi Pass Completion|Defeated Madara and completed Yamakagashi Pass.|1.0.0|
+|5|Kiki Island Completion|Completed Kiki Island.|1.0.0|
+|6|Training Path of Inference Completion|Completed Training Path of Inference.|1.0.0|
+|7|Training Path of Extra Inference Completion|Completed Training Path of Extra Inference.|1.0.0|
+|8|Peach Dungeon Completion|Completed Peach Dungeon.|1.0.0|
+|9|Sumo Dungeon Completion|Completed Sumo Dungeon.|1.0.0|
+|10|Cat-Ching's Divine Will Completion|Completed Cat-Ching's Divine Will.|1.0.0|
+|11|Trapper's Secret Path Completion|Completed Trapper's Secret Path.|1.0.0|
+|12|Training Path of Gimmicks Completion|Completed Training Path of Gimmicks.|1.0.0|
+|13|Training Path of Shopping Completion|Completed Training Path of Shopping.|1.0.0|
+|14|Behemoth Rush Completion|Completed Behemoth Rush.|1.0.0|
+|15|Sacred Ocean Tunnel Completion|Completed Sacred Ocrean Tunnel.|1.0.0|
+|16|Domain of Staves and Scrolls Completion|Completed Domain of Staves and Scrolls.|1.0.0|
+|17|Isle of the Mighty Completion|Completed Isle of the Mighty.|1.0.0|
+|18|Heart of Serpentcoil Island Completion|Completed Heart of Serpentcoil Island.|1.0.0|
+|19|Go Go Dungeon Completion|Completed Go Go Dungeon.|2.0.1|
+|20|Wanderers' Highway Completion|Completed Wanderers' Highway.|2.0.1|
+|21|Quietude of Serpentcoil Island Completion|Completed Quietude of Serpentcoil Island.|2.0.1|
+|22|Training Path of Hiding Completion|Completed Training Path of Hiding.|2.1.1|
+|23|Cliff of Condensing Completion|Completed Cliff of Condensing.|2.1.1|
+|24|Wild Monster Path Completion|Completed Wild Monster Path.|2.1.1|
+|25|Forest of Frugality Completion|Completed Forest of Frugality.|2.0.1|
+|26|Researcher's Experimental Site Completion|Completed Researcher's Experimental Site.|2.0.1|
+|27|Winding Valley Completion|Completed Winding Valley.|2.0.1|
+|28|Clash of Weapons and Shields Completion|Completed Clash of Weapons and Shields.|2.0.1|
+|29|Peachy Trap Domain Completion|Completed Peachy Trap Domain.|2.0.1|
+|30|Training Path of Deadly Strikes Completion|Completed Training Path of Deadly Strikes.|2.1.1|
+|31|Battleground of the Rivals Completion|Completed Battleground of the Rivals.|2.1.1|
+|32|Timeworn Cave Completion|Completed Timeworn Cave.|2.1.1|
+|33|Floral Garden Completion|Completed Floral Garden.|2.1.1|
+|34|Soul of Serpentcoil Island Completion|Completed Soul of Serpentcoil Island.|2.1.1|
+|35|Sumo-ready!|Experienced the Sumo condition.|1.0.0|
+|36|Wish Granted|Reached the Tunnel of Wishes.|1.0.0|
+|37|Blue Sacred Gear|Brought back a Blue Sacred item.|1.0.0|
+|38|Golden Sacred Gear|Brought back a Golden Sacred item.|1.0.0|
+|39|Cannon Master|Defeated a monster in a dungeon with a cannon.|1.0.0|
+|40|Way of Gitau|Took the shop's wares and managed to escape.|1.0.0|
+|41|Trusty Companions|Recruited all companions.|1.0.0|
+|42|Seasoned Wanderer|Completed Kron's challenge.|1.0.0|
+|43|Behemoth Vanquished!|Defeated a Behemoth.|1.0.0|
+|44|Grilled to Perfection!|Had an Onigiri grilled.|1.0.0|
+|45|How Did You Know?!|Attacked a Ninja in hiding.|1.0.0|
+|46|Cooking in the Wild|Made a Hen into Yakitori.|1.0.0|
+|47|Don't Overdo Your Diet|Collapsed due to starvation.|1.0.0|
+|48|Don't Overstay in the Dungeon|Had a gust send you back to Shukuba Beach.|1.0.0|
+|49|Immediate Danger!|Got thrown into a Monster House.|1.0.0|
+|50|Awwww, How Cute!|Became friendly with a monster pup.|1.0.0|
+|51|Rejoined by Fate|Bought back your weapon or shield at an Unsuspicious Shop.|1.0.0|
+|52|First Successful Rescue|Succeeded in rescuing a Wanderer.|1.0.0|
+|53|Invitation to a Parallel World <span class="redText">*1</span>|Uploaded Parallel Data.|1.0.0|
+|54|Journey to a Parallel World|Went on a Parallel Play adventure.|1.0.0|
+|55|First Gear on the Rack|Hung a weapon or shield on the Gear Rack.|2.0.1|
+|56|Weapon Collector|Completed the Weapon listing in the Item Notes.|1.0.0|
+|57|Shield Collector|Completed the Shield listing in the Item Notes.|1.0.0|
+|58|Bracelet Appraiser|Completed the Bracelet listing in the Item Notes.|1.0.0|
+|59|Arrow Collector|Completed the Arrow listing in the Item Notes.|1.0.0|
+|60|Rock Collector|Completed the Rock listing in the Item Notes.|1.0.0|
+|61|Gourmet|Completed the Food listing in the Item Notes.|1.0.0|
+|62|Vegetarian|Completed the Grass listing in the Item Notes.|1.0.0|
+|63|Scroll Collector|Completed the Scroll listing in the Item Notes.|1.0.0|
+|64|Master of Staves|Completed the Stave listing in the Item Notes.|1.0.0|
+|65|Fragrance Expert|Completed the Incense listing in the Item Notes.|1.0.0|
+|66|Pottery Aficionado|Completed the Pot listing in the Item Notes.|1.0.0|
+|67|Peach Bun Lover|Completed the Peach Bun listing in the Item Notes.|1.0.0|
+|68|Monster Whiz|Completed the Monster Notes.|1.0.0|
+|69|Dojo Conqueror|Completed all Dojo Challenges at Monster Dojo.|1.1.0|
+|70|Quick-witted|Completed a Sacred Tree dungeon in a Countdown Trial.|1.1.0|
+|71|Most Efficient Moves|Completed a Sacred Tree dungeon in a Turn Trial.|1.1.0|
+|72|Fastest Run|Completed a Sacred Tree dungeon in a Time Trial.|1.1.0|
+|73|Proven Expert|Completed a Sacred Tree dungeon in a Challenge Trial.|1.1.0|
+|74|A Monster's Life|Completed a Sacred Tree dungeon in a Monster Trial.|1.1.0|
+|75|Tale of the Burning Sand|Completed a Sacred Tree dungeon as Kokatsu Shiren.|1.1.0|
+|76|Dragon God's Frolic|Completed a Sacred Tree dungeon as Tatsumi Shiren.|1.2.0|
+|77|Ferret's Feat|Completed a Sacred Tree dungeon as Koppa.|2.0.1|
+|78|Bladedancing Swordswoman|Completed a Sacred Tree dungeon as Asuka.|2.1.1|
+
+</div>
 
 <p><span class="redText">*1</span> Requires an internet connection.</p>
 

@@ -84,13 +84,79 @@ metaDescription: "Researcher's Experimental Site dungeon guide for Shiren the Wa
   </tr>
 </table>
 
-[Content]
+Dungeon that attempts to recreate Fay's Final Puzzle (SNES version) in Shiren 6's engine.<br/>The monster and item tables try to mimic the SNES version closely, but there are some adjustments<br/>for the sake of maintaining gameplay balance (Ex: Bowboy and Ghost Radish don't appear on 3F),<br/>and monsters or items that don't exist in Shiren 6 have substitutions (Ex: Knifegator → Shagga).<br/>Shops often lack carpet tiles, floors have fewer rooms on average, hidden trap density increases<br/>as you go deeper into the dungeon, there are usually only 4 items generated on the ground per floor,<br/>the monster spawn rate is 64 turns, and so on.
 
 # Strategy
 
-### General
+### Dungeon Characteristics
 
-[Content]
+#### Limited Monsters, Item Categories, and Mechanics
+
+
+
+#### Item Table Based on Fay's Final Puzzle
+
+
+
+#### Harder to Steal
+
+
+
+#### Harder to Gain Strength
+
+
+
+#### Lots of Semi-Out of Depth Monsters
+
+
+
+#### Fewer Ways to Deal with Monster Houses
+
+
+
+#### Slower Monster Spawns (64 Turns)
+
+
+
+#### Harder to Farm Monsters
+
+
+
+#### Non-Equipment Items Can be Cursed
+
+
+
+#### Items Can Still Fall In Water
+
+
+
+### Important Items
+
+
+
+### Farming Techniques
+
+
+
+#### Nigiri Morph Factory
+
+
+
+#### Experience Points
+
+
+
+#### Peach Staff Farming
+
+
+
+#### Thiefwalrus Hunting
+
+
+
+#### Reusing Synthesis Pot
+
+
 
 # Floor Guide
 

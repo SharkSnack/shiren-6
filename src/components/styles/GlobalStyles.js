@@ -773,6 +773,9 @@ export const baseStyles = css`
     text-align: center;
     padding: 4px;
   }
+  .tableBorder {
+    border-top: 1.5px solid #333;
+  }
   .runeTable img {
     position: relative !important;
     width: 20px !important;
@@ -1061,7 +1064,7 @@ export const baseStyles = css`
   }
   .runeIcon img {
     position: relative !important;
-    border-radius: 0px !important;
+    border-radius: 2px !important;
     height: 20px !important;
     width: 20px !important;
     vertical-align: text-bottom !important;

@@ -36,7 +36,7 @@ metaDescription: "Forest of Frugality dungeon guide for Shiren the Wanderer: The
     <th>Companions</th>
     <td>No</td>
     <th>Roamers</th>
-    <td>Yes</td>
+    <td></td>
   </tr>
   <tr>
     <th>Rescues</th>
@@ -166,7 +166,7 @@ Recommended Monsters:
 - Hoppin' Hitter (7-10F) → Fortune Staff (2000 Exp)
     - Supplied items seem to lean toward staves on the floors where this monster appears.
     - Masked Samurai (8-13F) can be used to level up a Hoppin' Hitter for better reflect odds, but it's risky.
-- Porky (8-10F) → Porko (Lv2, 840 Exp)
+- Porky (6-10F) → Porko (Lv2, 840 Exp)
     - Porko only has 65 HP, 36 attack, and 18 defense, so it's a pretty easy target to hunt.
     - Masked Samurai (8-13F) can be used to level up a Porky, but don't accidentally create a Lv3 Porkon.
 - Crossbowboy (11-13F) → Mini Tank (Lv4, 800 Exp)
@@ -176,47 +176,208 @@ Recommended Monsters:
 
 ### Sumo Status
 
-<p><b><u>Make Monsters Turn Back</u></b><br/>explanation</p>
+Sumo status boosts Max HP by 50, attack power by 50%, and lets you dig through walls.<br/>This is generally great in a dungeon where you're not guaranteed to be supplied weapons or shields,<br/>but can be bad on floors where staves are common (71-80F) or where Monster Houses appear (30F, 99F),<br/>since certain supplied items like Leaping Grass, Switching Staff, and Vaulting Staff become useless.<br/>Therefore, some players like to drop their Fullness to 120 to cancel Sumo status prior to advancing.
+
+<p><b><u>Make Monsters Turn Back While Digging with Sumo Status</u></b><br/>Instead of digging in a straight line, dig like the diagram to reduce the risk of foes approaching from behind.<br/>Monsters can enter the tunnel when they bunch up near the turn-around spot if you only dig out 1 spot,<br/>so it's best to periodically dig out another turn-around spot to further reduce the risk of being pursued.<br/>※ Enemies that have already detected Shiren will pursue him regardless of dug out turn-around spots.</p>
+
+<pre>
+  S = Shiren, M = Monster<br/>
+  ☆ = 1st monster turn-around spot<br/>
+  ★ = 2nd monster that follows tunnel if M is occupying ☆<br/>
+  △ = Dig here to create a 2nd turn-around spot to cover for ★<br/>
+  <br/>
+  ■ ■ ↓ ■ ■ ■ ■   ■ ■ ↓ ■ ■ ■ ■<br/>
+  ■ ■ □ ■ ■ ■ ■   ■ ■ □ ■ ■ ■ ■<br/>
+  ■ ■ □ □ □ ■ ■   ■ ■ ★ □ □ △ ■<br/>
+  ■ ■ ☆ ■ □ ■ ■ → ■ ■ M ■ □ ■ ■<br/>
+  ■ ■ ■ ■ S ■ ■   ■ ■ ■ ■ S ■ ■<br/>
+  ■ ■ ■ ■ ■ ■ ■   ■ ■ ■ ■ ■ ■ ■
+</pre>
+
+If you want to intentionally cancel Sumo status, dig out a turn-around spot near the stairs room.<br/>This makes it safer to step in place when you don't have a Paralyzing Staff or Earthmound Staff.
+
+<pre>
+  S = Shiren, E = Exit<br/>
+  ☆ = 1st and 2nd monster turn-around spots<br/>
+  <br/>
+  ■ ↓ ■ ■ ■ ■ ■<br/>
+  ■ □ □ □ ☆ ☆ ■<br/>
+  ■ ■ ■ □ ■ ■ ■<br/>
+  ■ ■ ■ □ ■ ■ ■<br/>
+  ■ □ □ □ □ □ ■<br/>
+  ■ □ E □ S □ ■<br/>
+  ■ □ □ □ □ □ ■<br/>
+  ■ ■ ■ ■ ■ ■ ■
+</pre>
 
 # Floor Guide
 
-### General Advice
-
 ### 1-6F
+
+<p><span class="highlightYellow">Notable:</span> Firepuff (1-2F), Death Reaper (1-3F), Nigiri Baby (3-4F), Scorpion (3-6F), Porky (6-10F)<br/><span class="highlightGreen">Item Leaning:</span> None (1-6F)</p>
+
+A pretty safe floor range to get used to this dungeon's unique inventory swapping mechanic.<br/>All current inventory items vanish when you change floors, so use anything that has a positive effect.<br/>Make a conscious effort to use up items before advancing, including eating grass to replenish Fullness.<br/>Status conditions reset when you change floors, so eat Confusion Grass or Blinding Grass too.
+
+Other items are never found on the ground, so there isn't much in terms of reasons to check rooms.<br/>However, you might find a shop or Monster House with items that can be used to increase max stats,<br/>and you also need to earn experience points and level up, so it's fine to check rooms early on.
+
+Shiren's current and max stats + Gitan total carry forward when you advance to the next floor.<br/>It's tedious, but Nigiri Baby (17 HP, 8 atk, 2 def) can be used to increase Max Fullness between 3-4F.<br/>Sumo status is one of the few ways to counteract bad supplied item luck, so it's worth the effort.<br/>High Max Fullness also means you can use more abilities when playing as Kokatsu, Tatsumi, or Koppa.
 
 ### 7-11F
 
+<p><span class="highlightYellow">Notable:</span> Porky (6-10F), Hoppin' Hitter (7-10F), Twisty Hani (8-11F), Masked Samurai (8-13F), Crossbowboy (11-13F)<br/><span class="highlightGreen">Item Leaning:</span> <span class="runeIcon"><img src="../images/other/staff.png"/></span> Staves (7-11F)</p>
+
+Staves are common in supplied items, perhaps due to Hoppin' Hitter (32 HP, 22 atk, 15 def) being around.<br/>It's ideal to level up to the point where you can slay Hoppin' Hitters without relying on supplied items.<br/>You can use Masked Samurai → Ghost Samurai (7-13F) to create higher level monsters for more exp,<br/>but beware of Twisty Hani (35 HP, 12 atk, 15 def) erasing your level ups between 8-11F.<br/>Crossbowboy (55 HP, 20 atk, 20 def) appears, but there's no point in collecting arrows.
+
 ### 12-17F
+
+<p><span class="highlightYellow">Notable:</span> Masked Samurai (8-13F), Crossbowboy (11-13F), Fierous (13-18F), Tiger Thrower (14-16F), Pumpanshee (17-22F)<br/><span class="highlightGreen">Item Leaning:</span> None (12-15F) → <span class="runeIcon"><img src="../images/other/scroll.png"/></span> Scrolls (16-17F)</p>
+
+15F is guaranteed to be a Shuffle Dungeon style map based on Kibanuma Marsh.<br/>Item leaning for supplied items returns to normal, and more monsters with ranged attacks show up.<br/>Fierous (60 HP, 25 atk, 22 def) appears on 13-18F and is immune to projectiles that lack piercing properties.<br/>Pumpanshee (60 HP, 35 atk, 22 def) appears on 17-18F, so don't use Handy Dash or regular dash there.
+
+Scrolls are common in supplied items between 16-19F, and can include Expulsion or Eradication scrolls.<br/>Eradication Scroll targets vary based on floor and whether or not you're playing the 30F or 99F version,<br/>but Pumpanshee might be the best option while attempting the first clear.
 
 ### 18-23F
 
+<p><span class="highlightYellow">Notable:</span> Pumpanshee (17-22F), Okina Monk D (18-22F), Tengu Monk D (20-22F), Hannya Monk D (20-23F)<br/><span class="highlightGreen">Item Leaning:</span> None (18-19F) → <span class="runeIcon"><img src="../images/other/grass.png"/></span> Grass (20-22F) → None (23F)</p>
+
+Grass seems to be common in supplied items between 20-22F, making it harder than usual to linger.<br/>Lv1 monks except for Kitsune Monk D appear as well, so rush to the stairs instead of checking for shops.<br/>Beware of Hannya's Berserk causing a foe to level up → Tengu buffing its speed → Okina warping it next to you.<br/>To make things worse, Okame Monk D cures bad status conditions even if you disable the monster.<br/>Feel free to use HP restoring items and food more liberally instead of saving them for the stairs.
+
 ### 24-29F
+
+<p><span class="highlightYellow">Notable:</span> Skull Wizard (23-25F), Blazeous (25-29F), Explochin (26-29F), Super Gazer (26-30F), Greenwalrus (28-30F)<br/><span class="highlightGreen">Item Leaning:</span> None (24-29F)</p>
+
+Monks exit the monster table for a while, and Lv2 Ninjas appear in various combinations between 24-29F.<br/>Item leaning returns to normal, but weapons and shields seem to be uncommon in supplied items,<br/>so focus on finding the stairs before you run out of items instead of exploring the floor.<br/>Some players prefer to cancel Sumo status before descending to 30F so that movement staves are usable.
+
+Super Gazer (66 HP, 30 atk, 26 def) forces either item usage or an attack in a random direction.<br/>Greenwalrus (88 HP, 30 atk, 27 def) steals an item and warps, so place your least useful item down.<br/>Skull Wizard (88 HP, 35 atk, 24 def) appears on 23-25F and Skull Mage (77 HP, 31 atk, 21 def) on 24-27F.<br/>Skull Wizard's magic effects include Confused status, Narrow-escape effect, 20 damage, or Morphed status.<br/>Skull Mage's magic effects include Warp effect, Swift effect, Knockback effect, or Switching effect.<br/>Explochin (120 HP, 25 atk, 22 def) stops moving when HP ≤ 50% and explodes when HP ≤ 24 (deal 96+ damage).<br/>Blazeous (92 HP, 36 atk, 24 def) is immune to projectiles, and Fire Ninja C (75 HP, 45 atk, 21 def) hits hard.
+
+<p><b><u>Playing as Kokatsu / Tatsumi / Koppa</u></b><br/>Replenish Fullness as much as possible before advancing so that you can use abilities right away.</p>
 
 ### 30F
 
+<p><span class="highlightPurple2">Guaranteed Monster House</span><br/><span class="highlightYellow">Notable:</span> Super Gazer (26-30F), Greenwalrus (28-30F), Pesky Kappa (30-33F), Porko (30-33F), Dartingfrog (30-34F)<br/><span class="highlightGreen">Item Leaning:</span> <span class="runeIcon"><img src="../images/other/gitan.png"/></span> Gitan (30F)</p>
+
+The player either <b>starts in a Monster House on a normal floor</b>, or <b>there's a Monster House on a 2 room floor.</b><br/>With luck, you'll get the 2 room pattern and the stairs will be in the starting room, letting you skip the MH.<br/>But that scenario is quite rare, so it's probably best to expect starting the floor inside a Monster House.
+
+Supplied items include multiple high value Gitan bags, but it's difficult to clear a MH with just those.<br/>Check supplied items for staves, grass, scrolls, and Sweet Potatos before taking any actions,<br/>and if you're lucky enough to see a Blank Scroll, write Expulsion Scroll on it and read it right away.<br/>Use your remaining items to find the stairs after you either clear out or escape from the Monster House.<br/>Pesky Kappa (75 HP, 29 atk, 22 def) tosses items back, so use <span class="blueText">Look Around</span> to check before throwing items.
+
+<p><b><u>Playing as Kokatsu / Tatsumi / Koppa</u></b><br/>Abilities can be used to handle the Monster House, even if items like Expulsion Scroll aren't supplied.<br/>"Blazing Heat" (Kokatsu), "Raging Tornado" (Tatsumi), "Frantic Fart" or "Flee" (Koppa) are good options.</p>
+
 <h3 class="heading3Tree">Sacred Tree Mode</h3>
+
+### General Advice (2nd Clear)
+
+Hallways are dark between 31-99F, and Peach Buns begin to appear in supplied items starting on 51F.<br/>Koppa can still detect monsters, but other playable characters have a hard time with dark hallways.<br/>Supplied items are unpredictable and you can't just rely on powerful equipment to progress,<br/>so plan a route where you check rooms to locate the stairs efficiently, and use Sumo status to dig as needed.
+
+The floors progress like "Drain zone" → "Tank / Dragon zone" → "Harassment zone" → "Aquatic zone" → "Finale".<br/>Drain type monsters are especially problematic under this dungeon's rules, excluding Mudders.<br/>Keep in mind that you can eat a Peach Bun to morph into a monster to avoid losing max stats.<br/>If you're lucky enough to see an Eradication Scroll (or Blank Scroll), choose a good target on the current floor,<br/>such as prioritizing a troublesome monk type, or a tricky monster that won't exit the table right away.<br/>Lastly, there's another guaranteed Monster House on 99F, with supplied items being similar to 30F.
+
+#### Best Peach Buns (51F+)
+
+- Wallpass - Pumphantasm family, Soul Reaper, King Reaper.
+- Floating - Pumphantasm family, Death Reaper family, Firepuff family, Crow Tengu, Chow.
+- Swift + Trap-immune - Karakuroid family, Dragon Pit, Hiding Dragon.
+
+#### Best Eradication Scroll Targets
+
+Floor ranges in <span class="redText">red</span> mean the target is likely to be the final eradication in the run.
+
+- Pumphantasm family (3-5F, 17-22F, 41-50F, <span class="redText">89-99F</span>)
+    - Not a bad option, even if they aren't the most threatening.
+- Death Reaper family (1-3F, 41-46F)
+    - Great to remove the threat of Soul Reapers between 41-46F.
+- Dragon family (33-40F, <span class="redText">96-99F</span>)
+    - Best to eradicate between 37-40F or 96-99F to avoid excessive Daze Radish spawns.
+- Floor Dragon family (14-18F, 30-33F, 52-61F)
+    - Mainly to remove Dragon Pit between 52-61F since it has Swift 1 action speed.
+- Pop Tank family (20-23F, 47-58F)
+    - Removes the threat of Swift 1 speed Adamant Tanks between 53-58F.
+- Nigiri Morph family (3-4F, 58-65F)
+    - Nigiri Boss + Adamant Tank or Blazepuff combo can one-shot you on 58-60F.
+- Gazer family (26-30F, 66-75F)
+    - It can be annoying to lose precious supplied items to hypnosis.
+- Twisty Hani family (8-11F, 39-48F, 69-75F, 83-88F)
+    - Losing Max HP from leveling down can add up after a number of times.
+- Polygon Spinna family (4-6F, 39-48F, <span class="redText">89-99F</span>)
+    - Lv3-4 Polygon Spinnas lower Max Fullness and make it harder to utilize Sumo status.
+- Skull Mage family (23-27F, <span class="redText">89-99F</span>)
+    - Mainly to remove Skull Lords between 89-99F.
 
 ### 31-33F
 
+<p><span class="highlightYellow">Notable:</span> Pesky Kappa (30-33F), Porko (30-33F), Dartingfrog (30-34F), Daze Radish (32-35F), Dragon (33-36F)<br/><span class="highlightGreen">Item Leaning:</span> None (31-33F)</p>
+
+Hallways become dark starting on 31F and remain dark until the very end, so rush to the stairs.<br/>Porko (65 HP, 36 atk, 18 def) continues to throw Porky's Rocks within a 5 tile radius.<br/>Swap Gitan bags with other inventory items so that you can throw Gitan bags as projectiles,<br/>and try to top up on HP and Fullness before advancing to the next floor if possible.
+
 ### 34-38F
+
+<p><span class="highlightYellow">Notable:</span> Daze Radish (32-35F), Sky Dragon (34-40F), Vile Scorpion (36-40F), Hoppin' Slugger (36-40F)<br/><span class="highlightGreen">Item Leaning:</span> None (34-38F)</p>
+
+The monster lineup is similar to the final floors of Serpentcoil Island.<br/>Daze Radish (80 HP, 37 atk, 27 def) throws Confusion Grass → Poison Grass within a 2 tile radius.<br/>Vile Scorpion (108 HP, 45 atk, 33 def) can lower Shiren's current strength by 2 when adjacent.<br/>There are only 3\~4 monsters in the table per floor, so throwing an Eradication Scroll can have a big effect.
 
 ### 39-48F
 
+<p><span class="highlightYellow">Notable:</span> Floppy Hani (39-48F), Polygon Singa (39-48F), Soul Reaper (41-46F), Pumplich (41-50F)<br/><span class="highlightGreen">Item Leaning:</span> None (39-40F) → <span class="runeIcon"><img src="../images/other/grass.png"/></span> Grass <span class="runeIcon"><img src="../images/other/scroll.png"/></span> Scrolls (41-47F) → None (48F)</p>
+
+The drain type combo of Floppy Hani and Polygon Singa appears, plus Soul Reaper for added pressure.<br/>Floppy Hani (85 HP, 39 atk, 39 def) can lower Shiren's level by 1 when adjacent.<br/>Polygon Singa (129 HP, 40 atk, 40 def) can lower Shiren's Max Fullness by 7 when adjacent.<br/>Soul Reaper (75 HP, 40 atk, 40 def) has Swift 2 speed, passes through walls, and detects you from anywhere.<br/>Cave Mamel (5 HP, 100 atk, 100 def) can spawn between 41-61F for some extra dark hallway accident fun.
+
+Grasses and scrolls are common but equipment is rare, meaning Soul Reapers are a huge problem.<br/>Soul Reaper can be one-shot by thrown Life Grass, Healing Grass, Otogirisou, or a Rejuvenation Pot[1+].
+
 ### 49-58F
+
+<p><span class="highlightYellow">Notable:</span> Ornery Tank (47-52F), Dragon Pit (52-61F), Adamant Tank (53-58F), Lashagga (53-61F), Fencer (56-65F)<br/><span class="highlightGreen">Item Leaning:</span> None (49-50F) → <span class="runeIcon"><img src="../images/other/momoman.png"/></span> Peach Buns (51-58F)</p>
+
+Quite a relentless floor range where ideally you'll want to eradicate 1 monster family if possible.<br/>Ornery Tank (95 HP, 40 atk, 44 def) and the Swift 1 speed Adamant Tank (100 HP, 60 atk, 54 def) appear.<br/>Dragon Pit (130 HP, 54 atk, 40 def) also has Swift 1 speed, Fencer (140 HP, 49 atk, 48 def) is quite tanky,<br/>Lashagga (99 HP, 43 atk, 34 def) attacks 3 times in 1 turn and is hard to counter even with equipment,<br/>Nigiri Boss (133 HP, 45 atk, 42 def) inflicts Onigiri status → insta-collapse due to explosion damage,<br/>Hat Brat (125 HP, 45 atk, 9 def) steals and tosses away your staves, grass, or food items, etc.
+
+Peach Buns seem common in supplied items between 51-60F, along with equipment and food.<br/>Throw Peach Buns that are based on weaker monsters at enemies to get through encounters more easily,<br/>and eat Peach Buns with powerful abilities to give you an advantage while searching for the stairs.
+
+<p><b><u>Playing as Koppa</u></b><br/>Koppa is already swift and can detect foes even in dark hallways, so Morphed status is kinda lackluster.<br/>If you decide to eat Peach Buns, do so mainly to deal damage or to traverse water or air tiles.</p>
 
 ### 59-68F
 
+<p><span class="highlightYellow">Notable:</span> Fencer (56-65F), Nigiri Boss (58-65F), Megataur (62-69F), Hoppin' Slammer (64-76F), Hyper Gazer (66-75F)<br/><span class="highlightGreen">Item Leaning:</span> <span class="runeIcon"><img src="../images/other/momoman.png"/></span> Peach Buns (59-60F) → <span class="runeIcon"><img src="../images/other/scroll.png"/></span> Scrolls (61-68F)</p>
+
+Scrolls seem to be more common than other items between 61-70F.<br/>Curse Matron (145 HP, 53 atk, 48 def) appears between 62-68F, but her curse only affects equipment.<br/>Hyper Gazer (126 HP, 55 atk, 45 def) is the bigger problem, since it can force usage of supplied items.<br/>Place items like Monster Pot, Surprise Pot, and Transmutation Pot on the ground between 66-75F.
+
 ### 69-75F
+
+<p><span class="highlightYellow">Notable:</span> Hoppin' Slammer (64-76F), Hyper Gazer (66-75F), Droopy Hani (69-75F), Fleefrog (70-79F), Igneous (73-82F)<br/><span class="highlightGreen">Item Leaning:</span> <span class="runeIcon"><img src="../images/other/scroll.png"/></span> Scrolls (69-70F) → <span class="runeIcon"><img src="../images/other/staff.png"/></span> Staves (71-75F)</p>
+
+Staves are common between 71-80F, and Narrow-escape Staff can be swung at Hoppin' Slammer to skip floors.<br/>Food seems rare, however, so pay attention to Fullness if you're using Sumo status or abilities.
+
+Hyper Gazer (126 HP, 55 atk, 45 def) continues to be a menace to your items.<br/>Droopy Hani (120 HP, 49 atk, 49 def) lowers your level, decreasing Max HP at the same time.<br/>Hoppin' Slammer (125 HP, 49 atk, 49 def), Vexing Kappa (175 HP, 49 atk, 33 def), and Igneous (165 HP, 56 atk, 45 def)<br/>are all on the more heavily guarded side thanks to their projectile-nullifying abilities.
 
 ### 76-82F
 
+<p><span class="highlightYellow">Notable:</span> Fleefrog (70-79F), Igneous (73-82F), Bag Knave (76-79F), Great Samurai (76-82F), Terror Scorpion (76-88F)<br/><span class="highlightGreen">Item Leaning:</span> <span class="runeIcon"><img src="../images/other/staff.png"/></span> Staves (76-80F) → <span class="runeIcon"><img src="../images/other/momoman.png"/></span> Peach Buns (81-82F)</p>
+
+Peach Buns are common between 81-90F, and the advice on eating vs. throwing is the same as earlier.<br/>Terror Scorpion (185 HP, 55 atk, 45 def) can lower your Max Strength by 1 when adjacent.<br/>Bag Knave (95 HP, 40 atk, 35 def) knocks inventory items away and swaps them with Weeds.<br/>Superb Octopling (199 HP, 64 atk, 48 def) gains action speed (1 stage) when an adjacent foe is slain.<br/>Otherwise, monsters here aside from the mentioned ones + Fleefrog can only attack 1 tile ahead.
+
 ### 83-88F
+
+<p><span class="highlightYellow">Notable:</span> Wrinkly Hani (83-88F), Terror Scorpion (76-88F), Tengu Monk B (83-88F), Okina Monk B (83-88F)<br/><span class="highlightGreen">Item Leaning:</span> <span class="runeIcon"><img src="../images/other/momoman.png"/></span> Peach Buns (83-88F)</p>
+
+The drain combo of Wrinkly Hani (190 HP, 60 atk, 59 def) + Terror Scorpion (185 HP, 55 atk, 45 def),<br/>alongside Lv3 Monks except for Kitsune Monk B - Not much to say other than rush for the stairs.
 
 ### 89-94F
 
+<p><span class="highlightYellow">Notable:</span> Polygon Stunna (89-99F), Popdillo (89-99F), Skull Lord (89-99F), Megahead (89-99F), Hat Rascal (91-96F)<br/><span class="highlightGreen">Item Leaning:</span> <span class="runeIcon"><img src="../images/other/momoman.png"/></span> Peach Buns (89-90F) → None (91-94F)</p>
+
+Lv3 Monks exit the monster table for a bit, and equipment seems rare in supplied items between 91-99F.<br/>Skull Lord (188 HP, 55 atk, 55 def)'s magic effects include Asleep, Blind, Level-3, or 40 damage.<br/>Polygon Stunna (229 HP, 50 atk, 55 def) lowers Max Fullness by 10, and warps in front of you in rooms.<br/>Megahead (182 HP, 65 atk, 48 def), Hat Rascal (170 HP, 85 atk, 12 def), and Pumplord (185 HP, 75 atk, 35 def) hit hard.<br/>Again, not much to say other than make full use of supplied items while rushing to the stairs.
+
 ### 95-98F
 
+<p><span class="highlightYellow">Notable:</span> Polygon Stunna (89-99F), Popdillo (89-99F), Skull Lord (89-99F), Lv3 Monks (95-99F), Archdragon (96-99F)<br/><span class="highlightGreen">Item Leaning:</span> None (95-98F)</p>
+
+Lv3 Monks return in addition to the previous floor range's monsters, then Archdragon appears from 96F.<br/>Try to cancel Sumo status at the stairs on 98F so that movement staves and Leaping Grass are usable on 99F.<br/>However, it's usually not realistic to prepare for deactivating the status once Archdragon's flames arrive,<br/>so focus on adjusting remaining Fullness more on 95F or so instead of 96-98F.
+
+<p><b><u>Playing as Kokatsu / Tatsumi / Koppa</u></b><br/>Replenish Fullness as much as possible before advancing so that you can use abilities right away.</p>
+
 ### 99F
+
+<p><span class="highlightPurple2">Guaranteed Monster House</span><br/><span class="highlightYellow">Notable:</span> Polygon Stunna (89-99F), Popdillo (89-99F), Skull Lord (89-99F), Lv3 Monks (95-99F), Archdragon (96-99F)<br/><span class="highlightGreen">Item Leaning:</span> <span class="runeIcon"><img src="../images/other/gitan.png"/></span> Gitan (99F)</p>
+
+The player either <b>starts in a Monster House on a normal floor</b>, or <b>there's a Monster House on a 2 room floor.</b><br/>If you're very lucky, you'll start with a Blank Scroll or Expulsion Scroll for an easy clear.<br/>But otherwise, you'll need to play extremely carefully and not let a single turn go to waste.<br/>Prioritize disabling or slaying Skull Lords and Archdragons using staves or high value Gitan bags first,<br/>then do your best to locate the stairs using the remaining supplied items.
+
+<p><b><u>Playing as Kokatsu / Tatsumi / Koppa</u></b><br/>Abilities can be used to handle the Monster House, even if items like Expulsion Scroll aren't supplied.<br/>"Blazing Heat" (Kokatsu), "Raging Tornado" (Tatsumi), "Frantic Fart" or "Flee" (Koppa) are good options.</p>
 
 # Monsters
 
@@ -253,7 +414,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td class="centeredText">2</td>
-      <td class=""></td>
+      <td class="highlightShop"></td>
       <td class=""></td>
       <td><img src="../images/monsters_s/4-1.png"/> Spearfish</td>
       <td><img src="../images/monsters_s/7-1.png"/> Firepuff</td>
@@ -266,7 +427,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText">3</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td><img src="../images/monsters_s/4-1.png"/> Spearfish</td>
       <td><img src="../images/monsters_s/5-1.png"/> Death Reaper</td>
@@ -692,7 +853,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td rowspan="2" class="centeredText">26</td>
       <td rowspan="2" class=""></td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightMH"></td>
       <td class="danger"><img src="../images/monsters_s/52-2.png"/> Fire Ninja C</td>
       <td class="danger"><img src="../images/monsters_s/55-2.png"/> Metal Ninja C</td>
       <td><img src="../images/monsters_s/53-2.png"/> Water Ninja C</td>
@@ -943,7 +1104,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td rowspan="2" class="centeredText highlightFog">41</td>
-      <td rowspan="2" class=""></td>
+      <td rowspan="2" class="highlightShop"></td>
       <td rowspan="2" class=""></td>
       <td class="stats"><img src="../images/monsters_s/23-2.png"/> Floppy Hani</td>
       <td class="stats"><img src="../images/monsters_s/24-3.png"/> Polygon Singa</td>
@@ -1467,7 +1628,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td class="centeredText highlightFog">71</td>
       <td class=""></td>
-      <td class=""></td>
+      <td class="highlightMH"></td>
       <td class="stats"><img src="../images/monsters_s/23-3.png"/> Droopy Hani</td>
       <td><img src="../images/monsters_s/40-4.png"/> Hoppin' Slammer</td>
       <td><img src="../images/monsters_s/17-3.png"/> Vexing Kappa</td>
@@ -2060,7 +2221,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
 
 # Items
 
-- F = Floor
+<p><span class="orangeText">※ This section is currently incomplete.</span></p>
+
+- O = Opening Hand (12 Items)
 - S = Shop
 - P = Peddler
 - M = Monster drop
@@ -2069,7 +2232,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
 - I = Island
 - T = Transmutation Pot
 - U = Surprise Pot
-- W = Tunnel of Wishes
 
 #### Weapon
 
@@ -2079,7 +2241,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <th>Name</th>
-    <th>F</th>
+    <th>O</th>
     <th>S</th>
     <th>P</th>
     <th>M</th>
@@ -2088,12 +2250,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>I</th>
     <th>T</th>
     <th>U</th>
-    <th>W</th>
   </tr>
   <tr>
     <td class="leftText">Wooden Sword</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2105,8 +2265,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Bronze Sword</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2118,46 +2277,42 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Katana</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Doutanuki</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Manji Kabura</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Kajin Fuuma</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2179,12 +2334,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Golden Sword</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2196,8 +2349,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Kama Itachi</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2209,7 +2361,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Axe of the Minotaur</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2231,12 +2382,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Swift Sword</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2248,8 +2397,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Watersplitter</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2261,8 +2409,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Primal Axe</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2274,8 +2421,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Dragonkiller</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2287,8 +2433,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Crescent Blade</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2300,8 +2445,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sky Sword</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2313,8 +2457,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sickle of Salvation</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2335,12 +2478,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Cyclops Bane</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2352,8 +2493,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Steel Severer</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2365,8 +2505,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Whopping Harisen</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2387,12 +2526,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Peach Club</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2413,12 +2550,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Ferrous Greatsword</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2430,8 +2565,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Steak Knife</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2443,8 +2577,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Jagged Sword</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2456,8 +2589,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Quad-edge</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2469,8 +2601,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Auspicious Kumade</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2482,8 +2613,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Pickaxe</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2504,12 +2634,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Wooden Mallet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2530,12 +2658,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Trapseeker</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2556,12 +2682,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Yamanba's Cleaver</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2582,7 +2706,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
 </table>
 
@@ -2594,7 +2717,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <th>Name</th>
-    <th>F</th>
+    <th>O</th>
     <th>S</th>
     <th>P</th>
     <th>M</th>
@@ -2603,12 +2726,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>I</th>
     <th>T</th>
     <th>U</th>
-    <th>W</th>
   </tr>
   <tr>
     <td class="leftText">Wooden Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2620,8 +2741,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Bronze Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2633,9 +2753,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Iron Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2646,9 +2765,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Wolfshead</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2659,9 +2777,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Fuuma Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2681,12 +2798,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Golden Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2698,8 +2813,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Counter Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2720,12 +2834,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Dragon Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2746,12 +2858,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Targe of the Minotaur</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2763,8 +2873,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Walrus Stopper</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2776,8 +2885,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Froggo Stopper</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2789,7 +2897,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Hat Stopper</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2811,15 +2918,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Spearscale Shield</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2828,8 +2933,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Kappa's Dish</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2841,7 +2945,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Gazer Shield</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -2863,12 +2966,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Unmoving Wall</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2880,8 +2981,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Zabuton</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2893,8 +2993,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Spender's Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2906,8 +3005,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Ferrous Kite</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2919,8 +3017,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Steak Plate</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2932,8 +3029,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Gutsy Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2945,8 +3041,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Hunky-dory Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2958,8 +3053,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Bodhi Shield</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2971,8 +3065,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Shield of Sating</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2984,8 +3077,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Auspicious Omamori</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3006,12 +3098,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Yamanba's Potlid</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3032,7 +3122,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
 </table>
 
@@ -3044,7 +3133,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <th>Name</th>
-    <th>F</th>
+    <th>O</th>
     <th>S</th>
     <th>P</th>
     <th>M</th>
@@ -3053,12 +3142,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>I</th>
     <th>T</th>
     <th>U</th>
-    <th>W</th>
   </tr>
   <tr>
     <td class="leftText">Healing Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3070,8 +3157,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Strength Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3083,7 +3169,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Bellyexpand Bracelet</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3105,12 +3190,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Fortune Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3122,8 +3205,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Cleansing Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3135,11 +3217,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Focusing Bracelet</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3148,8 +3229,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Rousing Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3161,8 +3241,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Rustproof Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3174,8 +3253,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Cursebreak Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3187,21 +3265,19 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Affixing Bracelet</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Far-throwing Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3213,7 +3289,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Bad-aim Bracelet</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3235,12 +3310,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Bouncy Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3259,14 +3332,12 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Daredevil Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3287,12 +3358,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Leaping Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3304,8 +3373,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Blasting Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3317,8 +3385,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Clairvoyant Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3339,12 +3406,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Item-find Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3365,12 +3430,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Waterwalk Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3391,12 +3454,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Wallpass Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3408,8 +3469,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Tiptoe Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3421,8 +3481,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Passerby Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3434,7 +3493,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Item-losing Bracelet</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3456,11 +3514,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Monstercall Bracelet</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3482,7 +3538,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Haggling Bracelet</td>
@@ -3495,12 +3550,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Trapper's Bracelet</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3512,7 +3565,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Appraiser's Bracelet</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3534,7 +3586,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
 </table>
 
@@ -3546,7 +3597,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <th>Name</th>
-    <th>F</th>
+    <th>O</th>
     <th>S</th>
     <th>P</th>
     <th>M</th>
@@ -3555,13 +3606,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>I</th>
     <th>T</th>
     <th>U</th>
-    <th>W</th>
   </tr>
   <tr>
     <td class="leftText">Wooden Arrow</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3572,8 +3621,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Iron Arrow</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3585,8 +3633,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Silver Arrow</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3598,8 +3645,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Poison Arrow</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3611,8 +3657,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Truestrike Arrow</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3624,28 +3669,26 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Rock</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Porky's Rock</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
 </table>
@@ -3658,7 +3701,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <th>Name</th>
-    <th>F</th>
+    <th>O</th>
     <th>S</th>
     <th>P</th>
     <th>M</th>
@@ -3667,15 +3710,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>I</th>
     <th>T</th>
     <th>U</th>
-    <th>W</th>
   </tr>
   <tr>
     <td class="leftText">Onigiri</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3684,24 +3725,22 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Large Onigiri</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Huge Onigiri</td>
     <td></td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3710,8 +3749,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Rotten Onigiri</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3732,13 +3770,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Special Onigiri</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3749,9 +3785,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sumo Onigiri</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3762,9 +3797,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sweet Potato</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3775,7 +3809,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Yakitori</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3797,7 +3830,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
 </table>
 
@@ -3809,7 +3841,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <th>Name</th>
-    <th>F</th>
+    <th>O</th>
     <th>S</th>
     <th>P</th>
     <th>M</th>
@@ -3818,11 +3850,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>I</th>
     <th>T</th>
     <th>U</th>
-    <th>W</th>
   </tr>
   <tr>
     <td class="leftText">Weeds</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -3836,24 +3866,22 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Herb</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Otogirisou</td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3861,22 +3889,20 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Healing Grass</td>
+    <td>X</td>
+    <td>X</td>
+    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Life Grass</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3887,8 +3913,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Fragrant Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3900,8 +3925,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Revival Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3914,8 +3938,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Bellyexpand Seed</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3935,12 +3958,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Dragon Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3952,8 +3973,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Leaping Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3965,8 +3985,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Antidote Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3979,20 +3998,18 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Strength Grass</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Poison Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4004,8 +4021,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Confusion Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4017,8 +4033,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sedating Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4030,8 +4045,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Berserk Seed</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4043,8 +4057,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Blinding Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4056,8 +4069,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Seewell Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4069,9 +4081,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Swift Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4082,9 +4093,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Power-up Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4095,8 +4105,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Invincible Grass</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4109,8 +4118,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Fortune Grass</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4122,19 +4130,17 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Angel Seed</td>
     <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Feeble Grass</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -4156,11 +4162,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Ill-fated Seed</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -4181,7 +4185,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <th>Name</th>
-    <th>F</th>
+    <th>O</th>
     <th>S</th>
     <th>P</th>
     <th>M</th>
@@ -4190,12 +4194,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>I</th>
     <th>T</th>
     <th>U</th>
-    <th>W</th>
   </tr>
   <tr>
     <td class="leftText">Confusion Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4207,8 +4209,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Slumber Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4220,8 +4221,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Jitters Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4233,8 +4233,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Windblade Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4246,8 +4245,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Expulsion Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4259,7 +4257,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Exorcism Scroll</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -4281,11 +4278,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Heavenly Scroll</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -4299,8 +4294,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Earthly Scroll</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4320,15 +4314,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Slot-adding Scroll</td>
     <td></td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4337,7 +4329,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Rune-eraser Scroll</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -4359,11 +4350,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Silverpurge Scroll</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -4377,10 +4366,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Pot-upsize Scroll</td>
     <td></td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4390,8 +4378,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Extraction Scroll</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4402,7 +4389,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Onigiri Scroll</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -4424,12 +4410,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Mapping Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4450,12 +4434,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Trap-eraser Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4476,12 +4458,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Water-drain Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4493,8 +4473,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Monstercall Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4506,8 +4485,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Wall-less Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4519,8 +4497,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Gathering Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4532,8 +4509,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Collection Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4545,8 +4521,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Gambler's Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4558,7 +4533,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Muzzle Scroll</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -4580,7 +4554,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Swift Foe Scroll</td>
@@ -4593,12 +4566,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Fixer Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4619,12 +4590,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Eradication Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4636,8 +4605,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sanctuary Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4649,8 +4617,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Blank Scroll</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4671,7 +4638,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
 </table>
 
@@ -4683,7 +4649,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <th>Name</th>
-    <th>F</th>
+    <th>O</th>
     <th>S</th>
     <th>P</th>
     <th>M</th>
@@ -4692,7 +4658,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>I</th>
     <th>T</th>
     <th>U</th>
-    <th>W</th>
   </tr>
   <tr>
     <td class="leftText">Ordinary Staff</td>
@@ -4705,12 +4670,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Paralyzing Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4722,8 +4685,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sealing Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4735,8 +4697,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Disguising Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4748,8 +4709,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Empathetic Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4761,8 +4721,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Narrow-escape Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4774,22 +4733,20 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Knockback Staff</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Switching Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4800,15 +4757,14 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Vaulting Staff</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
@@ -4816,8 +4772,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4826,8 +4781,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Thunderbolt Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4839,8 +4793,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Burrowing Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4852,8 +4805,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Earthmound Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4865,8 +4817,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Balance Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4878,8 +4829,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Guiding Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4891,8 +4841,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Swift Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4904,8 +4853,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sluggish Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4917,8 +4865,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Fortune Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4930,8 +4877,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Unlucky Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4943,8 +4889,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Peach Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4964,7 +4909,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <th>Name</th>
-    <th>F</th>
+    <th>O</th>
     <th>S</th>
     <th>P</th>
     <th>M</th>
@@ -4973,11 +4918,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>I</th>
     <th>T</th>
     <th>U</th>
-    <th>W</th>
   </tr>
   <tr>
     <td class="leftText">Preservation Pot</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -4999,12 +4942,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Transmutation Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5016,8 +4957,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Cashing Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5029,7 +4969,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Synthesis Pot</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -5051,11 +4990,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Curse Pot</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -5077,11 +5014,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Degrading Pot</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -5103,11 +5038,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Warehouse Pot</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -5129,11 +5062,9 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Unbreakable Pot</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -5155,12 +5086,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Hiding Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5172,8 +5101,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Rejuvenation Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5185,8 +5113,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Walrus Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5198,8 +5125,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Water Gun Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5211,8 +5137,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Hilarious Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5224,8 +5149,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Monster Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5237,8 +5161,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Surprise Pot</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5258,7 +5181,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <th>Name</th>
-    <th>F</th>
+    <th>O</th>
     <th>S</th>
     <th>P</th>
     <th>M</th>
@@ -5267,7 +5190,6 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <th>I</th>
     <th>T</th>
     <th>U</th>
-    <th>W</th>
   </tr>
   <tr>
     <td class="leftText">Heat-ban Incense</td>
@@ -5280,12 +5202,10 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Evasive Incense</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5297,8 +5217,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Cautious Incense</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5310,8 +5229,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Reflective Incense</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5323,8 +5241,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Aggressive Incense</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5336,9 +5253,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Defensive Incense</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5358,13 +5274,11 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr>
     <td class="leftText">Weighted Incense</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -5375,8 +5289,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Unwanting Incense</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
