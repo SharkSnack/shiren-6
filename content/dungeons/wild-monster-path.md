@@ -150,7 +150,7 @@ It's best to focus on runes that apply to a wide range of enemies instead of a n
 
 <p><b><u>Anti-Aquatic (Watersplitter)</u></b><br/>Nice against Octopling, Thiefwalrus, Mudkin, and Explochin families in particular.</p>
 
-<p><b><u>Anti-Drain (Drain Slayer)</u></b><br/>Good against monsters that lower your stats or your equipment's upgrade value,<br/>but Draining types stop appearing after 54F, so it becomes a wasted slot in the second clear.<br/>That said, it's still handy for the Draining type monster zone starting at around 30F.</p>
+<p><b><u>Anti-Draining (Drain Slayer)</u></b><br/>Good against monsters that lower your stats or your equipment's upgrade value,<br/>but Draining types stop appearing after 54F, so it becomes a wasted slot in the second clear.<br/>That said, it's still handy for the Draining type monster zone starting at around 30F.</p>
 
 <p><b><u>Break-Off Blade + Dried Bonito (Bonito Block)</u></b><br/>Synthesize a Bonito Block into a Break-Off Blade to create a long-lasting food source.</p>
 

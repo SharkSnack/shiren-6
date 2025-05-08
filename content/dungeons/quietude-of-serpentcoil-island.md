@@ -188,7 +188,7 @@ Most of the techniques from Heart of Serpentcoil Island can be performed in this
 
 Level up a monster and earn lots of exp at once instead of aiming to hunt lots of weaker monsters.<br/>Don't expect to be able to hunt an endless number of monsters for item drops.
 
-#### Nigiri Morph Factory / Bowboy Family
+#### Nigiri Morph Factory / Bowboy Family for Arrows
 
 Can be performed if you get lucky and the corresponding monster is an initial spawn for the floor.<br/>Use a Paralyzing Staff to have the monster wait until you're ready - don't just defeat it.
 
@@ -196,7 +196,7 @@ Can be performed if you get lucky and the corresponding monster is an initial sp
 
 Mainly viable if you happen to find a Peach Staff by the time you see Karakuroid monsters.
 
-#### Mixermon / Chow
+#### 40-41F Bonus Zone (Mixermon / Chow)
 
 If you want 40-41F to be a bonus zone where mostly Mixermons and Chows spawn,<br/>you'll want to throw an Eradication Scroll at a Pop Tank (16-18F) instead of waiting until 40F.<br/>Another option is to level up a Baby Tank (29-32F) into a Pop Tank before eradicating it.
 
@@ -240,7 +240,7 @@ Masked Samurai (47 HP, 18 atk) revives as Ghost Samurai (4 HP, 13 atk) when defe
 
 Twisty Hani (35 HP, 12 atk, 15 def) spawns on 7-10F, and lowers Shiren's level by 1 when adjacent.<br/>Use arrows to defeat it from a distance instead of risking losing experience points.
 
-Water Ninja D (24 HP, 15 atk, 9 def) shoots water from up to 3 tiles away.<br/>Getting splashed by water makes equipped items rust, makes food go bad, or causes scrolls to get wet.<br/>Water Ninjas won't use their ability when adjacent, so use zigzag movement to lure them closer.<br/>Rotten Onigiri can be turned into Grilled Onigiri using Fire Ninja D (5-8F) if needed.
+Water Ninja D (24 HP, 15 atk, 9 def) spawns on 7-9F, and shoots water from up to 3 tiles away.<br/>Getting splashed by water makes equipped items rust, makes food go bad, or causes scrolls to get wet.<br/>Water Ninjas won't use their ability when adjacent, so use zigzag movement to lure them closer.<br/>Rotten Onigiri can be turned into Grilled Onigiri using Fire Ninja D (5-8F) if needed.
 
 Mixer (78 HP, 39 atk, 29 def) is a rare spawn, and is also extremely powerful after eating items.<br/>Use Narrow-escape or Paralyzing staves to paralyze the Mixer, then level it up using a Ghost Samurai.<br/>If there's a cannon, let Mixer man it and throw items at the Mixer to safely synthesize and slay it.<br/>If you have a Peach Staff, consider stocking up on Mixer Buns for when you find synthesis ingredients.
 
@@ -338,7 +338,7 @@ Also, the following sources are guaranteed to be real items:
 
 <p><span class="highlightYellow">Notable:</span> Mixergon (50-70F), Mudster (47-54F), Mudder (47-54F), N'dama (47-59F), Terror Scorpion (50-59F),<br/>Ironwalrus (55-59F), Vexing Kappa (55-59F)</p>
 
-This floor range is roughly the point in which you want to finalize your main equipment.<br/>50F is always a shuffle dungeon map based on Firespew Mountain, and only bags of 1000 Gitan can be found.<br/>Behemoth monsters have a chance to appear between 52-55F, and there's little reason to linger.
+This floor range is roughly the point in which you want to finalize your main equipment.
 
 Mudster and Mudder are still around until you descend past 54F.<br/>Terror Scorpion (185 HP, 55 atk, 45 def) lowers Max Strength by 1 when adjacent.<br/>If you don't have a Cleansing Bracelet to counter the poison, throw an Eradication Scroll at one.<br/>If Terror Scorpions are eradicated, you can safely hunt Ironwalrus (138 HP, 35 atk, 55 def) for items.<br/>Vexing Kappa (175 HP, 49 atk, 33 def) throws any item aside from Gitan within a range of 10 tiles.
 

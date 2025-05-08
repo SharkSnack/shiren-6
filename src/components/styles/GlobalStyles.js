@@ -821,6 +821,28 @@ export const baseStyles = css`
   .runeTable2 td:nth-of-type(4) {
     text-align: left;
   }
+  .runeTable3 img {
+    position: relative !important;
+    width: 20px !important;
+    height: 20px !important;
+  }
+  .runeTable3 td {
+    text-align: center;
+    padding: 3px;
+  }
+  .runeTable3 tr:nth-of-type(1) th {
+    color: #3b454e;
+    text-align: center;
+    background-color: #ffffed;
+  }
+  .runeTable3 td:nth-of-type(1) {
+    text-align: left;
+    background-color: #f7f7f7;
+  }
+  .runeTable3 td:nth-of-type(3),
+  .runeTable3 td:nth-of-type(4), {
+    text-align: left;
+  }
   .stoneTable th {
     background-color: #f7f7f7;
     text-align: center;
@@ -1905,7 +1927,7 @@ export const baseStyles = css`
     color: #fd8200;
   }
   .blueText {
-    color: #4e4ec6;
+    color: #5959ff;
   }
   .blueText2 {
     color: blue;
@@ -1917,7 +1939,7 @@ export const baseStyles = css`
     color: #1b9fac;
   }
   .redText {
-    color: #f66;
+    color: #ff3c3c;
   }
   .redText2 {
     color: red;
@@ -1925,11 +1947,14 @@ export const baseStyles = css`
   .greenText {
     color: #008a20;
   }
+  .pinkText {
+    color: #ff44bf;
+  }
   .purpleText {
     color: #9d338b;
   }
   .purpleText2 {
-    color: #a256bd;
+    color: #be06ff;
   }
   .farming {
     background-color: #f4ffed;

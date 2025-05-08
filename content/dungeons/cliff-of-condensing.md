@@ -122,7 +122,7 @@ The only Curse Girl family monster that appears is Curse Matron between 35-36F,<
 
 <p><b><u>Rustproof (Golden Sword / Plating Scroll)</u></b><br/>Protects against Mudkin's special attack, making it easier to linger for Mixers on 8F.<br/>Also increases normal attack accuracy, so it won't go to waste even if you find a Rustproof Bracelet.</p>
 
-<p><b><u>Anti-Drain (Drain Slayer)</u></b><br/>Mudkin and Scorpion family monsters appear on a wide number of floors, so this rune helps prevent you<br/>from being unable to keep up with scaling monster strength due to repeated upgrade value or strength loss.<br/>You might also need Anti-Aquatic (Watersplitter) for Mudster and Mudder if you lack Rustproof Bracelet.<br/>And if you don't have any of the above items or runes, just throw an Eradication Scroll.</p>
+<p><b><u>Anti-Draining (Drain Slayer)</u></b><br/>Mudkin and Scorpion family monsters appear on a wide number of floors, so this rune helps prevent you<br/>from being unable to keep up with scaling monster strength due to repeated upgrade value or strength loss.<br/>You might also need Anti-Aquatic (Watersplitter) for Mudster and Mudder if you lack Rustproof Bracelet.<br/>And if you don't have any of the above items or runes, just throw an Eradication Scroll.</p>
 
 <p><b><u>Anti-Aquatic (Watersplitter)</u></b><br/>Higher priority if you don't plan on eradicating the Mudkin family.<br/>Generally more useful early~mid game, since end game only has Fulminachin for Aquatic types.</p>
 
