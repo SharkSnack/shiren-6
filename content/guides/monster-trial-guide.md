@@ -476,7 +476,7 @@ Keep in mind that this monster ranking is an opinion piece, and isn't absolute.
 
 |Name|HP|Atk|Def|
 |-|-|-|-|
-|Pop Tank|90|20|24|
+|<span class="orangeText">Pop Tank</span>|90|20|24|
 |Ornery Tank|95|40|44|
 |<span class="lightblueText">Adamant Tank</span>|100|60|54|
 |<span class="lightblueText">Steadfast Tank</span>|105|80|64|
