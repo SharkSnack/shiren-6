@@ -76,7 +76,7 @@ metaDescription: "Complete weapon details for Shiren the Wanderer: The Mystery D
     <td>10</td>
     <td><img src="../images/rune/weapon/23.png"/></td>
     <td>16000</td>
-    <td>64000</td>
+    <td>6400</td>
     <td><span class="purpleText">How to obtain</span>:<br/>Upgrade Katana+99 (Shukuba Beach).<br/><span class="greenText">Resonance</span>: Fuuma Shield / Rasen Fuuma</td>
   </tr>
   <tr>
