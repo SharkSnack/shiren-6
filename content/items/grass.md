@@ -941,7 +941,7 @@ metaDescription: "Complete grass and seed details for Shiren the Wanderer: The M
               <div>-</div>
             </div>
             <div class="monster_text">Using this causes something terrible to happen.<br/>Don't use it by mistake!</div>
-            <div class="monster_notes">No additional notes.</div>
+            <div class="monster_notes">Comsuming this will set your level back to 1, your HP to 1, and your Fullness to zero, then adds the two Fullness from consuming grass.</div>
           </div>
         </div>
       </td>
