@@ -1094,7 +1094,7 @@ metaDescription: "Complete bracelet details for Shiren the Wanderer: The Mystery
               <div>Stack</div>
               <div>No</div>
             </div>
-            <div class="monster_text">Allows you to safely pass by monsters.</div>
+            <div class="monster_text">Allows you to walk into monsters to swap places.</div>
             <div class="monster_notes">Lets you walk toward a monster to swap places with them.<br/>Can swap positions with a behemoth and backstrike them.</div>
           </div>
         </div>

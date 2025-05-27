@@ -839,8 +839,28 @@ export const baseStyles = css`
     text-align: left;
     background-color: #f7f7f7;
   }
-  .runeTable3 td:nth-of-type(3),
   .runeTable3 td:nth-of-type(4), {
+    text-align: left;
+  }
+  .runeTable4 img {
+    position: relative !important;
+    width: 20px !important;
+    height: 20px !important;
+  }
+  .runeTable4 td {
+    text-align: center;
+    padding: 3px;
+  }
+  .runeTable4 tr:nth-of-type(1) th {
+    color: #3b454e;
+    text-align: center;
+    background-color: #ffffed;
+  }
+  .runeTable4 td:nth-of-type(1) {
+    text-align: left;
+    background-color: #f7f7f7;
+  }
+  .runeTable4 td:nth-of-type(3), {
     text-align: left;
   }
   .stoneTable th {
@@ -1950,6 +1970,9 @@ export const baseStyles = css`
   .pinkText {
     color: #ff44bf;
   }
+  .cyanText {
+    color: #00a2b3;
+  }
   .purpleText {
     color: #9d338b;
   }
@@ -2361,6 +2384,19 @@ export const baseStyles = css`
     border-right: 1px solid #ffbd76;
     border-bottom: 2px solid #ffbd76;
     border-top: 1px solid #ffbd76;
+    padding-left: 10px;
+  }
+
+  .heading3First {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 8px;
+    margin-top: 16px;
+    border-left: 10px solid #b6cfff;
+    border-right: 1px solid #b6cfff;
+    border-bottom: 2px solid #b6cfff;
+    border-top: 1px solid #b6cfff;
     padding-left: 10px;
   }
 

@@ -10,7 +10,7 @@ metaDescription: "Parallel Play details and official event data IDs for Shiren t
 
 # Overview
 
-Parallel Play is a feature where a player can create a separate suspend point in a dungeon.<br/>Once created, the player can upload the data online for others to play, or play the data themselves.<br/>This Parallel Play feature is most often used as a way to host an event or challenge of some sort.<br/>Loading and playing a Parallel Play adventure does not impact your actual save file in any way,<br/>and it's possible to load your own Parallel Data to scout upcoming floors without risk.<br/><span class="redText">※ Most players consider loading your own Parallel Data mid-adventure to be cheating.</span>
+Parallel Play is a feature where a player can create a separate suspend point in a dungeon.<br/>Once created, the player can upload the data online for others to play, or play the data themselves.<br/>This Parallel Play feature is most often used as a way to host an event or challenge of some sort.<br/>Loading and playing a Parallel Play adventure does not impact your actual save file in any way,<br/>and it's possible to load your own Parallel Data to scout upcoming floors without risk.<br/><span class="redText">※ Most players consider loading your own Parallel Data mid-adventure to be cheating.</span><br/><span class="orangeText">※ This page was last edited on May 22nd, 2025.</span>
 
 # Mechanics
 
@@ -39,156 +39,20 @@ Parallel Play is a feature where a player can create a separate suspend point in
 - Overworld areas and villages are skipped during a Parallel Play adventure.
 - It's possible to manipulate RNG for your real save by trying actions out in Parallel Play.
 
-# Official IDs (EN)
+# Official IDs
 
-<p><span class="highlightBlue">These IDs can only be used in the English version of the game.</span></p>
+The following table lists official IDs that are currently usable in the English version of the game.
 
-#### EN-1
-
-|ID|Dungeon|Date|
-|-|-|-|
-|SPCH-UNe6|Serpentcoil Island|April 3rd, 2024|
-
-Notes:
-
-- Villages and overworld areas are skipped, Jakaku boss fight at the end.
-- Mixer, Synthesis Pot, Peach Bun-related items, and Disguising Staff do not appear.
-
-Starting Items:
-
-- Wooden Sword
-- Wooden Shield
-- Preservation Pot [5]
-    - Large Onigiri x 5
-- Preservation Pot [5]
-    - Revival Grass x 5
-- Rejuvenation Pot [5]
-
-#### EN-2
-
-|ID|Dungeon|Date|
-|-|-|-|
-|SPCH-UN3H|Heart of Serpentcoil Island|April 19th, 2024|
-
-Notes:
-
-- Notebook doesn't have any entries recorded upon starting.
-    - There are initially no scroll names available to write on a Blank Scroll.
-- Mixer, Synthesis Pot, Peach Bun-related items, and Disguising Staff do not appear.
-
-Starting Items:
-
-- Large Onigiri
-
-#### EN-3
-
-|ID|Dungeon|Date|
-|-|-|-|
-|SPCH-UNKT|Isle of the Mighty|June 17th, 2024|
-
-Notes:
-
-- Notebook is complete, all event items have been unlocked.
-
-Starting Items:
-
-- Large Onigiri
-- Golden Sword+30
-- Golden Shield+30
-- Bouncy Bracelet
-- Dragon Grass
-- Preservation Pot [5]
-    - Sumo Onigiri, Collection Scroll (Blessed), Eradication Scroll (Blessed), Sanctuary Scroll
-- Preservation Pot [5]
-    - Paralyzing Staff [10], Knockback Staff [10], Vaulting Staff [10], Peach Staff [3]
-- Preservation Pot [5]
-- Floor-exiting Trap
-
-# Official IDs (JP)
-
-<p><span class="highlightRed">These IDs can only be used in the Japanese version of the game.</span></p>
-
-#### JP-1
-
-|ID|Dungeon|Date|
-|-|-|-|
-|SPCH-UNLD|Serpentcoil Island|April 3rd, 2024|
-
-Notes:
-
-- Villages and overworld areas are skipped, Jakaku boss fight at the end.
-- Mixer, Synthesis Pot, Peach Bun-related items, and Disguising Staff do not appear.
-
-Starting Items:
-
-- Wooden Sword
-- Wooden Shield
-- Preservation Pot [5]
-    - Large Onigiri x 5
-- Preservation Pot [5]
-    - Revival Grass x 5
-- Rejuvenation Pot [5]
-
-#### JP-2
-
-|ID|Dungeon|Date|
-|-|-|-|
-|SPCH-UNB9|Heart of Serpentcoil Island|April 19th, 2024|
-
-Notes:
-
-- Notebook doesn't have any entries recorded upon starting.
-    - There are initially no scroll names available to write on a Blank Scroll.
-- Mixer, Synthesis Pot, Peach Bun-related items, and Disguising Staff do not appear.
-
-Starting Items:
-
-- Large Onigiri
-
-#### JP-3
-
-|ID|Dungeon|Date|
-|-|-|-|
-|SPCH-UNrG|Heart of Serpentcoil Island|June 7th, 2024|
-
-Notes:
-
-- Notebook is complete, all event items have been unlocked.
-
-Starting Items:
-
-- Yamanba's Cleaver+20
-- Wolfshead+15
-- Clairvoyant Bracelet
-- Large Onigiri (Blessed)
-- Preservation Pot [5]
-    - Revival Grass x 5
-- Preservation Pot [5]
-    - Blank Scroll x 5
-- Preservation Pot [5]
-- Preservation Pot [5]
-- Preservation Pot [5]
-
-#### JP-4
-
-|ID|Dungeon|Date|
-|-|-|-|
-|SPCH-UNU4|Isle of the Mighty|June 14th, 2024|
-
-Notes:
-
-- Notebook is complete, all event items have been unlocked.
-
-Starting Items:
-
-- Large Onigiri
-- Golden Sword+30
-- Golden Shield+30
-- Bouncy Bracelet
-- Dragon Grass
-- Preservation Pot [5]
-    - Sumo Onigiri, Collection Scroll (Blessed), Eradication Scroll (Blessed), Sanctuary Scroll
-- Preservation Pot [5]
-    - Paralyzing Staff [10], Knockback Staff [10], Vaulting Staff [10], Peach Staff [3]
-- Preservation Pot [5]
-- Floor-exiting Trap
+|ID|Dungeon & Description|Location|Notes|
+|-|-|-|-|
+|SPCH-UNe6|Serpentcoil Island - Beginner|Sozoro Bay 1F|5 Revival Grass, etc.|
+|SPCH-UN3H|Heart of Serpentcoil Island - Super Hard|Heart of Serpentcoil Island 1F|Blank Notebook.|
+|SPCH-UNKT|Isle of the Mighty - Minimal Gear|Isle of the Mighty 1F|Golden Sword/Shield+30, etc.|
+|SPCH-UN73|Researcher's Experimental Site - Normal|Researcher's Experimental Site 1F|DLC required to play.|
+|SPCH-UNDW|Soul of Serpentcoil Island - Normal|Soul of Serpentcoil Island 1F|DLC required to play.|
+|SPCH-UNhL|Strolling Highway - Mamel Fun|Strolling Highway|Lots of Mamel monsters.|
+|SPCH-UNdg|Strolling Highway - Natural Rune Test|Strolling Highway|Test map for Natural Runes.|
+|SPCH-UN2N|Strolling Highway - Powerful Monsters|Strolling Highway|Aggressive Incense in effect.|
+|SPCH-UNWr|Heart of Serpentcoil Island - Tatsumi|Heart of Serpentcoil Island 1F|Play as Tatsumi Shiren.|
+|SPCH-UNPQ|Cliff of Condensing - Companions|Cliff of Condensing 1F|Start with Asuka, Hibiki, Seki.|
+|SPCH-UN9T|Wild Monster Path - Porky Survival|Wild Monster Path 1F|Start with Porky the Pirate.|

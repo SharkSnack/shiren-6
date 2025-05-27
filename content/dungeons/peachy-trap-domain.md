@@ -56,19 +56,19 @@ metaDescription: "Peachy Trap Domain dungeon guide for Shiren the Wanderer: The 
     <th>Shops</th>
     <td>Yes</td>
     <th>Monster Houses</th>
-    <td>Yes</td>
+    <td>Yes (Regular, Sudden, Special)</td>
   </tr>
   <tr>
     <th>Behemoths</th>
     <td>No</td>
     <th>Wishing Shrines</th>
-    <td></td>
+    <td>No</td>
   </tr>
   <tr>
     <th>Kron's Challenge</th>
     <td>Yes</td>
     <th>Fever Time</th>
-    <td></td>
+    <td>No</td>
   </tr>
   <tr>
     <th>Initial Enemies</th>
@@ -80,21 +80,222 @@ metaDescription: "Peachy Trap Domain dungeon guide for Shiren the Wanderer: The 
     <th>Wind (1st Gust)</th>
     <td>900 Turns</td>
     <th>Reward</th>
-    <td></td>
+    <td>Blue Sacred Item (Random)</td>
   </tr>
 </table>
 
-[Content]
+Dungeon where you start with a Peach Club and Trapper's Bracelet, and use Peach Buns and traps to progress.<br/>Trapper status lets the player pick up traps and set them on the ground to ensnare monsters,<br/>but traps can't be picked up again once set, and Trapper status is lost while Trapper's Bracelet is unequipped.<br/>Peach Club is a weapon that has a chance to transform a defeated monster into a Peach Bun,<br/>and eating a Peach Bun morphs the player into the corresponding monster, allowing usage of its abilities.<br/>Overall, this dungeon is like an intersection of [Trapper's Secret Path](/dungeons/trapper's-secret-path) and [Peach Dungeon](/dungeons/peach-dungeon) with a unique flavor,<br/>slightly reminiscent of past dungeons like Kitchen God Shrine (Shiren 1) and Gen's Turf (Shiren 5).
 
 # Strategy
 
 ### General
 
-[Content]
+Peachy Trap Domain fully expects the player to utilize both Peach Buns and Traps to progress.<br/>It's possible to discard the starting gear, but you're likely to starve or be overwhelmed by strong foes,<br/>since the monster table features out-of-depth enemies like Hat Brat (3-10F) and N'dama (15-19F) quite early.<br/>That said, the aggressive monster table is manageable as long as you make use of Peach Buns and traps.<br/>Certain floors feature multiple levels of the same monster family on a single floor, so being able to tell<br/>the higher level monsters apart from their lower level counterparts is important to avoid accidents.
+
+Pitfall Traps, Floor-exiting Traps, and Bottomless Pot don't appear in this dungeon.<br/>Food and incenses are never generated as ground items, and Trapper's Bracelet is likely the only bracelet.<br/>Staves are generally shop-exclusive except for Peach Staff which can be obtained from enemies.
+
+The most consistent strategy involves eating a Hat Urchin Bun to collect Peach Staves on 1-2F,<br/>synthesizing staves and equipment during the first Mixer (16-30F) zone, and then focusing on obtaining<br/>useful Peach Buns and traps to rush to the stairs for the remainder of the dungeon.
+
+#### Normal Status Pros/Cons
+
+- (<span class="greenText">+</span>) Insert or take out items from pots.
+- (<span class="greenText">+</span>) Equip Trapper's Bracelet to reveal hidden traps, pick them up and set them down.
+- (<span class="greenText">+</span>) Equip Peach Club and defeat monsters for a roughly 30% chance to obtain a Peach Bun.
+- (<span class="greenText">+</span>) If synthesis goes well, you can combine attacking with trapping to power through encounters.
+- (<span class="redText">-</span>) Tends to have lower defense than Break-Off set + Morphed status.
+- (<span class="redText">-</span>) Peach Staff is often your only method to deal with distant threats.
+- (<span class="redText">-</span>) Invincible Grass or Swift Grass are often your single room Monster House survival options.
+
+#### Morphed Status Pros/Cons
+
+- (<span class="greenText">+</span>) Equip the Break-Off set before transforming for 30 attack/defense that won't degrade.
+- (<span class="greenText">+</span>) Gain access to a powerful special attack, depending on the Peach Bun you eat.
+- (<span class="greenText">+</span>) Lots of options for survivng a single room Monster House.
+- (<span class="redText">-</span>) Need to end Morphed status to organize your inventory after farming.
+- (<span class="redText">-</span>) Equipment runes are nullified, so you need to end Morphed status to obtain Peach Buns.
+- (<span class="redText">-</span>) You're susceptible to hidden traps, and you can't ensnare monsters in traps.
+- (<span class="redText">-</span>) Can be hard to stock Peach Buns if your luck with Preservation Pots is bad.
+
+### Status Explanations
+
+#### Morphed Status
+
+- Shiren's stats (HP, attack, defense) remain the same during Morphed status.
+    - In other words, eating a Mamel Bun won't set your stats to be the same as a Mamel.
+- Equipment runes and bracelet effects are nullified during Morphed status.
+    - Increased attack and defense from equipment remains in effect.
+    - Trapper status won't be active - don't forget where traps were before transforming.
+- Reverting from Morphed status doesn't end the player's turn.
+- All status conditions are cured when Shiren eats a Peach Bun or ends Morphed status.
+    - This includes both positive and negative status conditions.
+
+#### Trapper Status
+
+- Shiren's color palette changes to purple to indicate that Trapper status is active.
+- All hidden traps are revealed, and traps can be picked up, set on the ground, and thrown.
+- Monsters can be ensnared by traps, and traps don't activate when Shiren walks on them.
+    - However, select monsters like the Floor Dragon family and Floating types can't be trapped.
+- Shiren earns 10% of the regular amount of experience points when a monster steps on a trap.
+- Shiren earns x2.0 experience points when a monster is slain by a trap that deals damage.
+    - Traps that one-shot monsters like Rotting Trap do not grant experience points.
+
+### Useful Traps
+
+<ul>
+  <li><span class="runeIcon"><img src="../images/traps/4.png"/></span> Rock Trap / <span class="runeIcon"><img src="../images/traps/5.png"/></span> Boulder Trap - Defeat Cave Mamel / Gitan Mamel for lots of experience points.</li>
+  <ul>
+    <li>Can also be used to pick off weakened enemies after an Explosion Trap.</li>
+  </ul>
+  <li><span class="runeIcon"><img src="../images/traps/6.png"/></span> Blast Trap / <span class="runeIcon"><img src="../images/traps/7.png"/></span> Explosion Trap - Grill Rotten Onigiri, or turn foes with Onigiri status into Grilled Onigiri.</li>
+  <ul>
+    <li>Must unequip Trapper's Bracelet to instantly defeat enemies, otherwise deals damage.</li>
+  </ul>
+  <li><span class="runeIcon"><img src="../images/traps/8.png"/></span> Spring Trap - Instant emergency warp, or warp an enemy that is chasing you.</li>
+  <li><span class="runeIcon"><img src="../images/traps/11.png"/></span> Spinning Trap / <span class="runeIcon"><img src="../images/traps/12.png"/></span> Sleep Trap / <span class="runeIcon"><img src="../images/traps/15.png"/></span> Delusion Trap - Disable a foe for an easy KO, or stop their pursuit.</li>
+  <li><span class="runeIcon"><img src="../images/traps/14.png"/></span> Blinding Trap - Blind an enemy indefinitely, can be used to create Cave Mamels early on.</li>
+  <li><span class="runeIcon"><img src="../images/traps/16.png"/></span> Onigiri Trap - Combine with Blast Trap or Explosion Trap to create Grilled Onigiri.</li>
+  <li><span class="runeIcon"><img src="../images/traps/17.png"/></span> Far-throwing Trap - Combine with a Peach Bun and Peach Staff[0] to duplicate a Peach Bun.</li>
+  <li><span class="runeIcon"><img src="../images/traps/18.png"/></span> Sluggish Trap - Make an enemy easier to defeat, or stall the flow of foes in a hallway.</li>
+  <li><span class="runeIcon"><img src="../images/traps/19.png"/></span> Removal Trap - Unequip cursed weapons/shields/bracelets, or make an enemy easier to defeat.</li>
+  <li><span class="runeIcon"><img src="../images/traps/21.png"/></span> Rotting Trap - Turn monsters into Rotten Onigiri, then somehow grill the onigiri.</li>
+  <ul>
+    <li>In this dungeon, Sumo status can only be attained by eating Grilled Onigiri until Max Fullness &ge; 150.</li>
+  </ul>
+  <li><span class="runeIcon"><img src="../images/traps/24.png"/></span> Summoning Trap / <span class="runeIcon"><img src="../images/traps/27.png"/></span> Monsterizing Trap - Combine with Far-throwing Trap to set up Peach Bun duplication.</li>
+  <li><span class="runeIcon"><img src="../images/traps/30.png"/></span> Gassy Trap - Eject monsters from the current room.</li>
+  <li><span class="runeIcon"><img src="../images/traps/31.png"/></span> Trap-setting Trap - Generate more traps.</li>
+</ul>
+
+### Useful Peach Buns
+
+#### 1-50F
+
+<ul>
+  <li><span class="runeIcon"><img src="../images/monsters_s/5-1.png"/></span> Death Reaper (1-2F) - Swift speed, level up to Soul Reaper Bun on Masked Samurai (10-12F) floors.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/30-1.png"/></span> Hat Urchin (1-2F) - Ability lets you steal 1 Peach Staff per enemy (guaranteed).</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/14-1.png"/></span> Shagga (1-2F) - Level up to Bashagga Bun on Masked Samurai (10-12F) floors.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/1-2.png"/></span> Pit Mamel (2-3F) - Level up in some way to Cave Mamel for experience points.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/8-1.png"/></span> Armordillo (3-4F) - Generate 1 item per enemy by tackling (chance-based).</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/30-3.png"/></span> Hat Brat (3-10F) - Ability lets you steal 1 Peach Staff or Grass item per enemy (guaranteed).</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/6-1.png"/></span> Pumphantasm (3-4F) - Early game wallpass option.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/28-1.png"/></span> Froggo (4F) - Equip the Break-Off set and morph to safely steal Gitan from enemies.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/52-1.png"/></span> Fire Ninja D (5-8F) - Grill onigiri generated by Rotting Traps.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/53-1.png"/></span> Water Ninja D (5-8F) - One-shot Fierous monsters, reduce weapon-wielding foe's attack power.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/40-2.png"/></span> Hoppin' Hitter (6-9F) - Ensures safety against Skullmancer (35-37F, 41-43F, 47-49F)'s magic bullets.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/9-1.png"/></span> Masked Samurai (10-12F) - Revive as Ghost Samurai if you collapse → possess foe to one-shot them.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/10-1.png"/></span> Ghost Samurai (10-12F, 22-30F) - Throw at enemy to generate a Ghost Samurai for leveling up a foe.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/12-1.png"/></span> Metalhead (13-15F) - Attack from up to 2 tiles away.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/44-3.png"/></span> N'dama (15-19F) - Ability grants Hiding status to yourself whenever you want.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/57-1.png"/></span> Hannya Monk C (15-19F) - Ability lets you easily win a fight, or assist in leveling up a monster.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/61-2.png"/></span> Tengu Monk C (15-19F) - Ability grants Swift status to yourself whenever you want.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/46-1.png"/></span> Egg Thing (16-17F) - Level up to Flying Egg / Hiding Egg and duplicate for Huge Onigiri / Special Onigiri.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/30-2.png"/></span> Hat Prankster (16-17F) - Ability lets you steal 1 Peach Staff or Grass item per enemy (guaranteed).</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/45-1.png"/></span> Mixer (16-30F) - Safely synthesize 2 items together.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/45-3.png"/></span> Mixergon (16-30F) - Safely synthesize up to 4 items together.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/29-1.png"/></span> Thiefwalrus (16-19F) - Steal 1 item per enemy (guaranteed, warp after successfully stealing).</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/57-1.png"/></span> Hannya Monk D (18-19F) - Ability lets you easily win a fight, or assist in leveling up a monster.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/61-1.png"/></span> Tengu Monk D (18-19F) - Ability grants Swift status to yourself whenever you want.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/44-1.png"/></span> N'dubba (18-19F) - Ability grants Hiding status to yourself whenever you want.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/52-2.png"/></span> Fire Ninja C (20-23F) - Grill onigiri generated by Rotting Traps.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/53-2.png"/></span> Water Ninja C (20-23F) - One-shot Fierous monsters, reduce weapon-wielding foe's attack power.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/14-3.png"/></span> Lashagga (20-24F) - Level up to Bashagga Bun using Blinding Trap, Ghost Samurai Bun, etc.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/9-3.png"/></span> Great Samurai (22-30F) - Revive as Ghost Samurai if you collapse → possess foe to one-shot them.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/26-3.png"/></span> Bag Knave (23-30F) - Generate 1 item per enemy by throwing Weeds (chance-based).</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/49-1.png"/></span> Dark Owl (24-25F) - Grants Mapping Scroll effect when eaten, Tiptoe status while morphed.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/44-2.png"/></span> N'dulu (24-28F) - Ability grants Hiding status to yourself whenever you want.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/20-2.png"/></span> Daze Radish (26-29F) - Get Confusion Grass for synthesis, level up to Sleep Radish for Sedating Grass.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/29-2.png"/></span> Greenwalrus (26-29F) - Steal 1 item per enemy (guaranteed, warp after successfully stealing).</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/15-4.png"/></span> Mini Tank (30-31F, 40-41F) - Swift speed, shoot Silver Arrows.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/6-3.png"/></span> Pumplich (30-32F) - Mid game wallpass option.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/21-3.png"/></span> Skullmancer (35-37F, 41-43F, 47-49F) - Attack an enemy from a distance using magic bullets.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/8-3.png"/></span> Popdillo (36-40F) - Generate 1 item per enemy by tackling (chance-based).</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/22-3.png"/></span> Hyper Gazer (40-50F) - Ability lets you confuse an enemy in front.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/12-3.png"/></span> Megahead (41-50F) - Attack from up to 4 tiles away.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/52-4.png"/></span> Fire Ninja A (41-59F) - Grill onigiri generated by Rotting Traps.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/53-4.png"/></span> Water Ninja A (41-59F) - One-shot Fierous monsters, reduce weapon-wielding foe's attack power.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/25-3.png"/></span> Terror Scorpion (41-60F) - Power up from poison, ability lets you easily win a fight.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/57-4.png"/></span> Hannya Monk A (41-60F) - Ability lets you easily win a fight, or assist in leveling up a monster.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/57-3.png"/></span> Hannya Monk B (45-50F) - Ability lets you easily win a fight, or assist in leveling up a monster.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/61-3.png"/></span> Tengu Monk B (45-50F) - Ability grants Swift status to yourself whenever you want.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/37-3.png"/></span> Electroid (45-52F) - Swift speed, generate useful traps.</li>
+</ul>
+
+#### 51-99F
+
+<ul>
+  <li><span class="runeIcon"><img src="../images/monsters_s/37-3.png"/></span> Electroid (45-52F) - Swift speed, generate useful traps.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/22-4.png"/></span> Ultra Gazer (50F, 60F, 70F, 80F, 90F) - Ability lets you confuse all enemies in the same room.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/15-4.png"/></span> Mini Tank (50-51F, 60-61F) - Swift speed, shoot Silver Arrows.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/61-4.png"/></span> Tengu Monk A (50-99F) - Ability grants Swift status to yourself whenever you want.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/35-3.png"/></span> Dragon Pit (51-56F) - Swift speed, burrowing ability lets you escape combat.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/26-4.png"/></span> Nimble Knave (51-61F) - Swift speed, generate 1 item per enemy by throwing Weeds (chance-based).</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/5-3.png"/></span> Soul Reaper (51-60F) - Swift speed, late game wallpass option.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/4-4.png"/></span> Admiral Spearfish (53-68F) - One-shot Fierous monsters, reduce weapon-wielding foe's attack power.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/1-4.png"/></span> Gitan Mamel (55F, 65F, 75F, 85F) - Swift speed, receive 1 damage from normal attacks (20 Max HP).</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/33-4.png"/></span> Swordmaster (60-70F) - Collect equipment using a Sanctuary Scroll for late game synthesis.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/41-4.png"/></span> Infernous (61-80F) - Protects against Abyss Dragon (87-99F)'s flames.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/9-4.png"/></span> Lordly Samurai (61-80F) - Revive as Ghost Samurai if you collapse → possess foe to one-shot them.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/18-4.png"/></span> Porgon (66-69F) - Collect Porky's Rocks to use against Gitan Mamel and Ghost Samurai.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/8-4.png"/></span> Grampadillo (76-99F) - Generate 1 item per enemy by tackling (chance-based).</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/13-4.png"/></span> Miracle Hen (80-88F) - Swift speed, but beware of leveling down to Hen at low HP.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/25-4.png"/></span> Demon Scorpion (80-92F) - Power up from poison, ability lets you easily win a fight.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/12-4.png"/></span> Deathead (81-93F) - Attack from up to 5 tiles away.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/36-4.png"/></span> Tiger Launcher (86-99F) - Throw enemies somewhere else to avoid damage.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/19-4.png"/></span> Abyss Dragon (87-99F) - Spew flames to defeat enemies from anywhere on the floor.</li>
+  <li><span class="runeIcon"><img src="../images/monsters_s/5-4.png"/></span> King Reaper (88-99F) - explanation.</li>
+</ul>
+
+### Advanced Techniques
+
+### Important Items
+
+#### Weapon / Shield
+
+#### Projectiles
+
+#### Food
+
+#### Grass
+
+#### Scrolls
+
+#### Staves
+
+#### Pots / Incenses
 
 # Floor Guide
 
-[Content]
+<h3 class="heading3First">First Clear (1-50F)</h3>
+
+### 1-2F
+
+### 3-9F
+
+### 10-14F
+
+### 15-19F
+
+### 20-29F
+
+### 30F
+
+### 31-40F
+
+### 41-50F
+
+<h3 class="heading3Tree">Sacred Tree Mode (51-99F)</h3>
+
+### General
+
+### 51-59F
+
+### 60-69F
+
+### 70-79F
+
+### 80-85F
+
+### 86-99F
 
 # Monsters
 
