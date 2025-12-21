@@ -866,6 +866,88 @@ export const baseStyles = css`
   .runeTable4 td:nth-of-type(3), {
     text-align: left;
   }
+  .runeTable5 img {
+    position: relative !important;
+    width: 20px !important;
+    height: 20px !important;
+  }
+  .runeTable5 th {
+    text-align: center;
+  }
+  .runeTable5 td {
+    text-align: center;
+  }
+  .runeTable5 tr:nth-of-type(2) th {
+    color: #3b454e;
+    text-align: center;
+    background-color: #ffffed;
+  }
+  .runeTable5 td:nth-of-type(1) {
+    background-color: #f7f7f7;
+  }
+  .runeTable5 td:nth-of-type(3) {
+    text-align: left;
+  }
+  .sourceTable img {
+    position: relative !important;
+    width: 20px !important;
+    height: 20px !important;
+    border-radius: 5px;
+  }
+  .sourceTable td {
+    text-align: center;
+  }
+  .sourceTable td:nth-of-type(2) {
+    text-align: left;
+    background-color: #f7f7f7;
+  }
+  .sourceTable td:nth-of-type(4) {
+    text-align: left;
+  }
+  .charTable img {
+    position: relative !important;
+    width: 24px !important;
+    height: 24px !important;
+    border-radius: 5px;
+  }
+  .charTable td:nth-of-type(1) {
+    background-color: #f7f7f7;
+  }
+  .charTable td:nth-of-type(2) {
+    background-color: #e8f7ff;
+  }
+  .charTable td:nth-of-type(3) {
+    background-color: #ffeff2;
+  }
+  .expTable img {
+    position: relative !important;
+    width: 24px !important;
+    height: 24px !important;
+    border-radius: 5px;
+  }
+  .expTable th {
+    text-align: center;
+  }
+  .expTable td:nth-of-type(1) {
+    text-align: center;
+    background-color: #f7f7f7;
+  }
+  .expTable td:nth-of-type(2),
+  .expTable td:nth-of-type(3) {
+    background-color: #e8f7ff;
+  }
+  .expTable td:nth-of-type(4),
+  .expTable td:nth-of-type(5) {
+    background-color: #ffeff2;
+  }
+  .expTable td:nth-of-type(6),
+  .expTable td:nth-of-type(7) {
+    background-color: #ffffeb;
+  }
+  .expTable td:nth-of-type(8),
+  .expTable td:nth-of-type(9) {
+    background-color: #edffed;
+  }
   .peachBunTable img {
     position: relative !important;
     width: 18px !important;
@@ -890,6 +972,10 @@ export const baseStyles = css`
     text-align: center;
     background-color: #f7f7f7;
   }
+  .abilityTable th:nth-of-type(1),
+  .abilityTable th:nth-of-type(2) {
+    text-align: center;
+  }
   .abilityTable td:nth-of-type(1) {
     text-align: center;
     background-color: #f7f7f7;
@@ -900,6 +986,18 @@ export const baseStyles = css`
   .effectsTable td:nth-of-type(1) {
     text-align: center;
     background-color: #f7f7f7;
+  }
+  .gimmickTable img {
+    position: relative !important;
+    height: 30px !important;
+    width: 30px !important;
+  }
+  .gimmickTable td:nth-of-type(1) {
+    text-align: center;
+    background-color: #f7f7f7;
+  }
+  .gimmickTable td:nth-of-type(3) {
+    text-align: center;
   }
   .monsterStats th {
     text-align: center;
@@ -934,6 +1032,11 @@ export const baseStyles = css`
   }
   .behemothStats th {
     background-color: #ede5ff;
+  }
+  .monsterStats td:nth-of-type(3),
+  .monsterStats td:nth-of-type(4) {
+    color: #3B454E;
+    text-align: center;
   }
   .stoneTable th {
     background-color: #f7f7f7;
@@ -1745,6 +1848,36 @@ export const baseStyles = css`
   .crossMix {
     background-color: #e1ffe1;
   }
+  .bg-asuka {
+    padding: 5px;
+    background-color: #fff5f9;
+    border-radius: 5px;
+  }
+  .bg-shiren {
+    padding: 5px;
+    background-color: ivory;
+    border-radius: 5px;
+  }
+  .bg-kokatsu {
+    padding: 5px;
+    background-color: #fff9ef;
+    border-radius: 5px;
+  }
+  .bg-tatsumi {
+    padding: 5px;
+    background-color: #f5f9ff;
+    border-radius: 5px;
+  }
+  .bg-koppa {
+    padding: 5px;
+    background-color: #efe;
+    border-radius: 5px;
+  }
+  .bg-asuka {
+    padding: 5px;
+    background-color: #fff5f9;
+    border-radius: 5px;
+  }
   .highlightCyan {
     background-color: #c3ffeb;
   }
@@ -2063,6 +2196,9 @@ export const baseStyles = css`
   .purpleText3 {
     color: #c031d5;
   }
+  .grayText {
+    color: #a8a8a8;
+  }
   .peachText {
     color: #a652b3;
   }
@@ -2084,8 +2220,11 @@ export const baseStyles = css`
   .danger {
     background-color: #ffeded;
   }
+  .caution {
+    background-color: #fffaed;
+  }
   .special {
-    background-color: #ffeed8;
+    background-color: #d8fffb;
   }
   .ninjaTree {
     background-color: #c5ffc5;
@@ -2201,7 +2340,7 @@ export const baseStyles = css`
     width: 590px;
   }
   .characterImage {
-    width: 160px !important;
+    width: 150px !important;
     height: auto;
   }
   .characterImage img {
@@ -2365,9 +2504,10 @@ export const baseStyles = css`
     height: auto;
     margin-top: 6px;
   }
-  .flower {
-    height: 70px !important;
-    width: auto;
+  .flowing_water img {
+    position: relative !important;
+    width: 70px !important;
+    height: auto;
   }
   #auraImage img {
     width: 90px !important;

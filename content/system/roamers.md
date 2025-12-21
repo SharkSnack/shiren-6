@@ -67,6 +67,11 @@ Travel companions also appear as Roamers, and can be recruited by talking.<br/>M
     <td class="leftText">Pay 500 Gitan to remove silver from a selected rune.</td>
   </tr>
   <tr>
+    <td><img src="../images/npcs/exorcist.png"/></td>
+    <td class="priceTableName">Exorcist Pilgrim</td>
+    <td class="leftText">Pay 500 Gitan to remove a curse from a selected item.<br/>On rare occasions, curses are removed from all items not in pots.</td>
+  </tr>
+  <tr>
     <td><img src="../images/npcs/bokon.png"/></td>
     <td class="priceTableName">Bokon the Pirate</td>
     <td class="leftText">Reads a random scroll that is beneficial to the player.</td>

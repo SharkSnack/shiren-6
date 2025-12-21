@@ -11,7 +11,7 @@ const lightTheme = {
     heading: '#000',
     text: '#3B454E',
     preFormattedText: 'rgb(245, 247, 249)',
-    link: '#1c6cc6',
+    link: '#1a86ff',
   },
 };
 

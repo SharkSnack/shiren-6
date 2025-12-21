@@ -10,9 +10,9 @@ metaDescription: "Sacred Tree details for Shiren the Wanderer: The Mystery Dunge
 
 # Overview
 
-The Sacred Tree is a feature that was added in the version 1.1.0 update.<br/>It's unlocked after clearing [Serpentcoil Island](/dungeons/serpentcoil-island), and lets you challenge dungeons under special rules.
+The <span class="pinkText">Sacred Tree</span> in Shukuba Beach is a feature that was added in the version 1.1.0 update.<br/>It's unlocked after clearing [Serpentcoil Island](/dungeons/serpentcoil-island), and lets you challenge dungeons under special rules.
 
-Notes:
+<h4 id="sacred-tree-notes" class="heading4Pink">Notes</h4>
 
 - Villages and overworld areas are skipped.
 - The player cannot request any rescues - Be very careful if you bring items!
@@ -24,59 +24,69 @@ Notes:
 
 Sacred Tree dungeons offer an option to play as characters other than Shiren.
 
-### Shiren
+<h3 id="shiren" class="heading3Yellow">Shiren</h3>
+
+<div class="bg-shiren">
 
 <div class="characterImage">
   <img src="../images/other/char_shiren.jpg"/>
 </div>
 
-<p><span class="highlightOrange2">Description:</span> Default player character, and protagonist of this game's story.<br/><span class="highlightPurple">Unlock Condition:</span> Available from the start.</p>
+<p><span class="emphasis blueText">Description:</span> Default player character, and protagonist of this game's story.<br/><span class="emphasis orangeText2">Unlock:</span> Available from the start.</p>
 
-#### Restrictions
+<h4 id="shiren-restrictions" class="heading4Yellow">Restrictions</h4>
 
-- <span class="highlightGreen">Dungeons:</span> None.
-- <span class="highlightYellow">Item Categories:</span> None.
+- <span class="emphasis purpleText2">Dungeons:</span> None.
+- <span class="emphasis purpleText">Item Categories:</span> None.
 
-#### Characteristics
+<h4 id="shiren-characteristics" class="heading4Yellow">Characteristics</h4>
 
 - Max HP increases by a random amount in the range of 3\~6 per level up.
 - Normal Attack (No Runes) = Reaches 1 tile ahead, deals damage, 0% critical hit rate.
-    - Damage increases primarily based on level, strength, equipped weapon, and other effects.
-        - Other effects include runes (ex: Anti-Dragon) and status conditions (ex: Empowered, Damage-up).
+    - Damage increases based on level, strength, equipped weapon, runes, and status.
+        - Rune examples - Costly Hit, Voracious Hit, Critical, Anti-Ghost, Anti-Beast, etc.
+        - Status examples - Empowered, Damage-up.
         - See [Gameplay Basics](/system/gameplay-basics#damage-dealt) for details about Shiren's damage dealt formula.
 - Defense = Shiren has no innate defense, and increasing level or strength does nothing for defense.
-    - Damage received decreases primarily based on equipped shield and other effects.
-        - Other effects include runes (ex: Costly Block) and status conditions (ex: Fortified, Damage-down).
+    - Damage received decreases based on equipped shield, runes, and status.
+        - Rune examples - Costly Block, Voracious Block, Full Armor, Anti-Dragon, etc.
+        - Status examples - Fortified, Damage-down.
         - See [Gameplay Basics](/system/gameplay-basics#damage-received) for details about Shiren's damage received formula.
 
-#### Abilities / Altered Effects
+<h4 id="shiren-abilities-/-altered-effects" class="heading4Yellow">Abilities / Altered Effects</h4>
 
 - None.
 
-#### Techniques
+<h4 id="shiren-techniques" class="heading4Yellow">Techniques</h4>
 
 - All standard techniques that don't require other player character abilities can be performed.
 
-### Kokatsu Shiren
+</div>
+
+<h3 id="kokatsu-shiren" class="heading3">Kokatsu Shiren</h3>
+
+<div class="bg-kokatsu">
 
 <div class="characterImage">
   <img src="../images/other/char_kokatsu_shiren.jpg"/>
 </div>
 
-<p><span class="highlightOrange2">Description:</span> Shiren fused with Kokatsu.<br/><span class="highlightPurple">Unlock Condition:</span> Clear <a href="/shiren-6/dungeons/cavern-of-suiryu">Cavern of Suiryu</a> → Visit Sacred Tree.</p>
+<p><span class="emphasis blueText">Description:</span> Shiren fused with Kokatsu.<br/><span class="emphasis orangeText2">Unlock:</span> Clear <a href="/shiren-6/dungeons/serpentcoil-island">Serpentcoil Island</a> → <a href="/shiren-6/dungeons/dune-of-batsu">Dune of Batsu</a> → <a href="/shiren-6/dungeons/cavern-of-suiryu">Cavern of Suiryu</a> → Visit Sacred Tree.</p>
 
-#### Restrictions
+<h4 id="kokatsu-shiren-restrictions" class="heading4">Restrictions</h4>
 
-- <span class="highlightGreen">Dungeons:</span> Peach Dungeon / Trapper's Secret Path / Peachy Trap Domain
-- <span class="highlightYellow">Item Categories:</span> Weapons / Shields / Bracelets / Arrows / Rocks
+- <span class="emphasis purpleText2">Dungeons:</span> <u>Peach Dungeon</u> / <u>Trapper's Secret Path</u> / <u>Peachy Trap Domain</u>
+- <span class="emphasis purpleText">Item Categories:</span> <span class="runeIcon"><img src="../images/weapon/3.png"/></span> Weapon <span class="runeIcon"><img src="../images/shield/3.png"/></span> Shield <span class="runeIcon"><img src="../images/other/bracelet.png"/></span> Bracelet <span class="runeIcon"><img src="../images/other/arrow.png"/></span> Arrow <span class="runeIcon"><img src="../images/other/rock.png"/></span> Rock
 
-#### Characteristics
+<h4 id="kokatsu-shiren-characteristics" class="heading4">Characteristics</h4>
 
 - [Content]
 
-#### Abilities / Altered Effects
+<h4 id="kokatsu-shiren-abilities-/-altered-effects" class="heading4">Abilities / Altered Effects</h4>
 
 Abilities:
+
+<div class="abilityTable">
 
 |Name|Fullness|Effect|
 |-|-|-|
@@ -85,6 +95,8 @@ Abilities:
 |Blazing Heat|60|Deals 40\~50 damage and inflicts Blind status to all monsters in the room.|
 |Sun's Blessing|10|Transforms the selected item into a random Grass or Onigiri category item.|
 
+</div>
+
 Altered Effects:
 
 |Trap / Monster|Notes|
@@ -93,30 +105,36 @@ Altered Effects:
 |Removal Trap|Lowers Attack Power and Defense Power.|
 |Silver-seal Trap|Inflicts Sealed status.|
 
-#### Techniques
+<h4 id="kokatsu-shiren-techniques" class="heading4">Techniques</h4>
 
 - [Content]
 
-### Tatsumi Shiren
+</div>
+
+<h3 id="tatsumi-shiren" class="heading3Blue">Tatsumi Shiren</h3>
+
+<div class="bg-tatsumi">
 
 <div class="characterImage">
   <img src="../images/other/char_tatsumi_shiren.jpg"/>
 </div>
 
-<p><span class="highlightOrange2">Description:</span> Shiren fused with Tatsumi.<br/><span class="highlightPurple">Unlock Condition:</span> Unlock Kokatsu Shiren → Visit Sacred Tree.</p>
+<p><span class="emphasis blueText">Description:</span> Shiren fused with Tatsumi.<br/><span class="emphasis orangeText2">Unlock:</span> Clear <a href="/shiren-6/dungeons/serpentcoil-island">Serpentcoil Island</a> → <a href="/shiren-6/dungeons/dune-of-batsu">Dune of Batsu</a> → <a href="/shiren-6/dungeons/cavern-of-suiryu">Cavern of Suiryu</a> → Visit Sacred Tree (2 times).<br/><span class="orangeText">※ Might need to cycle to a new day before visiting the Sacred Tree for the 2nd time.</span></p>
 
-#### Restrictions
+<h4 id="tatsumi-shiren-restrictions" class="heading4Blue">Restrictions</h4>
 
-- <span class="highlightGreen">Dungeons:</span> Peach Dungeon / Trapper's Secret Path / Peachy Trap Domain
-- <span class="highlightYellow">Item Categories:</span> Weapons / Shields / Bracelets / Arrows / Rocks
+- <span class="emphasis purpleText2">Dungeons:</span> <u>Peach Dungeon</u> / <u>Trapper's Secret Path</u> / <u>Peachy Trap Domain</u>
+- <span class="emphasis purpleText">Item Categories:</span> <span class="runeIcon"><img src="../images/weapon/3.png"/></span> Weapon <span class="runeIcon"><img src="../images/shield/3.png"/></span> Shield <span class="runeIcon"><img src="../images/other/bracelet.png"/></span> Bracelet <span class="runeIcon"><img src="../images/other/arrow.png"/></span> Arrow <span class="runeIcon"><img src="../images/other/rock.png"/></span> Rock
 
-#### Characteristics
+<h4 id="tatsumi-shiren-characteristics" class="heading4Blue">Characteristics</h4>
 
 - [Content]
 
-#### Abilities / Altered Effects
+<h4 id="tatsumi-shiren-abilities-/-altered-effects" class="heading4Blue">Abilities / Altered Effects</h4>
 
 Abilities:
+
+<div class="abilityTable">
 
 |Name|Fullness|Effect|
 |-|-|-|
@@ -125,6 +143,8 @@ Abilities:
 |Summon Kappa Squad|40|Summons up to 3 Kappa Squad guardians (15 HP).<br/>Kappa Squad guardians throw items at targets within a 3 tile radius.<br/>Items: Wooden Arrow, Iron Arrow, Rock, Gitan, Dragon Grass, Leaping Grass.<br/>※ Items can miss, stops throwing items after about 5 items.|
 |Rain's Blessing|20|Transforms the selected item into a random Grass or Onigiri category item.<br/>More likely to result in a negative item than Kokatsu Shiren's Sun's Blessing.<br/>Unlike Sun's Blessing, Berserk Seed is possible.|
 
+</div>
+
 Altered Effects:
 
 |Trap / Monster|Notes|
@@ -133,30 +153,36 @@ Altered Effects:
 |Removal Trap|Lowers Attack Power and Defense Power.|
 |Silver-seal Trap|Inflicts Sealed status.|
 
-#### Techniques
+<h4 id="tatsumi-shiren-techniques" class="heading4Blue">Techniques</h4>
 
 - [Content]
 
-### Koppa
+</div>
+
+<h3 id="koppa" class="heading3Green">Koppa</h3>
+
+<div class="bg-koppa">
 
 <div class="characterImage">
   <img src="../images/other/char_koppa_2.jpg"/>
 </div>
 
-<p><span class="highlightOrange2">Description:</span> [Content]<br/><span class="highlightPurple">Unlock Condition:</span> Unlock Tatsumi Shiren → Event at Mount Jingara Summit → Visit Sacred Tree.</p>
+<p><span class="emphasis blueText">Description:</span> [Content]<br/><span class="emphasis orangeText2">Unlock:</span> Unlock Tatsumi Shiren → Event at Mount Jingara Summit → Visit Sacred Tree.</p>
 
-#### Restrictions
+<h4 id="koppa-restrictions" class="heading4Green">Restrictions</h4>
 
-- <span class="highlightGreen">Dungeons:</span> [Content]
-- <span class="highlightYellow">Item Categories:</span> [Content]
+- <span class="emphasis purpleText2">Dungeons:</span> [Content]
+- <span class="emphasis purpleText">Item Categories:</span> [Content]
 
-#### Characteristics
+<h4 id="koppa-characteristics" class="heading4Green">Characteristics</h4>
 
 - [Content]
 
-#### Abilities / Altered Effects
+<h4 id="koppa-abilities-/-altered-effects" class="heading4Green">Abilities / Altered Effects</h4>
 
 Abilities:
+
+<div class="abilityTable">
 
 |Name|Fullness|Effect|
 |-|-|-|
@@ -165,6 +191,8 @@ Abilities:
 |Dig & Escape|15|Makes Koppa warp to a different room.<br/>Can be used even if Weighted Incense is active.<br/>Occasionally find Onigiri, Large Onigiri, or Rotten Onigiri.|
 |Flee|100|Immediately advance to the next floor, similar to Floor-exiting Trap.<br/>Can be used even on the last floor of a dungeon, including boss floors.<br/>This ability cannot be used during Thief Mode.|
 
+</div>
+
 Altered Effects:
 
 |Trap / Monster|Notes|
@@ -173,24 +201,28 @@ Altered Effects:
 |Removal Trap|Lowers Attack Power and Defense Power.|
 |Silver-seal Trap|Inflicts Sealed status.|
 
-#### Techniques
+<h4 id="koppa-techniques" class="heading4Green">Techniques</h4>
 
 - [Content]
 
-### Asuka
+</div>
+
+<h3 id="asuka" class="heading3Pink">Asuka</h3>
+
+<div class="bg-asuka">
 
 <div class="characterImage">
   <img src="../images/other/char_asuka.png"/>
 </div>
 
-<p><span class="highlightOrange2">Description:</span> [Content]<br/><span class="highlightPurple">Unlock Condition:</span> Go through Peach Bun events and have Asuka join as an ally → Visit Sacred Tree.</p>
+<p><span class="emphasis blueText">Description:</span> [Content]<br/><span class="emphasis orangeText2">Unlock:</span> Go through Peach Bun events and have Asuka join as an ally → Visit Sacred Tree.</p>
 
-#### Restrictions
+<h4 id="asuka-restrictions" class="heading4Pink">Restrictions</h4>
 
-- <span class="highlightGreen">Dungeons:</span> None.
-- <span class="highlightYellow">Item Categories:</span> None.
+- <span class="emphasis purpleText2">Dungeons:</span> None.
+- <span class="emphasis purpleText">Item Categories:</span> None.
 
-#### Characteristics
+<h4 id="asuka-characteristics" class="heading4Pink">Characteristics</h4>
 
 - Normal Attack (No Runes) = Reaches 1 tile ahead, deals damage, 15% critical hit rate.
     - Asuka's critical hits deal x3.0 damage, crit chance boosting runes are additive.
@@ -217,13 +249,15 @@ Altered Effects:
             - Shield defense &le; 20 = Reduce damage by <span class="blueText">1.0</span> per point of defense less than or equal to <span class="blueText">20</span>.
             - Shield defense > 20 = Reduce damage by <span class="blueText">0.6</span> per point of defense above <span class="blueText">20</span>.
 
-#### Abilities / Altered Effects
+<h4 id="asuka-abilities-/-altered-effects" class="heading4Pink">Abilities / Altered Effects</h4>
 
 - None.
 
-#### Techniques
+<h4 id="asuka-techniques" class="heading4Pink">Techniques</h4>
 
 - All standard techniques that don't require other player character abilities can be performed.
+
+</div>
 
 # Normal Trial
 

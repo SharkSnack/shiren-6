@@ -591,7 +591,7 @@ See [Monsters](/system/monsters) for individual monster details.
 - W - <span class="highlightGold">Wishing Shrine is possible</span>
 - B - <span class="highlightBehemoth">Behemoth Gate is possible</span>
 
-Monster Colors = <span class="farming">Farming</span>, <span class="useful">Useful</span>, <span class="stats">Lowers Stats</span>, <span class="items">Targets Items</span>, <span class="danger">Dangerous</span>
+Monster Colors = <span class="mixer">Mixer</span>, <span class="farming">Farming</span>, <span class="useful">Useful</span>, <span class="stats">Lowers Stats</span>, <span class="items">Targets Items</span>, <span class="danger">Dangerous</span>
 
 <table id="monsterTable" class="monsterTable">
   <thead>
@@ -1099,7 +1099,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td><img src="../images/monsters_s/4-3.png"/> Capt. Spearfish</td>
       <td><img src="../images/monsters_s/3-3.png"/> Famed Octopling</td>
-      <td class="useful"><img src="../images/monsters_s/45-1.png"/> Mixer</td>
+      <td class="mixer"><img src="../images/monsters_s/45-1.png"/> Mixer</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1122,7 +1122,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
       <td><img src="../images/monsters_s/3-3.png"/> Famed Octopling</td>
       <td class="farming"><img src="../images/monsters_s/29-2.png"/> Greenwalrus</td>
       <td><img src="../images/monsters_s/34-2.png"/> Dartingfrog</td>
-      <td class="useful"><img src="../images/monsters_s/45-1.png"/> Mixer</td>
+      <td class="mixer"><img src="../images/monsters_s/45-1.png"/> Mixer</td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -1142,7 +1142,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td><img src="../images/monsters_s/34-2.png"/> Dartingfrog</td>
-      <td class="useful"><img src="../images/monsters_s/45-1.png"/> Mixer</td>
+      <td class="mixer"><img src="../images/monsters_s/45-1.png"/> Mixer</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1174,7 +1174,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <tr>
       <td class="farming"><img src="../images/monsters_s/29-2.png"/> Greenwalrus</td>
       <td><img src="../images/monsters_s/34-2.png"/> Dartingfrog</td>
-      <td class="useful"><img src="../images/monsters_s/45-1.png"/> Mixer</td>
+      <td class="mixer"><img src="../images/monsters_s/45-1.png"/> Mixer</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1195,7 +1195,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td><img src="../images/monsters_s/34-2.png"/> Dartingfrog</td>
-      <td class="useful"><img src="../images/monsters_s/45-1.png"/> Mixer</td>
+      <td class="mixer"><img src="../images/monsters_s/45-1.png"/> Mixer</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1217,7 +1217,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     </tr>
     <tr>
       <td class="farming"><img src="../images/monsters_s/29-2.png"/> Greenwalrus</td>
-      <td class="useful"><img src="../images/monsters_s/45-1.png"/> Mixer</td>
+      <td class="mixer"><img src="../images/monsters_s/45-1.png"/> Mixer</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
