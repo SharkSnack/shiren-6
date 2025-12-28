@@ -151,7 +151,7 @@ Reward for 2nd+ clears for dungeons that only list a 1st clear reward is a rando
       <td class="centeredText highlightYellow"><a href="../dungeons/training-path-of-gimmicks">Training Path of Gimmicks</a></td>
       <td class="centeredText">20F / 50F</td>
       <td class="centeredText">Yes</td>
-      <td class="centeredText">No</td>
+      <td class="centeredText">Yes</td>
       <td class="centeredText">3</td>
       <td>1st: Auspicious Omamori (Gold)</td>
     </tr>
