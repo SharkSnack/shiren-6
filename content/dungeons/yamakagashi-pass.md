@@ -1184,7 +1184,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Manji Kabura</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1240,7 +1240,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1282,13 +1282,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Watersplitter</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1353,7 +1353,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sickle of Salvation</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1373,7 +1373,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -1471,7 +1471,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Steak Knife</td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1574,7 +1574,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Trapseeker</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1600,7 +1600,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Yamanba's Cleaver</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1647,7 +1647,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Wooden Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1686,7 +1686,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Wolfshead</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1738,7 +1738,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Counter Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1908,7 +1908,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Unmoving Wall</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1933,7 +1933,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Spender's Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -1959,7 +1959,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Steak Plate</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2024,7 +2024,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Auspicious Omamori</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2050,7 +2050,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Yamanba's Potlid</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2535,7 +2535,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Trapper's Bracelet</td>
@@ -2654,7 +2654,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td>X</td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -2725,13 +2725,13 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Large Onigiri</td>
     <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -2776,7 +2776,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Special Onigiri</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td>X</td>
@@ -2802,7 +2802,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sweet Potato</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -2895,7 +2895,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -2915,7 +2915,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   <tr>
     <td class="leftText">Life Grass</td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3021,7 +3021,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td>X</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3047,7 +3047,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td>X</td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3264,7 +3264,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3332,7 +3332,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -3342,7 +3342,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td>X</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3472,7 +3472,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3497,7 +3497,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
     <td></td>
     <td>X</td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3749,7 +3749,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Paralyzing Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3775,7 +3775,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Disguising Staff</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
@@ -3827,7 +3827,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Switching Staff</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -3944,8 +3944,8 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Sluggish Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4017,7 +4017,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Preservation Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4043,7 +4043,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Transmutation Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4069,7 +4069,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Synthesis Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4134,7 +4134,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Bottomless Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4363,7 +4363,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Aggressive Incense</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -4389,7 +4389,7 @@ Monster Colors = <span class="farming">Farming</span>, <span class="useful">Usef
   </tr>
   <tr>
     <td class="leftText">Blurry Incense</td>
-    <td></td>
+    <td>X</td>
     <td>X</td>
     <td></td>
     <td></td>
